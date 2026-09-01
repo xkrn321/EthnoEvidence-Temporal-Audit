@@ -1,0 +1,742 @@
+{
+  "formula": "六味地黄丸",
+  "window": "all",
+  "query": "(\"Liuwei Dihuang Wan\"[Title/Abstract] OR \"Liuwei Dihuang pill\"[Title/Abstract]) AND (mechanism*[Title/Abstract] OR pathway*[Title/Abstract] OR gene*[Title/Abstract] OR protein*[Title/Abstract] OR pharmacolog*[Title/Abstract]) AND (\"1900/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication]) NOT (\"Comment\"[Publication Type] OR \"Editorial\"[Publication Type] OR \"Letter\"[Publication Type] OR \"Meta-Analysis\"[Publication Type] OR \"News\"[Publication Type] OR \"Review\"[Publication Type] OR \"Systematic Review\"[Publication Type])",
+  "retrieved_at": "2026-08-29",
+  "pmids": [
+    "37416191",
+    "37861542",
+    "38350506",
+    "33588742",
+    "35341010",
+    "40457356",
+    "36624462",
+    "40388786",
+    "36451445",
+    "36401375",
+    "31610261",
+    "39470545",
+    "28694663",
+    "35898725",
+    "32184563",
+    "32914833",
+    "37171332",
+    "38112463",
+    "30075554",
+    "35701780",
+    "27170349",
+    "36744132",
+    "32186153",
+    "37920210",
+    "28588237",
+    "12060523",
+    "28028720",
+    "16358411",
+    "31819371",
+    "15768870",
+    "28099346",
+    "37579922",
+    "27491224",
+    "35777608",
+    "34840588",
+    "20518312",
+    "7877343",
+    "29212201",
+    "23646486",
+    "21749830",
+    "25612423",
+    "29071866"
+  ],
+  "records": {
+    "37416191": {
+      "title": "Retracted: Liuwei Dihuang Pill Attenuates Diabetic Nephropathy by Inhibiting Renal Fibrosis via TGF-",
+      "abstract": "[This retracts the article DOI: 10.1155/2022/5063636.].",
+      "year": 2023,
+      "journal": "Computational and mathematical methods in medicine",
+      "doi": "10.1155/2023/9807184",
+      "publication_types": [
+        "Retraction Notice"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-06-28"
+      ],
+      "journal_issue_date": "2023",
+      "canonical_publication_date": "2023-06-28",
+      "canonical_publication_year": 2023
+    },
+    "37861542": {
+      "title": "Mechanism of Liuwei Dihuang Pills in treating osteoporosis based on network pharmacology.",
+      "abstract": "Osteoporosis is a prevalent age-related disease that poses a significant public health concern as the population continues to age. While current treatments have shown some therapeutic benefits, their long-term clinical efficacy is limited by a lack of stable curative effects and significant adverse effects. Traditional Chinese Medicine has gained attention due to its positive curative effects and fewer side effects. Liuwei Dihuang Pill has been found to enhance bone mineral density in patients with osteoporosis and rats, but the underlying mechanism is not yet clear. To shed more light on this problem, this study aims to explore the pharmacological mechanism of Liuwei Dihuang Pill in treating osteoporosis using network pharmacology and molecular docking. The findings indicate that Liuwei Dihuang Pills treat osteoporosis through various targets and channels. Specifically, it mainly involves TNF, IL17, and HIF-1 signaling pathways and helps regulate biological processes such as angiogenesis, apoptosis, hypoxia, and gene expression. Furthermore, molecular docking demonstrates excellent binding properties between the drug components and key targets. Therefore, this study offers a theoretical foundation for understanding the pharmacological mechanism and clinical application of Liuwei Dihuang Pills in treating osteoporosis more comprehensively.",
+      "year": 2023,
+      "journal": "Medicine",
+      "doi": "10.1097/MD.0000000000034773",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2023-10-20",
+      "canonical_publication_date": "2023-10-20",
+      "canonical_publication_year": 2023
+    },
+    "38350506": {
+      "title": "Mechanistic study of the anti-excitatory amino acid toxicity of Bushen Zhichan decoction for Parkinson's disease based on the transcriptional regulation of EAAT1 by YY1.",
+      "abstract": "Bushen Zhichan decoction (BSZCF) is derived from Liuwei Dihuang Pill, a famous Chinese herbal formula recorded in the book Key to Therapeutics of Children's Diseases. It has been widely used as a basic prescription for nourishing and tonifying the liver and kidneys to treat Parkinson's disease (PD), but its mechanism remains to be explored. BSZCF, a Chinese herbal formula comprising five herbs: Rehmannia glutinosa (Gaertn.) DC., Dioscorea oppositifolia L., Cornus officinalis Siebold & Zucc., Fallopia multiflora (Thunb.) Haraldson and Cistanche tubulosa (Schenk) Wight, is used clinically to treat PD. In vivo and in vitro experiments were designed to elucidate the mechanism of BSZCF in the protection of dopamine (DA) neurons and the treatment of PD. The toxicity of excitatory amino acids (EAA) may be attenuated by inhibiting the transcription factor Yin Yang 1 (YY1) and up-regulating the expression of excitatory amino acid transporter 1 (EAAT1). IN VIVO: After 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) was intraperitoneally injected into specific pathogen free (SPF) C57BL/6J mice, model mice were intragastrically given adamantane hydrochloride tablets (AHT) or different doses of BSZCF for 14 days. Both open field and pole-climbing tests were conducted to assess behavioral changes. In vitro: 1-Methyl-4-phe-nylpyridiniumiodide (MPP+)-injured human neuroblastoma cells (SH-SY5Y) were utilized to construct PD cell models. Primary astrocytes were transfected with EAAT1 and YY1 lentiviruses for EAAT1 gene knockout and YY1 gene knockout astrocytes, respectively. The high performance liquid chromatography-mass spectrometry (HPLC-MS) analysis of BSZCF was performed to control the quality of blood drugs. The optimal concentration and time of PD cell models treated by BSZCF were determined by the use of Cell Counting Kit-8 (CCK8). Enzyme-linked immunosorbent assay (ELISA) was used for measuring glutamate (Glu) in the peripheral blood and cells of each group. Western blotting (WB) and real-time quantitative polymerase chain reaction (qPCR) were used to detect tyrosine hydroxylase (TH), dopamine transporters (DAT), EAAT1 and YY1 protein and mRNA. After the blockade of EAAT1, immunofluorescence (IF) assay was used to detect the TH protein in each group. In vivo research showed that BSZCF improved the behavioral symptoms of PD mice, and reduced the death of DA neurons and the level of Glu. The mechanism may be related to the decrease of YY1 expression and the increase of EAAT1 levels. In vitro experiments showed that the anti-excitatory amino acid toxicity of BSZCF was achieved by inhibiting YY1 expression and regulating EAAT1. By inhibiting YY1 to increase the expression of EAAT1 and attenuating the toxicity of Glu, BSZCF exerts the effect of protecting DA neurons and treating PD-like symptoms in mice.",
+      "year": 2024,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2024.117857",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2024-02-11"
+      ],
+      "journal_issue_date": "2024-05-10",
+      "canonical_publication_date": "2024-02-11",
+      "canonical_publication_year": 2024
+    },
+    "33588742": {
+      "title": "Uncovering the Key miRNAs and Targets of the Liuwei Dihuang Pill in Diabetic Nephropathy-Related Osteoporosis based on Weighted Gene Co-Expression Network and Network Pharmacology Analysis.",
+      "abstract": "Diabetic nephropathy-related osteoporosis (DNOP) is the most common comorbid bone metabolic disorder associated with diabetes mellitus (DM). The Liuwei Dihuang Pill (LWD) is a traditional Chinese herbal medicine widely used to treat diabetic complications, including diabetic nephropathy (DN). This study aimed to identify the biomarkers of the mechanisms of DNOP in LWD with systems biology approaches. Herein, we performed an integrated analysis of the GSE51674 and GSE63446 datasets from the GEO database via weighted gene co-expression network and network pharmacology (WGCNA) analysis. In addition, a network pharmacology approach, including bioactive compounds, was used with oral bioavailability (OB) and drug-likeness (DL) evaluation. Next, target prediction, functional enrichment analysis, network analysis, and virtual docking were used to investigate the mechanisms of LWD in DNOP. WGCNA successfully identified 63 DNOP-related miRNAs. Among them, miR-574 was significantly upregulated in DN and OP samples. A total of 117 targets of 22 components associated with LWD in DNOP were obtained. The cellular response to nitrogen compounds, the AGERAGE signaling pathway in diabetic complications, and the MAPK signaling pathway were related to the main targets. Network analysis showed that kaempferol and quercetin were the most significant components. MAPK1 was identified as a potential target of miR-574 and the hub genes in the protein-protein interaction (PPI) network. The docking models demonstrated that kaempferol and quercetin had a strong binding affinity for Asp 167 of MAPK1. This study demonstrated that miR-574 may play important roles in DNOP, and the therapeutic effects of kaempferol and quercetin on LWD in DNOP might be mediated by miR-574 by targeting MAPK1. Our results provide new perspectives for further studies on the anti-DNOP mechanism of LWD.",
+      "year": 2022,
+      "journal": "Endocrine, metabolic & immune disorders drug targets",
+      "doi": "10.2174/1871530321666210215161921",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2022",
+      "canonical_publication_date": "2022",
+      "canonical_publication_year": 2022
+    },
+    "35341010": {
+      "title": "Liuwei Dihuang Pill Attenuates Diabetic Nephropathy by Inhibiting Renal Fibrosis via TGF-",
+      "abstract": "Among all the complications of diabetes, diabetic nephropathy is a significant factor causing the end-stage renal disease associated with high death rates. Current treatment fails to produce an ideal outcome. Thus, searching for a new preventive drug is urgently needed. Liuwei Dihuang pill (LDP), a popular ancient Chinese medicine (TCM) prescription, has been applied to treat DN-like syndromes according to TCM theory. Here, we had established an animal model with DN and LDP therapy was put into use to assess its therapeutic effect in vivo. Our data showed that oxidative stress and TGF-β/Smad2/3 pathway-induced renal fibrosis could be observed in the DN animal model. However, the treatment of LDP impeded the generation of ROS and attenuated renal fibrosis-related proteins in damaged kidneys through interference in the TGF-β/Smad3 pathway. Our results indicated that LDP attenuated oxidative stress, accompanied by preventing the production of renal fibrosis through inhibiting the TGF-β/Smad2/3 pathway.",
+      "year": 2022,
+      "journal": "Computational and mathematical methods in medicine",
+      "doi": "10.1155/2022/5063636",
+      "publication_types": [
+        "Journal Article",
+        "Retracted Publication"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-03-15"
+      ],
+      "journal_issue_date": "2022",
+      "canonical_publication_date": "2022-03-15",
+      "canonical_publication_year": 2022
+    },
+    "40457356": {
+      "title": "Mechanism study on the regulation of autophagy and oxidative stress through SIRT1/PI3K/AKT pathway by Liuwei Dihuang pill to improve ovarian function.",
+      "abstract": "This study aimed to examine the preventive impact of Liuwei Dihuang pill (LWDH) on ovarian injury and to elucidate its mechanism through in vivo and in vitro tests. Cyclophosphamide (CTX) was injected intraperitoneally and LWDH suspension was administered intragastrically to create a mouse model of primary ovarian insufficiency. Serum concentrations of hormones including AMH, E2 and FSH, alongside oxidative stress-related biomarkers such as SOD, GSH-Px and MDA, were measured using ELISA. By counting the autophagosomes in granulosa cells using electron microscopy and LC3 immunofluorescence labeling, the degree of autophagy was assessed. Finally, detect the expression levels of genes and proteins related to autophagy. LWDH elevated the ovarian weight and improved the ovarian index in mice with ovarian injury. The LWDH-treated group exhibited considerably lower MDA levels and significantly higher SOD and GSH-Px levels than the CTX group. Meanwhile, the group treated with LWDH reduced the granulosa cells' excessive apoptosis. In addition, the LWDH-treated group exhibited reduced LC3 fluorescence intensity and fewer autophagosome counts in comparison to the CTX group. Similarly, the expression of LC3, an autophagy-related marker, was decreased and p62 was markedly elevated in comparison to the CTX group. These findings suggest that LWDH has a positive protective effect on ovarian injury mice by increasing antioxidant enzyme activity, improving ovarian tissue pathological damage, inhibiting granulosa cell apoptosis, and balancing granulosa cell autophagy. In addition, the expression levels of SIRT1 and PI3K/AKT signaling pathway related proteins in the LWDH treatment group were significantly higher than those in the CTX group, suggesting that LWDH may exert its protective effect by activating the SIRT1/PI3K/AKT signaling pathway. LWDH may suppress granulosa cell autophagy through the activation of the SIRT1/PI3K/AKT signaling pathway, hence enhancing ovarian function.",
+      "year": 2025,
+      "journal": "Journal of ovarian research",
+      "doi": "10.1186/s13048-025-01689-0",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-06-02"
+      ],
+      "journal_issue_date": "2025-06-02",
+      "canonical_publication_date": "2025-06-02",
+      "canonical_publication_year": 2025
+    },
+    "36624462": {
+      "title": "Study on the treatment of postmenopausal osteoporosis with quercetin in Liuwei Dihuang Pill based on network pharmacology.",
+      "abstract": "Liuwei Dihuang Pill (LP) was verified to alleviate postmenopausal osteoporosis (PMOP) development. Nevertheless, the major constituent of LP and the related network pharmacology study remain unexplored. Protein-protein interaction was established to identify the downstream target of LP in PMOP, and the related signaling pathway was investigated by bioinformatics analysis. MC3T3-E1 cells were added to ferric ammonium citrate (FAC) to mimic osteoporosis in vitro. The osteoblasts were identified by Alizarin red staining. Western blot was applied to evaluate protein levels. In addition, Cell Counting Kit-8 (CCK8) assay was applied to assess cell viability, and cell apoptosis was assessed by flow cytometry. Quercetin was the major constituent of LP. In addition, quercetin significantly reversed FAC-induced inhibition of osteogenic differentiation in MC3T3-E1 cells. In addition, quercetin notably abolished the FAC-induced upregulation of Bax, Caspase-3, FOS, JUN, TGFB1 and PPARD. In contrast, Bcl-2, p-mTOR/mTOR, p-AKT/AKT and p-PI3K/PI3K levels in MC3T3-E1 cells were reduced by FAC, which was restored by quercetin. Meanwhile, FAC notably inhibited the viability of MC3T3-E1 cells via inducing apoptosis, but this impact was abolished by quercetin. Furthermore, quercetin could reverse pcDNA3.1-FOS-mediated growth of FAC-treated osteoblasts by mediating PI3K/AKT/mTOR signaling. Quercetin alleviated the progression of PMOP via activation of PI3K/AKT/mTOR signaling. Hence, this study would shed novel insights into discovering new methods against PMOP.",
+      "year": 2023,
+      "journal": "Journal of orthopaedic surgery and research",
+      "doi": "10.1186/s13018-022-03470-1",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-01-09"
+      ],
+      "journal_issue_date": "2023-01-09",
+      "canonical_publication_date": "2023-01-09",
+      "canonical_publication_year": 2023
+    },
+    "40388786": {
+      "title": "Exploration of Liuwei Dihuang Pill on periodontitis based on network pharmacology and molecular docking.",
+      "abstract": "This study explores the mechanism of Liuwei Dihuang Pill (LWDHP) in the treatment of periodontitis using network pharmacology and molecular docking. The active ingredients and targets of LWDHP were obtained from databases such as Traditional Chinese Medicine Systems Pharmacology Database and Analysis Platform. Databases such as GeneCards, OMIM, and DisGeNET were used to obtain the relevant targets related to periodontitis. The intersection of these 2 groups of targets was taken and imported into STRING to facilitate the acquisition of protein-protein interaction data, which was then imported into Cytoscape 3.10.2 to perform topological analysis to obtain the core targets. Gene ontology and Kyoto encyclopedia of genes and genomes bioinformatics enrichment analyses of the intersecting targets were performed using the DAVID database. Validation of molecular docking matching between key active ingredients with top 5 degree values and key targets with top 5 degree values in the treatment of periodontitis with LWDHP using AutoDockTools-1.5.6. A total of 69 active ingredients were discerned in LWDHP, implicating 198 periodontitis-relevant targets. Thirty-four core targets were obtained by protein-protein interaction network topology analysis, among which the key targets with the top 5 values of degree were tumor necrosis factor (TNF), serine/threonine protein kinase AKT1, sarcoma, epidermal growth factor receptor, and matrix metallopeptidase 9. Topological analysis revealed that the key active ingredients with the top 5 values of degree in LWDHP were Polyporenic acid C, Alisol B, Hydroxygenkwanin, Denudatin B, and Kadsurenone. The molecular docking results demonstrated that the binding energies of the above molecules with targets were all <-5 kcal/mol, indicating a good binding ability between these molecules. The gene ontology enrichment results indicated that the treatment of periodontitis by LWDHP was mainly related to the inflammatory response, positive regulation of phosphatidylinositol-3-kinase-Akt (PI3K-Akt) signal transduction and other processes. Analysis of the Kyoto encyclopedia of genes and genomes signaling pathway showed that the TNF signaling pathway, the PI3K-Akt signaling pathway, and so on are important signaling pathways. In conclusion, the mechanism of action of LWDHP in the treatment of periodontitis is characterized by multicomponents, multi-targets, and multi-pathways. TNF, serine/threonine protein kinase AKT1, sarcoma, epidermal growth factor receptor, and matrix metallopeptidase 9 are the key targets and the TNF signaling pathway, the PI3K-Akt signaling pathway are the key pathways. LWDHP treats periodontitis through actions such as anti-inflammatory and regulation of the balance between osteogenesis and bone destruction.",
+      "year": 2025,
+      "journal": "Medicine",
+      "doi": "10.1097/MD.0000000000042466",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2025-05-16",
+      "canonical_publication_date": "2025-05-16",
+      "canonical_publication_year": 2025
+    },
+    "36451445": {
+      "title": "Network pharmacology-based strategy to investigate pharmacological mechanism of Liuwei Dihuang Pill against postmenopausal osteoporosis.",
+      "abstract": "Postmenopausal osteoporosis (PMOP) has became 1 of most prevalent bone disorders with aging population. Liuwei Dihuang (LWDH) Pill, a classical kidney-tonifying prescription, is extensively used to treat PMOP in China. The aim of this study is to explore the pharmacological mechanisms of LWDH Pill against PMOP via network pharmacological strategy. The active ingredients of LWDH Pill were screened out from the Traditional Chinese Medicine System Pharmacology, Encyclopedia of Traditional Chinese Medicine and Bioinformatics Analysis Tool for Molecular mechANism of Traditional Chinese Medicine Databases, and their related target genes were fished in the UniProt database. Simultaneously, the GeneCards and DisGeNET databases were used to identify the target genes of PMOP. Through establishing a protein-protein interaction network, the overlapping genes between LWDH Pill and PMOP were identified to analyze their interactions and the hub target genes. Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment analyses were performed to predict the underlying biological processes (BP) and signaling pathways, respectively. A total of 64 active ingredients and 653 related target genes were identified in LWDH Pill, and 292 target genes were closely associated with PMOP. After matching the target genes between LWDH Pill and PMOP, 84 overlapping targets were obtained and considered as therapeutically relevant. Through construction of a protein-protein interaction network, we identified 20 hub target genes including IL6, INS, tumor necrosis factor, AKT1, vascular endothelial growth factor A, IGF1, TP53, IL1B, MMP9, JUN, LEP, CTNNB1, EGF, PTGS2, PPARG, CXCL8, IL10, CCL2, FOS and ESR1. Gene Ontology enrichment analysis suggested that LWDH Pill exerted anti-PMOP effects via regulating multiple BP including cell proliferation and apoptosis, oxidative stress, inflammation and angiogenesis. Kyoto Encyclopedia of Genes and Genomes enrichment analysis revealed several pathways, such as PI3K-AKT pathway, mitogen-activated protein kinase pathway, hypoxia-inducible factors-1 pathway, tumor necrosis factor pathway, interleukin-17 (IL-17) pathway and FoxO pathway that might be involved in modulating the above BP. Through network pharmacological approach, we investigated the potential therapeutic mechanism of LWDH Pill against postmenopausal osteoporosis in a systemic perspective. These identified multi-targets and multi-pathways provide promising directions for further revealing more exact mechanisms.",
+      "year": 2022,
+      "journal": "Medicine",
+      "doi": "10.1097/MD.0000000000031387",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2022-11-25",
+      "canonical_publication_date": "2022-11-25",
+      "canonical_publication_year": 2022
+    },
+    "36401375": {
+      "title": "Prediction of network pharmacology and molecular docking-based strategy to determine potential pharmacological mechanism of Liuwei Dihuang pill against tinnitus.",
+      "abstract": "Liuwei Dihuang Pill is widely used to treat tinnitus in China. However, the underlying mechanism of Liuwei Dihuang Pill in treating tinnitus still remains unclear. To explore the potential pharmacological mechanism of Liuwei Dihuang Pill in the treatment of tinnitus based on network pharmacology and molecular docking. The active components of the Liuwei Dihuang Pill were obtained from the traditional Chinese medicine systems pharmacology database and analysis platform (TCMSP) database. Cytoscape software was used to draw the active component-target network diagram of Liuwei Dihuang Pill, and obtain the core components. Then the corresponding targets were also obtained from the TCMSP database. Targets related to tinnitus were obtained from the GeneCards, DisGeNET, TTD and DrugBank databases. The String database was used to construct protein-protein interaction (PPI) network of common targets of drugs and diseases, then the core targets were screened out. The Annotation, Visualization and Integrated Discovery (DAVID) database was used for gene ontology (GO) enrichment and Kyoto encyclopedia of genes and genomes (KEGG) pathway analysis of common targets. Finally, the molecular docking between the core component and the core target was carried out by AutoDock. The core components of Liuwei Dihuang Pill in the treatment of tinnitus including quercetin, stigmasterol, kaempferol, β-sitosterol, tetrahydroalstonine, which may act on core targets such as STAT3, transcription factor AP-1 (JUN), tumor necrosis factor (TNF), interleukin-6 and MAPK3. HIF-1 signaling pathway, Influenza A, P53 signaling pathway, and Toll-like receptor signaling pathway play a role in anti-inflammatory, improving microcirculation in the blood-labyrinth barrier, increasing cochlear blood flow, and preventing hair cell damage. The molecular docking results showed that the affinity between core components and core targets was good. The potential mechanism of Liuwei Dihuang Pill in the treatment of tinnitus was preliminarily discussed in this study, which may provide a theoretical basis and evidence for further experimental research.",
+      "year": 2022,
+      "journal": "Medicine",
+      "doi": "10.1097/MD.0000000000031711",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2022-11-18",
+      "canonical_publication_date": "2022-11-18",
+      "canonical_publication_year": 2022
+    },
+    "31610261": {
+      "title": "Protective effect of Liuwei Dihuang Pill on cisplatin-induced reproductive toxicity and genotoxicity in male mice.",
+      "abstract": "Cisplatin (CP) is the classical chemotherapeutic drug for various cancer, but it also accompanies reproductive toxicity and genotoxicity. Liuwei Dihuang Pill (LW) is the traditional Chinese medicine prescription for treating Kidney-Yin deficiency syndrome, which has been reported to prevent and treat various diseases. However, the protective effect of LW on CP-induced reproductive toxicity and genotoxicity has not been reported. To investigate the potential protective effect and mechanism of LW on CP-induced reproductive toxicity and genotoxicity in male mice. Mice were given LW (0.4, 1.2 and 3.6 g/kg) or Vitamin C (0.1 g/kg) once daily by oral gavage for thirteen consecutive days. Then, CP (3.00 mg/kg) was given intraperitoneal injection once daily for five consecutive days starting on the ninth day. The protective effects of LW against CP-induced reproductive toxicity and genotoxicity were evaluated by body weight, testis ratio, sperm count, sperm viability, sperm abnormal morphology type, micronuclei test, testicular histopathology, serum malondialdehyde (MDA), total superoxide dismutase (T-SOD), glutathione peroxidase (GSH-Px) and catalase (CAT) level. The results demonstrated that LW could significantly increase CP-induced the reduction of sperm count and sperm viability, then decrease abnormal sperm type rate and micronucleus rate. Moreover, LW also could improve testicular abnormal histopathologic morphology induced by CP exposure. Meanwhile, LW decreased serum MDA level and increased T-SOD, GSH-Px and CAT level compared to CP group. our findings show that LW has protective effects on CP-induced reproductive toxicity and genotoxicity. LW decreases serum MDA level and increases T-SOD, GSH-Px and CAT level, which indicates that antioxidant activity may be the potential mechanism of LW to resist reproductive toxicity and genotoxicity.",
+      "year": 2019,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2019.112269",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2019-10-11"
+      ],
+      "journal_issue_date": "2020-01-30",
+      "canonical_publication_date": "2019-10-11",
+      "canonical_publication_year": 2019
+    },
+    "39470545": {
+      "title": "Bioinformatics and network pharmacology discover the molecular mechanism of Liuwei Dihuang pills in treating cerebral palsy.",
+      "abstract": "A collection of chronic central motor, postural, and activity restriction symptoms are referred to as cerebral palsy (CP). Previous research suggests that a number of perinatal variables, including hypoxia, may be linked to CP. And the pathophysiological process that causes brain injury in growing fetuses is mostly caused by amniotic fluid infection and intra-amniotic inflammation. Still, there is still much to learn about the molecular mechanism of CP. The goal of this study was to identify the molecular mechanism of Liuwei Dihuang pill (LWDHP) in the treatment of CP using network pharmacology and bioinformatics. The Chinese medicine database provided the LWDHP components and targets, the CP illness gene data set was gathered from a disease, and the expression profile of children with CP was chosen from anther database. Using the Kyoto Encyclopedia of Genes and Genomes and gene ontology databases, a network of interactions between proteins was created, and functional enrichment analysis was carried out. Analysis of traditional Chinese medicine found that the key active ingredients of LWDHP are quercetin, Stigmasterol and kaempferol. Through enrichment analysis, it was found that the hub genes for LWDHP treatment of CP are CXCL8, MMP9, EGF, PTGS2, SPP1, BCL2L1, MMP1, and AR. K EGG analysis found that LWDHP treatment of CP mainly regulates PI3K-Akt signaling pathway, IL-17 signaling pathway, Jak-STAT signaling pathway, NF-kappa B signaling pathway, etc. To summarize, LWDHP regulates immunological and inflammatory variables through a variety of components, targets, and signaling pathways, which plays a significant role in the development and management of CP.",
+      "year": 2024,
+      "journal": "Medicine",
+      "doi": "10.1097/MD.0000000000040166",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2024-10-25",
+      "canonical_publication_date": "2024-10-25",
+      "canonical_publication_year": 2024
+    },
+    "28694663": {
+      "title": "Inhibition of N-methyl-N-nitrosourea-induced gastric tumorigenesis by Liuwei Dihuang Pill in db/db mice.",
+      "abstract": "To investigate the inhibitory effect of Liuwei Dihuang Pill (LDP) on gastric tumorigenesis induced by N-methyl-N-nitrosourea (MNU) in diabetic mice. Four-week-old mice were divided into four groups: A, 12 db/m mice treated with MNU and saline, as the non-diabetic control; B, 12 db/db mice treated with MNU and saline, as the diabetic control; C, 12 db/db mice treated with MNU and metformin, as the positive control; and D, 12 db/db mice treated with MNU and LDP. MNU was administrated for 20 wk to induce gastric carcinogenesis. LDP was administrated for 10 wk for improvement of insulin resistance. Body weight and food intake were measured every week. Blood samples were collected for assays of fasting blood glucose, insulin, insulin-like growth factor (IGF)-1, adiponectin and leptin. Stomach tissues were collected for histopathological analysis, immunohistochemical staining of Ki67, quantitative reverse transcription-polymerase chain reaction and western blotting. The incidence of MNU-induced gastric dysplasia was significantly elevated in diabetic (db/db) mice relative to the control (db/m) mice. The incidence of gastric dysplasia was significantly reduced by LDP with suppression of cell proliferation, as demonstrated by a decrease in Ki67 staining. Hyperglycemia, hyperinsulinemia and serum IGF-1 were inhibited by LDP. Expression of IGF-1 and insulin receptor mRNAs was decreased, phosphorylation of IGF-1 receptor and AKT protein was reduced in the stomach tissues by LDP. In addition, adiponectin was increased and leptin was decreased in the serum by LDP. LDP decreased risk of gastric dysplasia in type 2 diabetic mice by down-regulation of IGF and insulin activity and correction of adipokines disorders.",
+      "year": 2017,
+      "journal": "World journal of gastroenterology",
+      "doi": "10.3748/wjg.v23.i23.4233",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2017-06-21",
+      "canonical_publication_date": "2017-06-21",
+      "canonical_publication_year": 2017
+    },
+    "35898725": {
+      "title": "Bioinformatics-Based Approach for Exploring the Immune Cell Infiltration Patterns in Alzheimer's Disease and Determining the Intervention Mechanism of Liuwei Dihuang Pill.",
+      "abstract": "Traditional Chinese medicine (TCM) compounds have recently garnered attention for the regulation of immune cell infiltration and the prevention and treatment of Alzheimer's disease (AD). The Liuwei Dihuang Pill (LDP) has potential in this regard; however, its specific molecular mechanism currently remains unclear. Therefore, we adopted a bioinformatics approach to investigate the infiltration patterns of different types of immune cells in AD and explored the molecular mechanism of LDP intervention, with the aim of providing a new basis for improving the clinical immunotherapy of AD patients. We found that M1 macrophages showed significantly different degrees of infiltration between the hippocampal tissue samples of AD patients and healthy individuals. Four immune intersection targets of LDP in the treatment of AD were identified; they were enriched in 206 biological functions and 30 signaling pathways. Quercetin had the best docking effect with the core immune target PRKCB. Our findings suggest that infiltrated immune cells may influence the course of AD and that LDP can regulate immune cell infiltration through multi-component, multi-target, and multi-pathway approaches, providing a new research direction regarding AD immunotherapy.",
+      "year": 2022,
+      "journal": "Dose-response : a publication of International Hormesis Society",
+      "doi": "10.1177/15593258221115563",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-07-21"
+      ],
+      "journal_issue_date": "2022",
+      "canonical_publication_date": "2022-07-21",
+      "canonical_publication_year": 2022
+    },
+    "32184563": {
+      "title": "Erratum: A Network Pharmacology-Based Strategy for Predicting Active Ingredients and Potential Targets of LiuWei DiHuang Pill in Treating Type 2 Diabetes Mellitus [Corrigendum].",
+      "abstract": "[This corrects the article DOI: 10.2147/DDDT.S216644.].",
+      "year": 2020,
+      "journal": "Drug design, development and therapy",
+      "doi": "10.2147/DDDT.S246075",
+      "publication_types": [
+        "Journal Article",
+        "Published Erratum"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2020-03-02"
+      ],
+      "journal_issue_date": "2020",
+      "canonical_publication_date": "2020-03-02",
+      "canonical_publication_year": 2020
+    },
+    "32914833": {
+      "title": "Therapeutic potential of Liuwei Dihuang pill against KDM7A and Wnt/β-catenin signaling pathway in diabetic nephropathy-related osteoporosis.",
+      "abstract": "The effects of Liuwei Dihuang pill (LWDH) on diabetic nephropathy-related osteoporosis (DNOP) are unclear. The present study aimed to evaluate the effects of LWDH on KDM7A and Wnt/β-catenin signaling pathway in DNOP rats and the high glucose-induced MC3T3-E1 cells. A DNOP model was prepared by streptozotocin in 9-week-old male Sprague-Dawley (SD) rats to evaluate the effects of LWDH. The cell viability and differentiation capacity of high glucose-induced MC3T3-E1 cells were determined by CCK-8 assay, Alizarin Red staining, and alkaline phosphatase (ALP) staining, respectively. Furthermore, the expressions of KDM7A and Wnt1/β-catenin pathway-related proteins were determined by Western blot analysis. Treatment of DNOP rats with LWDH could significantly ameliorate the general state, degradation of renal function, and renal pathological changes. LWDH decreased the levels of TNF-α, IL-6, IL-8, IL-1β, ALP, and TRAP, and increased the calcium, phosphorus in serum, as well as decreased the level of the calcium and phosphorus in the urine. Besides, LWDH significantly improved bone mineral density (BMD), bone volume (BV), and the bone microstructure of DNOP rats. Moreover, LWDH increased the levels of the elastic modulus, ultimate load, and bending strength in the femurs. In MC3T3-E1 cells, serum-containing LWDH significantly increases in cell viability and osteoblastic differentiation capability. The expression of α-SMA, vimentin, KDM7A, Wnt1 and β-catenin were significantly down-regulated, and the E-cadherin, H3K9-Me2, H3K27-Me2, BMP-4, BMP-7, Runx2, osteocalcin, and Col1a1 were significantly up-regulated with LWDH treatment. The present study shows that LWDH has a therapeutic effect on DNOP, in part, through down-regulation of KDM7A and Wnt/β-catenin pathway.",
+      "year": 2020,
+      "journal": "Bioscience reports",
+      "doi": "10.1042/BSR20201778",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2020-09-30",
+      "canonical_publication_date": "2020-09-30",
+      "canonical_publication_year": 2020
+    },
+    "37171332": {
+      "title": "A network pharmacological-based study of the mechanism of Liuwei Dihuang pill in the treatment of chronic kidney disease.",
+      "abstract": "Chronic kidney disease (CKD) is a progressive disease that poses a huge economic burden to society. Liuwei Dihuanng pill is an effective treatment for chronic kidney disease, but its treatment mechanism is unclear. The rapid development of network pharmacology has provided new strategies for studying Chinese medicine. The traditional Chinese medicine systems pharmacology database and analysis platform was used to obtain the bioactive components and targets of Liuwei Dihuanng pill. The sources for the CKD-related targets were then obtained from the Genecards, OMIM, TTD, and DisGeNET databases. R was used to identify the intersecting genes for Liuwei Dihuang pill and CKD-related targets. Analysis of protein-protein interactions (PPI) was performed using STRING, and PPI networks and drug-component-target networks were constructed using Cytoscape software. Kyoto encyclopedia of genes and genomes pathway and gene ontology enrichment analyses were performed using R. Finally, molecular docking was performed to determine the binding activity between bioactive components and the targets. After screening and data de-duplication of 74 active components, 209 drug targets, and 14,794 disease targets, a total of 204 drug-disease targets were acquired. Subsequently, a drug-component-target network and PPI network were established. The primary components of Liuwei Dihuang pill included quercetin, stigmasterol, kaempferol, beta-sitosterol, tetrahydroalstonine, kadsurenone, hederagenin, hancinone C, diosgenin, and sitosterol. In addition, JUN, AKT1, TP53, RELA, MAPK1, FOS, TNF, IL6, ESR1, and RXRA were identified as the main targets. Gene ontology function enrichment analysis revealed that these targets were involved in reactive oxygen species metabolic processes, responses to metal ions and to chemical stimuli, G protein-coupled amine receptor activity, and nuclear factor receptor activity. Kyoto encyclopedia of genes and genomes enrichment analysis showed that these targets were involved in the AGE-RAGE signaling pathway, IL-17 signaling pathway, TNF signaling pathway, and so on. Molecular docking results indicated good binding activity between the core targets and core components. The potential mechanism of Liuwei Dihuanng pill in the treatment of CKD was preliminarily discussed in this study, providing a theoretical basis and evidence for further experimental research.",
+      "year": 2023,
+      "journal": "Medicine",
+      "doi": "10.1097/MD.0000000000033727",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2023-05-12",
+      "canonical_publication_date": "2023-05-12",
+      "canonical_publication_year": 2023
+    },
+    "38112463": {
+      "title": "Liuwei Dihuang pills attenuate ovariectomy-induced bone loss by alleviating bone marrow mesenchymal stem cell (BMSC) senescence via the Yes-associated protein (YAP)-autophagy axis.",
+      "abstract": "Liuwei Dihuang pill (LWDH) has been used to treat postmenopausal osteoporosis (PMOP). To explore the effects and mechanisms of action of LWDH in PMOP. Forty-eight female Sprague-Dawley rats were divided into four groups: sham-operated (SHAM), ovariectomized (OVX), LWDH high dose (LWDH-H, 1.6 g/kg/d) and LWDH low dose (LWDH-L, 0.8 g/kg/d); the doses were administered after ovariectomy via gavage for eight weeks. After eight weeks, the bone microarchitecture was evaluated. The effect of LWDH on the differentiation of bone marrow mesenchymal stem cells (BMSCs) was assessed via osteogenesis- and lipogenesis-induced BMSC differentiation. The senescence-related biological indices were also detected using senescence staining, cell cycle analysis, quantitative real-time polymerase chain reaction and western blotting. Finally, the expression levels of autophagy-related proteins and Yes-associated protein (YAP) were evaluated. LWDH-L and LWDH-H significantly modified OVX-induced bone loss. LWDH promoted osteogenesis and inhibited adipogenesis in OVX-BMSCs. Additionally, LWDH decreased the positive ratio of senescence OVX-BMSCs and improved cell viability, cell cycle, and the mRNA and protein levels of p53 and p21. LWDH upregulated the expression of autophagy-related proteins, LC3, Beclin1 and YAP, in OVX-BMSCs and downregulated the expression of p62. LWDH improves osteoporosis by delaying the BMSC senescence through the YAP-autophagy axis.",
+      "year": 2023,
+      "journal": "Pharmaceutical biology",
+      "doi": "10.1080/13880209.2023.2291675",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-12-19"
+      ],
+      "journal_issue_date": "2024-12",
+      "canonical_publication_date": "2023-12-19",
+      "canonical_publication_year": 2023
+    },
+    "30075554": {
+      "title": "Liuwei Dihuang pill cures postmenopausal osteoporosis with kidney-Yin deficiency: Potential therapeutic targets identified based on gene expression profiling.",
+      "abstract": "This study aimed to investigate the potential therapeutic targets of Liuwei Dihuang pill (LDP) in the treatment of postmenopausal osteoporosis with kidney-Yin deficiency (PMO-KY).Gene expression data were downloaded from the GEO database, including 4 PMO-KY samples and 3 healthy postmenopausal controls from GSE56116, as well as 3 PMO-KY samples before LDP treatment and 3 PMO-KY samples after three months of LDP treatment from GSE57273. Limma package was used to identify differentially expressed genes (DEGs). Afterwards, the potential target genes of LDP (namely key DEGs) were identified according to the comparison of DEGs in PMO-KY group and the DEGs in LDP treatment groups. Subsequently, iRegulon plugin in Cytoscape software was used to predict potential transcription factors (TFs) that regulated the key DEGs, and Comparative Toxicogenomics Database was utilized to identify known PMO-related genes among the key DEGs.Totally, 202 and 2066 DEGs were identified between PMO-KY and controls, as well as after-treatment and before-treatment groups, respectively. Among them, 52 DEGs were up-regulated in PMO-KY but down-regulated after LDP treatment, and 8 TFs were predicted to these DEGs. Furthermore, 34 DEGs were down-regulated in PMO-KY but up-regulated after treatment, and 7 TFs were predicted to regulate these DEGs. Additionally, 43 of the 86 key DEGs were known PMO-related genes.NCOA3, TCF4, DUSP6, PELI2, and STX7 were predicted to be regulated by HOXA13. In the PMO-KY treatment, NCOA3, TCF4, DUSP6, PELI2, and STX7 might be the potential therapeutic targets of LDP. However, further investigation is required to confirm these genes.",
+      "year": 2018,
+      "journal": "Medicine",
+      "doi": "10.1097/MD.0000000000011659",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2018-08",
+      "canonical_publication_date": "2018-08",
+      "canonical_publication_year": 2018
+    },
+    "35701780": {
+      "title": "Network pharmacology and molecular docking approach to elucidate the mechanisms of Liuwei Dihuang pill in diabetic osteoporosis.",
+      "abstract": "Diabetic osteoporosis (DOP) is one of the chronic complications of diabetes mellitus, but without a standardized treatment plan till now. Liuwei Dihuang pill (LDP) has gradually exerted a remarkable effect on DOP in recent years; its specific mechanism is not clear yet. We adopted network pharmacology approaches, including multi-database search, pharmacokinetic screening, network construction analysis, gene ontology enrichment analysis, Kyoto Encyclopedia of Genes and Genomes pathway analysis and molecular docking to elaborate the active components, signaling pathways and potential mechanisms of LDP in the treatment of DOP. Twenty-seven active ingredients and 55 related disease targets have been found through integrated network pharmacology. Functional enrichment analysis shows that five key active ingredients, including beta-sitosterol, stigmasterol, diosgenin, tetrahydroalstonine, and kadsurenone, may give full scope to insulin secretion estrogen-level raising and angiogenesis in biological process through the pivotal targets. In addition, the underlying effect of PI3K/AKT/FOXO and VEGF pathways is also suggested in the treatment. Based on systematic network pharmacology methods, we predicted the basic pharmacological effects and potential mechanisms of LDP in the treatment of DOP, revealing that LDP may treat DOP through multiple targets and multiple signaling pathways, which provide evidence for the further study of pharmacological mechanism and broader clinical thinking.",
+      "year": 2022,
+      "journal": "Journal of orthopaedic surgery and research",
+      "doi": "10.1186/s13018-022-03194-2",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-06-14"
+      ],
+      "journal_issue_date": "2022-06-14",
+      "canonical_publication_date": "2022-06-14",
+      "canonical_publication_year": 2022
+    },
+    "27170349": {
+      "title": "Contribution of Borneolum syntheticum to the Intervention Effect of Liuwei Dihuang Pill () on Experimental Retinal Degeneration.",
+      "abstract": "To observe the contribution of Borneolum syntheticum to the intervention effect of Liuwei Dihuang Pill (, LDP) on experimental retinal degeneration, and initially investigate the mechanism of Borneolum syntheticum as meridian-lead-in drug. A total of 180 sodium iodateinduced retinital degeneration rats were randomly divided into three groups, including distilled water group, LDP group, and LDP+Borneolum syntheticum (LDP+BS) group. Twenty normal rats were fed regularly without any treatment as normal control. On day 7 and 14 after treatment, histopathological study and transferase-mediated deoxyuridine triphosphate-biotin nick end labeling (TUNEL) test were performed to evaluate the retinopathy. Claudin-5 expression at blood-retina barrier (BRB) was detected by Western blot at different time points from 0.5 to 8 h after gavage. On day 7 and 14 after treatment, the retinal lesion grades were significantly different among the three groups (P<0.05). The grade in the LDP+BS group was significantly less than the LDP and distilled water groups (both P<0.05), no significant difference was observed between the LDP and distilled water groups (P>0.05). The apoptosis rates in the LDP+BS group was significantly less than the distilled water and LDP groups (both P<0.05), while there was no significant difference between LDP and distilled water groups (P>0.05). Expression of claudin-5 in LDP+BS group was significantly less than the other two groups at 0.5, 1 and 2 h after gavage (P<0.05). There was no apparent difference among the three groups at 4 and 8 h after gavage (P>0.05). Borneolum syntheticum could strengthen the effect of LDP on experimental retinal degeneration, indicated that Borneolum syntheticum might play the role of meridian-lead-in drug in the formula. The mechanism may be due to Borneolum syntheticum could promote the physiologically openness of bloodretina barrier through transiently affecting the expression of claudin-5.",
+      "year": 2016,
+      "journal": "Chinese journal of integrative medicine",
+      "doi": "10.1007/s11655-016-2584-0",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2016-05-12"
+      ],
+      "journal_issue_date": "2018-06",
+      "canonical_publication_date": "2016-05-12",
+      "canonical_publication_year": 2016
+    },
+    "36744132": {
+      "title": "LDP alleviates TKI-induced proteinuria through reversing the expression of RelA in renal tissues.",
+      "abstract": "Tyrosine kinase inhibitors (TKIs), as an important tumor therapy, can induce severe proteinuria that significantly affects anti-tumor therapy. Existing therapies against proteinuria induced by other etiologies are currently ineffective for TKI-induced proteinuria. It has been shown that various types of proteinuria are related to podocyte damage caused by changes in the RelA signaling pathway. Our experiments confirmed that TKIs activate the renal RelA signaling pathway, and induce death of podocytes and destruction of the glomerular filtration barrier. Here we found that Liuwei Dihuang Pill (LDP) attenuated the inflammatory injury of podocytes through inhibiting activation of RelA, and subsequently relieved TKI-related proteinuria and prevented the progression of TMA and FSGS. Our finding indicated that LDP may be effective for the treatment of TKI-induced proteinuria, which is clinically significant.",
+      "year": 2023,
+      "journal": "Frontiers in medicine",
+      "doi": "10.3389/fmed.2023.1095344",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-01-19"
+      ],
+      "journal_issue_date": "2023",
+      "canonical_publication_date": "2023-01-19",
+      "canonical_publication_year": 2023
+    },
+    "32186153": {
+      "title": "Liuwei Dihuang pill suppresses metastasis by regulating the wnt pathway and disrupting -catenin/T cell factor interactions in a murine model of triple-negative breast cancer.",
+      "abstract": "To investigate if the Liuwei Dihuang pill (LWDHP) can inhibit metastasis to the liver and lungs in mice bearing triple-negative breast cancer (TNBC), and the molecular mechanism underpinning this action. Ninety-nine TNBC bearing-mice were distributed randomly to five groups: control (Con), paclitaxel (PTX), low-dose LWDHP (LLP, 2.3 g·kg－1·d－1), middle-dose LWDHP (MLP, 4.6 g·kg－1·d－1) and high-dose LWDHP (HLP, 9.2 g·kg－1·d－1). The LWDHP were administered (p.o.) to the agonal stage. The morphology of BC cells was observed by hematoxylin & eosin staining. Expression of axin-2, β-catenin, T cell factor (TCF), cyclin- D1 and vascular endothelial growth factor (VEGF) was detected by western blotting or immunofluorescence. β-catenin/TCF-1 interaction was measured using a co-immunoprecipitation assay. After LWDHP treatment, metastasis of BC cells to the lungs and liver was inhibited, expression of axin-2 was increased, expression of TCF-1, β-catenin, cyclin-D1 and VEGF was decreased, and β-catenin/TCF-1 interaction was disrupted. The LWDHP could inhibit metastasis of BC cells to the liver and lungs. The molecular mechanism underlying this action may be regulation of protein expression and β-catenin/TCF-1 interactions in the Wnt pathway.",
+      "year": 2019,
+      "journal": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan",
+      "doi": null,
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2019-12",
+      "canonical_publication_date": "2019-12",
+      "canonical_publication_year": 2019
+    },
+    "37920210": {
+      "title": "The neuroprotective effects of Liuwei Dihuang medicine in the APP/PS1 mouse model are dependent on the PI3K/Akt signaling pathway.",
+      "abstract": "Alzheimer's disease (AD) is an age-related neurodegenerative disease that progressively impairs cognitive function and memory. The occurrence and development of Alzheimer's disease involves many processes. In response to the complex pathogenesis of AD, the Traditional Chinese medicine formula Liuwei Dihuang Pill (LWD) has been shown to improve the cognitive function of AD animal models. However, the active ingredients and mechanism of action of LWD have not been fully elucidated. In this study, network pharmacological analysis predicted 40 candidate compounds in LWD, acting on 227 potential targets, of which 185 were associated with AD. Through network pharmacological analysis, the mechanism of action of LWD therapy AD is related to the inhibition of inflammatory response, regulation of neuronal state, and autophagy. In this experiment, LWD was detected in the APP/PS1 transgenic mouse model. The objective was to observe the effects of LWD on hippocampal learning and memory ability, Aβ clearance, autophagy and inflammatory response in APP/PS1 mice. The results showed that LWD improved long-term memory and working memory in APP/PS1 mice compared with the WT group. At the same time, LWD can increase the expression of hippocampal autophagy biomarkers, reduce the precipitation of Aβ, and the activation of microglia and astrocytes. Its mechanism may be related to the regulation of the PI3K/Akt signaling pathway. Thus, we demonstrate for the first time that LWD has a neuroprotective effect on APP/PS1 mice and provide theoretical foundation for the development of a new clinical treatment for AD.",
+      "year": 2023,
+      "journal": "Frontiers in pharmacology",
+      "doi": "10.3389/fphar.2023.1188893",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-10-18"
+      ],
+      "journal_issue_date": "2023",
+      "canonical_publication_date": "2023-10-18",
+      "canonical_publication_year": 2023
+    },
+    "28588237": {
+      "title": "TCM-Mesh: The database and analytical system for network pharmacology analysis for TCM preparations.",
+      "abstract": "With the advancement of systems biology research, we have already seen great progress in pharmacology studies, especially in network pharmacology. Network pharmacology has been proven to be effective for establishing the \"compounds-proteins/genes-diseases\" network, and revealing the regulation principles of small molecules in a high-throughput manner, thus would be very effective for the analysis of drug combinations, especially for TCM preparations. In this work, we have proposed the TCM-Mesh system, which records TCM-related information collected from various resources and could serve for network pharmacology analysis for TCM preparations in a high-throughput manner (http://mesh.tcm.microbioinformatics.org/). Currently, the database contains 6,235 herbs, 383,840 compounds, 14,298 genes, 6,204 diseases, 144,723 gene-disease associations, 3,440,231 pairs of gene interactions, 163,221 side effect records and 71 toxic records, and web-based software construct a network between herbs and treated diseases, which will help to understand the underlying mechanisms for TCM preparations at molecular levels. We have used 1,293 FDA-approved drugs, as well as compounds from an herbal material Panax ginseng and a patented drug Liuwei Dihuang Wan (LDW) for evaluating our database. By comparison of different databases, as well as checking against literature, we have demonstrated the completeness, effectiveness, and accuracy of our database.",
+      "year": 2017,
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-017-03039-7",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2017-06-06"
+      ],
+      "journal_issue_date": "2017-06-06",
+      "canonical_publication_date": "2017-06-06",
+      "canonical_publication_year": 2017
+    },
+    "12060523": {
+      "title": "Effects of \"Chinese yam\" on hepato-nephrotoxicity of acetaminophen in rats.",
+      "abstract": "To study the effect of yam in Taiwan, which is a commonly used Chinese medicine, on hepato-nephro-toxicity in rats. Crude water extract of yam (Dioscorea alata L), was used to treat rats with an acute toxicity induced by acetaminophen (APAP) challenge. The pharmacological and biochemical studies showed the extract of yam had the effect of kidney secureness and liver fortification (P < 0.01). The pathologic sections showed good improvements in renal tubular degranulation changes, necrosis and disintegration. The extract of yam also possessed a good protection against the inflammation of central vein and necrosis of liver tissue. The liver and kidneys are originated from the same source. Pathologically, deficiency of the life essence in the kidney may lead to the blood deficiency in the liver. The results showed that the yam could prevent the damages of the liver and kidneys, thus preserving their functions. This could b e the reason why the yam was commonly used in traditional Chinese medicine, as seen in Liuwei Dihuang Wan be used in the case of deficiency of liver-yin and kidney-yin.",
+      "year": 2002,
+      "journal": "Acta pharmacologica Sinica",
+      "doi": null,
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2002-06",
+      "canonical_publication_date": "2002-06",
+      "canonical_publication_year": 2002
+    },
+    "28028720": {
+      "title": "Liuwei Dihuang Pill () Treats Postmenopausal Osteoporosis with Shen (Kidney) Yin Deficiency via Janus Kinase/Signal Transducer and Activator of Transcription Signal Pathway by Up-regulating Cardiotrophin-Like Cytokine Factor 1 Expression.",
+      "abstract": "To investigate the mechanism of Liuwei Dihuang Pill (, LDP) in treating postmenopausal osteoporosis (PMOP) with Shen (Kidney) yin deficiency. In this study, 205 cases of PMOP were divided into the PMOP Shen-yin deficiency group (Group A), PMOP Shen-yang deficiency group (Group B), PMOP without Shen deficiency group (Group C), and control group (Group N). Real-time polymerase chain reaction (RT-PCR) and Western blot techniques were used to observe the effects of LDP treatment on the cardiotrophin-like cytokine factor 1 (CLCF1), ankyrin repeat and SOCS box containing 1 (ASB1), and prokineticin 2 (PROK2) genes and the Janus kinase/signal transducer and activator of transcription (JAK/STAT) signaling pathway. The mRNA (P<0.05) and protein (P<0.01) expression levels of the CLCF1 gene in Group A were significantly lower than the corresponding levels in Group N. After LDP treatment for 3 months, the mRNA expression levels of the CLCF1 gene were obviously up-regulated (P<0.01). After 6-month treatment, the expression levels of CLCF1 mRNA and protein were significantly up-regulated (both P<0.01), and the average bone density of the top femur had significantly increased (P<0.05). In vitro, CLCF1 overexpression resulted in a significant increase in the total protein and phosphorylated protein levels of JAK2 and STAT3. The CLCF1 gene is an important gene associated with PMOP Shen-yin deficiency and the therapeutic effects of LDP may be mediated by up-regulation of CLCF1 gene expression and activation of the JAK/STAT signaling pathway.",
+      "year": 2016,
+      "journal": "Chinese journal of integrative medicine",
+      "doi": "10.1007/s11655-016-2744-2",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2016-12-27"
+      ],
+      "journal_issue_date": "2018-06",
+      "canonical_publication_date": "2016-12-27",
+      "canonical_publication_year": 2016
+    },
+    "16358411": {
+      "title": "[Intervention of liuwei dihuang pill on lupus nephropathy treated with cylophosphamide and glucocorticoids].",
+      "abstract": "To investigate the intervening effect of Liuwei Dihuang pill (LWDH) on lupus nephropathy (LN) treated with glucocorticoids and cyclophosphamide (CTX). Sixty-four patients were randomly divided into two groups, all patients were treated by conventional treatment, using prednisone in standard program, and CTX in a daily dose of 8 - 12 mg/kg, accumulated dose < or = 150 mg/kg, by adding into 500 ml of 5% glucose in saline through intravenous dripping, as well as the symptomatic treatment. Patients in the treated group were given LWDH additionally. The curative effect in the treated group was significantly superior to that in the control group (P < 0.05). Laboratory indexes, including urinary protein, plasma protein and serum creatinine (SCr), erythrocyte sedimentation rate (ESR), complement C3, etc. were significantly improved in both groups (P < 0.01), but all the improvement, except that of SCr, in the treated group were superior to those in the control group respectively (P <0.05 or P <0.01). Besides, the recurrent rate and incidence rate of adverse reaction in the treated group was significant lower than those in the control group (P < 0.05 and P < 0.01). LWDH can significantly enhance the therapeutic effect of CTX and glucocorticoids on LN, decrease the recurrence and shows advantage in counteracting against the adverse effects of glucocorticoids and CTX.",
+      "year": 2005,
+      "journal": "Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine",
+      "doi": null,
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2005-11",
+      "canonical_publication_date": "2005-11",
+      "canonical_publication_year": 2005
+    },
+    "31819371": {
+      "title": "A Network Pharmacology-Based Strategy For Predicting Active Ingredients And Potential Targets Of LiuWei DiHuang Pill In Treating Type 2 Diabetes Mellitus.",
+      "abstract": "Traditional Chinese medicine (TCM) formulations have proven to be advantageous in clinical treatment and prevention of disease. LiuWei DiHuang Pill (LWDH Pill) is a TCM that was employed to treat type 2 diabetes mellitus (T2DM). However, a holistic network pharmacology approach to understanding the active ingredients and the therapeutic mechanisms underlying T2DM has not been pursued. A network pharmacology approach including drug-likeness evaluation, oral bioavailability prediction, virtual docking, and network analysis has been used to predict the active ingredients and potential targets of LWDH Pill in the treatment of type 2 diabetes. The comprehensive network pharmacology approach was successfully to identify 45 active ingredients in LWDH Pill. 45 active ingredients hit by 163 potential targets related to T2DM. Ten of the more highly predictive components (such as :quercetin, Kaempferol, Stigmasterol, beta-sitosterol, Kadsurenone, Diosgenin, hancinone C, Hederagenin, Garcinone B, Isofucosterol) are involved in anti-inflammatory, anti-oxidative stress, and the reduction of beta cell damage. LWDH Pill may play a role in the treatment of T2DM and its complications (atherosclerosis and nephropathy) through the AGE-RAGE signaling pathway, TNF signaling pathway, and NF-kappa B signaling pathway. Based on a systematic network pharmacology approach, our works successfully predict the active ingredients and potential targets of LWDH Pill for application to T2DM and helps to illustrate mechanism of action on a comprehensive level. This study provides identify key genes and pathway associated with the prognosis and pathogenesis of T2DM from new insights, which also demonstrates a feasible method for the research of chemical basis and pharmacology in LWDH Pill.",
+      "year": 2019,
+      "journal": "Drug design, development and therapy",
+      "doi": "10.2147/DDDT.S216644",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2019-11-28"
+      ],
+      "journal_issue_date": "2019",
+      "canonical_publication_date": "2019-11-28",
+      "canonical_publication_year": 2019
+    },
+    "15768870": {
+      "title": "[Clinical study on intervention of liuwei dihuang pill on hormonotherapy in treating nephrotic syndrome].",
+      "abstract": "To observe the intervention of liuwei dihuang pill (LDP) on therapeutic effectiveness and adverse reaction of hormonotherapy in treating nephrotic syndrome. Patients allocated in two groups were medicated with initial dose of prednisone 1 mg/kg once a day at 8 am in the morning. After being medicated for 8 to 12 weeks, the dose of prednisone was decreased by 5.0 mg every 2 weeks till 0.5 mg/kg per day. Then the medication was changed to that two days' dosage orally take once a day with the daily dose reduced by 5.0 mg/kg every 2 to 3 weeks, and maintained at 0.4 mg/kg once every two days. At same time, necessary symptomatic treatment was given. To the treated group oral administration of LDP 8 capsules was given additionally, 3 times per day until prednisone decreased to maintenance dose. Therapeutic effect in the treated group was significant better than that in the control group (P < 0.05). Urinary protein, plasma albumin, triglyceride (TG) and total cholesterol (TC) in both groups were obviously improved (P < 0.05 or P < 0.01). However, as compared with the control group, the improvement was better, and the recurrent rate was lower (P < 0.05) in the treated group. Scores of Yin-deficiency caused excessive Fire syndrome and incidence rate of adverse reaction in the treated group were lower than those in the control group (P < 0.05 or P < 0.01). LDP can markedly improve the therapeutic effectiveness and counteract the adverse reaction of hormonotherapy in treating nephrotic syndrome, and reduce the recurrence of the disease.",
+      "year": 2005,
+      "journal": "Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine",
+      "doi": null,
+      "publication_types": [
+        "Clinical Trial",
+        "English Abstract",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2005-02",
+      "canonical_publication_date": "2005-02",
+      "canonical_publication_year": 2005
+    },
+    "28099346": {
+      "title": "Liuwei Dihuang pill treats diabetic nephropathy in rats by inhibiting of TGF-β/SMADS, MAPK, and NF-kB and upregulating expression of cytoglobin in renal tissues.",
+      "abstract": "Liuwei Dihuang pill (LDP) was assessed for its effects on renal deficiency.90 STZ induced DN rats were divided into groups (n = 22) without treatment (STZ) and LDP treated (STZ-L) (n = 23), Zhenwu decoction treated (STZ-Z) (n = 22), and valsartan treated (STZ-V) (n = 23) groups, with 16 normal control rats. Total urine protein (TP), blood urea nitrogen (BUN), and serum creatinine (Cr) were measured. Superoxide dismutase (SOD), nitric oxide synthase (NOS), and malondialdehyde (MDA) concentrations as well as expression/phosphorylation of SMAD3, SMAD2, and α-SMA, TGF-β, RI /II, P38, ERK, and NF-kB in renal tissues were determined. In vitro experiments analyzed the effect of enhanced TGF-β containing rat serums of the STZ groups on mesangial cells with and without transient transfection with a cytoglobin-containing plasmid.LDP treatment reduced the kidney coefficient, serum creatinine, blood urea nitrogen, and urine protein and prevented pathological changes. Expression of SOD and NOS in kidney tissue was increased but MDA expression reduced. LDP modulated multiple pathways, and its administration inhibited the phosphorylation of SMADS, ERK, p38, and the expression of NF-kB, α-SMA, and TGF-β RI/II, and upregulated the expression of cytoglobin. In vitro studies revealed that overexpression of cytoglobin suppressed phosphorylation of Smad2, ERK, and p38 induced by TGF-β and expression of NF-kB, α-SMA, and TGF-β RI.LDP prevented renal fibrosis and protected glomerular mesangial cells by upregulation of cytoglobin and suppression of multiple pathways involving TGF-β/SMADS, MAPK, NF-kB signaling.",
+      "year": 2017,
+      "journal": "Medicine",
+      "doi": "10.1097/MD.0000000000005879",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2017-01",
+      "canonical_publication_date": "2017-01",
+      "canonical_publication_year": 2017
+    },
+    "37579922": {
+      "title": "Rehmannia glutinosa Libosch and Cornus officinalis Sieb herb couple ameliorates renal interstitial fibrosis in CKD rats by inhibiting the TGF-β1/MAPK signaling pathway.",
+      "abstract": "Herb couple Rehmannia glutinosa Libosch and Cornus officinalis Sieb (RC), originated from \"Liuwei Dihuang Pill\" which recorded in Key to Therapeutics of Children's Diseases. Traditionally, they have been used widely for their ability to nourish yin and energize the kidneys. Our previous study indicated that the RC could protect against adenine induced Chronic kidney disease (CKD) rats. Nevertheless, there is still no clear explanation of the mechanisms by which RC affects renal interstitial fibrosis in CKD rats. Current Work aims to explore the amelioration and potential mechanism of RC on renal interstitial fibrosis in CKD rats. CKD rats were induced by adenine. Two weeks after administration, blood, urine, and kidney tissue were collected for biochemical analysis. Observing the physiological state of rats through the changes of rat body weight and renal index. The pro-inflammatory cytokines were measured by enzyme linked immunosorbent assay (ELISA), while renal tissue damage and fibrosis were assessed with Hematoxylin-eosin staining (H&E) and Masson's trichrome staining. In order to determine the levels of indicators and proteins associated with fibrosis signaling pathways, real time PCR (Rt-PCR), Western blot (WB), and immunofluorescence were employed. The renal interstitial fibrosis led to impaired cellular functions with increased the levels of Blood Urea Nitrogen (BUN), Urine protein (UP), Interleukin-1β (IL-1β), Interleukin-6 (IL-6), and Tumor Necrosis Factor alpha (TNF-α). and simultaneous up-regulated collagenⅠ(COL-1), fibronection (FN), α-smooth muscle actin (a-SMA), transforming growth factor-β1 (TGF-β1), c-Jun N-terminal kinase (JNK), p38 and extracellular regulated protein kinases (ERK), down-regulated the expression of the E-cadherin proteins. RC notably improved renal dysfunction in CKD rats as indicated by decreases in BUN, UP, and renal index. In addition, consistent with the morphological changes of renal tissue, renal interstitial fibrosis in CKD rats after RC intervention was significantly improved, mainly manifested by a decrease in the positive expression of COL-1, FN, and a-SMA, and increased levels of E-cadherin protein. Meanwhile, RC reduced the classical pro-inflammatory cytokines IL-1β, IL-6, and TNF-α in adenine-induced CKD rats. Additionally, RC administration also down-regulated TGF-β1, JNK, p38 and ERK. In conclusion, RC may reduce inflammation in adenine induced CKD rats, improve extracellular matrix (ECM) components deposition, and diminish epithelial-mesenchymal transition (EMT) marker protein levels. Furthermore, RC intervention significantly reduces the release of inflammatory cytokines and inhibits the TGF-β1/MAPK signaling pathway. Based on the results, RC might be useful in the treatment of adenine induced renal fibrosis.",
+      "year": 2023,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2023.117039",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-08-12"
+      ],
+      "journal_issue_date": "2024-01-10",
+      "canonical_publication_date": "2023-08-12",
+      "canonical_publication_year": 2023
+    },
+    "27491224": {
+      "title": "[Treatment of Early Diabetic Retinopathy by Liuwei Dihuang Pill Combined Ginkao Leaf Tablet].",
+      "abstract": "To observe the prevention and clinical efficacy of combination of Liuwei Dihuang Pill (LDP) and Ginkgo Leaf Tablet (GLT) for early diabetic retinopathy (DR). Using randomized, double-blind, double simulation, parallel controlled clinical trial, 140 type 2 diabetes mellitus (T2DM) outpatients were recruited and assigned to the treatment group and the control group, 70 in each group. All patients received basic Western medicine treatment (such as blood glucose and pressure control). Patients in the treatment group took LDP (8 pills each time, 3 times per day) and GLT (19.2 mg each time, 3 times per day), while those in the control group took LDP placebos and GLT placebos. All treatment lasted for 24 consecutive months. All subjects were followed-up every month. The general clinical data as sex, age, and metabolic data such as blood glucose, blood pressure, blood lipid, and DR prevalence rate were collected and statistically analyzed. There was no significant difference in levels of blood glucose, blood pressure, or blood lipid between the two groups (P > 0.05). After treatment the DR incidence rate was significantly lower in the treatment group than in the control group [3.1% (2/64) vs 18.6% (11/59), P < 0.05)]. Meanwhile, the DR prevalence rate of the treatment group was also significantly lower than that of the control group [6.3% (4/64) vs 20.0% (13/59), P < 0.05]. Combination of LDP and GLT could effectively prevent and treat the development of DR in T2DM patients.",
+      "year": 2016,
+      "journal": "Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine",
+      "doi": null,
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2016-06",
+      "canonical_publication_date": "2016-06",
+      "canonical_publication_year": 2016
+    },
+    "35777608": {
+      "title": "Study on the pharmacodynamic effect of Rhizoma Dioscoreae polysaccharides on cerebral ischemia-reperfusion injury in rats and the possible mechanism.",
+      "abstract": "Rhizoma Dioscoreae (RD) is the rhizome of Dioscorea opposita Thunb., a traditional Chinese medicine, which can treat hypertension, diabetes, cerebral vasospasm headache and Alzheimer's disease. Meanwhile, RD is the main component of Liuwei Dihuang pill, a Chinese patent medicine. Rhizoma Dioscoreae polysaccharides (RDPS) are the primary active ingredient of RD. Modern medical research confirmed RDPS has multiple pharmacological effects, including neuroprotection, immunoregulation, antioxidant effect in many organs. The primary ischemia/hypoxia injury and secondary reperfusion injury are mainly caused by oxidative stress, which caused by hypoxia, such as free radical generation, energy metabolism disorder, intracellular calcium overload, excitatory amino acid release and inflammatory reaction. We have investigated the pharmacodynamic effect of RDPS on cerebral ischemia-reperfusion (IR) injury in rats and the possible mechanism in vitro. The pharmacodynamic effect of RDPS on IR injury in rats was studied by the construction of the occlusion of middle cerebral artery (MCAO) model, measuring the volume of cerebral infarct area, the content of oxidation index, inflammatory cytokines, and the expression of CaMMKβ in brain tissue. The in vitro study was explored by oxygen-glucose deprivation/glycogen reoxygenation (OGD/R) model, construction of the CaMMKβ interference sequence, measuring the expression of CaMMKβ in BV2 cells before and after inhibition of CaMMKβ, and the influence of RDPS on Nrf2/HO-1 signal pathway, in order to investigate the possible mechanism. Compared with the model group, the present study showed that RDPS with high-dose and low-dose groups could significantly reduce the volume of cerebral infarction. The content of MDA decreased and the activities of GSH and SOD increased in the two dose groups of RDPS. We confirmed that after RDPS treatment, the levels of IL-6, IL-1 β and TNF-α in brain tissue were lower than those in model group, and the expression of CaMMKβ in brain tissue of rats decreased in the model group, but increased in the groups of RDPS. In the in vitro study, compared with the control group, RDPS could regulate the OGD/R-induced apoptosis of BV2 cells and increase the level of CaMMKβ, Nrf2 and HO-1 induced by OGD/R. To our surprise, these therapeutic effects are no longer present after the inhibition of CaMMKβ protein. The activity of BV2 induced by OGD/R could not be enhanced by RDPS after the inhibition of CaMMKβ protein. RDPS has the pharmacodynamic effect in IR injury, which reduce the area of cerebral infarction, up-regulate the activity of anti-oxidant kinase, and down-regulate the inflammatory cytokine. Additionally, RDPS could affect the activation of Nrf2/HO-1 signaling pathway by regulating the expression of CaMMKβ. Our observations justify the RDPS could be a new strategy for IR injury therapy, and the mechanism may be related to the improvement of antioxidant enzyme activity and inhibition of inflammatory reaction.",
+      "year": 2022,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2022.115517",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-06-28"
+      ],
+      "journal_issue_date": "2022-10-05",
+      "canonical_publication_date": "2022-06-28",
+      "canonical_publication_year": 2022
+    },
+    "34840588": {
+      "title": "Study of the Therapeutic Effects of Chinese Herbal Decoction Combined with Glucocorticoid in Treating Primary Nephrotic Syndrome in Children.",
+      "abstract": "To investigate the clinical effects of Chinese medicine decoction combined with glucocorticoid in treating children with primary nephrotic syndrome. A total of 70 children with pediatric nephritis nephrotic syndrome treated at Weifang People's Hospital from January 2019 to December 2019 were randomly allocated to the therapy group and the control group, each with 35 cases. The control group was treated with conventional Western medicine, and the therapy group received Western medicine and Chinese medicine. After 12 weeks of treatment, the therapeutic effect of the two groups was compared. After receiving the treatment, the levels of urine protein (UPro), triglyceride, and cholesterol were significantly decreased in the two groups (p < 0.05), and these levels in the therapy group were much lower than those of the control group (p < 0.05). However, the level of albumin (ALB) was predominantly increased in the two groups after treatment (p < 0.05), and this level in the therapy group was much higher than that of the control group (p < 0.05). Moreover, the immune indicators, coagulation function, and recurrence rate were noticeably improved after treatment (p < 0.05), and the therapy group was better than the control group (p < 0.05). Furthermore, the comparison of renal function indexes, liver function indexes, and blood routine between the two groups showed no statistical significance in the incidence of adverse reactions between the two groups (p > 0.05). For the treatment of refractory nephrotic syndrome in children, based on conventional shock therapy, the addition of traditional Chinese medicine (Liuwei Dihuang pill decoction) remedy can significantly improve the disease symptoms in children and improve the efficacy, and the incidence of adverse reactions is low.",
+      "year": 2021,
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "doi": "10.1155/2021/4434504",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2021-11-19"
+      ],
+      "journal_issue_date": "2021",
+      "canonical_publication_date": "2021-11-19",
+      "canonical_publication_year": 2021
+    },
+    "20518312": {
+      "title": "[Effect of Liuwei Dihuang pill on expression of NF-kappaB in kidney lesion induced by gentamicin in rats].",
+      "abstract": "To study the effect of Liuwei Dihuang Pill on kidney lesion in rats induced by gentamicin and its mechanism. Rats were divided into three groups: control group, gentamicin group, Liuwei Dihuang Pill group randomly. Parameters of kidney function and oxidative production in three groups were tested by biochemical analysis. Nuclear Factor-kappaB (NF-kappaB) protein were determined by western blotting. Parameters of weight, kidney indexes, oxidative production MDA and enzyme activity of NOS in kidney cortex of gentamicin group significantly increased (P < 0.05), and enzyme activity of SOD significantly decreased (P < 0. 05). The protein expression of NF-kappaB in gentamicin group was significantly up-regulated. After treatment with Liuwei Dihuang Pill, the above-mentioned up-regulated parameters were all significantly inhibited. Liuwei Dihuang Pill can inhibit the expression of NF-kappaB protein, so as to alleviate the renal oxidative lesion, and it may be one of the important mechanisms for treating gentamicin induced kidney lesion.",
+      "year": 2010,
+      "journal": "Zhong yao cai = Zhongyaocai = Journal of Chinese medicinal materials",
+      "doi": null,
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2010-01",
+      "canonical_publication_date": "2010-01",
+      "canonical_publication_year": 2010
+    },
+    "7877343": {
+      "title": "Effects of liuwei dihuang wan [symbol: see text:bd and some other TCM drugs on bone biomechanics and serum 25 (OH)D3 content in rats.",
+      "abstract": "After a relatively long-term injection of hydrocortisone into rats, the strength of bone (anti-stress capacity) reduced evidently, while the rigidity (anti-deformity capacity) increased markedly (ie, bone fragility elevated). At the same time, the content of serum 25(OH)D3 decreased remarkably. After oral administration of Liuwei Dihuang Wan ([see symbol: see text]), anti-stress capability of bone increased evidently and its anti-deformity capability returned to normal; however, there was no elevation of serum 25(OH)D3 content. The effect of Longmu Zhuanggu Chongji ([see symbol: see text]) or Jisheng Shenqi Wan (see symbol: see text]) was lower than that of Liuwei Dihuang Wan. The experiments suggests that Liuwei Dihuang Wan is beneficial to preventing and curing osteoporosis, but no correlation between its mechanism and the metabolism of 25(OH)D3 was demonstrated.",
+      "year": 1994,
+      "journal": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan",
+      "doi": null,
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "1994-12",
+      "canonical_publication_date": "1994-12",
+      "canonical_publication_year": 1994
+    },
+    "29212201": {
+      "title": "Predicting new indications of compounds with a network pharmacology approach: Liuwei Dihuang Wan as a case study.",
+      "abstract": "With the ever increasing cost and time required for drug development, new strategies for drug development are highly demanded, whereas repurposing old drugs has attracted much attention in drug discovery. In this paper, we introduce a new network pharmacology approach, namely PINA, to predict potential novel indications of old drugs based on the molecular networks affected by drugs and associated with diseases. Benchmark results on FDA approved drugs have shown the superiority of PINA over traditional computational approaches in identifying new indications of old drugs. We further extend PINA to predict the novel indications of Traditional Chinese Medicines (TCMs) with Liuwei Dihuang Wan (LDW) as a case study. The predicted indications, including immune system disorders and tumor, are validated by expert knowledge and evidences from literature, demonstrating the effectiveness of our proposed computational approach.",
+      "year": 2017,
+      "journal": "Oncotarget",
+      "doi": "10.18632/oncotarget.21398",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2017-09-30"
+      ],
+      "journal_issue_date": "2017-11-07",
+      "canonical_publication_date": "2017-09-30",
+      "canonical_publication_year": 2017
+    },
+    "23646486": {
+      "title": "[Regulation effects of liuwei dihuang pill, jingui shenqi pill, jiangu erxian pill containing serums on adipogenic and osteogenic differentiation-related genes expressions in the differentiation process of preadipocytes to osteoblasts].",
+      "abstract": "To study the effects of Chinese medical recipes for invigorating Shen on rat bone marrow mesenchymal stem cells (BMSCs)-derived preadipocytes' differentiation to osteoblasts. The BMSCs were cultured using whole bone marrow adherence wall method. The BMSCs were induced to preadipocytes by classic chemical method. The osteogenic differentiation process of preadipocytes was intervened by Liuwei Dihuang Pill (LDP), Jingui Shenqi Pill (JSP), or Jiangu Erxian Pill (JEP)-containing serums (with the concentRation of 10%, on behalf of tonifying Shen yin, tonifying Shen yang, and tonifying Shen essence). Reverse transcription-real time fluorescent quantitative-PCR (RT real time qPCR) was used to detect RUNX2, ALP, BGP, BMP2, BMP4, SPP1, and IGF1 mRNA expressions of osteogenic differentiation-related genes, mRNA expressions of LPL, FABP4, and PPARgamma of adipogenic differentiation-related genes on the 6th, the 12th, and the 18th day. As for the osteogenic differentiation-related gene, when compared with the control group, there was no statistical difference in the gene expression level in the experimental groups on the 6th day (2.0 > Ratio > 0.5). On the 12th day, the mRNA expressions of IGF1 and Runx2 increased more significantly in the JSP group, with their relative quantification (Ratio) being 2.97 and 1.81 respectively. On the 18th day the IGF1 mRNA expression significantly increased, being the Ratio value of 3.74, 12.60, and 8.35, respectively, in the LDP group, the JSP group, and the JEP group. The SPP1 mRNA expression also significantly increased, with the Ratio value of 2.94, 3.18, and 2.62, respectively, in the LDP group, the JSP group, and the JEP group. As for adipogenic differentiation-related genes, on the 6th day, when compared with the control group, FABP4 mRNA expression significantly decreased in the LDP group and the JSP group (with the Ratio value of 0.47 and 0.40 respectively). The expression levels of other genes were all down-regulated, but not significantly. On the 12th day and 18th day, there was no statistical change in the adipogenic differentiation-related genes expressions (2.0 > Ratio > 0.5). Up-regulation of osteogenic differentiation-related genes expression occurred in later time, while down-regulation of adipogenic differentiation-related genes expression occurred in earlier time after treatment by Chinese medical recipes for invigorating Shen. In general, above data indicated that tonifying Shen yang was more effective in promoting osteogenic differentiation and inhibiting adipogenic differentiation of BMSCs.",
+      "year": 2013,
+      "journal": "Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine",
+      "doi": null,
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2013-02",
+      "canonical_publication_date": "2013-02",
+      "canonical_publication_year": 2013
+    },
+    "21749830": {
+      "title": "[Effects of Chinese herbal medicine Liuwei Dihuang Pill and its main monomer catalpol on transforming growth factor-β1/Smad pathway in HK-2 cells].",
+      "abstract": "To observe the effects of sera containing Liuwei Dihuang Pill (LDP), a compound traditional Chinese herbal medicine, and its monomer catalpol on transforming growth factor-β1 (TGF-β1)/Smad pathway in HK-2 cells. Wistar rats were intragastrically administered with LDP twice daily for 3 days and then sera were obtained. HK-2 cells were cultured at different concentrations of serum containing LDP. Lactate dehydrogenase (LDH) activity in the medium and cell activity, tested by methyl thiazolyl tetrazolium (MTT) method, were combined to determine the best concentration of the pill. Hepatocyte growth factor (HGF) was used as a positive control, while Western blotting was applied to observe the effects of sera containing LDP and catalpol on Smad2 phosphorylation and protein expressions of Smad2, Smad7 and SnoN. The 10% concentration of serum containing LDP was selected to carry out this study, as it showed no change of LDH activity in the medium and vitality of cells cultured with serum from normal rats. Similar to the mechanisms of HGF, the 10% concentration of serum containing LDP significantly inhibited the phosphorylation of Smad2 protein and up-regulated the expression of the Smad transcriptional co-repressor SnoN in TGF-β1-stimulated HK-2 cells. Catalpol inhibited phosphorylation of Smad2 without affecting SnoN protein expression. Neither serum containing LDP nor catalpol showed typical regulation effects on Smad7 expression in TGF-β1-stimulated HK-2 cells. Serum containing LDP at 10% concentration has a potent antagonistic action on TGF-β1/Smad pathway in TGF-β1-stimulated HK-2 cells, which is similar to HGF. Catalpol is one of the most important monomers and plays a key role in LDP.",
+      "year": 2011,
+      "journal": "Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine",
+      "doi": "10.3736/jcim20110713",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2011-07",
+      "canonical_publication_date": "2011-07",
+      "canonical_publication_year": 2011
+    },
+    "25612423": {
+      "title": "[Study on fluorescence sequencing typing technology identification of raw materials in liuwei dihuang pill].",
+      "abstract": "In this paper, Liuwei Dihuang pill was used to study the identification of Chinese patent medicine by fluorescence sequencing typing technology. The DNA of Paeonia suffruticosa was used as template to amplify by five pair of FAM fluorescence labeling primers. Then, the amplified products were sequenced. The sequencing results were analyzed by GeneMarker V1.80 to screen the best fluorescence labeling primers. As a result, psbA-trnH fluorescence labeling primer was used to identify the raw materials of Liuwei Dihuang pill. The results showed that three kinds of raw plant medicinal materials in Liuwei Dihuang pill were able to be correctly identified by psbA-trnH fluorescence labeling primer. The fluorescence sequencing typing technology can stably and accurately distinguish raw medicinal materials in Chinese patent medicine.",
+      "year": 2014,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": null,
+      "publication_types": [
+        "Evaluation Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2014-10",
+      "canonical_publication_date": "2014-10",
+      "canonical_publication_year": 2014
+    },
+    "29071866": {
+      "title": "[Antiasthmatic effects of different tonifying kidney-Yin formulas and their effects on airway remodeling in chronic asthma].",
+      "abstract": "Both of Zuogui Wan(ZGW) and Liuwei Dihuang Wan(LWDHW) contain ingredients of Sanbufang(SBF), which have been proven to have antiasthmatic effects. In order to study the antiasthmatic effects of the three tonifying kidney-Yin formulas and their mechanisms, BALB/c mice were randomly divided into 5 groups. Chronic asthma was induced by ovalbumin. Mice in treated groups were respectively given 49.0 g•kg⁻¹ZGW, 35.0 g•kg⁻¹LWDHW and 22.4 g•kg⁻¹SBF by gavage. Those in normal and model group were given normal saline. After treatment, sneeze and nose scratching times of mice were observed. Histological lung sections were prepared to determine the basement membrane thickness(BMT), smooth muscle thickness(SMT), collagen area(CA) and numbers of goblet cells(GCN). Western blotting and RT-PCR were used to determine the expression levels of MMP-9, TGF-β1, Smad2, Smad3 and Smad7. The results showed that sneeze and nose scratching times of ZGW group were significantly lower than those of SBF group. Its inhibition degree on airway remodeling was significantly higher than SBF group. Sneeze and nose scratching times of LWDHW group were significantly lower than SBF group. Its CA and GCN were significantly lower than SBF group. Regarding the four airway remodeling related factors, MMP-9, TGF-β1, Smad2 and Smad3 of ZGW group were significantly lower than those of SBF group, and its Smad7 was significantly higher than SBF. Smad7 of LWDHW group was significantly higher than SBF. There was no significant difference in MMP-9 between model group and SBF group. The results indicate that there are significant differences in the antiasthma effect of these tonifying kidney-Yin formulas. The regulatory effects of ZGW and LWDHW on MMP-9 and Smad7 may be correlated with the differences in the inhibitory effect of airway remodeling of the three formulas.",
+      "year": 2017,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20170222.017",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2017-04",
+      "canonical_publication_date": "2017-04",
+      "canonical_publication_year": 2017
+    }
+  }
+}

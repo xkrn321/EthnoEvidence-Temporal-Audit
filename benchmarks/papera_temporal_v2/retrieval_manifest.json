@@ -1,0 +1,14 @@
+{
+  "protocol_id": "papera_temporal_v2",
+  "generated_at": "2026-08-29",
+  "formula_count": 14,
+  "canonical_date_policy": "first_article_date_else_journal_issue_date",
+  "primary_evaluation_window": "2023-01-01 to 2025-12-31",
+  "train_article_count": 593,
+  "test_article_count": 339,
+  "test_proxy_eligible_article_count": 129,
+  "train_test_disjoint_within_formula": true,
+  "screening_row_count": 339,
+  "gold_labels_present": false,
+  "note": "Automated retrieval/triage only; status notices and non-exact formula records are retained in the ledger but excluded from any automated proxy. Dual manual screening remains required."
+}

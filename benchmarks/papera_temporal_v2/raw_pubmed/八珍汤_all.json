@@ -1,0 +1,166 @@
+{
+  "formula": "八珍汤",
+  "window": "all",
+  "query": "(\"Bazhen Decoction\"[Title/Abstract] OR \"Bazhen Tang\"[Title/Abstract]) AND (mechanism*[Title/Abstract] OR pathway*[Title/Abstract] OR gene*[Title/Abstract] OR protein*[Title/Abstract] OR pharmacolog*[Title/Abstract]) AND (\"1900/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication]) NOT (\"Comment\"[Publication Type] OR \"Editorial\"[Publication Type] OR \"Letter\"[Publication Type] OR \"Meta-Analysis\"[Publication Type] OR \"News\"[Publication Type] OR \"Review\"[Publication Type] OR \"Systematic Review\"[Publication Type])",
+  "retrieved_at": "2026-08-29",
+  "pmids": [
+    "37799727",
+    "38163559",
+    "25222049",
+    "39821540",
+    "37478218",
+    "28459513",
+    "36247864",
+    "30814073",
+    "17370502"
+  ],
+  "records": {
+    "37799727": {
+      "title": "Mechanism of Bazhen decoction in the treatment of colorectal cancer based on network pharmacology, molecular docking, and experimental validation.",
+      "abstract": "Bazhen Decoction (BZD) is a common adjuvant therapy drug for colorectal cancer (CRC), although its anti-tumor mechanism is unknown. This study aims to explore the core components, key targets, and potential mechanisms of BZD treatment for CRC. The Traditional Chinese Medicine Systems Pharmacology (TCMSP) was employed to acquire the BZD's active ingredient and targets. Meanwhile, the Drugbank, Therapeutic Target Database (TTD), DisGeNET, and GeneCards databases were used to retrieve pertinent targets for CRC. The Venn plot was used to obtain intersection targets. Cytoscape software was used to construct an \"herb-ingredient-target\" network and identify core targets. GO and KEGG pathway enrichment analyses were conducted using R language software. Molecular docking of key ingredients and core targets of drugs was accomplished using PyMol and Autodock Vina software. Cell and animal research confirmed Bazhen Decoction efficacy and mechanism in treating colorectal cancer. BZD comprises 173 effective active ingredients. Using four databases, 761 targets related to CRC were identified. The intersection of BZD and CRC yielded 98 targets, which were utilized to construct the \"herb-ingredient-target\" network. The four key effector components with the most targets were quercetin, kaempferol, licochalcone A, and naringenin. Protein-protein interaction (PPI) analysis revealed that the core targets of BZD in treating CRC were AKT1, MYC, CASP3, ESR1, EGFR, HIF-1A, VEGFR, JUN, INS, and STAT3. The findings from molecular docking suggest that the core ingredient exhibits favorable binding potential with the core target. Furthermore, the GO and KEGG enrichment analysis demonstrates that BZD can modulate multiple signaling pathways related to CRC, like the T cell receptor, PI3K-Akt, apoptosis, P53, and VEGF signaling pathway. In vitro, studies have shown that BZD dose-dependently inhibits colon cancer cell growth and invasion and promotes apoptosis. Animal experiments have shown that BZD treatment can reverse abnormal expression of PI3K, AKT, MYC, EGFR, HIF-1A, VEGFR, JUN, STAT3, CASP3, and TP53 genes. BZD also increases the ratio of CD4+ T cells to CD8+ T cells in the spleen and tumor tissues, boosting IFN-γ expression, essential for anti-tumor immunity. Furthermore, BZD has the potential to downregulate the PD-1 expression on T cell surfaces, indicating its ability to effectively restore T cell function by inhibiting immune checkpoints. The results of HE staining suggest that BZD exhibits favorable safety profiles. BZD treats CRC through multiple components, targets, and metabolic pathways. BZD can reverse the abnormal expression of genes such as PI3K, AKT, MYC, EGFR, HIF-1A, VEGFR, JUN, STAT3, CASP3, and TP53, and suppresses the progression of colorectal cancer by regulating signaling pathways such as PI3K-AKT, P53, and VEGF. Furthermore, BZD can increase the number of T cells and promote T cell activation in tumor-bearing mice, enhancing the immune function against colorectal cancer. Among them, quercetin, kaempferol, licochalcone A, naringenin, and formaronetin are more highly predictive components related to the T cell activation in colorectal cancer mice. This study is of great significance for the development of novel anti-cancer drugs. It highlights the importance of network pharmacology-based approaches in studying complex traditional Chinese medicine formulations.",
+      "year": 2023,
+      "journal": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2023.1235575",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-09-20"
+      ],
+      "journal_issue_date": "2023",
+      "canonical_publication_date": "2023-09-20",
+      "canonical_publication_year": 2023
+    },
+    "38163559": {
+      "title": "The function of Bazhen decoction in rescuing progeroid cell senescence via facilitating G-quadruplex resolving and telomere elongation.",
+      "abstract": "The Bazhen decoction is one of the most extensively used Traditional Chinese medicine (TCM) prescriptions for treatment of aging related diseases. However, due to the complexity of the components, the pharmacological mechanism of Bazhen decoction is still limited. In this study, with the aim of helping the clinical precision medicine of TCM, we try out a systematic analysis for dissecting the molecular mechanism of complicated TCM prescription: Bazhen decoction. We identify the pharmacological mechanism of Bazhen decoction in telomere elongation as revealed by systematic analysis. By RNA sequencing and transcriptome analysis of Bazhen decoction treated wild type cells, we reveal the transcriptome profile induced by Bazhen decoction. We utilized the cells derived from Werner syndrome (WS) mice, which is known to be dysfunctional in telomere elongation due to the deficiency of DNA helicase Wrn. By Western blot, qPCR, Immunofluorescence, flow cytometry, telomere FISH, and SA-β-Gal staining, we verify the transcriptome data and confirm the pharmacological function of Bazhen decoction and its drug containing serum in telomere elongation and reversing progeroid cell senescence. We reveal that Bazhen decoction may systematically regulate multiple anti-aging pathways, including stem cell regulation, protein homeostasis, cardiovascular function, neuronal function, anti-inflammation, anti-DNA damage induced stress, DNA helicase activity and telomere lengthening. We find that Bazhen decoction and its drug containing serum could up-regulate multiple DNA helicases and telomere regulating proteins. The increased DNA helicases promote the resolving of G-quadruplex (G4) structures, and facilitate DNA replication and telomere elongation. These improvements also endow the cellular resistance to DNA damages induced by replication stress, and rescue the WS caused cellular senescence. Together these data suggest that Bazhen decoction up-regulate the expression of DNA helicases, thus facilitate G4 resolving and telomere maintenance, which rescue the progeroid cellular senescence and contribute to its anti-aging properties. Our data reveal a new molecular mechanism of Bazhen decoction in anti-aging related diseases via elongating telomere, this may shed light in the application of Bazhen decoction in multiple degenerative diseases caused by telomere erosion.",
+      "year": 2023,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2023.117694",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-12-30"
+      ],
+      "journal_issue_date": "2024-04-06",
+      "canonical_publication_date": "2023-12-30",
+      "canonical_publication_year": 2023
+    },
+    "25222049": {
+      "title": "Bazhen decoction protects against acetaminophen induced acute liver injury by inhibiting oxidative stress, inflammation and apoptosis in mice.",
+      "abstract": "Bazhen decoction is a widely used traditional Chinese medicinal decoction, but the scientific validation of its therapeutic potential is lacking. The objective of this study was to investigate corresponding anti-oxidative, anti-inflammatory and anti-apoptosis activities of Bazhen decoction, using acetaminophen-treated mice as a model system. A total of 48 mice were divided into four groups. Group I, negative control, treated with vehicle only. Group II, fed with 500 mg/kg/day Bazhen decoction for 10 continuous days. Group III, received a single dose of 900 mg/kg acetaminophen. Group IV, fed with 500 mg/kg/day Bazhen decoction for 10 continuous days and a single dose of 900 mg/kg acetaminophen 30 min before last Bazhen decoction administration. Bazhen decoction administration significantly decrease acetaminophen-induced serum ALT, AST, ALP, LDH, TNF-α, IL-1β, ROS, TBARS and protein carbonyl group levels, as well as GSH depletion and loss of MMP. Bazhen decoction restore SOD, CAT, GR and GPx activities and depress the expression of pro-inflammatory factors, such as iNOS, COX-2, TNF-α, NF-κB, IL-1β and IL-6, respectively. Moreover, Bazhen decoction down-regulate acetaminophen-induced Bax/Bcl-2 ratio, caspase 3, caspase 8 and caspase 9. These results suggest the anti-oxidative, anti-inflammatory and anti-apoptosis properties of Bazhen decoction towards acetaminophen-induced liver injury in mice.",
+      "year": 2014,
+      "journal": "PloS one",
+      "doi": "10.1371/journal.pone.0107405",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2014-09-15"
+      ],
+      "journal_issue_date": "2014",
+      "canonical_publication_date": "2014-09-15",
+      "canonical_publication_year": 2014
+    },
+    "39821540": {
+      "title": "Investigating the Role of Quercetin, an Active Ingredient in Bazhen Decoction, in Targeting CXCL8 to Inhibit Macrophage M2 Polarization and Reshape the Immunological Microenvironment of Colorectal Cancer.",
+      "abstract": "Bazhen Decoction (Eight Treasures Decoction) has demonstrated efficacy in the treatment of colorectal cancer (CRC), yet the active ingredients in it and the mechanisms underlying their anti-cancer properties are not well understood. Through network pharmacology, the effective components of Bazhen Decoction against CRC and their corresponding key genes were delineated. Molecular docking was executed to identify the active component targeting the key gene CXCL8, which led to the discovery of Quercetin. The cellular thermal shift assay method was then used to verify the binding interaction. CRC cells were treated with incremental concentrations of Quercetin, cell viability was evaluated by the Cell Counting Kit-8 assay to calculate the IC50, and apoptosis rates were determined by flow cytometry. Expression of the apoptosis-related proteins Bcl-2 and Cleaved caspase-3 was measured using western blot. The impact of Quercetin on macrophage polarization was studied by co-culturing the treated CRC cells with macrophages, assessing M1 and M2 macrophage distribution via flow cytometry, and quantifying cytokine levels (IL-6, IL-10, IL-12, and CXCL8) with enzyme-linked immunosorbent assay (ELISA). The active ingredient Quercetin from Bazhen Decoction exhibited a targeted binding affinity with the key gene CXCL8, which enabled it to inhibit the proliferation of CRC cells and induce cell apoptosis. The overexpression of CXCL8 was associated with the promotion of CRC malignancy, yet the presence of Quercetin could lessen the impact of CXCL8 overexpression on CRC cells. Moreover, the treatment with Quercetin leads to a diminished abundance of M2 macrophages and an increase in the levels of cytokines IL-6 and IL-12, while reducing the levels of IL-10 and CXCL8, which indicates that Quercetin has an inhibitory effect on macrophage M2 polarization. Quercetin, the active component in Bazhen Decoction that is known for anti-CRC effects, targets and inhibits CXCL8 to impede the malignant behaviors and the M2 polarization of macrophages. Thus, Quercetin may be utilized as an immunomodulatory agent in CRC treatment.",
+      "year": 2025,
+      "journal": "Chemical biology & drug design",
+      "doi": "10.1111/cbdd.70047",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2025-01",
+      "canonical_publication_date": "2025-01",
+      "canonical_publication_year": 2025
+    },
+    "37478218": {
+      "title": "Exploring the active components and mechanism of modified bazhen decoction in treatment of chronic cerebral circulation insufficiency based on network pharmacology and molecular docking.",
+      "abstract": "Modified bazhen decoction (MBZD) is a classical Chinese medicine formula with potential efficacy in the treatment of chronic cerebral circulation insufficiency (CCCI), and its main components and potential mechanisms are still unclear. The study aimed to investigate the active ingredients and mechanism of action of MBZD in treating CCCI through network pharmacology combined with molecular docking. The chemical composition and targets of 11 Chinese herbs in MBZD were retrieved utilizing the traditional Chinese medicine systems pharmacology database and analysis platform platform, and the targets for CCCI were screened by Genecards, online mendelian inheritance in man, therapeutic target database, and comparative toxicogenomics database databases. The targets were genetically annotated with the Uniprot database. We created a compound-target network employing Cytoscape software and screened the core targets for the treatment of CCCI by CytoNCA clustering analysis; the AutoDock Vina program performed molecular docking study of crucial targets. One thousand one hundred ninety-one active compounds were obtained, 2210 corresponding targets were predicted, 4971 CCCI-related targets were obtained, and 136 intersecting genes were identified between them. The central core targets were IL6, MAPK14, signal transducer and activator of transcription 3, RELA, VEGFA, CCND1, CASP3, AR, FOS, JUN, EGFR, MAPK1, AKT1, MYC, and ESR1; gene ontology functional enrichment analysis yielded 911 gene ontology items (P < .01), while Kyoto Encyclopedia of Genes and Genomes pathway enrichment yielded 138 signal pathways (P < .01), primarily including oxidative reactions, vascular regulation, apoptosis, and PI3K-Akt signaling pathway. The molecular docking results showed that the core active component of MBZD had good binding with the main target. This research initially uncovered the mechanism of action of MBZD via multi-component-multi-target-multi-pathway for the treatment of CCCI, providing the theoretical basis for the clinical application of MBZD.",
+      "year": 2023,
+      "journal": "Medicine",
+      "doi": "10.1097/MD.0000000000034341",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2023-07-21",
+      "canonical_publication_date": "2023-07-21",
+      "canonical_publication_year": 2023
+    },
+    "28459513": {
+      "title": "Effects and mechanisms of Bazhen decoction, Siwu decoction, and Sijunzi decoction on 5-fluorouracil-induced anemia in mice.",
+      "abstract": "To investigate the effects of Bazhen decoction (BZD), Siwu decoction (SWD) and Sijunzi decoction (SJZD) in mice with anemia induced by 5-fluorouracil (5-FU) and discussed the possible pharmacological hematopoietic mechanism to provide experimental evidence for the clinical use of the three classical prescriptions in the treatment of anemia. Anemia was induced by intravenous injection of 5-FU and 80 female Kunming mice were randomly, assigned to oral administration of SWD, SJZD, or BZD daily for 10 days. Peripheral blood cells count and bone marrow cell cycle were monitored to evaluate anti-anemia effects. Serum cytokines, interferon-γ (IFN-γ), interleukin-3 (IL-3), erythropoietin (EPO), granulocyte-macrophage colony stimulating factor (GM-CSF), and tumor necrosis factor-α (TNF-α) were assayed. EPO mRNA expression was assayed in kidney and liver tissue homogenates. BZD and SWD significantly increased the number of red blood cells, hemoglobin concentration, and hematocrit, promoted bone marrow cells to enter the cell cycle, proliferate and differentiate, significantly increased IL-3 secretion, and significantly inhibited IFN-γ secretion. BZD stimulated transcription of EPO mRNA in the kidney and liver and enhanced serum EPO expression. A therapeutic effect of SJZD was not observed. BZD and SWD treatment specifically enhanced hematopoietic function and mediated myelopoiesis by altering serum cytokines levels and accelerating entry of bone marrow cells into the cell cycle. Better curative effects were achieved via nourishing both Qi and blood (BZD) than by enriching the blood (SWD) or invigorating Qi (SWZD) alone.",
+      "year": 2016,
+      "journal": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan",
+      "doi": "10.1016/s0254-6272(16)30066-8",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2016-08",
+      "canonical_publication_date": "2016-08",
+      "canonical_publication_year": 2016
+    },
+    "36247864": {
+      "title": "Study on Huangqi Bazhen Decoction on Relieving Chemotherapy Intestinal Mucositis in Capecitabine Gavage Mice.",
+      "abstract": "In order to provide evidence for clinical application, the therapeutic effect and mechanism of Huangqi Bazhen decoction on chemotherapeutic intestinal mucositis induced by capecitabine in mice are investigated. In this paper, the mice are divided into different groups and given capecitabine intragastric administration or treatment drugs. Morphological features of intestinal injury, including villus height shortening, crypt destruction, and apoptosis, are reversed. The experimental results show that Huangqi Bazhen decoction can significantly reduce weight loss and diarrhea during capecitabine treatment. It is also found that GSH-Px and T-SOD can be improved while MDA, IL-1β, and TNF-α are reduced significantly.",
+      "year": 2022,
+      "journal": "Contrast media & molecular imaging",
+      "doi": "10.1155/2022/3826080",
+      "publication_types": [
+        "Journal Article",
+        "Retracted Publication"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-09-28"
+      ],
+      "journal_issue_date": "2022",
+      "canonical_publication_date": "2022-09-28",
+      "canonical_publication_year": 2022
+    },
+    "30814073": {
+      "title": "Effects of the Modified Bazhen Decoction in the Treatment of Premature Ovarian Failure in Rats.",
+      "abstract": "This study aims to investigate the role of X-linked inhibitor of apoptosis protein (XIAP) in the pathogenesis of premature ovarian failure (POF) and the effects of the Modified Bazhen Decoction (MBD) in the treatment of POF. Twenty-four eight-week-old Sprague Dawley (SD) rats were randomly divided into four groups: control group, POF group, MBD treatment group, and Fufang Ejiao Syrup (FES) treatment group. After adaptive feeding for one week, 18 SD rats in the POF, MBD and FES groups were subcutaneously injected with D-galactose (dissolved in saline) at the back of neck for eight weeks (150 mg/kg/day) to establish the POF model. Six SD rats in the control group received equal volumes of subcutaneous injection of saline. Tail blood was collected, and the concentration of follicle stimulating hormones (FSHs) and estradiol (E2) was measured, in order to evaluate the success of the POF model. SD rats in the MBD and FES treatment groups were intragastrically administered with MBD (10 ml/kg/day) and FES (10 ml/kg/day), respectively. Rats in the control and POF groups were intragastrically administered with saline (10 ml/kg/day). After four weeks of intragastrical administration with different medicines and saline, ovarian tissues were collected; and the expression level of XIAP, miR-23a and miR-27a were measured and compared among different groups. Compared with the control group, XIAP expression was significantly lower, and miR-23a and miR-27a expression significantly higher in the POF group. Furthermore, XIAP expression was significantly higher, and miR-23a and miR-27a expression was significantly lower in the MBD group. XIAP is involved in the regulation of oocyte and granulosa cells via the cysteinyl aspartate specific proteinase (caspase) pathway, and plays an important role in POF. MBD can dramatically activate XIAP, but inhibit the expression of miR-23a and miR-27a; preventing the apoptosis of oocyte and granulosa cells. Our study suggests that MBD may be a useful traditional Chinese medicine for the treatment of POF.",
+      "year": 2019,
+      "journal": "Annals of clinical and laboratory science",
+      "doi": null,
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2019-01",
+      "canonical_publication_date": "2019-01",
+      "canonical_publication_year": 2019
+    },
+    "17370502": {
+      "title": "[Application of \"Bazhen prescription\" in clinical acupuncture and moxibustion].",
+      "abstract": "\"Bazhen Prescription\" is composed of acupuncture at bilateral Hegu (LI 4) and Sanyinjiao (SP 6) with reinforcing method, functioning supplementing qi and blood, which is a commonly-used prescription for treating the diseases with deficiency of qi and blood. This is a proved recipe summarized by tens years' clinical practice of the author's grandfather and farther, and is a basic recipe for general treatment, treatment based on TCM differentiation and supplementing both qi and blood, with functions similar to Chinese medicine \"Bazhen Decoction\". Practice proves that for all the diseases and syndromes of deficiency of qi and blood, if only differentiation of syndromes is correct, satisfactory results will be obtained. In the present paper, the source, composition of acupoints, manipulation, function and indications, clinical application of the recipe are introduced.",
+      "year": 2007,
+      "journal": "Zhongguo zhen jiu = Chinese acupuncture & moxibustion",
+      "doi": null,
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2007-02",
+      "canonical_publication_date": "2007-02",
+      "canonical_publication_year": 2007
+    }
+  }
+}

@@ -1,0 +1,15 @@
+formula	marker_compounds	candidate_targets	targets_with_measured	targets_with_literature	targets_with_stp	targets_measured_and_literature	targets_missing_all_observed
+四君子汤	13	70	27	43	36	0	0
+六君子汤	16	52	33	20	34	1	0
+四物汤	8	65	14	51	26	0	0
+八珍汤	21	45	41	4	41	0	0
+六味地黄丸	11	47	3	45	18	1	0
+逍遥散	22	98	47	55	58	4	0
+补中益气汤	25	53	46	8	46	1	0
+桂枝汤	14	86	43	45	47	2	0
+麻黄汤	11	45	30	17	34	2	0
+小柴胡汤	18	111	64	51	70	4	0
+理中丸	14	41	39	2	33	0	0
+四逆汤	13	67	39	32	44	4	0
+二陈汤	11	49	33	17	36	1	0
+黄连解毒汤	13	80	43	39	0	2	0

@@ -1,0 +1,18 @@
+metric	source_file	source_table	calculation_script	manuscript_value	recomputed_value	difference	manuscript_location	status	notes
+formulas	benchmarks/papera_temporal_v2/protocol.json	formulas	work/papera_v17_audits.py	14	14	0	Abstract/Methods/Results/Figures	PASS	Predeclared formula registry
+development_records	benchmarks/papera_temporal_v2/candidate_corpus.json	formulas.*.train.pmid	work/papera_v17_audits.py	593	593	0	Abstract/Results/Figure 2	PASS	Formula–article rows
+development_unique_pmids	benchmarks/papera_temporal_v2/candidate_corpus.json	formulas.*.train.pmids	work/papera_v17_audits.py	587	587	0	Results/Figure 1	PASS	Cross-formula duplicates retained
+heldout_records	benchmarks/papera_temporal_v2/candidate_corpus.json	formulas.*.test.pmid	work/papera_v17_audits.py	339	339	0	Abstract/Results/Figure 2/S1	PASS	2023–2025 rows
+heldout_unique_pmids	benchmarks/papera_temporal_v2/candidate_corpus.json	formulas.*.test.pmids	work/papera_v17_audits.py	338	338	0	Results	PASS	Cross-formula duplicate retained
+heldout_proxy_eligible	benchmarks/papera_temporal_v2/candidate_corpus.json	formulas.*.test.proxy_eligible_pmids	work/papera_v17_audits.py	129	129	0	Abstract/Results/Figure S1	PASS	129/339 = 38.1%
+heldout_manual_review	benchmarks/papera_temporal_v2/candidate_corpus.json	formulas.*.test.mentions	work/papera_v17_audits.py	48	48	0	Results/Figure S1	PASS	Formula identity manual review
+heldout_machine_exclusion	benchmarks/papera_temporal_v2/candidate_corpus.json	formulas.*.test.mentions	work/papera_v17_audits.py	146	146	0	Results/Figure S1	PASS	Machine exclusion
+marker_compounds	benchmarks/papera_temporal_v2/cutoff_chembl_2022.json	compounds	work/papera_v17_audits.py	67	67	0	Abstract/Results/Figure 3	PASS	Unique across formula registry
+eligible_measured_compounds	benchmarks/papera_temporal_v2/cutoff_chembl_2022.json	compounds.status	work/papera_v17_audits.py	37	37	0	Abstract/Results/Figure 2	PASS	Current ChEMBL query, document year <= 2022
+ineligible_or_unresolved_compounds	benchmarks/papera_temporal_v2/cutoff_chembl_2022.json	compounds.status	work/papera_v17_audits.py	30	30	0	Abstract/Results/Figure 3	PASS	28 no eligible activity + 2 unresolved; 44.8%
+compound_target_records	benchmarks/papera_temporal_v2/cutoff_chembl_2022.json	compounds.strong/weak	work/papera_v17_audits.py	314	314	0	Abstract/Results	PASS	Retained compound–target rows
+unique_chembl_targets	benchmarks/papera_temporal_v2/cutoff_chembl_2022.json	compounds.strong/weak target ids	work/papera_v17_audits.py	204	204	0	Abstract/Results	PASS	Unique ChEMBL target identifiers
+source_documents	benchmarks/papera_temporal_v2/cutoff_chembl_2022.json	compounds.strong/weak document ids	work/papera_v17_audits.py	170	170	0	Abstract/Results	PASS	Unique document identifiers
+assays	benchmarks/papera_temporal_v2/cutoff_chembl_2022.json	compounds.strong/weak assay ids	work/papera_v17_audits.py	292	292	0	Abstract/Results	PASS	Unique assay identifiers
+gated_vs_ungated_top10_jaccard	benchmarks/papera_temporal_v2/locked_rankings_and_proxy_audit.json	formulas.*.rankings	existing figure3_counterfactual_audit.py	0.82	0.82	0	Abstract/Results/Figure 3	PASS	Median across 14 formulas
+gated_vs_measured_only_top10_jaccard	benchmarks/papera_temporal_v2/locked_rankings_and_proxy_audit.json	formulas.*.rankings	existing figure3_counterfactual_audit.py	0.43	0.43	0	Abstract/Results/Figure 3	PASS	Median across 14 formulas

@@ -1,0 +1,263 @@
+{
+  "formula": "理中丸",
+  "window": "all",
+  "query": "(\"Lizhong Wan\"[Title/Abstract] OR \"Lizhong pill\"[Title/Abstract]) AND (mechanism*[Title/Abstract] OR pathway*[Title/Abstract] OR gene*[Title/Abstract] OR protein*[Title/Abstract] OR pharmacolog*[Title/Abstract]) AND (\"1900/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication]) NOT (\"Comment\"[Publication Type] OR \"Editorial\"[Publication Type] OR \"Letter\"[Publication Type] OR \"Meta-Analysis\"[Publication Type] OR \"News\"[Publication Type] OR \"Review\"[Publication Type] OR \"Systematic Review\"[Publication Type])",
+  "retrieved_at": "2026-08-29",
+  "pmids": [
+    "40486277",
+    "37084637",
+    "39947366",
+    "37536648",
+    "39486672",
+    "20951788",
+    "34916934",
+    "23920247",
+    "39089661",
+    "34087403",
+    "29676093",
+    "30867675",
+    "22899955",
+    "24701240"
+  ],
+  "records": {
+    "40486277": {
+      "title": "Integrated serum pharmacochemistry and network pharmacology to reveal the kernel material basis and underlying mechanisms of the fuzi-lizhong pill for ulcerative colitis.",
+      "abstract": "In traditional Chinese medicine, Fuzi-Lizhong pill (FLZP) has been used for millennia as a treatment for the Spleen-Kidney-Yang-deficiency (SKYD) diseases. FLZP has increasingly been employed in the clinic as a therapeutic option for ulcerative colitis with SKYD syndrome (SKYD-UC). In the present study, we revealed the kernel material basis and underlying mechanisms of the FLZP for treating SKYD-UC. The therapeutic effects of FLZP were assessed in SKYD-UC rats. In total, 55 absorbed components of FLZP were identified, thus forming the main material basis for the use of FLZP for treating SKYD-UC. Network pharmacology analyses revealed that the ability of FLZP to exert multi-target synergistic activity was found to be related to both antioxidant and anti-inflammatory activity. More specifically, FLZP was suggested to alleviate SKYD-UC through the regulation of targets associated with inflammation such as interleukin-6 (IL-6), myeloperoxidase (MPO), and tumor necrosis factor-α (TNF-α), while also regulating the mitogen-activated protein kinase (MAPK), TNF, and phosphoinositol-3 kinase-RAC-alpha serine/threonine-protein kinase (PI3K-Akt) pathways. Ultimately, the integration of network analyses, molecular docking studies, and Pearson correlation analyses enabled the identification of 9 core compounds (including linolenic acid, liquirtigenin, 7-hydroxycoumarin, glycyrrhizic acid, 6-shogaol, dehydro-10-gingerdione, caffeic acid, 6-gingerol, liquiritin), which can serve as kernel material basis for FLZP in the treatment of SKYD-UC. Together, these findings offer a valuable foundation for additional research focused on the mechanistic effects and broader clinical application of FLZP as a treatment option for SKYD-UC.",
+      "year": 2024,
+      "journal": "Journal of traditional and complementary medicine",
+      "doi": "10.1016/j.jtcme.2024.06.003",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2024-06-06"
+      ],
+      "journal_issue_date": "2025-05",
+      "canonical_publication_date": "2024-06-06",
+      "canonical_publication_year": 2024
+    },
+    "37084637": {
+      "title": "Comparison of the molecular mechanisms of Fuzi Lizhong Pill and Huangqin decoction in the treatment of the cold and heat syndromes of ulcerative colitis based on network pharmacology.",
+      "abstract": "The aim of this study was to illuminate the similarities and differences of two prescriptions as \"cold\" and \"heat\" drugs for treating ulcerative colitis (UC) with the simultaneous occurrence of heat and cold syndrome via network pharmacology. (1) Active compounds of Fuzi-Lizhong Pill (FLP) and Huangqin Decoction (HQT) were retrieved from the TCMSP database, and their common active compounds were compared using the Venn diagram. (2) Potential proteins targeted to three sets of compounds either (i) shared by FLP and HQT, (ii) unique to FLP or (iii) unique to HQT were screened from the STP, STITCH and TCMSP databases, and three corresponding core compound sets were identified in Herb-Compound-Target (H-C-T) networks. (3) Targets related to UC were identified from the DisGeNET and GeneCards databases and compared with the FLP-HQT common targets to identify potential targets of FLP-HQT compounds related to UC. (4) Three potential target sets were imported into the STRING database for protein‒protein interaction (PPI) analysis, and three core target sets were defined. (5) The binding capabilities and interacting modes between core compounds and key targets were verified by molecular docking via Discovery Studio 2019 and molecular dynamics (MD) simulations via Amber 2018. (6) The target sets were enriched for KEGG pathways using the DAVID database. (1) FLP and HQT included 95 and 113 active compounds, respectively, with 46 common compounds, 49 FLP-specific compounds and 67 HQT-specific compounds. (2) 174 targets of FLP-HQT common compounds, 168 targets of FLP-specific compounds, and 369 targets of HQT-specific compounds were predicted from the STP, STITCH and TCMSP databases; six core compounds specific to FLP and HQT were screened in the FLP-specific and HQT-specific H-C-T networks, respectively. (3) 103 targets overlapped from the 174 predicted targets and the 4749 UC-related targets; two core compounds for FLP-HQT were identified from the FLP-HQT H-C-T network. (4) 103 FLP-HQT-UC common targets, 168 of FLP-specific targets and 369 of HQT-specific targets had shared core targets (AKT1, MAPK3, TNF, JUN and CASP3) based on the PPI network analysis. (5) Molecular docking demonstrated that naringenin, formononetin, luteolin, glycitein, quercetin, kaempferol and baicalein of FLP and HQT play a critical role in treating UC; meanwhile, MD simulations revealed the stability of protein‒ligand interactions. (6) The enriched pathways indicated that most targets were related to anti-inflammatory, immunomodulatory and other pathways. Compared with the pathways identified using traditional methods, FLP-specific pathways included the PPAR signaling pathway and the bile secretion pathway, and HQT-specific pathways included the vascular smooth muscle contraction pathway and the natural killer cell-mediated cytotoxicity pathway etc. CONCLUSION: In this study, we clarified the common mechanisms of FLP and HQT in treating UC and their specific mechanisms in treating cold and heat syndrome in UC through compound, target and pathway distinction and a literature comparison based on network pharmacology; these results provide a new perspective on the detailed mechanism of \"multidrugs and single-disease\" thought in traditional Chinese medicine.",
+      "year": 2023,
+      "journal": "Computers in biology and medicine",
+      "doi": "10.1016/j.compbiomed.2023.106870",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-04-05"
+      ],
+      "journal_issue_date": "2023-06",
+      "canonical_publication_date": "2023-04-05",
+      "canonical_publication_year": 2023
+    },
+    "39947366": {
+      "title": "Fuzi Lizhong Pill inhibited inflammatory response and promoted colon mucosal healing in dextran sulfate sodium-induced ulcerative colitis mice by down-regulating PI3K/AKT/NF-κB signaling pathway.",
+      "abstract": "Fuzi Lizhong Pill (FLP), a traditional Chinese herbal formula, has been historically used for treating gastrointestinal disorders characterized by cold deficiency patterns. Its application in ulcerative colitis (UC) stems from its warming and tonifying properties. To evaluate the efficacy of FLP in the treatment of UC and investigate its mechanism of action. The chemical constituents of FLP were identified using UPLC-Q-Orbitrap HRMS. By establishing a preclinical UC mouse model with DSS and treating with FLP, we evaluated the effect of FLP on UC mice in terms of clinical symptoms, physiological indices, and histopathological examination. The anti-inflammatory and mucosal repair effects of FLP were examined at three levels: cellular, organoid, and animal, using immunohistochemistry, western blotting, RT-PCR, and other techniques. We characterized the chemical composition of FLP and identified 99 compounds, including alkaloids, coumarins, and flavonoids. In UC mice, FLP alleviated clinical symptoms such as weight loss, blood in stools, and loose stools in UC mice; significantly reduced DAI scores in UC mice; significantly reversed splenomegaly and thymic atrophy caused by DSS; improved hemorrhage and inflammation-related hematological indices. In vitro and ex vivo studies showed that FLP inhibited the expression of TNF-α and IL-6, promoted the expression of the tight junction proteins ZO-1, Occludin, and Claudin 1, and promoted the proliferation of colonic epithelial cells in vivo. FLP also inhibited the transcription levels of PI3K, Akt, and NF-κB genes, as well as the expression or phosphorylation levels of related proteins in vitro and in vivo. FLP may play a role in the treatment of UC by inhibiting the inflammatory response and repairing the colonic mucosal barrier by downregulating the PI3K/Akt/NF-κB signaling pathway.",
+      "year": 2025,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2025.119483",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-02-11"
+      ],
+      "journal_issue_date": "2025-03-13",
+      "canonical_publication_date": "2025-02-11",
+      "canonical_publication_year": 2025
+    },
+    "37536648": {
+      "title": "Protective effect of Lizhong Pill on nonsteroidal anti-inflammatory drug-induced gastric mucosal injury in rats: Possible involvement of TNF and IL-17 signaling pathways.",
+      "abstract": "The traditional Chinese medicine formula Lizhong Pill (LZP) and its herbal constituents are frequently utilized in Asian (China, Saudi Arabia, India, Japan, etc.) and some European (Russia, Sweden, UK, etc.) nations to treat various gastrointestinal ailments. This study aimed to investigate the protective impact and potential mechanism of LZP against indomethacin (IND)-induced gastric mucosal injury in rats. Using a biochemical kit, we investigated the levels of superoxide dismutase (SOD), catalase (CAT), and glutathione S-transferase (GST) in rat serum, as well as pepsin in rat stomach tissue, using an IND-induced rat model of gastric mucosal injury. Various imaging tools, including HE staining, scanning electron microscopy (SEM), and transmission electron microscopy (TEM), were used to examine the gastric mucosa's surface morphology and ultrastructure. Furthermore, molecular docking was employed to predict the binding capacity of the primary bioactive components of LZP to the critical molecular protein targets in the IL-17 and TNF signaling pathways. At the same time, immunofluorescence was used to determine the protein expressions of CASP3, VCAM1, MAPK15, MMP3, IL-17RA, and TNFR1. The present study demonstrates that LZP (3.75 and 7.50 g/kg) significantly reduces the gastric mucosal injury index induced by IND. This effect is evidenced by the improved morphology, surface, and structure of the gastric mucosa, as determined by HE, SEM, and TEM findings. Additionally, 3.75 and 7.50 g/kg LZP intervention significantly increased SOD and CAT contents and inhibited pepsin and GST activities. Molecular docking analysis revealed that the small molecular components of LZP can bind spontaneously to crucial proteins involved in the IL-17 and TNF signaling pathways, including MAPK15, MMP3, VCAM1, and CASP3. The immunofluorescence findings proved that LZP (3.75 and 7.50 g/kg) can inhibit the protein expressions of MAPK15, MMP3, VCAM1, CASP3, IL-17RA, and TNFR1. Our investigation findings demonstrate that LZP can potentially ameliorate IND-induced damage to the gastric mucosa by inhibiting IL-17 and TNF signaling pathways. These results offer encouraging support for using alternative medicine to manage drug-induced gastric mucosal injury.",
+      "year": 2023,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2023.116991",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-08-01"
+      ],
+      "journal_issue_date": "2024-01-10",
+      "canonical_publication_date": "2023-08-01",
+      "canonical_publication_year": 2023
+    },
+    "39486672": {
+      "title": "Traditional Chinese herbal formula, Fuzi-Lizhong pill, produces antidepressant-like effects in chronic restraint stress mice through systemic pharmacology.",
+      "abstract": "Fuzi-Lizhong pill (FLP) is a well-validated traditional Chinese medicine (TCM) formula that has long been used in China for gastrointestinal disease and adjunctive therapy for depression. In our previous study, we reported that the principal herb of FLP, Aconitum carmichaelii Debx. (Fuzi), exhibits antidepressant-like effects. However, there have been no reports on whether FLP produces antidepressant-like effects and its potential molecular mechanisms. We aim to demonstrate the antidepressant-like effects of FLP in chronic restraint stress (CRS) mice and to explore the associated molecular mechanisms. The active components and probable molecular targets of FLP, as well as the targets related to depression, were identified through network pharmacology. A protein-protein interaction (PPI) network was generated using the overlapping targets, followed by the visualization as well as identification of the core targets associated with the antidepressant-like action of FLP. Subsequently, KEGG and GO enrichment analyses were conducted. UHPLC-MS/MS was employed to further detect the active compounds in FLP. Molecular docking was applied to assess the connections between the active components as well as the core targets. The efficacy of FLP in treating depression and its molecular mechanisms were examined using western blotting, ELISA, 16S rRNA sequencing, HE staining, Nissl staining, and Golgi-Cox staining in a CRS-induced mouse model. Network pharmacology and UHPLC-MS/MS analyses indicated that the active compounds of FLP comprised taraxerol, songorine, neokadsuranic acid B, ginkgetin, hispaglabridin B, quercetin, benzoylmesaconine and liquiritin. KEGG pathway analysis implicated that the PI3K/Akt/mTOR as well as MAPK signaling pathways are closely related to the therapeutic effects of FLP on depression. Molecular docking analysis demonstrated that the main components of FLP bind to PI3K, AKT, mTOR, BDNF and MAPK. FLP significantly decreased immobility in mice that were elevated by CRS in the FST and the TST. FLP also significantly increased sucrose preference in mice after CRS in the SPT. FLP upregulated proteins associated with BDNF-TrkB and PI3K/Akt/mTOR signaling and downregulated proteins associated with MAPK signaling. Serum levels of CORT, IL-6, IL-1β, and TNF-α in CRS mice were significantly decreased following treatment with FLP. In addition, FLP ameliorated CRS-induced gut microbiota dysbiosis as demonstrated by 16S rRNA sequencing analysis. FLP ameliorated CRS-induced intestinal inflammation and neuronal damage. Finally, antidepressant-like effects and concomitant increases in dendritic spine density induced by FLP administration were also reduced after rapamycin treatment. These results demonstrate that FLP has antidepressant-like effects in mice exposed to CRS that involve activation of the PI3K/Akt/mTOR signaling pathway, increase in spinogenesis, inhibition of the MAPK signaling pathway, decrease in inflammation, and amelioration of gut microbiota dysbiosis. These findings provide novel evidence for the clinical application of FLP on depression.",
+      "year": 2024,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2024.119011",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2024-10-31"
+      ],
+      "journal_issue_date": "2025-02-10",
+      "canonical_publication_date": "2024-10-31",
+      "canonical_publication_year": 2024
+    },
+    "20951788": {
+      "title": "Effects on neuroendocrinoimmune network of Lizhong Pill in the reserpine induced rats with spleen deficiency in traditional Chinese medicine.",
+      "abstract": "Lizhong Pill, composed of radix Ginseng (Panax ginseng C.A. Meyer), rhizoma Zingiberis (Zingiber officinale Roscoe), rhizoma Atractylodis Macrocephalae (Atractylodes macrocephala Koidz.) and radix Glycytthizae (Glycyrrhiza uralensis Fisch.), is a classical herbal product for curing spleen deficiency in traditional Chinese medicine (TCM), and reserpine treated rats show similar signs to TCM spleen deficiency pattern. This paper is aimed to explore the regulatory effect on neuroendocrinoimmune network by Lizhong Pill in reserpine induced TCM spleen deficiency rats. 100 healthy adult male SD rats, with a mean weight of 200 g, were randomly divided into five groups in average: control group, reserpine treated group, atropine treated group, treatment groups with Lizhong Pill at high dose and low dose (equal to the dosage of crude drugs for 4 g/kg/d and 8 g/kg/d). Rats in reserpine treated group were induced by intraperitoneal injection of reserpine at 0.5 mg/kgd for 4 weeks. The levels of IL-1, IL-6 and gastrin were measured with radioimmunoassay, TNF-α and IFN-γ in serum were measured with ELISA, the level of vasoactive intestinal peptide (VIP) and substance P (SP) in small intestine were determined with radioimmunoassay, and the TNF-α and TGF-β positive cells in small intestine were detected by immunohistological staining. Data were analyzed with SAS 9.1 software package. The rats in reserpine treated group, body weight, concentrations of IFN-γ, IL-1 and TNF-α in serum, expression of TGF-β in small intestine, VIP in small intestine decreased (P<0.05), and the level of IL-6 in serum, expression of TNF-α, SP in small intestine and gastrin were increased (P<0.05). Administration of Lizhong Pill at high dose could increase the body weights at day 21, and the weights of rats in Lizhong Pill groups were much higher compared to reserpine treated group. At high dose of Lizhong Pill could increase the level of TNF-α in serum. Lizhong Pill at high dose and low dose could reverse the changes of IL-1, IL-6 and IFN-γ, gastrin, expression of TGF-β and TNF-α, VIP and SP in small intestine. The rats treated with reserpine, with similar signs to TCM spleen deficiency, show neuroendocrinoimmune disorders, and the restoration of the neuroendocrinoimmune disorders might be the part of mechanism of Lizhong Pill for reinforcing TCM spleen deficiency.",
+      "year": 2010,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2010.10.016",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2010-10-15"
+      ],
+      "journal_issue_date": "2011-01-27",
+      "canonical_publication_date": "2010-10-15",
+      "canonical_publication_year": 2010
+    },
+    "34916934": {
+      "title": "An Integrated Gut Microbiota and Network Pharmacology Study on Fuzi-Lizhong Pill for Treating Diarrhea-Predominant Irritable Bowel Syndrome.",
+      "abstract": "Diarrhea-predominant irritable bowel syndrome (IBS-D) is one of the most common chronic functional gastrointestinal diseases with limited treatments. Gut microbiota play an important role in chronic gastrointestinal diseases. In traditional Chinese medicine (TCM), Spleen-Yang deficiency (SYD) is one of the root causes of IBS-D. Fuzi-Lizhong pill (FLZP) is well known for its powerful capacity for treating SYD and has a good clinical effect on IBS-D. However, the mechanism of FLZP on the gut microbiota of IBS-D has not been fully clarified. Our present study aimed to reveal the mechanism of FLZP regulating gut microbiota of IBS-D. The body mass, CCK, MTL, and Bristol fecal character score were used to verify the establishment of the IBS-D model. IL-6, TNF, IL-1β, and IFN-γ were crucial targets screened by network pharmacology and preliminarily verified by ELISA. Eighteen gut microbiota were important for the treatment of IBS-D with FLZP. Bacteroidetes, Blautia, Turicibacter, and Ruminococcus_torques_group were the crucial gut microbiota that FLZP inhibits persistent systemic inflammation in the IBS-D model. Lactobacillus is the crucial gut microbiota that FLZP renovates intestinal immune barrier in the IBS-D model. In summary, FLZP can affect bacterial diversity and community structures in the host and regulate inflammation and immune system to treat IBS-D.",
+      "year": 2021,
+      "journal": "Frontiers in pharmacology",
+      "doi": "10.3389/fphar.2021.746923",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2021-11-30"
+      ],
+      "journal_issue_date": "2021",
+      "canonical_publication_date": "2021-11-30",
+      "canonical_publication_year": 2021
+    },
+    "23920247": {
+      "title": "Fuzi-Lizhong pill compensates hypothyroid-hypothermia via ghrelin release.",
+      "abstract": "Fuzi-Lizhong pill (FLZ) is a traditional Chinese medicine for treating patients with Spleen Yang deficient syndrome. Ghrelin, a peptide with 28 amino acid residues, plays multiple roles in thermogenesis. This study aims to explore FLZ regulating ghrelin to compensate hypothermia in rats with hypothyroid and indigestion. In litter-matched rats, hypothermia was developed with both thyroidectomy at d1 and interscapular brown adipose (IBA) removal at d42, indigestion was induced with both high fat diet and fasting-feeding cycle from d56; the littermates with hypothermia and indigestion were administrated with FLZ from d70. Adaptive thermogenesis, thyroid hormones, metabolites, ghrelin dynamics were measured at d98. The results showed that plasma ghrelin levels were inversely correlated with the gastric ghrelin levels and adaptive thermogenesis in rats undergone both thyroidectomy and IBA removal. Fatty diet and FLZ enhanced the increase of plasma ghrelin of hypothyroid rats. These were supported by the changes of plasma thyroid related hormones, plasma metabolites, gastric ghrelin mRNA and protein, and the effects of fatty diet or FLZ. Our results suggest that more ghrelin release compensate chronic hypothermia in rats with both hypothyroidism and indigestion. It could explain the mechanisms of FLZ in relieving chronic hypothermia.",
+      "year": 2013,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2013.07.031",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2013-08-03"
+      ],
+      "journal_issue_date": "2013-10-07",
+      "canonical_publication_date": "2013-08-03",
+      "canonical_publication_year": 2013
+    },
+    "39089661": {
+      "title": "Fuzi lizhong pills alter microbial community compositions and metabolite profiles in ulcerative colitis rat with spleen-kidney yang deficiency syndrome.",
+      "abstract": "Ulcerative colitis (UC) is a chronic inflammatory bowel condition that is frequently related with Spleen-Kidney Yang Deficiency Syndrome (SKYD) in Chinese medicine. Fuzi Lizhong Pill (FLZP), a traditional medicine for SKYD, has been utilized in China for generations, although the exact mechanism by which it treats UC is unknown. The goal of this study is to further understand FLZP's therapeutic mechanism in SKYD-associated UC. To investigate the impact of FLZP on SKYD-associated UC, we used a comprehensive method that included serum metabolomics and gut microbiota profiling. The chemical composition of FLZP was determined using mass spectrometry. UC rats with SKYD were induced and treated with FLZP. Serum metabolomics and 16S rRNA microbial community analysis were used to evaluate FLZP's effects on endogenous metabolites and gut microbiota, respectively. Correlation analysis investigated the association between metabolites and intestinal flora. A metabolic pathway analysis was undertaken to discover putative FLZP action mechanisms. FLZP contains 109 components, including liquiritin (584.8176 μg/g), benzoylaconine (16.3087 μg/g), benzoylhypaconine (31.9583), and hypaconitine (8.1160 μg/g). FLZP predominantly regulated seven metabolites and eight metabolic pathways involved in amino acid and nucleotide metabolism, with an emphasis on energy metabolism and gastrointestinal digestion. FLZP also influenced intestinal flora variety, increasing probiotic abundance while decreasing pathogenic bacteria prevalence. An integrated investigation identified associations between changes in certain gut flora and energy metabolism, specifically the tricarboxylic acid (TCA) cycle. FLZP successfully cures UC in SKYD rats by regulating amino acid and energy metabolism. Its positive effects may include altering microbiota composition and metabolite profiles in UC rats with SKYD. These findings shed light on FLZP's mode of action and its implications for UC management.",
+      "year": 2024,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2024.118645",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2024-07-31"
+      ],
+      "journal_issue_date": "2024-12-05",
+      "canonical_publication_date": "2024-07-31",
+      "canonical_publication_year": 2024
+    },
+    "34087403": {
+      "title": "Metabolomics of Spleen-Yang deficiency syndrome and the therapeutic effect of Fuzi Lizhong pill on regulating endogenous metabolism.",
+      "abstract": "Spleen-Yang deficiency (SYD) is one of the primary causes of many digestive diseases, such as ulcerative colitis (UC), and irritable bowel syndrome (IBS), but its endogenous metabolic characteristics are still unclear. Fuzi Lizhong pill (FLZP) is well-known for its powerful capacity for treating SYD; however, its mechanisms require further study. Herein, our present study aimed to investigate the essence of SYD from the perspective of metabolomics, and tried to reveal the anti-SYD action mechanisms of FLZP. Firstly, the compound factor modeling method with the principle of \"indiscipline in diet + excessive fatigue + intragastric administration of Senna water extracts\" was used to establish Sprague Dawley (SD) rats as SYD model. Then, the visceral index, motilin (MTL), malonaldehyde (MDA), Interleukin 1 alpha (IL-1α), and Interleukin 6 (IL-6) levels were used to verify the anti-SYD effect of FLZP. In addition, serum samples were analyzed by UPLC-QE/MS metabolomics technique. Finally, the metabolic pathways associated with specific biomarkers were analyzed to research the possible mechanism underlying the action of FLZP. The expression of MTL, MDA, IL-1α, and IL-6 were regulated by FLZP, which suggested that it has relieved diarrhea and gastrointestinal motility disorder caused by SYD and had an anti-peroxidation, anti-inflammatory, and immune regulation effect. A total of 75 metabolites were found to be the potential biomarkers of SYD. Moreover, FLZP regulates 21 metabolites and 10 vital pathways including the tricarboxylic acid (TCA) cycle, sphingolipid metabolism, and histidine metabolism. SYD primarily causes disorders of amino acid metabolism, lipid metabolism, carbohydrate metabolism, metabolism of cofactors and vitamins, nucleotide metabolism, and translation. In addition, FLZP regulated carbohydrate, lipid, and amino acid metabolisms, gastrointestinal motility, digestive juice secretion, immune regulation, as well as antioxidant effects. Hence, FLZP had a good therapeutic effect on treatment of SYD. It might be a promising therapeutic agent for the treatment of SYD-related diseases.",
+      "year": 2021,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2021.114281",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2021-06-01"
+      ],
+      "journal_issue_date": "2021-10-05",
+      "canonical_publication_date": "2021-06-01",
+      "canonical_publication_year": 2021
+    },
+    "29676093": {
+      "title": "[Dissolution behavior of Fuzi Lizhong pill based on simultaneous determination of two components in Glycyrrhizae Radix et Rhizoma].",
+      "abstract": "To preliminarily investigate the dissolution behavior of Fuzi Lizhong pill, provide the basis for its quality control and lay foundation for in vivo dissolution behavior by determining the dissolution rate of liquiritin and glycyrrhizic acid. High-performance liquid chromatography (HPLC) method for simultaneous content determination of the two active ingredients of liquiritin and glycyrrhizic acid in Fuzi Lizhong pill was established; The dissolution amount of these two active ingredients in fifteen batches of Fuzi Lizhong pill from five manufacturers was obtained at different time points, and then the cumulative dissolution rate was calculated and cumulative dissolution curve was drawn. The similarity of cumulative dissolution curve of different batches was evaluated based on the same factory, and the similarity of cumulative dissolution curve of different factories was evaluated based on the same active ingredients. The dissolution model of Fuzi Lizhong pill based on two kinds of active ingredients was established by fitting with the dissolution data. The best dissolution medium was 0.25% sodium lauryl sulfate. The dissolution behavior of liquiritin and glycyrrhizic acid in Fuzi Lizhong pill was basically the same and sustained release in 48 h. Three batches of the factories (factory 2, factory 3, factory 4 and factory 5) appeared to be similar in dissolution behavior, indicating similarity in dissolution behavior in most factories. Two of the three batches from factory 1 appeared to be not similar in dissolution behavior of liquiritin and glycyrrhizic acid. The dissolution data of the effective ingredients from different factories were same in fitting, and Weibull model was the best model in these batches. Fuzi Lizhong pill in 15 batches from 5 factories showed sustained release in 48 h, proving obviously slow releasing characteristics \"pill is lenitive and keeps a long-time efficacy\". The generally good dissolution behavior also suggested that quality of different batches from most factories was stable. The dissolution behavior of liquiritin and glycyrrhizic acid in different factories was different, suggesting that the source of medicinal materials and preparation technology parameters in five factories were different.",
+      "year": 2018,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.2018.0026",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2018-03",
+      "canonical_publication_date": "2018-03",
+      "canonical_publication_year": 2018
+    },
+    "30867675": {
+      "title": "Rapid discovery of chemical constituents and absorbed components in rat serum after oral administration of Fuzi-Lizhong pill based on high-throughput HPLC-Q-TOF/MS analysis.",
+      "abstract": "Fuzi-Lizhong pill (FZLZP), which was first recorded in the Classic-\"Taiping Huimin Heji Ju Fang\" of the Song Dynasty, has been widely used to treat gastrointestinal disease in clinic for thousands of years in China. However, an in-depth understanding of the chemical constituents of FZLZP and its potential bioactive constituents is lacking. A simple, sensitive and selective method of high-performance liquid chromatography coupled with quadrupole-time-of-flight high-definition mass spectrometry (HPLC-Q-TOF/MS) and automated data analysis (Agilent MassHunter Qualitative Analysis B.06.00 Workstation Software) was developed to simultaneously identify the chemical constituents of FZLZP and the absorbed prototypes as well as the metabolites in rat serum after the oral administration of FZLZP. Sixty-seven compounds, including alkaloids, flavonoids, triterpenes, gingerols, phenylpropanoids and volatile oil, in the FZLZP extract were tentatively characterized by comparing the retention time and mass spectrometry data and retrieving the reference literatures. Additionally, 23 prototype compounds and 3 metabolites in the rat serum samples were identified after oral administration of FZLZP, which might be the potential active components in vivo. In addition, the absorption of alkaloids decreased when Aconitum carmichaeli Debx. was in the form of combined application as a prescription compared to when it was in the form of herb powder. Herein, the chemical constituent in vitro and the absorbed compounds in the serum of a traditional Chinese formula, Fuzi-Lizhong pill, were fully characterized using a rapid and comprehensive analysis approach based on high-performance liquid chromatography combined with quadrupole time-of-flight mass spectrometry coupled to MassHunter Qualitative Analysis software data processing approach. The results provide helpful chemical information on FZLZP for further pharmacology and active mechanism research. In view of the bioactive constitutes that basically were derived from these absorbed compounds in vivo, this work could provide a useful strategy to explore the bioactive substances of traditional Chinese medicine.",
+      "year": 2019,
+      "journal": "Chinese medicine",
+      "doi": "10.1186/s13020-019-0227-z",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2019-03-01"
+      ],
+      "journal_issue_date": "2019",
+      "canonical_publication_date": "2019-03-01",
+      "canonical_publication_year": 2019
+    },
+    "22899955": {
+      "title": "Underlying mechanism of aconitum lizhong acting on experimental hypothermia with indigestion in rats: role of ghrelin.",
+      "abstract": "This study is aimed to investigate the Aconitum Lizhong pill (ALZ) pharmacological actions on hypothermia with indigestion, especially the ghrelin roles. The littermate-matched rats were randomly divided into four groups. Control did sham operation or standard diet, Model carried out interscapular brown adipose (IBA) removal with standard diet, Fat-diet did IBA removal with fat-diet, and ALZ did IBA removal and fat-diet with 4.536 g/kg/d ALZ. The potency of adaptive thermogenesis, ghrelin levels in plasma or gastric mucosa, thyroid hormones and metabolite in sera, expression of ghrelin mRNA, and protein in gastric mucous membrane were determined. ALZ relieved the hypothermia processes with indigestion, via inhibiting ghrelin expression and increasing ghrelin secretion; the dynamics from the therapy is supported with the energy changes as less body weight loss, less plasma lipid decrease, more plasma T(3) or T(4) increase with TSH decrease, and more compensation of thermogenic AUC decrease. Ghrelin played key roles in the actions of ALZ on the hypothermia with indigestion. The pharmacological mechanisms of ALZ involved the homeostasis of ghrelin expression and secretion.",
+      "year": 2012,
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "doi": "10.1155/2012/542461",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2012-07-31"
+      ],
+      "journal_issue_date": "2012",
+      "canonical_publication_date": "2012-07-31",
+      "canonical_publication_year": 2012
+    },
+    "24701240": {
+      "title": "NMR-Based Metabonomic Studies on Stomach Heat and Cold Syndromes and Intervention Effects of the Corresponding Formulas.",
+      "abstract": "Zuojin Wan (ZJW) and Lizhong Wan (LZW) have been widely used in the treatment of Stomach heat and cold syndrome (SH and SC), respectively. In this study, a proton nuclear magnetic resonance ((1)H NMR) based metabonomic approach was developed to profile SH and SC-related metabolic perturbations in rat serum and to investigate the intervention effects of ZJW and LZW on the corresponding SH and SC. Compared to the conventional macroscopic and histopathological examinations, the metabonomic approach could enable discrimination between SH and SC based on serum metabolic profiles. Meanwhile, 17 and 15 potential biomarkers associated with SH and SC, respectively, which were mainly involved in gastric dysfunction and mucosal lesions, gut microbiotal activity, transmethylation, glucose and lipid metabolism, and amino acid metabolism, were identified. Furthermore, taking the potential biomarkers as drug targets, it was revealed that administration of ZJW and LZW could exclusively reverse the pathological process of SH and SC, respectively, through partially regulating the disturbed metabolic pathways. This work showed biological basis related to SH and SC at metabolic level and offered a new paradigm for better understanding and explanation of \"Fang Zheng Dui Ying\" principle in traditional Chinese medicine from a systemic view.",
+      "year": 2014,
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "doi": "10.1155/2014/528396",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2014-02-20"
+      ],
+      "journal_issue_date": "2014",
+      "canonical_publication_date": "2014-02-20",
+      "canonical_publication_year": 2014
+    }
+  }
+}

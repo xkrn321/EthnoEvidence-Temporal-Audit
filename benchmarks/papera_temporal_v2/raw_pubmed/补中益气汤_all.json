@@ -1,0 +1,827 @@
+{
+  "formula": "补中益气汤",
+  "window": "all",
+  "query": "(\"Buzhong Yiqi Decoction\"[Title/Abstract] OR \"Buzhong Yiqi Tang\"[Title/Abstract]) AND (mechanism*[Title/Abstract] OR pathway*[Title/Abstract] OR gene*[Title/Abstract] OR protein*[Title/Abstract] OR pharmacolog*[Title/Abstract]) AND (\"1900/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication]) NOT (\"Comment\"[Publication Type] OR \"Editorial\"[Publication Type] OR \"Letter\"[Publication Type] OR \"Meta-Analysis\"[Publication Type] OR \"News\"[Publication Type] OR \"Review\"[Publication Type] OR \"Systematic Review\"[Publication Type])",
+  "retrieved_at": "2026-08-29",
+  "pmids": [
+    "39116604",
+    "40695404",
+    "38158097",
+    "40360040",
+    "38621910",
+    "37679989",
+    "39701767",
+    "37147755",
+    "41116264",
+    "35495748",
+    "30558075",
+    "41330182",
+    "39278852",
+    "37695446",
+    "41415071",
+    "39087096",
+    "36590298",
+    "34871253",
+    "40065054",
+    "39326601",
+    "21598554",
+    "38744568",
+    "37070455",
+    "41031496",
+    "36737821",
+    "34904911",
+    "40185260",
+    "38230796",
+    "40701420",
+    "25282897",
+    "34889240",
+    "20482257",
+    "28959844",
+    "40350879",
+    "40264313",
+    "39957354",
+    "31814838",
+    "28914034",
+    "38688355",
+    "7504963",
+    "25509271",
+    "37660955",
+    "36687653",
+    "21716623",
+    "32489024",
+    "19149266",
+    "21823486"
+  ],
+  "records": {
+    "39116604": {
+      "title": "Jiawei Buzhong Yiqi Decoction attenuates polycystic ovary syndrome through regulating kisspeptin-GPR54-AKT-SHBG system.",
+      "abstract": "Polycystic ovary syndrome (PCOS) is one of the most common reproductive endocrine disorders. Accumulated evidence has suggested the indispensable role of kisspeptin-G protein-coupled receptor (GPR54) system and SHBG in development of PCOS. However, potential mechanisms and their relationship are unclear. Jiawei Buzhong Yiqi Decoction (JWBZYQ) has been reported to ameliorate obese PCOS. Whereas, potential mechanisms remain elusive. To determine whether JWBZYQ attenuates PCOS by regulating the kisspeptin-GPR54 system and SHBG production. And to explore potential mechanisms. An overweight PCOS rat model was developed with testosterone propionate (TP) and high-fat diet (HFD). The efficacy of JWBZYQ was assessed by tracking changes in weight, estrous cycle, ovarian morphology, and serum sex hormone levels. Additionally, kisspeptin-GPR54 system expression in multiple organs and PI3K-AKT pathway activity in liver of different rats were detected. Modifications in SHBG production were also measured. Kisspeptin54 was administered to establish a cellular model. The levels of AKT phosphorylation and SHBG protein within HepG2 cells were analyzed. Finally, confirmatory studies were performed using AKT phosphorylation activator and inhibitor. JWBZYQ effectively attenuated the overweight, disrupted estrous cycle, altered sex hormone levels, and aberrant ovarian morphology in PCOS rats. Meanwhile, PCOS rats exhibited elevated levels of kisspeptin and GPR54, along with reduced SHBG levels, which could be reversed by JWBZYQ. These alterations might be connected with the activation of AKT phosphorylation. In vitro experiment identified that JWBZYQ could rectify the hyperactivated AKT phosphorylation and deficient production of SHBG caused by kisspeptin54. Overexpressed kisspeptin-GPR54 system inhibited SHBG synthesis in PCOS. JWBZYQ curtailed the exorbitant expression of kisspeptin and GPR54, which moderated the rise in AKT phosphorylation and subsequently promoted the production of SHBG.",
+      "year": 2024,
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "doi": "10.1016/j.phymed.2024.155931",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2024-08-07"
+      ],
+      "journal_issue_date": "2024-10",
+      "canonical_publication_date": "2024-08-07",
+      "canonical_publication_year": 2024
+    },
+    "40695404": {
+      "title": "Buzhong yiqi decoction improves cisplatin resistance in non-small cell lung cancer by inhibiting PCBP1 to activate the ferritinophagy-mediated ferroptosis pathway.",
+      "abstract": "Traditional Chinese Medicine (TCM) holds that lung cancer primarily results from deficiency of healthy qi (vital energy) and insufficiency of spleen qi. Buzhong Yiqi Decoction (BZYQD) is a classic formulation based on the 'reinforcing earth to generate metal' principle in traditional Chinese medicine. Currently, it is commonly used to treat advanced-stage lung cancer and has been proven to significantly improve cisplatin resistance in A549/DDP cells. It can upregulate the expression levels of typical ferroptosis markers such as ROS and downregulate the expression of key ferroptosis regulatory protein GPX4. However, its relationship with ferroptosis remains unclear. The aim of this study aims to confirm the relationship between BZYQD improving cisplatin resistance and ferroptosis in A549/DDP cells, and to elucidate its potential mechanism. Low-, medium-, and high-dose BZYQD-mediating serum (BZYQD-MS) is prepared from rats to screen the optimal intervention concentration of BZYQD. PCR Array kit is used to screen core regulatory genes of BZYQD in improving cisplatin resistance of A549/DDP among 90 ferroptosis-related genes. The effects of BZYQD on cisplatin sensitivity were evaluated using the Cell Counting Kit-8 (CCK-8) proliferation and cytotoxicity assay. To investigate BZYQD-mediated regulation of ferroptosis, we performed: ultrastructural analysis of mitochondria by transmission electron microscopy (TEM); quantification of the ferroptosis marker GPX4 by Western blot; and measurement of ferroptosis biomarkers including lipid reactive oxygen species (ROS) using C11-BODIPY 581/591 fluorescent probe, Fe2+ with an iron assay kit, and malondialdehyde (MDA) levels with a lipid peroxidation assay kit. The impact of BZYQD on the ferritinophagy pathway was assessed by Western blot analysis of ferritinophagy-related proteins (FTH1, NCOA4, LC3Ⅱ/Ⅰ, and p62).Additionally, PCBP1 overexpression is induced by cell transfection, and the expression of PCBP1 is examined by Western blot to verify the effect of BZYQD on PCBP1 and its interaction in the ferritinophagy pathway and ferroptosis. (1)BZYQD effectively reverses cisplatin resistance in A549/DDP cells, with the medium dose showing optimal activity. (2)BZYQD activates ferroptosis to overcome cisplatin resistance in A549/DDP cells, as confirmed by ferrostatin-1 inhibition experiments. (3)PCBP1 is one of the most crucial ferroptosis-related genes associated with BZYQD-mediated reversal of cisplatin resistance in A549/DDP cells. (4)BZYQD suppresses PCBP1 to activate the ferritinophagy pathway, thereby promoting ferroptosis and restoring cisplatin sensitivity in A549/DDP cells. Buzhong Yiqi Decoction improves cisplatin resistance in non-small cell lung cancer by inhibiting PCBP1 to activate the ferritinophagy-mediated ferroptosis pathway.",
+      "year": 2025,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2025.120317",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-07-20"
+      ],
+      "journal_issue_date": "2025-09-25",
+      "canonical_publication_date": "2025-07-20",
+      "canonical_publication_year": 2025
+    },
+    "38158097": {
+      "title": "Jiawei Buzhong Yiqi decoction ameliorates polycystic ovary syndrome via oocyte-granulosa cell communication.",
+      "abstract": "Jiawei Buzhong Yiqi Decoction (JWBZYQ), from records of FuqingzhuNvke, is a classical formula for treating obese women related infertility. JWBZYQ has been shown to be effective in treating polycystic ovary syndrome (PCOS) in both clinical studies and practical practice, with the pharmacological mechanism remaining unknown. To explore the potential therapeutic effects and mechanistic insights of JWBZYQ in PCOS. An overweight PCOS rat model was established via testosterone propionate (TP) injection and 45% high-fat diet (HFD). Then they were categorized into five distinct groups: Control group, Model group, low-dose of JWBZYQ (JWBZYQ1) group, high-dose of JWBZYQ (JWBZYQ2) group, and metformin (Met) group. Body weight, estrous cycle, and sex hormone levels were observed. Hematoxylin-Eosin staining was employed to investigate the histological characteristics of the ovaries. To identify the pathways that changed significantly, transcriptome analysis was performed. The protein and mRNA levels of key molecules in ovarian zona pellucida (ZP) organization, transzonal projections (TZPs) assembly, steroid hormone receptors, and steroidogenesis were assessed using phalloidin staining, immunohistochemistry, Western blot, and polymerase chain reaction. RNA-seq analysis demonstrated that regulation of hormone secretion, cilium assembly, cell projection assembly, and ZP production may all have crucial impact on the etiology of PCOS and therapeutic effect of JWBZYQ. In particular, PCOS rats exhibited elevated expressions of ZP1-3, which can be reversed by JWBZYQ2 particularly. Simultaneously, TZPs assembly was totally disrupted in PCOS rats, evidenced by the phalloidin staining, upregulated calcium-/calmodulin-dependent protein kinase II beta (CaMKIIβ), and deficient p-CaMKIIβ, myosin X (MYO10), proline-rich tyrosine kinase 2 (PTK2), and Fascin. Nonetheless, JWBZYQ or metformin treatment revived the disturbance, repairing the oocyte-granulosa cell communication, regulating steroidogenesis in PCOS rats. In this way, JWBZYQ and metformin exerted remarkable effects in alleviating altered ovarian morphology and function in PCOS rats, with JWBZYQ2 revealing the best effect. JWBZYQ restored the altered ovarian morphology and function by regulating the oocyte-granulosa cell communication, which was related with ZP organization and TZPs assembly in the ovary.",
+      "year": 2023,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2023.117654",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-12-27"
+      ],
+      "journal_issue_date": "2024-04-06",
+      "canonical_publication_date": "2023-12-27",
+      "canonical_publication_year": 2023
+    },
+    "40360040": {
+      "title": "Buzhong Yiqi decoction improves inflammation and oxidative damage in autoimmune thyroiditis by inhibiting apoptosis via the SIRT1-Mediated Nrf2/NF-κB axis.",
+      "abstract": "Buzhong Yiqi decoction (BZYQ), a compound formula comprising eight traditional Chinese medicinal herbs, has been used clinically to treat various autoimmune diseases, including autoimmune thyroiditis (AIT). Our long-term clinical practice and research have shown that BZYQ demonstrates promising anti-inflammatory efficacy in the management of AIT, and the underlying pharmacological mechanisms involved warrant further exploration. To investigate the therapeutic effects and underlying mechanisms of the impact of BZYQ on AIT both in vitro and in vivo. An AIT model was developed in NOD.H-2h4 mice by administering 0.05 % NaI. The therapeutic efficacy of BZYQ on AIT was evaluated using hematoxylin-eosin (H&E) staining and enzyme-linked immunosorbent assay(ELISA). Oxidative stress and inflammation-related parameters, including superoxide dismutase (SOD), catalase (CAT), malondialdehyde (MDA), interleukin-6 (IL-6), and tumor necrosis factor-α (TNF-α) were analyzed. Thyroid cell apoptosis was observed using TUNEL staining. Reverse transcription-quantitative polymerase chain reaction(RT-qPCR), Western blotting, immunohistochemistry, and immunofluorescence were performed. These techniques were used to determine the alterations in key genes and proteins involved in the sirtuin 1 (SIRT1)-mediated Nuclear factor (erythroid-derived 2)-like 2 (Nrf2)/nuclear factor-kappaB p65 (NF-κB p65) axis regulating the apoptotic pathway in thyroid tissues of AIT mice after BZYQ intervention. Furthermore, lipopolysaccharide(LPS)was used to create a cellular model, which was then treated with BZYQ-containing serum. Confirmatory studies were conducted using a SIRT1 inhibitor. The protein levels of SIRT1, Nrf2, NF-κB p65, and Caspase-3 in Nthy-ori 3-1 cells were analyzed to gain further mechanistic insights. BZYQ ameliorated thyroid pathology in AIT mice, reduced inflammatory cell infiltration, lowered inflammation scores, decreased serum levels of TGAb and TPOAb antibodies, and diminished the spleen index. These findings suggest that BZYQ has a protective effect against thyroid damage in AIT. BZYQ-M exhibited the most pronounced therapeutic efficacy. Mechanistically, BZYQ exerted its anti-inflammatory, antioxidant, and antiapoptotic effects by upregulating SIRT1, which subsequently promoted Nrf2 expression and inhibited NF-κB p65 activation. These changes led to altered protein expression and mRNA levels of its downstream targets, considerably suppressing the production of inflammatory cytokines (TNF-α and IL-6), attenuating oxidative stress (MDA, SOD, and CAT), regulating the expressions of apoptotic markers (Bax, Bcl-2, CytC, and Caspase-3), and reducing the apoptosis rate of thyroid cells. Further validation via in vitro experiments revealed that SIRT1 inhibitors can block the protective effects of BZYQ on the Sirt1-mediated Nrf2/NF-κB axis and cellular apoptosis. The findings from this study establish that BZYQ exhibits potent antioxidant and anti-inflammatory activities via the SIRT1-mediated Nrf2/NF-κB p65 axis, reducing thyroid cell apoptosis. These observations unveil a novel mechanism and support the potential of BZYQ as a promising therapeutic agent for AIT.",
+      "year": 2025,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2025.119967",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-05-11"
+      ],
+      "journal_issue_date": "2025-07-24",
+      "canonical_publication_date": "2025-05-11",
+      "canonical_publication_year": 2025
+    },
+    "38621910": {
+      "title": "[Buzhong Yiqi Decoction ameliorates spleen deficiency syndrome by regulating gut microbiota].",
+      "abstract": "This study aims to decipher the mechanism of Buzhong Yiqi Decoction(BZYQD) in the treatment of spleen deficiency syndrome via gut microbiota. The mouse models of spleen deficiency syndrome were established by fecal microbiota transplantation(FMT, from patients with spleen deficiency syndrome) and administration of Sennae Folium(SF, 10 g·kg~(-1)), respectively, and treated with BZYQD for 5 d. The pseudosterile mice(administrated with large doses of antibiotics) and the mice transplanted with fecal bacteria from healthy human were taken as the controls. The levels of IgA, interleukin(IL)-2, IL-1β, interferon(IFN)-γ, tumor necrosis factor-alpha(TNF-α), and 5-hydroxytryptamine(5-HT) in the intestinal tissue of two models were measured by enzyme-linked immunosorbent assay, and the CD8~+/CD3~+ ratio was determined by flow cytometry. The composition and changes of the gut microbiota were determined by 16S rRNA high-throughput sequencing and qPCR. Furthermore, the correlation analysis was performed to study the mediating role of gut microbiota in the treatment. The results showed that BZYQD elevated the IgA level, lowered the IL-1β, TNF-α, and 5-HT levels, and decreased the CD8~+/CD3~+ ratio in the intestinal tissue of the two models. Moreover, BZYQD had two-way regulatory effects on the levels of IL-2 and IFN-γ. BZYQD inhibited the overgrowth and reduced the richness of gut microbiota in the SF model, and improved the gut microbiota structure in the two models. Algoriphagus, Mycobacterium, and CL500＿29＿marine＿group were the common differential genera in the two models compared with the control. Acinetobacter, Parabacteroides, and Ruminococcus were the differential genera unique to the FMT model, and Sphingorhabdus, Lactobacillus, and Anaeroplasma were the unique differential genera in the SF model. BZYQD was capable of regulating all these genera. The qPCR results showed that BZYQD increased the relative abundance of Akkermansia muciniphila and decreased that of Bacteroides uniformis in the two models. The correlation analysis revealed that the levels of above intestinal cytokines were significantly correlated with characteristic gut microorganisms in different mo-dels. The IL-1β level had a significantly positive correlation with Acinetobacter and CL500＿29＿marine＿group in the two models, while the different levels of IL-2 and IFN-γ in the two models may be related to its different gut microbiota structures. In conclusion, BZYQD could regulate the disordered gut microbiota structure in different animal models of spleen deficiency syndrome to improve the intestinal immune status, which might be one of the mechanisms of BZYQD in treating spleen deficiency syndrome.",
+      "year": 2024,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20231013.701",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2024-02",
+      "canonical_publication_date": "2024-02",
+      "canonical_publication_year": 2024
+    },
+    "37679989": {
+      "title": "Clinical efficacy of Buzhong Yiqi decoction in the treatment of hospital-acquired pneumonia with multi-drug resistant bacteria: a prospective, randomized, multicenter controlled trial.",
+      "abstract": "To evaluate the efficacy and safety of Buzhong Yiqi decoction (, BZYQ) in the treatment of hospital-acquired pneumonia (HAP) with multi-drug-resistant bacteria (MDRB). This 28-day study was conducted at 5 clinical centers in Shanghai. The eligible patients were randomly assigned (1:1) into the intervention group (BZYQ plus conventional Western Medicine therapy) and control group (conventional Western Medicine therapy). The primary outcomes were the clinical response, clinical pulmonary infection score (CPIS), and microbiologic response. The secondary outcomes were the 28-day all-cause mortality (ACM), Acute Physiology and Chronic Health Evaluation Ⅱ (APACHE Ⅱ) score, ventilator weaning rate, length of mechanical ventilation (MV), length of hospital stay, and changes of infection indicators. Altogether 83 subjects in the intervention group and 85 subjects in the control group were analyzed. The clinical success rate (48.2%) and the pathogen eradication rate (59.0%) of the intervention group were all better than those of the control group (32.9% and 38.9%, respectively) with statistically significant differences (<0.05). The CPIS score of the intervention group (8.9 ± 1.7) was lower than that of the control group (9.6 ± 2.5) (<0.05). The length of MV in the intervention group [(13.7 ± 6.4) d] was significantly shorter than that of the control group [ (17.2 ± 7.2) d] (<0.05). The 28-day ACM of the intervention group (13.33%) was lower than that of the control group (21.2%) with no statistically significant difference (>0.05). The differences between two groups in ventilator weaning rate, length of hospital stay, and APACHE Ⅱ score were not statistically significant (> 0.05). The intervention group displayed decreases in white blood cell count, C-reactive protein, neutrophil percentage, and procalcitonin at day 28 compared with baseline (<0.05). No serious adverse events occurred in either group during the 28-day follow-up. BZYQ may be an effective therapeutic option for the management of HAP with MDRB.",
+      "year": 2023,
+      "journal": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan",
+      "doi": "10.19852/j.cnki.jtcm.20230713.002",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2023-10",
+      "canonical_publication_date": "2023-10",
+      "canonical_publication_year": 2023
+    },
+    "39701767": {
+      "title": "[Effect of Buzhong Yiqi Decoction on Treg cells in rats with autoimmune thyroiditis through TGF-β/Smad signaling pathway].",
+      "abstract": "To investigate the effect of Buzhong Yiqi Decoction on regulatory T cells(Treg) in experimental rats with autoimmune thyroiditis(EAT) through the transforming growth factor-β(TGF-β)/Smad signaling pathway. Female SD rats were immunized with iodine-rich drinking water combined with Freund's adjuvant and porcine thyroglobulin(pTG) to establish the EAT model of rats, and the levels of serum thyroperoxidase antibody(TPOAb) and thyroglobulin antibody(TGAb) were detected. Pathological sections by hematoxylin-eosin(HE) staining were observed. Treg in the rats' spleen were extracted by immunomagnetic beads after the successful modeling and identified by flow cytometry. The extracted Treg were divided into blank group, Buzhong Yiqi Decoction group, TGF-β group, antagonist(LY3200882), and antagonist(LY3200882)+Buzhong Yiqi Decoction group. After the intervention, the cell counting kit-8(CCK-8) experiment was conducted to detect cell viability. Western blot and quantitative real-time PCR(RT-qPCR) were used to detect the expression of TGF-β/Smad signaling pathway-related proteins and genes. The results showed that the levels of TPOAb and TGAb increased in the rats in the model group compared to the rats in the blank group. HE staining showed that part of the follicles in the thyroid tissue of the rats in the model group were destroyed, and a large number of lymphocytes were infiltrated, indicating that the modeling was successful. After Treg were administered in vitro, CCK-8 results showed that the serum concentration of Buzhong Yiqi Decoction was below 40% to promote cell proliferation. The Buzhong Yiqi Decoction-containing serum group could increase the protein expression of TGF-β1, FoxP3, Smad2, and Smad4 compared with the blank serum group, while the expression of p-Smad2, p-Smad3, and Smad3 increased compared with the blank serum group, but the difference was not statistically significant. Compared with the antagonist group, the protein expressions of p-Smad2, Smad2, p-Smad3, Smad3, Smad4, and Smad7 did not significantly increase or decrease in the antagonist group after adding Buzhong Yiqi Decoction-containing serum. RT-qPCR showed that compared with the blank serum group, the mRNA expression of TGF-β1, FoxP3, Smad2, Smad3, Smad4, and Smad7 in the Buzhong Yiqi Decoction group increased or decreased in the same trend as that in the TGF-β group, but there was no statistical significance. After Buzhong Yiqi Decoction-containing serum was added to the antagonist group, the mRNA levels of TGF-β1, FoxP3, Smad2, Smad3, Smad4, and Smad7 were not statistically significant. In conclusion, Buzhong Yiqi Decoction could promote the stability and activity of Treg cells by promoting the secretion of TGF-β1 and regulating the expression of key signaling molecules TGF-β1, Smad2, and Smad4 in the TGF-β/Smad signaling pathway, thus affecting the immune balance of Th17/Treg and inhibiting the inflammatory response of rats with EAT.",
+      "year": 2024,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20240712.702",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2024-10",
+      "canonical_publication_date": "2024-10",
+      "canonical_publication_year": 2024
+    },
+    "37147755": {
+      "title": "Efficacy of Buzhong Yiqi decoction on benign prostatic hyperplasia and its possible mechanism.",
+      "abstract": "To explored the mechanism of Buzhong Yigi decoction ( BZYQD) in inhibiting prostatic cell proliferation effect. The compounds of BZYQD consisted with eight herbs were searched in TCMSP databases and the putative targets of BZYQD were collected in Drugbank database. Then, \"Benign prostatic hyperplasia\" (BPH) was used to find the targets based on the GeneCards, Online Mendelian Inheritance in Man (OMIM) and Therapeutic Target Database (TTD) databases, and they were further used to collect further collect the intersection targets between BZYQD and BPH by counter-selection. Next, Herb-Compound-Target-Disease network was constructed by Cytoscape software and protein interaction network was built by Search tool for recurring instances of neighbouring genes (STRING) database. Gene Ontology (GO) enrichment and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment were analyzed by Database for Annotation, Visualization and Integrated Discovery (DAVID) database to predict the mechanism of the intersection targets. Mitogen activated protein kinase 8 (MAPK8), interleukin 6 (IL-6) and quercetin were chosen to perform molecular docking. Then 3-(4,5-dimethyl-2-thiazolyl)-2,5-diphenyl-2-H-tetrazolium bromide (MTT) assay was to detect the bility of BPH-1 (BPH epithelial cell line) by treated with quercetin at the concentrations of 15, 30, 60, 120 μM for 12, 24, 48, 72 h. The production of IL-6, tumor necrosis factor-α (TNF-α), IL-1β and were mRNA expression detected by enzyme-linked immunosorbent assay kit and quantitative real-time polymerase chain reaction. Western blot was used to detect the expression of phospho-p38 mitogen-activated protein kinase (p-P38) and matrix metalloprotein-9 (MMP-9). A total 151 chemical ingredients of 8 herbs and 1756 targets in BZYQD, 105 common targets of BZYQD and BPH which mainly involving with MAPK8, IL-6, and so on. GO enrichment analysis got 352 GO entries (0.05) which included 208 entries of biological process, 64 entries of cell component and 80 entries of molecular function. KEGG pathway Enrichment analyses got 20 significant pathways which mainly involved with MAPK signaling way. MTT assay indicated quercetin inhibited the viability of BPH-1 cells by time-and dose-dependent manner. Quercetin decreased the IL-6, TNF-α and IL-1β production and mRNA expression, and the expression of p-P38 and MMP-9 were also obviously reduced after treated with quercetin. BZYQD inhibited BPH through suppressing inflammatory response which might involving with regulating the MAPK signaling way.",
+      "year": 2023,
+      "journal": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan",
+      "doi": "10.19852/j.cnki.jtcm.2023.03.003",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2023-06",
+      "canonical_publication_date": "2023-06",
+      "canonical_publication_year": 2023
+    },
+    "41116264": {
+      "title": "Buzhong Yiqi Decoction Regulates Th17 Cells Differentiation in Autoimmune Thyroiditis through PTEN/AKT-immunometabolism Axis.",
+      "abstract": "<p> Introduction: Autoimmune thyroiditis (AIT), a prevalent autoimmune disorder, can severely impair patients' quality of life when progressing to hypothyroidism. This investigation seeks to systematically evaluate the therapeutic efficacy of Buzhong Yiqi Decoction (BZYQ) against iodine-induced AIT while elucidating its underlying molecular mechanisms. </p> <p> Methods: NOD.H-2h4 mice received daily 0.05% sodium iodide gavage for 8 weeks to induce AIT. Thyroid histopathology was evaluated by HE staining. Serum autoantibody levels and lactate concentrations were measured. Western blotting analyzed PTEN, p-PI3K/PI3K, p-AKT/AKT, GLUT1, HK2, PKM2, and LDHA protein expression in thyroid tissues. Immunofluorescence staining localized the expression of HK2 and RORγt in thyroid sections. Flow cytometry quantified the proportion of Th17 cells within splenic lymphocytes. </p> <p> Results: BZYQ reduced thyroid structural damage and lymphocytic infiltration in AIT mice, accompanied by significant reductions in serum TGAb and TPOAb levels. Notably, BZYQ modulated glycolysis to decrease lactate levels and the proportion of Th17 cells. Mechanistically, BZYQ upregulated PTEN expression to suppress downstream p-PI3K, p-AKT, GLUT1, HK2, PKM2, and LDHA expression, thereby achieving regulation of immunometabolic pathways. </p> <p> Discussion: This study provides experimental evidence for broadening the modern clinical applications of this classical formula. However, the related mechanisms still require further rigorous clinical studies for validation. </p> <p> Conclusion: BZYQ modulates Th17 differentiation via the PTEN/AKT-immunometabolic axis in AIT. </p>.",
+      "year": 2025,
+      "journal": "Endocrine, metabolic & immune disorders drug targets",
+      "doi": "10.2174/0118715303388096250914111152",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-10-15"
+      ],
+      "journal_issue_date": "2025-10-15",
+      "canonical_publication_date": "2025-10-15",
+      "canonical_publication_year": 2025
+    },
+    "35495748": {
+      "title": "Clinical Study on the Treatment of Female Stress Urinary Incontinence With Modified Buzhong Yiqi Decoction.",
+      "abstract": "To study the clinical application value of Modified Buzhong Yiqi Decoction in the treatment of female stress urinary incontinence (SUI). A total of 103 female patients with SUI were included in this study, 13 were lost to follow-up, and the final number of studies was 90. General information about the patients, including age, years of menopause, body mass index (BMI), reproductive history, chronic respiratory disease, hypertension, and diabetes, were recorded. All the patients were treated with Modified Buzhong Yiqi Decoction alone for 4 weeks. The Patient Global Impression of Improvement (PGI-I), the International Consultation on Incontinence Questionnaire-Urinary Incontinence Short Form (ICI-QSF) and 72-h voiding diary were used to evaluate the patients' subjective symptoms and urinary incontinence degree before treatment, 1 month after treatment and 1 year after treatment, the efficacy and efficacy-related factors of Modified Buzhong Yiqi Decoction in the treatment of female SUI were analyzed. One month after Modified Buzhong Yiqi Decoction treatment, compared with before treatment, the PGI-I questionnaire was very much better (68.89%), much better (8.89%), a little better (12.33%), no change (8.89%), the ICI-QSF score decreased (P < 0.05), and 72-h urine leakage frequency decreased (P < 0.05); One year after treatment compared with before treatment, the PGI-I questionnaire was very much better (40.00%), much better (17.78%), a little better (12.22%), no change (30.00%), the ICI-QSF score decreased (P < 0.05), and 72-h urine leakage frequency decreased (P < 0.05); and 1 year after treatment compared with 1 month after treatment, the ratio of very much better at 1 year after treatment was significantly decreased (P < 0.05), the score of the ICI-QSF was significantly increased (P < 0.05), and 72-h urine leakage frequency was significantly increased (P < 0.05). The correlation analysis showed that the efficacy at 1 month after treatment was negatively correlated with the severity of SUI and chronic respiratory diseases, but was not significantly correlated with age, menopause status, BMI, number of pregnancies, and number of births. The efficacy at 1 year after treatment was negatively correlated with the severity of SUI, chronic respiratory disease, age, and number of births and was positively correlated with BMI, but not significantly correlated with menopause status and number of pregnancies. Modified Buzhong Yiqi Decoction can effectively treat SUI in women. The efficacy is related to the severity of SUI and chronic abdominal hypertension, but the long-term efficacy decreases.",
+      "year": 2022,
+      "journal": "Frontiers in surgery",
+      "doi": "10.3389/fsurg.2022.882621",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-04-13"
+      ],
+      "journal_issue_date": "2022",
+      "canonical_publication_date": "2022-04-13",
+      "canonical_publication_year": 2022
+    },
+    "30558075": {
+      "title": "Modified Buzhong Yiqi decoction for myasthenia gravis: A systematic review protocol.",
+      "abstract": "Myasthenia gravis (MG) is an autoimmune disease caused by the transmission of dysfunction in the neuromuscular junction, manifesting partial or systemic skeletal muscle weakness and fatigue, which are exacerbated by activities and relieved after rest. Currently, the conventional therapy is applying cholinesterase inhibitors, steroids, immunosuppressant, and thymectomy. However, these drugs have obvious side effects. According to traditional Chinese medicine (TCM) theory, Buzhong Yiqi decoction (BYD) is a Qi-supplementing formula which is suitable for MG management as MG is generally diagnosed as \"flaccidity syndrome\" and considered caused by Qi-deficiency. An increasing number of clinical controlled studies also have found that BYD could improve the efficacy and reduced adverse effects in treating MG, but there is no systematic review of it. Therefore, we will use meta-analysis to evaluate the efficacy and safety of BYD for MG. PubMed, MEDLINE, EMBASE, Cochrane Library, China National Knowledge Infrastructure (CNKI), Wanfang data, Chinese Scientific Journals Database (VIP), and China biomedical literature database (CBM) will be searched to obtain the eligible studies published up to June 1, 2018. The primary outcome will be clinical absolute score before and after treatment, clinical relative score as well as effective rate. The secondary outcome will be the concentration of acetylcholine receptor antibody (AchRAb) in serum and adverse events incidence. Data analysis will be conducted using RevMan5.3 and Stata V.9.0 software. Trial sequential analysis (TSA) will be performed to assess the risk of random error and the validity of conclusion using TSA program version 0.9 beta. This systematic review will provide a high-quality synthesis of BYD and its modified forms for MG from various evaluation aspects including clinical absolute score before and after treatment, clinical relative score, effective rate, the concentration of AchRAb in serum and adverse events incidence. The systematic review will provide evidence to assess the efficacy and safety of BYD and its modified forms in the treatment of MG. PROSPERO CRD42018095241.",
+      "year": 2018,
+      "journal": "Medicine",
+      "doi": "10.1097/MD.0000000000013677",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2018-12",
+      "canonical_publication_date": "2018-12",
+      "canonical_publication_year": 2018
+    },
+    "41330182": {
+      "title": "Multi-target mechanisms of Bojungikki-tang in psoriasis-like dermatitis: Integrative network and transcriptomic analysis.",
+      "abstract": "Psoriasis is a chronic and complex disease characterized by itching, burning, and soreness with scaly plaques and erythematous lesions. It is associated with various comorbidities, such as rheumatoid arthritis, cardiovascular disease, and psychiatric complications. Psoriasis is a systemic inflammatory disease that increases the release of pro-inflammatory cytokines from chronically-activated innate and adaptive immune systems. To treat multifactorial and complex diseases, system-oriented drug design and drug combinations for synergistic effects are highly effective and advantageous. Previous studies have revealed the immunomodulatory effects of Bojungikki-tang (BJT, Buzhong-Yiqi-Tang in traditional Chinese medicine and Hochu-ekki-to in Kampo medicine) in complex diseases; however, the effect of BJT on psoriasis, a chronic autoimmune disease, has not been evaluated. We evaluated the effect of BJT against psoriasis and the underlying mechanisms. The anti-psoriatic effects of BJT were evaluated in vivo, and the underlying mechanisms were elucidated through network analysis, transcriptomics, UPLC-ESI-MS/MS, and molecular docking. In vivo studies confirmed that BJT reduced TNF-α, IL-1β, IL-6, Th17 cytokines, prostaglandin E2 production, and keratinocyte proliferation. Moreover, BJT regulated the expression of PLA2G4D, an enzyme of the arachidonic acid (AA) pathway, as well as other enzymes involved in this pathway, including COX-2. This study demonstrated that BJT ameliorated psoriasis-like inflammation by concurrently regulating pivotal pro-inflammatory cytokines and two distinct steps of the AA pathway, which may be related to its multi-component composition. These findings indicate the therapeutic potential of the multi-component drug BJT on multiple targets for psoriasis-like inflammation.",
+      "year": 2025,
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "doi": "10.1016/j.phymed.2025.157619",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-11-27"
+      ],
+      "journal_issue_date": "2026-01",
+      "canonical_publication_date": "2025-11-27",
+      "canonical_publication_year": 2025
+    },
+    "39278852": {
+      "title": "Buzhong Yiqi decoction attenuates acquired myasthenia by regulating the JAK2/STAT3/AKT signaling pathway, inhibiting inflammation, and improving mitochondrial function.",
+      "abstract": "Acquired myasthenia (AM), a debilitating autoimmune disease, is typically characterized by skeletal muscle fatigue and weakness. Despite advances in myasthenia gravis treatment, current approaches remain unsatisfactory and many result in unexpected side effects. Traditional Chinese medicine has shown great potential in the treatment of myasthenia gravis, including relieving myasthenic symptoms, improving patients' quality of life, and reducing Western medicine side effects. This study investigates the protective effects and mechanism of BZYQD in mice with acquired myasthenia. BZYQD alleviates the reduced grip strength and increased expression of MAFbx and MuRF-1 in mice with acquired myasthenia. It also reduces levels of pro-inflammatory factors IL-1β, IL-6, and TNF-α in the mouse serum. In addition, BZYQD reduces ROS accumulation and the mitochondrial ROS production rate, while increasing ATP levels and mitochondrial membrane potential in mice with acquired myasthenia. Moreover, BZYQD decreases the expression of p-JAK2, p-STAT3, and p-AKT in the skeletal muscle of mice with acquired myasthenia. In summary, BZYQD reduces inflammation, enhances mitochondrial function, and regulates the JAK2/STAT3/AKT signaling pathway to treat acquired myasthenia.",
+      "year": 2024,
+      "journal": "Allergologia et immunopathologia",
+      "doi": "10.15586/aei.v52i5.1147",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2024-09-01"
+      ],
+      "journal_issue_date": "2024",
+      "canonical_publication_date": "2024-09-01",
+      "canonical_publication_year": 2024
+    },
+    "37695446": {
+      "title": "Combined Treatment with Bojungikgi-tang (Buzhong Yiqi Decoction) and Riluzole Attenuates Cell Death in TDP-43-Expressing Cells.",
+      "abstract": "To examine the effect of combined treatment with Bojungikgi-tang (BJIGT, Buzhong Yiqi Decoction) and riluzole (RZ) in transactive response DNA-binding protein 43 (TDP-43) stress granule (SG) cells, a amyotrophic lateral sclerosis (ALS) cell line using transcriptomic and molecular techniques. TDP-43 SG cells were pretreated with BJIGT (100 µg/mL), RZ (50 µmol/L), and combined BJIGT (100 µg/mL)/RZ (50 µmol/L) for 6 h before treatment with lipopolysaccharide (LPS, 200 µmol/L). Cell viability assay was performed to elucidate cell toxicity in TDP-43 SC cells using a cell-counting kit-8 (CCK8) assay kit. The expression levels of cell death-related proteins, including Bax, caspase 1, cleaved caspase 3 and DJ1 in TDP-43 SG cells were examined by Western blot analysis. The autophagy-related proteins, including pmTOR/mTOR, LC3b, P62, ATG7 and Bcl-2-associated athanogene 3 (Bag3) were investigated using immunofluorescence and immunoblotting assays. Cell viability assay and Western blot analysis showed that combined treatment with BJIGT and RZ suppressed LPS-induced cell death and expression of cell death-related proteins, including Bax, caspase 1, and DJ1 (P<0.05 or P<0.01). Immunofluorescence and immunoblotting assays showed that combined treatment with BJIGT and RZ reduced LPS-induced formation of TDP-43 aggregates and regulated autophagy-related protein levels, including p62, light chain 3b, Bag3, and ATG7, in TDP-43-expressing cells (P<0.05 or P<0.01). The combined treatment of BJIGT and RZ might reduce inflammation and regulate autophagy dysfunction in TDP-43-induced ALS.",
+      "year": 2023,
+      "journal": "Chinese journal of integrative medicine",
+      "doi": "10.1007/s11655-023-3557-8",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-09-11"
+      ],
+      "journal_issue_date": "2024-07",
+      "canonical_publication_date": "2023-09-11",
+      "canonical_publication_year": 2023
+    },
+    "41415071": {
+      "title": "Exploring the potential of Buzhong Yiqi decoction in the treatment of membranous nephropathy: a comprehensive study combining bioinformatics, network pharmacology, and experimental validation.",
+      "abstract": "Buzhong Yiqi Decoction (BZYQ), a classic Chinese herbal formula, demonstrates clinical efficacy in treating membranous nephropathy (MN), yet its molecular mechanisms remains undefined. This study aims to uncover the therapeutic mechanisms of BZYQ against MN at the molecular level. BZYQ components/targets were retrieved from TCMSP and UniProtKB, while MN-related targets were obtained from GeneCards and GEO. Core targets were identified via Protein-Protein Interaction (PPI) analysis and machine learning (ML). Immune cell infiltration was analyzed using CIBERSORT, and diagnostic values were evaluated via Receiver Operating Characteristic (ROC) curves. Molecular docking validated interactions between core targets and BZYQ's active ingredients, with efficacy and mechanisms further verified in a cationic bovine serum albumin-induced mouse MN model. Screening identified MYC and NFKBIA as core targets, primarily enriched in B-cell receptor signaling. Immune infiltration analysis showed their correlation with follicular helper T cell abundance. ROC curves confirmed area under the curve > 0.7 for both targets. Molecular docking revealed strong binding (average energy: -7.13 kcal/mol) between targets and BZYQ components. In vivo, BZYQ significantly reduced 24-h urinary protein (P < 0.001), increased serum albumin (P < 0.05), decreased serum creatinine (P < 0.05), and alleviated renal pathology/immune complex deposition. Mechanistically, immunohistochemistry/Western blotting showed BZYQ downregulated MYC (P < 0.05) and upregulated IκBα (P < 0.05) versus the model group. BZYQ emerges as a promising therapeutic for MN. Elucidating its anti-MN mechanisms provides a theoretical basis for clinical translation.",
+      "year": 2025,
+      "journal": "American journal of translational research",
+      "doi": "10.62347/FFEN1563",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-11-15"
+      ],
+      "journal_issue_date": "2025",
+      "canonical_publication_date": "2025-11-15",
+      "canonical_publication_year": 2025
+    },
+    "39087096": {
+      "title": "Therapeutic effects of Buzhong Yiqi decoction in patients with spleen and stomach qi deficiency after routine surgery and chemotherapy for colorectal cancer.",
+      "abstract": "According to the theory of traditional Chinese medicine (TCM), the spleen and stomach are the basis of acquired nature and the source of qi and blood biochemistry. After surgery and chemotherapy, patients with colorectal cancer often develop spleen and stomach qi deficiency syndrome, leading to decreased immune function. Buzhong Yiqi decoction, a classic TCM prescription, has the effect of tonifying middle-jiao and invigorating qi, boosting Yang, and suppressing immune-related inflammation. Moreover, it is widely used in the treatment of spleen and stomach qi deficiency syndrome. To investigate the effect of Buzhong Yiqi decoction on spleen and stomach qi deficiency in patients with colorectal cancer. One hundred patients with colorectal cancer who underwent preoperative chemotherapy and laparoscopy at The First TCM Hospital of Changde from January 2022 to October 2023 were retrospectively analyzed. The patients were divided equally into control and observation groups. Both groups underwent conventional rehabilitation surgery, and the observation group was supplemented with Buzhong Yiqi decoction. SPSS 26.0 was used for statistical analyses. The χ 2 test was used for univariate analysis; independent sample t-tests were used in all cases. No significant differences were observed preoperatively in the general characteristics of the two groups. Fourteen days post-surgery, the abdominal distension, emaciation, loose stool, loss of appetite, and vomiting scores were significantly lower in the observation group than in the control group (P < 0.05). Immune function and interleukin (IL)-10 levels in the observation group were significantly higher than those of the control group, whereas IL-6, tumor necrosis factor-α, and C-reactive protein levels, tumor biological indexes, and adverse reactions in the observation group were significantly lower than those of the control group (P < 0.05). One month after surgery, the patients' quality of life in the observation group was significantly higher than that of the patients in the control group (P < 0.05). Buzhong Yiqi decoction can regulate inflammatory responses and metabolic processes by enhancing immune function, thereby promoting overall immune nutrition and restoring the body's balance.",
+      "year": 2024,
+      "journal": "World journal of gastrointestinal surgery",
+      "doi": "10.4240/wjgs.v16.i7.2183",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2024-07-27",
+      "canonical_publication_date": "2024-07-27",
+      "canonical_publication_year": 2024
+    },
+    "36590298": {
+      "title": "The protective effect of Buzhong Yiqi decoction on ischemic stroke mice and the mechanism of gut microbiota.",
+      "abstract": "Buzhong Yiqi decoction (BZYQD) has been developed for preventing or reducing the recurrence of ischemic stroke for a long time in China. However, the mechanism of action of the BZYQD is not completely understood. Our research aims to determine whether the mechanism of action of BZYQD is by regulating gut microbiota using 16SR RNA and fecal microbiota transplantation. In a cerebral ischemia mouse model, the results showed that prophylactic administration of BZYQD could reduce brain infarct volume and improve neurological function and behavior. The prophylactic administration of BZYQD could regulate intestinal microbiota and increase the abundance of butyrate-producing Prevotellaceae_NK3B31_group and probiotic Akkermansia in mice 72 h after surgery. Transplanting BZYQD-administered bacterial flora into antibiotic-depleted mice could reproduce the therapeutic effects of BZYQD. Overall, our study provided molecular insights into the mechanism and impact of BZYQD in the prevention of cerebral ischemic damage and highlighted the potential of regulation of intestinal microbiota as a therapeutic approach for ischemic stroke.",
+      "year": 2022,
+      "journal": "Frontiers in neuroscience",
+      "doi": "10.3389/fnins.2022.956620",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-12-15"
+      ],
+      "journal_issue_date": "2022",
+      "canonical_publication_date": "2022-12-15",
+      "canonical_publication_year": 2022
+    },
+    "34871253": {
+      "title": "Effect of Buzhong Yiqi decoction on anti-acetylcholine receptor antibody and clinical status in juvenile ocular myasthenia gravis.",
+      "abstract": "Ocular myasthenia gravis (MG) is the mainly widespread type of MG among juveniles. Buzhong Yiqi decoction (BZ) is a well-known traditional Chinese medicine prescription for treating MG. It has rarely been discussed whether the concentration of anti-acetylcholine receptor (AChR) antibodies is related to the clinical status of juvenile ocular myasthenia gravis (JOMG) treated with BZ.The patients with JOMG who had more than once AChR-antibody (ab) test and treated with BZ were retrospectively identified from June 2013 to January 2020 in the first hospital in Shijiazhuang. The presence or absence of ocular symptoms was used to grade the effectiveness of treatment. Generalized estimating equations logistic regression analysis was used to evaluate the effect of AChR ab concentration on the clinical status of MG.A total of 549 AChR-ab tests were performed in 135 patients, and the corresponding clinical status was recorded. One hundred two patients received treatment with BZ only and 33 combined with immunosuppressive drugs. In the group receiving only BZ treatment, the anti-acetylcholine receptor ab concentration was positively correlated with the clinical score after treatment.The results suggest that BZ could affect the AChR-ab. Repeated AChR-ab assays can provide information about the clinical status. For JOMG patients who only receive Buzhong Yiqi Decoction treatment, this can support treatment decisions.",
+      "year": 2021,
+      "journal": "Medicine",
+      "doi": "10.1097/MD.0000000000027688",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2021-11-05",
+      "canonical_publication_date": "2021-11-05",
+      "canonical_publication_year": 2021
+    },
+    "40065054": {
+      "title": "Investigating the PI3K/AKT/mTOR axis in Buzhong Yiqi Decoction's anti-colorectal cancer activity.",
+      "abstract": "Buzhong Yiqi Decoction (BZYQD) is a traditional Chinese medicine renowned for its anti-colorectal cancer (CRC) properties. However, the bioactive components and mechanisms of BZYQD against CRC remain unknown. In this study, LC-MS was used to analyze the chemical composition of BZYQD. Next, the network pharmacology and molecular docking was used to investigate the core components and targets of BZYQD against CRC. Finally, we experimentally validated the potential mechanism of BZYQD against CRC through in vitro studies. Our results identified 26 chemical components in the BZYQD; 75 \"hithubs\" targets were screened by network pharmacology, and mainly involving pathways such as including pathways in cancer, P13K-Akt signaling pathway, proteoglycans in cancer, kaposi sarcoma-associated herpesvirus, and lipid and atherosclerosis signaling pathways. Based on the number of \"hithubs\" targets in the key pathways, the two most critical targets including AKT1 and PIK3CA were selected. The component-target network results indicated that astragaloside IV, gancaonin A, quercetin, poricoic acid A, and licoisoflavanone are key anti-CRC components in BZYQD. Molecular docking showed a strong binding affinity between these components and targets. The phosphoinositide 3-kinase (PI3K)/protein kinase B (AKT) signaling pathway emerged as the primary target of BZYQD. Further in vitro studies confirmed that BZYQD's anti-CRC activity is mediated through the PI3K/AKT/mTOR axis and influences macrophage polarization. BZYQD exerts its therapeutic effects on CRC through multiple components, targets, and pathways. Our study elucidates the effective components and molecular mechanisms of BZYQD in CRC treatment and provides preliminary validation through molecular docking and experimental studies.",
+      "year": 2025,
+      "journal": "Scientific reports",
+      "doi": "10.1038/s41598-025-89018-9",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-03-10"
+      ],
+      "journal_issue_date": "2025-03-10",
+      "canonical_publication_date": "2025-03-10",
+      "canonical_publication_year": 2025
+    },
+    "39326601": {
+      "title": "Apo E protein and related markers show the prognosis of stress urinary incontinence rats treated with modified Buzhong Yiqi Decoction.",
+      "abstract": "Stress urinary incontinence (SUI) is a common disease that seriously affects the quality of life of patients. In recent years, studies have shown that apolipoprotein E (ApoE) plays a role in neuroprotection and repair, but its specific role in SUI remains unclear. The aim of this study was to investigate the effect of macromolecular protein ApoE related markers on the prognosis of rats with SUI treated by modified Buzhong Yiqi Decoction (MBZYQD), in order to provide a new target for the treatment of SUI. Healthy rats were selected to establish a SUI model and divided into groups. The levels of ApoE related metabolites in blood of rats were detected by Metabolomics analysis and Lipidomics analysis. The urine leakage point pressure (LPP) were compared in each group, and the therapeutic effect of MBZYQD was evaluated. Compared with the model group, the LPP of rats in MBZYQD supplemented group was significantly higher. Compared with the control group, the LPP of MBZYQD was not statistically significant before and after treatment. The macromolecular protein ApoE may plays a key role in the treatment of SUI by MBZYQD, which can improve symptoms by regulating lipid metabolism repair.",
+      "year": 2024,
+      "journal": "International journal of biological macromolecules",
+      "doi": "10.1016/j.ijbiomac.2024.135996",
+      "publication_types": [
+        "Journal Article",
+        "Retracted Publication"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2024-09-24"
+      ],
+      "journal_issue_date": "2024-11",
+      "canonical_publication_date": "2024-09-24",
+      "canonical_publication_year": 2024
+    },
+    "21598554": {
+      "title": "[Effects of buzhong yiqi decoction on adriamycin induced heart failure in rats].",
+      "abstract": "To study the effects and mechanism of Buzhong Yiqi decoction on adriamycin-induced acute myocardial injury in rats. 50 rats were randomly divided to five groups: control group, heart failure group, low dose Buzhong Yiqi decoction, high dose Buzhong Yiqi decoction and captopril group. Adriamycin was injected into the latter four groups to built a model of heart failure. Then, the effects of different doses of Buzhong Yiqi decoction on hemodynamics, cardiac tissue histological changes, antioxidant capacity and apoptosis of the damaged hearts were studied. Adriamycin led to myocardial fiber swelling and fracture, Buzhong Yiqi decoction could reduce myocardial lesions. Buzhong Yiqi decoction could also improve heart antioxidant capacity and inhibit adriamycin-induced cardiomyocyte apoptosis. Buzhong Yiqi decoction could significantly ease adriamycin induced heart failure in rats, and the mechanism is related to anti-oxidation and inhibiting apoptosis.",
+      "year": 2011,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": null,
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2011-02",
+      "canonical_publication_date": "2011-02",
+      "canonical_publication_year": 2011
+    },
+    "38744568": {
+      "title": "Clinical remission of moderate generalized myasthenia gravis through exclusive use of Buzhong Yiqi decoction: A case report.",
+      "abstract": "Myasthenia gravis (MG) is a rare autoimmune neuromuscular disorder with significant morbidity and mortality. Traditional Chinese medicine (TCM) offers an alternative approach to standard pharmacological and surgical interventions, which are often associated with adverse side effects. This case report details the clinical remission of a 50-year-old male with moderate generalized MG following exclusive treatment with a modified Buzhong Yiqi decoction (BYD), a TCM formula, without the use of immunosuppressive agents. The patient presented with diplopia, bilateral ptosis, weakness in chewing, limb weakness, and other symptoms indicative of spleen and stomach qi deficiency. Modified BYD was prescribed, focusing on strengthening the spleen, nourishing qi and blood, and enhancing immune response. The treatment included ingredients such as Radix Astragali, Angelica sinensis, Atractylodes macrocephala, and others, aiming to restore balance and improve the patient's condition. After two weeks of TCM treatment, the patient showed significant improvement in symptoms of myasthenia. By the second month, all clinical symptoms had disappeared. The patient continued to receive the TCM regimen until the thirtieth month of treatment. At the time of writing this report, the patient has no clinical symptoms and has experienced no relapse. Notably, no obvious adverse effects were reported throughout the treatment. The success of this case suggests that TCM may serve as an independent treatment option for moderate MG, offering a steroid-free alternative, which would be particularly valuable for patients who are intolerant of or refuse steroid therapy, potentially with significant clinical implications. However it needs a randomized clinical trial comparing TCM to conventional Western medicine treatment to validate it.",
+      "year": 2024,
+      "journal": "Explore (New York, N.Y.)",
+      "doi": "10.1016/j.explore.2024.05.004",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2024-05-10"
+      ],
+      "journal_issue_date": "2024",
+      "canonical_publication_date": "2024-05-10",
+      "canonical_publication_year": 2024
+    },
+    "37070455": {
+      "title": "Based on mRNA Sequencing Techniques to Explore the Molecular Mechanism of Buzhong Yiqi Decoction for Autoimmune Thyroiditis.",
+      "abstract": "Autoimmune diseases (AD) account for a high percentage of the population. One of the most prevalent is autoimmune thyroiditis (AIT). However, the therapeutic effects of Buzhong Yiqi (BZYQ) decoction on AIT have not been studied yet. The majority of the present study was conducted on NOD.H-2h4 mice in an attempt to ascertain the therapeutic effects of BZYQ decoction on AIT. The 0.05% sodium iodide water (NaI)-induced AIT mice model was established. A total of nine NOD.H-2h4 mice were randomly divided into three groups: the normal group provided with regular water, the model group drinking freely 0.05% NaI, and the treatment group treated with BZYQ decoction (9.56 g/kg) after NaI supplementation (NaI + BZYQ). BZYQ decoction was administered orally once daily for eight weeks. The thyroid histopathology test was used to measure the severity of lymphocytic infiltration. An enzyme-linked immunosorbent assay (ELISA) was used to determine the levels of anti-thyroglobulin antibody (TgAb), interleukin (IL)-1β, IL-6, and IL-17. The Illumina HiSeq X sequencing platform was utilized to analyze the thyroid tissue by mRNA expression profiles. Bioinformatics analysis was used to investigate the biological function of the differentially expressed mRNAs. In addition, the expression of Carbonyl Reductase 1 (CBR1), 6-Pyruvoyltetrahydropterin Synthase (PTS), Major Histocompatibility Complex, Class II (H2-EB1), Interleukin 23 Subunit Alpha (IL-23A), Interleukin 6 Receptor (IL-6RA), and Janus Kinase 1 (JAK1) was measured by quantitative real-time PCR (qRT-PCR). The treatment group exhibited significantly lower rates of thyroiditis and lymphocyte infiltration compared to the model group. Serum levels of TgAb, IL-1β, IL-6, and  IL-17 were significantly higher in the model group, but they fell dramatically after BZYQ decoction administration. According to our results, 495 genes showed differential expression in the model group compared to the control group. Six hundred twenty-five genes were significantly deregulated in the treatment group compared to the model group. Bioinformatic analysis showed that most mRNAs were associated with immune-inflammatory responses and were involved in multiple signaling pathways, including folate biosynthesis and the Th17 cell differentiation pathway. CBR1, PTS, H2-EB1, IL- 23A, IL-6RA and JAK1 mRNA participated in folate biosynthesis and the Th17 cell differentiation pathway. The qRT-PCR analysis confirmed that the above mRNAs were regulated in the model group compared to the treatment group Conclusion: The results of this investigation have revealed novel insights into the molecular mechanism of action of BZYQ decoction against AIT. The mechanism may be partially attributed to the regulation of mRNA expression and pathways.",
+      "year": 2024,
+      "journal": "Combinatorial chemistry & high throughput screening",
+      "doi": "10.2174/1386207326666230417120421",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2024",
+      "canonical_publication_date": "2024",
+      "canonical_publication_year": 2024
+    },
+    "41031496": {
+      "title": "Exploring the Mechanism of Bu Zhong Yi Qi Decoction in Treating Sepsis-induced Acute Lung Injury based on Network Pharmacology and Experimental Verification.",
+      "abstract": "Sepsis-induced acute lung injury (S-ALI) is one of the diseases with a very high fatality rate. However, the traditional Chinese medicine compound Buzhong Yiqi Decoction (BZYQD) has an excellent effect in the treatment of S-ALI. Nevertheless, its mechanism of action is still unclear. In this study, we explored the molecular mechanisms of S-ALI injury treated with buzhong yiqi decoction through network pharmacology, in combination with in vivo experimental validation. Traditional Chinese medicine system pharmacology (TCMSP) database was used to screen the chemical composition of BZYQD and its action targets; Multiple databases were used to collect target genes for-S-ALI, including OMIM, TTD, GeneCards, and DrugBank; The STRING database was used for the protein- protein interaction (PPI) analysis of the common targets of the BZYQD and the S-ALI; The DAVID database was used for GO and KEGG analysis; molecular docking was used to detect the binding capacity of core components and targets. HE staining was used to visualize the pathology of lung tissue in each group; ELISA was used to detect the levels of inflammatory factors (IL-1β, IL-6, IL-8, NF-κB and TNF-α) and oxidative stressrelated factors (LDH, CK-MB, SOD, GSH-Px); The qPCR and Western blot were used to examine the mRNA and protein expression of IL-1β, IL-6, TNF-α NF-κB, p-NF-κB, PI3K, p-PI3K, AKT, and IKKα. 113 chemical components and 226 targets were screened from BZYQD; 9059 S-ALI-related genes were screened out, with a total of 228 intersecting targets between BZYQD and S-ALI. Stigmasterol, quercetin, and isorhamnetin are the core components of BZYQD, PPI analysis shows that AKT1, IL6, TNF, and IL1B are the core targets of BZYQD for treating S-ALI, and molecular docking results show that the core components have high binding activity with the target; Enrichment analysis shows that these core targets are related to the TNF signaling pathway. In vivo experimental studies have found that BZYQD can improve the degree of inflammatory infiltration and edema in lung tissue of S-ALI model mice, reduce the expression of IL-6, IL-1β, IL-8, TNF-α, LDH, CK-MB, and NF-κB in serum (P<0.05), as well as the mRNA and protein expression of IL-6, IL-1β, TNF-α, NF-κB, p-NF-κB, PI3K, p-PI3K, AKT, and IKKα in lung tissue (P<0.05), and levels of SOD and GSH-Px were increased (P<0.05). The action targets of the main chemical components of BZYQD are TNF, AKT, and IL6. These targets can promote the activation of PI3K and TNF pathways and mediate the occurrence of inflammation and oxidative stress, which provides inspiration for the treatment of S-ALI. However, the results of this study still need to be verified in combination with in vitro approaches. This study suggests that the mechanism of BZYQD in treating S-ALI may be achieved by inhibiting the TNF and PI3K signaling pathway and reducing inflammation and oxidative stress levels.",
+      "year": 2025,
+      "journal": "Current pharmaceutical design",
+      "doi": "10.2174/0113816128397243250902131510",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-09-30"
+      ],
+      "journal_issue_date": "2025-09-30",
+      "canonical_publication_date": "2025-09-30",
+      "canonical_publication_year": 2025
+    },
+    "36737821": {
+      "title": "Deciphering the protective effect of Buzhong Yiqi Decoction on osteoporotic fracture through network pharmacology and experimental validation.",
+      "abstract": "Osteoporotic fracture (OPF) is one of the most common skeletal diseases in an aging society. The Chinese medicine formula Buzhong Yiqi Decoction (BZYQD) is commonly used for treating OPF. However, the essential bioactive compounds and the underlying molecular mechanisms that promote fracture repair remain unclear. We used network pharmacology and experimental animal validation to address this issue. First, 147 bioactive BZYQD compounds and 32 target genes for treating OPF were screened and assessed. A BZYQD-bioactive compound-target gene-disease network was constructed using the Cytoscape software. Functional enrichment showed that the candidate target genes were enriched in oxidative stress- and inflammation-related biological processes and multiple pathways, including nuclear factor kappa B (NF-κB), and mitogen-activated protein kinase (MAPK) signaling pathways. Furthermore, an OPF rat model was established and treated with BZYQD. The results revealed that BZYQD ameliorated OPF characteristics, including femoral microarchitecture, biomechanical properties, and histopathological changes, in a dose-dependent manner. Results of enzyme-linked immunosorbent assay showed that BZYQD reduced the serum's pro-inflammatory cytokines [Tumor necrosis factor-alpha (TNF-α), Interleukin (IL)-1β, and IL-6] and improved oxidative stress-related factors [glutathione (GSH) and superoxide dismutase (SOD)]. BZYQD significantly decreased the protein expression of NF-κB in OPF rat femurs, suppressed NF-κB activation, and activated the nuclear factor-erythroid factor 2-related factor (Nrf2)/heme oxygenase 1 (HO-1) and p38 MAPK as well ERK pathways. Our results suggest that BZYQD could improve inflammation and oxidative stress during fracture repair by suppressing NF-κB and activating Nrf2/MAPK signaling pathways.",
+      "year": 2023,
+      "journal": "Journal of orthopaedic surgery and research",
+      "doi": "10.1186/s13018-023-03545-7",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-02-04"
+      ],
+      "journal_issue_date": "2023-02-04",
+      "canonical_publication_date": "2023-02-04",
+      "canonical_publication_year": 2023
+    },
+    "34904911": {
+      "title": "Efficacy of Yougui pill combined with Buzhong Yiqi decoction in alleviating the sexual dysfunction in female rats through modulation of the gut microbiota.",
+      "abstract": "Yougui pill combined with Buzhong Yiqi decoction (YPBYD) is used to relieve sexual dysfunction in clinical practice. To investigate changes in microbial composition caused by sexual dysfunction and identify dominant bacteria related to YPBYD treatment. Female Sprague-Dawley rats were randomly divided into four groups (n = 6): one group underwent Sham operation (Sham group), while three groups underwent ovariectomy (one model and two treatment groups). The ovariectomized (OVX) rats received oestradiol benzoate (250 µg/kg/week) or YPBYD (3.6 mL/d) via oral gavage for 4 weeks. Vaginal smear assay was performed; the serum levels of cyclic adenosine monophosphate (cAMP) and oestradiol (E2) were measured, followed by collection of stool samples for 16S rRNA sequencing. After YPBYD treatment, the levels of E2 and cAMP in OVX rats significantly increased (E2: from 20.45 ± 1.60 ng/L to 24.38 ± 1.70 ng/L; cAMP: from 261.41 ± 9.21 pg/mL to 373.75 ± 17.37 pg/mL). OVX treatment decreased diversity of gut microbiota and YPBYD treatment restored gut microbiota composition. Compared with Sham group, the abundance of Romboutsia significantly increased, while those of Proteobacteria and Staphylococcus markedly decreased in OVX group (all p < 0.05); meanwhile, the abundance of these microbes showed an opposite trend after YPBYD treatment. These microbiotas were involved in tyrosine and tryptophan biosynthesis and fatty acid metabolism. These findings are the first to indicate YPBYD can alleviate female sexual dysfunction by modulating gut microbiota in OVX rats, which will help enhance the understanding on potential mechanism of YPBYD against sexual dysfunction.",
+      "year": 2022,
+      "journal": "Pharmaceutical biology",
+      "doi": "10.1080/13880209.2021.2010774",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2022-12",
+      "canonical_publication_date": "2022-12",
+      "canonical_publication_year": 2022
+    },
+    "40185260": {
+      "title": "Revealing the molecular mechanism of Buzhong Yiqi Decoction for tendon bone healing on the basis of network pharmacology, molecular docking and experimental validation.",
+      "abstract": "Buzhong Yiqi Decoction (BD), a traditional formula in Chinese medicine, is clinically and historically recognized for its effectiveness in reducing physical fatigue and promoting strength, as well as enhancing bone remodeling. Nevertheless, its specific molecular mechanisms related to bone formation have yet to be thoroughly characterized. This study aims to investigate the effects and mechanisms of BD on osteogenesis in bone marrow mesenchymal stem cells and in a model of tendon-bone junction injury in mice. By establishing a mouse model of tendon-bone junction injury, the pathological morphology of the tendon-bone junction in mice was observed. Determining the mechanism of action of BD in regulating osteogenic differentiation through network pharmacology and molecular docking. Flow analysis and osteogenic induction assay were utilized to verify the effect of BD in promoting BMSCs osteogenic differentiation in vitro. In vivo experiments were performed to validate the impact of BD in improving healing after tendon-bone junction injury in mice by promoting osteogenic differentiation. Bone loss at the heel bone end is an essential pathophysiologic process in the natural healing process after injury to the tendon-bone junction. Using network pharmacology and molecular docking, we identified the PI3K-Akt signaling pathway as a critical mediator of BD-induced osteogenic differentiation. In vitro experiments demonstrated that BD promoted BMSC osteogenesis, while in vivo assays confirmed the enhancement of tendon-bone healing in mice models. These results suggest that BD can effectively promote tendon-bone repair, with the PI3K-Akt pathway playing a crucial role in its therapeutic effects, positioning BD as a promising candidate for improving musculoskeletal injury recovery.",
+      "year": 2025,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2025.119726",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-04-02"
+      ],
+      "journal_issue_date": "2025-05-12",
+      "canonical_publication_date": "2025-04-02",
+      "canonical_publication_year": 2025
+    },
+    "38230796": {
+      "title": "Integrating network pharmacology and experimental verification to investigate the pharmacological mechanisms of Buzhong Yiqi decoction in the treatment of non-small cell lung cancer.",
+      "abstract": "Among all types of cancers, non-small cell lung cancer (NSCLC) exhibits the highest mortality rate with a five-year survival rate below 17% for patients. The Buzhong Yiqi decoction (BZYQD), traditional Chinese medicine (TCM) formula, has been reported to exhibit clinical efficacy in the treatment of NSCLC. Nevertheless, the underlying molecular mechanism remains elusive. This study aimed to assess the mechanistic actions exerted by BZYQD against NSCLC using network pharmacological analysis and experimental validation. The public databases were searched for active compounds in BZYQD, their potential targets, and NSCLC-related targets. The protein-protein interaction (PPI) and Kyoto Encyclopedia of Genes and Genomes (KEGG) analyses were performed to predict the core targets and signaling pathways of BZYQD against NSCLC. After screening, this study validated the results of predictions through in vitro experiments and public databases. We found 192 common targets between BZYQD and NSCLC. KEGG analysis showed that the anti-NSCLC effects of BZYQD were mediated through the PI3K-AKT signaling pathway. The results of in vitro experiment indicated that BZYQD could inhibit cell viability and proliferation of A549 and H1299 cells apart from inducing cell apoptosis. In addition, western blot results substantiated that BZYQD could treat NSCLC by inhibiting the activation of the PI3K-AKT signaling pathway. The current study investigated the pharmacological mechanism of BZYQD against NSCLC via network pharmacology and in vitro analyses. Overall, the results revealed that BZYQD could be a promising therapeutic agent for the treatment of NSCLC in the future. Still, more experimental investigations are needed to confirm the applicability of BZYQD for clinical trials.",
+      "year": 2024,
+      "journal": "Chemical biology & drug design",
+      "doi": "10.1111/cbdd.14414",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2024-01",
+      "canonical_publication_date": "2024-01",
+      "canonical_publication_year": 2024
+    },
+    "40701420": {
+      "title": "Zhuling Yanzong formula ameliorates obesity-induced oligoasthenozoospermia via regulating HSL/StAR and HSL/TIMP-1.",
+      "abstract": "Zhuling Yanzong Formula (ZLYZF) is composed of Jiawei Buzhong Yiqi Decoction (Fuqingzhu Nvke) and Wuzi Yanzong Pill (Shesheng Zhongmiao Fang). Jiawei Buzhong Yiqi Decoction has been utilized in medical practice for thousands of years in China for treating obesity-related infertility. Wuzi Yanzong Pill is a famous prescription for male infertility. ZLYZF is effective in obesity-induced oligoasthenozoospermia, with the pharmacological mechanism remaining unclear. To investigate the potential mechanistic insights of ZLYZF in treating obesity-induced oligoasthenozoospermia by exploring their effect on the HSL/StAR and HSL/TIMP-1. Mice were divided into six groups: control group, model group, ZLYZF low-/medium-/high-dose groups, and Huanshao Jiaonang (HSJN) group (n = 16 per group). The control group was fed normal diet (ND), and the other groups were fed high-fat-diet (HFD) for 12 weeks. Serum lipid and hormone profiles, sperm quality and apoptosis assay, and fertility test were performed to assess treatment effect. H&E/Oil Red O/Nile Red staining as measures of testicular lipid, Immunofluorescence assay, measurement of testosterone, testosterone synthesis and blood-testis barrier (BTB) integrity protein expression were performed to assess testicular function. The compound of ZLYZF was analyzed by UPLC-HRMS, followed by molecular docking to predict the binding affinity between identified components and HSL. HSL/StAR and HSL/TIMP-1 expression were measured. Furthermore, HSL-targeted adeno-associated virus (AAV) were used to explore the related molecular mechanisms. ZLYZF alleviated body weight, serum lipid and hormone levels, sperm quality and fertility. Additionally, ZLYZF reduced testicular damage and lipid accumulation by activating HSL expression. ZLYZF activated HSL and upregulated StAR expression, and inhibited TIMP-1, thereby improving testosterone synthesis and BTB integrity. In addition, HSL knockdown in obese mice abolished ZLYZF-generated efficacy. Our study demonstrated that ZLYZF improve testicular lipid accumulation and function via HSL/StAR and HSL/TIMP-1. providing a potential therapeutic agent forobesity-induced oligoasthenozoospermia.",
+      "year": 2025,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2025.120319",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-07-21"
+      ],
+      "journal_issue_date": "2025-09-25",
+      "canonical_publication_date": "2025-07-21",
+      "canonical_publication_year": 2025
+    },
+    "25282897": {
+      "title": "[Effect of Buzhong Yiqi decoction on PI3K and AKT in spleen, stomach and lung of nude mice with lung adenocarcinoma transplantation tumor].",
+      "abstract": "To explore the effect of Buzhong Yiqi decoction on PI3K/AKT signaling pathway in spleen, stomach and lung of nude mice with lung adenocarcinoma transplantation tumor. Totally 60 nude mice were randomly divided into the blank control group, the tumor-bearing control group, the cisplatin group, the low-dose Buzhong Yiqi decoction group, the middle-dose Buzhong Yiqi decoction group and the high-dose Buzhong Yiqi decoction group. After the corresponding interventions, efforts were made to measure the transplanted tumor volume and calculate the tumor inhibiting rate. The immunohistochemical method and real time PCR were used to detect the expression of PI3K and AKT level in nude mice spleen, stomach and lung. Buzhong Yiqi decoction of different concentrations combined with cisplatin could inhibit the growth of the transplanted tumor, with the strongest inhibitory effect in the middle-dose Buzhong Yiqi decoction group and the high-dose Buzhong Yiqi decoction group. All of the expressions of PI3K and AKT protein and gene in the spleen, stomach and lung increased, with the most significant increase in the tumor-bearing group. Along with the increase of the concentration of cisplatin and Buzhong Yiqi decoction, the expressions of PI3K and AKT gradually reduced. Compared with the tumor-bearing control group, there were statistical differences in spleen and stomach tissues (P < 0.05). Compared with the cisplatin group, the middle-dose Buzhong Yiqi decoction group and the high-dose Buzhong Yiqi decoction group showed statistical differences (P < 0.05), but without statistical difference compared with the blank control group. Among nude mice with lung adenocarcinoma transplantation tumor, the PI3K and AKT protein and gene expressions in spleen, stomach and lung tissues increased, which might indicated the effect of cisplatin and Buzhong Yiqi decoction in reducing PI3K and AKT expressions and the relations between the reduction degree and the concentrations of Buzhong Yiqi decoction. Cisplatin combined with Buzhong Yiqi decoction could decrease the PI3K and AKT protein and gene expression in spleen, stomach and lung, and make the pathway closer to normal, so as to protect the functions of spleen, stomach and lung, there may be target spots of Buzhong Yiqi decoction in PI3K/AKT signal pathway.",
+      "year": 2014,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": null,
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2014-05",
+      "canonical_publication_date": "2014-05",
+      "canonical_publication_year": 2014
+    },
+    "34889240": {
+      "title": "Efficacy and safety of Buzhong Yiqi Decoction in improving cancer-related fatigue and immunity of cervical carcinoma patients: A protocol of randomized controlled trial.",
+      "abstract": "Cancer-related fatigue (CRF) is essentially universal in cervical carcinoma patients. It develops rapidly, with physical and mental manifestations including generalized weakness, diminished concentration or attention, and it has a negative impact in overall quality of life. Buzhong Yiqi Decoction (BYD), a classical Chinese medical prescription, could be used for allergic rhinitis, gut microbiota disorders, and chronic obstructive pulmonary disease. We preliminarily found that BYD could relieve CRF in cervical carcinoma patients. However, there are few trials on whether BYD could relieve CRF and improve immunity in cervical carcinoma patients. This is a double-blinded, randomized, controlled clinical trial. From December 1, 2021 to May 31, 2022, cervical carcinoma patients with CRF will be assessed for randomization into treatment group (BYD) and control group (BYD simulation) in a 1:1 ratio. The outcomes are cancer fatigue scale, self-rating anxiety scales, self-rating depression scales, Pittsburgh sleep quality index, and immunity index (CD3+, CD4+, and CD8+) before and after the treatment. Statistical analysis will be performed using SPSS v22.0 software. The study will clarify the efficacy and safety of BYD in improving CRF and immunity in cervical carcinoma patients. OSF Registration number: DOI 10.17605/OSF.IO/QFNMD.",
+      "year": 2021,
+      "journal": "Medicine",
+      "doi": "10.1097/MD.0000000000027938",
+      "publication_types": [
+        "Clinical Trial Protocol",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2021-12-10",
+      "canonical_publication_date": "2021-12-10",
+      "canonical_publication_year": 2021
+    },
+    "20482257": {
+      "title": "Hexadecanoic acid from Buzhong Yiqi decoction induced proliferation of bone marrow mesenchymal stem cells.",
+      "abstract": "Buzhong Yiqi decoction (BYD) is a well-known ancient tonic prescription in traditional Chinese medicine (TCM). The purpose of this study is to identify active components of BYD involved in promoting proliferation of mesenchymal stem cells (MSCs) and to investigate its mechanism. BYD was extracted with petroleum ether, ethanol, and water. Evidence provided by 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide, bromodeoxyuridine, proliferation cell nuclear antigen immunoreactivity, cell cycle analysis, and gas chromatography-mass spectrometry indicated that hexadecanoic acid (HA) in BYD extracted with petroleum ether is the active compound responsible for increasing proliferation of MSCs. Western blot analysis show that HA significantly increase retinoic acid receptor (RAR) levels of MSCs, but not estrogen receptor, thyroid hormone receptor, vitamin D receptor, glucocorticoid receptor, and peroxisome proliferator-activated receptor. Reverse transcription-polymerase chain reaction revealed that HA significantly increased RAR mRNA levels. Furthermore, the mechanism of HA action depends on RAR pathway and up-regulates expression of mRNA for insulin-like growth factor-I, the target gene of RAR. Our findings have now allowed for a refinement in our understanding of TCM with respect to pharmacological regulation of stem cells and may be useful to stem cell biology and therapy.",
+      "year": 2010,
+      "journal": "Journal of medicinal food",
+      "doi": "10.1089/jmf.2009.1293",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2010-08",
+      "canonical_publication_date": "2010-08",
+      "canonical_publication_year": 2010
+    },
+    "28959844": {
+      "title": "[Effects of Buzhong Yiqi decoction on expression of Bad, NF-κB, caspase-9, Survivin, and mTOR in nude mice with A549/DDP transplantation tumors].",
+      "abstract": "This study was aimed to explore the effects of Buzhong Yiqi decoction on the expression levels of Bad, NF-κB, caspase-9, Survivin, and mTOR in nude mice with A549/DDP transplantation tumors.Sixty BALB/C mice were randomly divided into blank control group, tumor-bearing control group, cisplatin group and Buzhong Yiqi decoction of high, medium and low doses+cisplatin groups (hereinafter referred to as the high,medium and low combined groups). A549/DDP cells (concentration of 5×106 cells/mL)were cultured and inoculated in various groups, then the tumor-forming situations were observed. Corresponding treatment was given in all groups. Fourteen days later, immunohistochemistry and Real-time PCR methods were used to detect the expression levels of Bad, NF-κB, caspase-9, Survivin, mTOR protein and mRNA in tumors.Results showed that Buzhong Yiqi decoction combined with cisplatin could reduce the volume of transplanted tumors, and there was significant difference between medium combined group and high combined group(P<0.05). As compared with the tumor-bearing control group, the expression levels of Bad, NF-κB, Survivin and mTOR were significantly reduced in medium and high combined groups(P<0.05); the protein and mRNA expression levels of caspase-9 were gradually increased in medium combined and high combined groups(P<0.05), with statistical difference with tumor-bearing control group(P<0.05). There were statistical difference in mRNA expression of Bad, NF-κB and caspase-9 between medium combined group, high combined group and cisplatin group, low-combined group, tumor-bearing control group(P<0.05), but there was no statistical difference between cisplatin group, low-combined group, and tumor-bearing control group. In addition, there was no statistical difference between medium combined group and high combined group in protein and mRNA expression levels of various factors. Experimental results showed that Buzhong Yiqi decoction combined with cisplatin can inhibit the growth of A549/DDP transplanted tumors, and the mechanism may be associated with regulating Bad, NF-κB, caspase-9, Survivin, and mTOR levels as well as promoting apoptosis.",
+      "year": 2017,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20161222.062",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2017-02",
+      "canonical_publication_date": "2017-02",
+      "canonical_publication_year": 2017
+    },
+    "40350879": {
+      "title": "[Buzhong Yiqi Decoction alleviates immune injury of autoimmune thyroiditis in NOD.H-2~(h4)mice via c GAS-STING signaling pathway].",
+      "abstract": "This study aims to explore the effects of Buzhong Yiqi Decoction(BYD) on the cyclic guanosine monophosphate-adenosine monophosphate synthase(cGAS)-stimulator of interferon genes(STING) signaling pathway in the mouse model of autoimmune thyroiditis(AIT) and the mechanism of BYD in alleviating the immune injury. Forty-eight NOD.H-2~(h4) mice were assigned into normal, model, low-, medium-, and high-dose BYD, and selenium yeast tablets groups(n=8). Mice of 8 weeks old were treated with 0.05% sodium iodide solution for 8 weeks for the modeling of AIT and then administrated with corresponding drugs by gavage for 8 weeks before sampling. High performance liquid chromatography was employed to measure the astragaloside Ⅳ content in BYD. Hematoxylin-eosin staining was employed to observe the pathological changes in the mouse thyroid tissue. Enzyme-linked immunosorbent assay was employed to measure the serum levels of thyroid peroxidase antibody(TPO-Ab), thyroglobulin antibody(TgAb), and interferon-γ(IFN-γ). Flow cytometry was employed to detect the distribution of T cell subsets in the spleen. The immunohistochemical method was used to detect the expression of cGAS, STING, TANK-binding kinase 1(TBK1), and interferon regulatory factor 3(IRF3). Real-time PCR and Western blot were employed to determine the mRNA and protein levels, respectively, of markers related to the cGAS-STING signaling pathway in the thyroid tissue. The results showed that the content of astragaloside Ⅳ in BYD was(7.06±0.08) mg·mL~(-1). Compared with the normal group, the model group showed disrupted structures of thyroid follicular epithelial cells, massive infiltration of lymphocytes, and elevated levels of TgAb and TPO-Ab. Compared with the model group, the four treatment groups showed intact epithelial cells, reduced lymphocyte infiltration, and lowered levels of TgAb and TPO-Ab. Compared with the normal group, the model group showed increases in the proportions of Th1 and Th17 cells, a decrease in the proportion of Th2 cells, and an increase in the IFN-γ level. Compared with the model group, the four treatment groups presented decreased proportions of Th1 and Th17 cells and lowered levels of IFN-γ, and the medium-dose BYD group showed an increase in the proportion of Th2 cells. Compared with the normal group, the modeling up-regulated the mRNA levels of cGAS, STING, TBK1, and IRF3 and the protein levels of cGAS, p-STING, p-TBK1, and p-IRF3. Compared with the model group, the four treatment groups showed reduced levels of cGAS, STING, TBK1, and IRF3-positive products, down-regulated mRNA levels of cGAS, STING, and TBK1, and down-regulated protein levels of cGAS and p-STING. The high-dose BYD group showed down-regulations in the mRNA level of IRF3 and the protein levels of p-TBK1 and p-IRF3. The above results indicate that BYD can repair the imbalance of T cell subsets, alleviate immune injury, and reduce thyroid lymphocyte infiltration in AIT mice by inhibiting the cGAS-STING signaling pathway.",
+      "year": 2025,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20241107.703",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2025-04",
+      "canonical_publication_date": "2025-04",
+      "canonical_publication_year": 2025
+    },
+    "40264313": {
+      "title": "Comprehensive Transcriptomic and Bioinformatic Analysis of the Mechanism of Buzhong Yiqi Decoction in the Improvement of Diabetic Nephropathy.",
+      "abstract": "Buzhong Yiqi decoction (BZYQ) is a classical traditional Chinese formula that has shown potential in alleviating diabetic nephropathy (DN). However, its underlying mechanisms remain unclear. We aimed to explore the potential targets and mechanisms of action of BZYQ in DN. A DN rat model was induced using a high-fat and high-sugar diet combined with intraperitoneal injection of streptozotocin (STZ), followed by treatment with different doses of BZYQ. Initially, the protective effects of BZYQ on renal tissue were assessed by measuring fasting blood glucose (FBG), total cholesterol (TC), triglycerides (TG), 24-hour urinary total protein (24h-UTP), urinary albumin (ALB), and serum creatinine (SCr) after administration, along with performing hematoxylin-eosin (HE) staining. Subsequently, transcriptomics and bioinformatics approaches were employed to identify the action targets and potential mechanisms of BZYQ in DN rats. Finally, real-time PCR and Western blot analyses were conducted to validate key targets and mechanisms. We observed significant improvements in renal injury in DN rats treated with medium and high doses of BZYQ. Transcriptomic and bioinformatic analyses identified NLRP3, ASC, caspase- 1, GSDMD, IL-1β, and IL-18 as hub genes, along with differential expression of immune-related transcription factors T-bet and GATA-3 in various transcriptomes. In the validation phase, the mRNA and protein expressions of NLRP3, ASC, caspase-1, GSDMD, IL-18, IL-1β, and T-bet were significantly elevated in the DN rat model group, while GATA-3 mRNA and protein levels were significantly decreased; BZYQ was able to reverse these changes. BZYQ has been found to have a protective effect on renal tissue damage in DN rats, potentially related to the inhibition of NLRP3 inflammasome pathway activation and the improvement of Th1/Th2 immune cell balance.",
+      "year": 2025,
+      "journal": "Endocrine, metabolic & immune disorders drug targets",
+      "doi": "10.2174/0118715303379062250327184950",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2025",
+      "canonical_publication_date": "2025",
+      "canonical_publication_year": 2025
+    },
+    "39957354": {
+      "title": "Investigating the Role of Buzhong Yiqi Decoction on Neurogenic Bladder with Network Pharmacology, Molecular Docking, and",
+      "abstract": "Buzhong Yiqi decoction (BZYQD) is a traditional Chinese medicine prescription for treating neurogenic bladder (NB). However, the underlying pharmacological mechanism remains unclear. This study aims to clarify the related molecular mechanism. Molecular structure information and targets of core components of BZYQD were obtained from Traditional Chinese Medicines Systems Pharmacology Platform (TCMSP) and SwissTargetPrediction databases. Genes involved in NB were obtained from Comparative Toxicogenomics Database, DisGeNet, GeneCards, and Online Mendelian Inheritance in Man databases. The hub targets of BZYQD in NB treatment were identified by protein-protein interaction (PPI) network analysis with STRING platform and analyzed by gene ontology analysis and the Kyoto Encyclopedia of Genes and Genomics pathway enrichment analysis. Molecular docking was used to verify the binding affinity between the hub targets and the bioactive components of BZYQD. Subsequently, the neuroprotective and anti-inflammatory effects of main bioactive components of BZYQD were investigated with in vitro assays. A total of 131 candidate compounds and 925 predicted target genes were screened. PPI network analysis suggested that ESR1, EGFR, HSP90AA1, MAPK3, AKT1, and CASP3 were the hub targets. BZYQD treatment was associated with hypoxia inducible factor-1 (HIF-1) signaling pathway. Dehydroglyasperin C (DGC), N-cis-feruloyltyramine, shinpterocarpin (SHI), gancaonin M, and glyasperin B, as the main bioactive components of BZYQD, had good binding affinity with hub target proteins. DGC and SHI treatment could significantly inhibit the injury of neurons and inflammatory response of microglia stimulated by oxidized low-density lipoprotein (ox-LDL), respectively. In summary, BZYQD and its main bioactive components DGC and SHI show good potential to ameliorate the symptoms of NB.",
+      "year": 2025,
+      "journal": "Assay and drug development technologies",
+      "doi": "10.1089/adt.2024.028",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-02-17"
+      ],
+      "journal_issue_date": "2025-07",
+      "canonical_publication_date": "2025-02-17",
+      "canonical_publication_year": 2025
+    },
+    "31814838": {
+      "title": "Network Pharmacology of Yougui Pill Combined with Buzhong Yiqi Decoction for the Treatment of Sexual Dysfunction.",
+      "abstract": "We aimed to find the possible key targets of Yougui pill and Buzhong Yiqi decoction for the treatment of sexual dysfunction. The composition of Yougui pill combined with Buzhong Yiqi decoction was obtained, and its effective components of medicine were screened using ADME; the component target proteins were predicted and screened based on the TCMSP and BATMAN databases. Target proteins were cross-validated using the CTD database. We performed gene ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analyses for target proteins using the Cytoscape plugin ClueGO + CluePedia and the R package clusterProfiler, respectively. Subsequently, protein-protein interaction (PPI) analyses were conducted using the STRING database. Finally, a pharmacological network was constructed. The pharmacological network contained 89 nodes and 176 relation pairs. Among these nodes, there were 12 for herbal medicines (orange peel, licorice, Eucommia, Aconite, Astragalus, Chinese wolfberry, yam, dodder seed, ginseng, Cornus officinalis, Rehmannia, and Angelica), 9 for chemical components (18-beta-glycyrrhetinic acid, carvacrol, glycyrrhetinic acid, higenamine, nobilin, quercetin, stigmasterol, synephrine, and thymol), 62 for target proteins (e.g., NR3C1, ESR1, PTGS2, CAT, TNF, INS, and TP53), and 6 for pathways (MAPK signaling pathway, proteoglycans in cancer, dopaminergic synapse, thyroid hormone signaling pathway, cAMP signaling pathway, and neuroactive ligand-receptor interaction). NR3C1, ESR1, PTGS2, CAT, TNF, INS, and TP53 may be important targets for the key active elements in the decoction combining Yougui pill and Buzhong Yiqi. Furthermore, these target proteins are relevant to the treatment of sexual dysfunction, probably via pathways associated with cancer and signal transduction.",
+      "year": 2019,
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "doi": "10.1155/2019/1243743",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2019-11-11"
+      ],
+      "journal_issue_date": "2019",
+      "canonical_publication_date": "2019-11-11",
+      "canonical_publication_year": 2019
+    },
+    "28914034": {
+      "title": "[Effects of serums containing Buzhong Yiqi decoction with Astragalus Radix or Hedysari Radix on anti-immunosenescence in spleen lymphocytes of SAMP8 mice].",
+      "abstract": "This paper was aimed to compare the effect of Buzhong Yiqi decoction containing Hedysari Radix or Astragali Radix on anti-immunosenescence effects in spleen lymphocytes of senescence accelerated mouse 8 (SAMP8). The effect of the serums on the proliferation of spleen T lymphocytes in SAMP8 mice induced by ConA was tested by MTT. The effect of the serums on the T lymphocytes subsets of SAMP8 mice was measured by flow cytometry. ELISA was used to detect the level of IL-2 and IFN-γ in the culture supernatants of spleen lymphocytes. The effect of the serums on the expression of CD28 mRNA in spleen T lymphocytes was detected by fluorescent quantitative PCR. Western blot was used to detect the expression of CD28 protein in spleen T lymphocytes of SAMP8 mice. Both the serums of Buzhong Yiqi decoctions containing Hedysari Radix or Astragali Radix improved the proliferation of T lymphocytes in SAMP8 mice. Both the serums had no obvious effect on the differentiation of spleen T lymphocytes'subsets in SAMP8 mice. Both the serums increased the content of IL-2 and INF-γ in the culture supernatants of spleen lymphocytes. And for the content of IL-2, the serum of Buzhong Yiqi decoction with Hedysari Radix was better（P<0.05）. Both the serums improved the expression of CD28 mRNA in spleen T lymphocytes of SAMP8 mice. And the effect of Hedysari Radix group was better than that of Astragalus Radix group（P<0.05）. Both the serums improved the expression of CD28 protein in spleen T lymphocytes of SAMP8 mice. The role of the serums containing Buzhong Yiqi decoction with Astragalus Radix and the decoction with Hedysari Radix in anti-immunosenescence was through the effect of the CD28. And the effect of Hedysari Radix group was better than that of Astragalus Radix group on improved the expression of CD28 mRNA in T lymphocytes of SAMP8 mice. Astragalus Radix and Hedysari Radix could swap in the aspect of anti-immunosenescence.",
+      "year": 2016,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.4268/cjcmm20161524",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2016-08",
+      "canonical_publication_date": "2016-08",
+      "canonical_publication_year": 2016
+    },
+    "38688355": {
+      "title": "Bu zhong Yiqi Decoction ameliorates mild cognitive impairment by improving mitochondrial oxidative stress damage via the SIRT3/MnSOD/OGG1 pathway.",
+      "abstract": "Bu-Zhong-Yi-Qi Decoction(BZYQD) is a traditional formula commonly used in China, known for its effects in tonifying Qi and raising Yang. It can relieve symptoms of cognitive impairment such as forgetfulness and lack of concentration caused by qi deficiency, which is common in aging and debilitating. However, much of the current research on BZYQD has been focused on its impact on the digestive system, leaving its molecular mechanisms in improving cognitive function largely unexplored. Cognitive decline in the aging central nervous system is intrinsically linked to oxidative damage. This study aims to investigate the therapeutic mechanism of BZYQD in treating mild cognitive impairment caused by qi deficiency, particularly through repair of mitochondrial oxidative damage. A rat model of mild cognitive impairment (MCI) was established by administering reserpine subcutaneously for two weeks, followed by a two-week treatment with BZYQD/GBE. In vitro experiments were conducted to assess the effects of BZYQD on neuronal cells using a H2O2-induced oxidative damage model in PC12 cells. The open field test and the Morris water maze test evaluated the cognitive and learning memory abilities of the rats. HE staining and TEM were employed to observe morphological changes in the hippocampus and its mitochondria. Mitochondrial activity, ATP levels, and cellular viability were measured using assay kits. Protein expression in the SIRT3/MnSOD/OGG1 pathway was analyzed in tissues and cells through western blotting. Levels of 8-OH-dG in mitochondria extracted from tissues and cells were quantified using ELISA. Mitochondrial morphology in PC12 cells was visualized using Mito Red, and mitochondrial membrane potential was assessed using the JC-1 kit. BZYQD treatment significantly improved cognitive decline caused by reserpine in rats, as well as enhanced mitochondrial morphology and function in the hippocampus. Our findings indicate that BZYQD mitigates mtDNA oxidative damage in rats by modulating the SIRT3/MnSOD/OGG1 pathway. In PC12 cells, BZYQD reduced oxidative damage to mitochondria and mtDNA in H2O2-induced conditions and was associated with changes in the SIRT3/MnSOD/OGG1 pathway. BZYQD effectively counteracts reserpine-induced mild cognitive impairment and ameliorates mitochondrial oxidative stress damage through the SIRT3/MnSOD/OGG1 pathway.",
+      "year": 2024,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2024.118237",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2024-04-28"
+      ],
+      "journal_issue_date": "2024-09-15",
+      "canonical_publication_date": "2024-04-28",
+      "canonical_publication_year": 2024
+    },
+    "7504963": {
+      "title": "[Clinical and experimental observations of buzhong yiqi decoction in the treatment of chronic hepatitis B].",
+      "abstract": "A clinical observation of Buzhong Yiqi decoction (BZYQD) and Western medicine was used on a matched control in treating chronic hepatitis B. The result showed that BZYQD was significantly better than the Western medicine in improving clinical symptoms and signs, the liver function and serological test of hepatitis B antigen-antibody system (HBAg-Ab system), P < 0.05. In order to explore the therapeutical mechanism of BZYQD, the study of the effects of which on synthesis of hepatic DNA, RNA and protein in mice were performed too. The results showed that BZYQD had marked promotive effects on the synthesis of hepatic DNA, RNA and protein. It was considered that the mechanism of anti-hepatitis effects might related to the enhancing protein synthesis in liver, promoting the repairs of the damaged liver tissue and improving the defense function of organism as a whole.",
+      "year": 1993,
+      "journal": "Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine",
+      "doi": null,
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "1993-06",
+      "canonical_publication_date": "1993-06",
+      "canonical_publication_year": 1993
+    },
+    "25509271": {
+      "title": "[Buzhong yiqi decoction containing serum reversed resistance of A549/DDP to cisplatin and its effect on the expression of survivin: an experimental research ].",
+      "abstract": "To analyze the reversal effect of Buzhong Yiqi Decoction (BYD) on multidrug resistance of human adenocarcinoma of lung cell line A549/DDP, and to study its effect on the expression of survivin by using serum pharmacological methods in vitro. Methods Totally 24 SD rats were divided into the high, medium and low dose groups, and the blank control group by randomized controlled method. The high dose BYD containing serum (1. 134 g/mL, 2 mL), the middle dose BYD containing serum (0.576 g/mL, 2 mL), and the low dose BYD containing serum (0.284 g/mL, 2 mL) were prepared. The inhibitory effects of different dose and concentrations BYD on the proliferation of A549 and A549/DDP cells were detected by MTT assay, and the drug resistance reversal fold was calculated. The expression of Survivin in the two cell strains were detected respectively by immunohistochemical assay, Western blot, and immunofluorescence method. BYD containing serum showed obvious inhibitory effect on the growth of A549 and 549/DDP. The inhibition rates of 10% dose groups were higher than those of 5% dose groups. Besides, it gradually increased along with increased concentrations. Compared with 10% blank control group, the inhibition rate increased in 10% middle and low dose groups (P <0.05). After acted with 10% middle dose BYD containing serum, IC50, of A549 and A549/DDP were both reduced (P <0.05), reversal fold (RF) both increased. Its reversal ratio on A549/DDP cells was 2. 46, decreasing the resistance of A549/DDP to DDP. Compared with A549 in the same group, the expression of Survivin was detected to decrease by immunocytochemical assay, Western blot, and immunofluorescence method (P<0.05). Compared with 10% blank control group, the inhibition rate decreased in 10% middle dose group (P <0. 05). 10% middle dose BYD containing serum could significantly inhibit the apoptosis of A549 and A549/DDP. Besides, it could moderately reverse the multidrug resistance of A549/DDP cells to DDP possibly through reducing the intracellular expression of Survivin and enhancing the sensitivity 549/DDP to chemotherapeutics.",
+      "year": 2014,
+      "journal": "Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine",
+      "doi": null,
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2014-10",
+      "canonical_publication_date": "2014-10",
+      "canonical_publication_year": 2014
+    },
+    "37660955": {
+      "title": "Jianpi Shengqing Huazhuo Formula improves abnormal glucose and lipid metabolism in obesity by regulating mitochondrial biogenesis.",
+      "abstract": "Jianpi Shengqing Huazhuo Formula (JSH) is a modified prescription based on traditional Chinese medicine theory and classic prescriptions (Buzhong Yiqi Decoction and Yuye Decoction). It has been found that JSH has a good effect on obese patients with early abnormal glucose and lipid metabolism. Therefore, this experiment was conducted to study its clinical efficacy and pharmacological effect. To observe the clinical efficacy of JSH and explore the mechanism of the formula to improve glucose and lipid metabolism in obese rats. 1. 10 overweight/obese patients with abnormal glucose and lipid metabolism were selected to observe the indicators of serum glucose, serum lipids and liver damage of the patients before and after treatment with JSH. 2. Animal experiments: Fifty Sprague-Dawley (SD) rats were randomly divided into control group, model group, Metformin group (120 mg/kg/day), JSH-L group (5 g/kg/day) and JSH-H group (20 g/kg/day), with 10 rats in each group. The obese SD rat model was produced by feeding 60% high-fat diet for 8 weeks, and the drug group was given prophylactic administration for 8 weeks. At the end of the experiment, body weight, abdominal fat, plasma glucose, plasma lipids, plasma alanine aminotransferase (ALT), and aspartate aminotransferase (AST) were measured. The levels of interleukin-6 (IL-6), interleukin 1 beta (IL-1β) and tumor necrosis factor alpha (TNF-α) in plasma were detected by Elisa, and the changes of malondialdehyde (MDA), glutathione (GSH) and catalase (CAT) in plasma and liver tissue were detected by kits. The pathological changes and lipid deposition in liver were observed by HE staining and oil red O staining, and the changes in the number of mitochondria in liver cells were observed by transmission electron microscopy. RT-qPCR and Western Blot (WB) were used to detect the mitochondrial regulation-related indicators PGC-1α, NRF1, TFAM, MFN2, DRP1 and apoptosis-related indicators Bcl-2, Bax, caspase 8 in liver tissue. 1. After one month administration, the patient's body weight, BMI, 2 h oral glucose tolerance test (2hOGTT), glycated hemoglobin (HbA1c), triglyceride (TG), total cholesterol (TC), low density lipoprotein cholesterol (LDL-C) decreased significantly, and the indicators of liver damage AST and ALT also decreased significantly. 2. Animal experiments: JSH can significantly reduce body weight and abdominal fat area, improve glucose and lipid metabolism, and also reduce plasma IL-6, IL-1β and TNF-α content in obese rats, and improve oxidative stress; HE staining and oil red O staining also showed that JSH can alleviate liver damage and lipid deposition in the liver. Further observations of liver cell ultrastructure showed that JSH can ameliorate the reduction of liver mitochondria caused by a high-fat diet and promote the expression of indicators of mitochondrial biogenesis related to PGC-1α, NRF1, and TFAM. Moreover, JSH could promote the expression of MFN2 and DRP1, decrease Bcl-2 and increase Bax in the liver. 1. JSH can reduce body weight, serum glucose, serum lipid, and liver injury in overweight/obese patients. 2. Animal experiments: JSH regulates PGC-1α/NRF1/TFAM signaling pathway promotes liver mitochondrial biogenesis, improves glucose and lipid metabolism in obese rats, and regulates mitochondrial dependent apoptosis indicators Bcl-2/Bax to reduce liver injury.",
+      "year": 2023,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2023.117102",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-09-03"
+      ],
+      "journal_issue_date": "2024-01-30",
+      "canonical_publication_date": "2023-09-03",
+      "canonical_publication_year": 2023
+    },
+    "36687653": {
+      "title": "Traditional Chinese medicine improves myasthenia gravis by regulating the symbiotic homeostasis of the intestinal microbiota and host.",
+      "abstract": "Myasthenia gravis (MG) is an autoimmune disease caused by autoantibodies that is dependent on T-cell immunity and complement participation and mainly involves neuromuscular junctions. In this study, 30 patients with myasthenia gravis were selected and divided into pretreatment (Case group) and posttreatment (Treatment group) and 30 healthy volunteers (CON group) were included. Among them, the treatment group was treated with Modified Buzhong Yiqi Decoction (MBZYQD), and the levels of antibodies such as AChR, Musk and Titin in blood and intestinal microbiota were compared before treatment (Case group), after treatment (Treatment group) and in healthy volunteers (CON group). The results showed that after treatment with MBZYQD, the antibody levels of AChR, MuSK, and Titin and the inflammatory factor level of IL-6, IL-1β, and IL-22 in MG patients decreased significantly and nearly returned to a healthy level. In addition, after treatment with MBZYQD, the diversity, structure and function of intestinal microorganisms in MG patients also recovered to a healthy level. At the phylum level, the relative abundance of Proteobacteria in the Case group increased significantly, accompanied by a significant decrease in the relative abundance of Bacteroides compared with that in the CON group, the relative abundance of Proteobacteria and Bacteroides in the Treatment group was similar to that in the CON group. At the genus level, the relative abundance of Shigella in the Case group was significantly increased, accompanied by a significant decrease in the relative abundance of Prevotella, and the relative abundance of Shigella and Prevotella in Treatment group was similar to that in the CON group. Moreover, the fluorobenzoate degradation pathway (KO00364) was significantly increased in the Case group, while this pathway was significantly decreased in the Treatment group. In conclusion, MBZYQD can improve the immune function of the host by regulating the diversity, structure and function of the intestinal microbiota to treat myasthenia gravis.",
+      "year": 2023,
+      "journal": "Frontiers in microbiology",
+      "doi": "10.3389/fmicb.2022.1082565",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-01-06"
+      ],
+      "journal_issue_date": "2022",
+      "canonical_publication_date": "2023-01-06",
+      "canonical_publication_year": 2023
+    },
+    "21716623": {
+      "title": "Protective effects on myelosuppression mice treated by three different classic Chinese medicine formulae.",
+      "abstract": "In order to observe the protective therapeutic action and mechanism of Liuwei Dihuang Decoction, Buzhong Yiqi Decoction, and Compound Danshen Decoction on Myelosuppression induced by cyclophosphamide. The mice model was established by intraperitoneal injected with 100 mg/kg cyclophosphamide by human and mice dose conversion on the 9(th), 11(th), 13(th) days during the experiment. Flow cytometry (FCM) was used for detecting the number of cells and investigating bone marrow cell cycles. Spleen was taken out and the mRNA expression level of thrombopoietin (TPO) and c-Mpl were detected by Q-PCR, and c-Mpl in spleen in order to discuss the mechanism of myelosuppression and the protective effects of traditional Chinese medicine. Both Liuwei Dihuang Decoction Group and Buzhong Yiqi Decoction Group can accelerate bone marrow hematopoietic stem progenitor cells (HSPCs) in marrow-suppressed mice and enhance cell proliferation by promoting cell cycles from G0/G1 phase to access into S, G2/M phase. And at the same time these Chinese decoctions can increase the mRNA expression level of TPO and c-Mpl in spleen. Researched showed that Chinese formula take effect by affecting these genes on myelosuppressed mice.",
+      "year": 2011,
+      "journal": "Pharmacognosy magazine",
+      "doi": "10.4103/0973-1296.80671",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2011-04",
+      "canonical_publication_date": "2011-04",
+      "canonical_publication_year": 2011
+    },
+    "32489024": {
+      "title": "[Discovery of intervention effect of Chinese herbal formulas on COVID-19 pulmonary fibrosis treated by VEGFR and FGFR inhibitors].",
+      "abstract": "Since February 2020, a large number of patients infected with new coronavirus has been cured and discharged with the controlling of epidemic. Pulmonary fibrosis, which may be one of the sequela caused by COVID-19, not only brings dyspnea and deterioration of lung function, but also affects patients' life because of its high mortality and poor prognosis. Vascular endothelial growth factor receptor(VEGFR) and fibroblast growth factor receptor(FGFR) can inhibit the proliferation, activation and migration of fibroblasts by regulating the signal transduction pathway involved in the process of pulmonary fibrosis. Chinese herbal formulas pose a good therapeutic effect on pulmonary fibrosis. Present study explores the intervention effect on pulmonary fibrosis of traditional Chinese medicine(TCM) by screening the potential inhibitors of VEGFR and FGFR. The docking models of VEGFR and FGFR were established to obtain the potential active ingredients which were filtered by the docking score. According to 2 prescriptions in the Protocol for the diagnosis and treatment of coronavirus disease 2019(7th edition)and 9 prescriptions in Traditional Chinese medicine prescriptions for treating blight, 959 and 1 047 potential ingredients were obtained as the inhibitors of VEGFR and FGFR respectively with the screening thres-hold set as eighty percent of the docking score of the initial ligands. The potential herbs were then filtered by the components with a hit rate higher than 30%, such as Scutellariae Radix, Adenophorae Radix, Pinelliae Rhizoma, Coicis Semen, etc. To discuss the rule of TCM in the treatment of pulmonary fibrosis, the networks of TCM-channel tropism and TCM-efficacy of the potential herbs was constructed. The potential herbs for treating pulmonary fibrosis mostly belong to lung(degree=14) and spleen(degree value=8), and the efficacy is focused on reinforcing deficiency(degree=9). Qiyin Prescription and Buzhong Yiqi Decoction contain the largest number of the potential herbs. The main symptom of COVID-19 is damp-heat stagnating in the lung, which always causes impairment of body fluid and Qi. Clinical observation shows that patients in the recovery period are mostly at the status that the remaining virus toxicity is not exhausted while the vital Qi have not recovered. The results of this study are expected to provide references for clinical medication in preventing and treating pulmonary fibrosis caused by COVID-19.",
+      "year": 2020,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20200315.401",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2020-04",
+      "canonical_publication_date": "2020-04",
+      "canonical_publication_year": 2020
+    },
+    "19149266": {
+      "title": "[Regulation of three Jianpi Buqi recipes on intestinal microflora of Piqi-deficiency rat].",
+      "abstract": "To determine the effect of three Jianpi Buqi recipes on intestinal microflora of Pi-qi-deficiency rat with molecular biology methods and attempt to clarify the mechanisms of therapy. Rat model of Pi-qi-deficiency was induced by exercise fatigue simultaneously diet incontinence and then administrated with the decoctions of Si-jun-zi-tang (including crude drug) (10.8, 3.6, 1.2 g x kg(-1)), Li-zhong-tang (16.2, 5.4, 1.8 g x kg(-1)) and Buzhong Yiqi-tang (14.4, 4.8, 1.6 g x kg(-1)) recipes which were in common use of clinic of traditional Chinese medicine (TCM). With application of ERIC-PCR (enterobacterial repetitive intergenic consensus-PCR) fingerprint analysis, the efficacy on Pi-qi-deficiency and perturbation of intestinal mircoflora of these recipes were examined and evaluated. Remarkable differences of ERIC-PCR profile were found between Pi-qi-deficiency state rats and normal rats. The Shannon's Index (H') was increased when treated with all doses of three Jianpibuqi recipes decoctions and Sorenson's pairwise similarity coefficient (Cs) was also increased significantly after treatment. ERIC-PCR fingerprint can be utilized as an initial screening of changes of the composition of bacterial communities that are associated with the development of intestinal disease. It can also be used to build a better understanding of Pi-qi-deficiency and to investigate the pharmacodynamic effect of TCM on Pi-qi-deficiency. Three Jianpi Buqi recipes are demonstrated to produce pronounced recovery activities on intestinal microflora of Pi-qi-deficient rats, which may be considered one of mechanisms of their performances.",
+      "year": 2008,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": null,
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2008-11",
+      "canonical_publication_date": "2008-11",
+      "canonical_publication_year": 2008
+    },
+    "21823486": {
+      "title": "[Study on the effects of hematopoiesis of anemic mice after marrow-suppressed treated by tonifying kidney, invigorating spleen, and removing blood stasis].",
+      "abstract": "To observe the effects of tonifying kidney,tonifying spleen,invigorating the circulation of blood on the expression of hematopooietic cytokines of bone marrow suppression induced by chemotherapy. Automated blood analyzer was used to detect the level of RBC and HGB, 14th and 28 days, while real time quantitative RT-PCR was used to detect EPO, EPOR mRNA expression. Liuwei Dihuang Tang, Buzhong Yiqi Tang and Compound Danshen Decoction group could increase the level of RBC and HGB significantly. Liuwei Dihuang Tang and Buzhong Yiqi Tang groups could increase the mRNA expression level of EPO and EPOR significantly. However, there was no significantly difference when Compound Danshen Decoction group compared with control group on EPO, EPOR mRNA expression level. The tonifying kidney, tonifying spleen, invigorate the circulation of blood are stable and reliable as to enhance the role of peripheral blood; tonifying kidney, tonifying spleen can improve EPO, EPOR mRNA expression levels, and promote the proliferation of bone marrow hematopoietic stem cells, and promote the differentiation of erythroid blood cells to increase red blood cell line; And invigorate the circulation of blood promote hematopoietic mechanisms have to be further studied.",
+      "year": 2011,
+      "journal": "Zhong yao cai = Zhongyaocai = Journal of Chinese medicinal materials",
+      "doi": null,
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2011-02",
+      "canonical_publication_date": "2011-02",
+      "canonical_publication_year": 2011
+    }
+  }
+}

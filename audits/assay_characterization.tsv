@@ -1,0 +1,315 @@
+compound	target	target_chembl_id	assay_type	standard_type	document_year	pchembl	tier
+6-gingerol	Cytochrome P450 2C19	CHEMBL3622	A	IC50	2017	4.96	weak
+6-gingerol	Cytochrome P450 2C9	CHEMBL3397	A	IC50	2017	4.92	weak
+6-gingerol	Cytochrome P450 1A2	CHEMBL3356	A	IC50	2017	4.72	weak
+6-gingerol	Cytochrome P450 3A4	CHEMBL340	A	IC50	2017	4.66	weak
+6-gingerol	Cytochrome P450 2C8	CHEMBL3721	A	IC50	2017	4.66	weak
+6-gingerol	Cytochrome P450 2B6	CHEMBL4729	A	IC50	2017	4.39	weak
+6-shogaol	Transient receptor potential cation channel subfamily V member 1	CHEMBL4794	F	IC50	2012	6.54	strong
+6-shogaol	Cytochrome P450 1A2	CHEMBL3356	A	IC50	2017	5.6	strong
+6-shogaol	Cytochrome P450 2C8	CHEMBL3721	A	IC50	2017	5.54	strong
+6-shogaol	Cytochrome P450 2C9	CHEMBL3397	A	IC50	2017	5.48	strong
+6-shogaol	Cytochrome P450 3A4	CHEMBL340	A	IC50	2017	5.4	strong
+6-shogaol	Cytochrome P450 2B6	CHEMBL4729	A	IC50	2017	5.24	strong
+6-shogaol	Polyunsaturated fatty acid 5-lipoxygenase	CHEMBL215	B	IC50	2008	5.13	strong
+6-shogaol	Leukotriene A-4 hydrolase	CHEMBL4618	B	IC50	2017	4.9	weak
+6-shogaol	5-hydroxytryptamine receptor 1A	CHEMBL214	B	Ki	2010	4.74	weak
+6-shogaol	Cytochrome P450 2C19	CHEMBL3622	A	IC50	2017	4.73	weak
+6-shogaol	Cytochrome P450 2E1	CHEMBL5281	A	IC50	2017	4.12	weak
+6-shogaol	Cytochrome P450 2A6	CHEMBL5282	A	IC50	2017	4.08	weak
+6-shogaol	Cytochrome P450 2D6	CHEMBL289	A	IC50	2017	4.06	weak
+6-shogaol	HepG2	CHEMBL395	F	IC50	2019	4.06	weak
+alisol A	Bile acid receptor	CHEMBL2047	B	EC50	2019	4.99	weak
+alisol A	Cocaine esterase	CHEMBL3180	B	IC50	2015	4.0	weak
+alisol B	Bile acid receptor	CHEMBL2047	B	EC50	2019	5.06	strong
+atractylenolide III	Sterol O-acyltransferase 1	CHEMBL2782	B	IC50	2020	4.26	weak
+baicalein	Cytochrome P450 1B1	CHEMBL4878	A	Ki	2011	6.58	strong
+baicalein	Polyunsaturated fatty acid lipoxygenase ALOX15	CHEMBL2903	B	Ki	2011	6.22	strong
+baicalein	Polyunsaturated fatty acid lipoxygenase ALOX12	CHEMBL3687	B	IC50	2007	6.07	strong
+baicalein	Protein deacetylase HDAC6	CHEMBL1865	B	IC50	2021	5.92	strong
+baicalein	Cytochrome P450 1A1	CHEMBL2231	A	Ki	2011	5.91	strong
+baicalein	Xanthine dehydrogenase/oxidase	CHEMBL1929	B	IC50	1998	5.55	strong
+baicalein	Lysine-specific demethylase 4E	CHEMBL1293226	B	IC50	2012	5.52	strong
+baicalein	Tyrosine-protein kinase Yes	CHEMBL2073	B	IC50	2019	5.48	strong
+baicalein	Trypsin	CHEMBL2095204	B	IC50	1997	5.43	strong
+baicalein	UDP-glucuronosyltransferase 1A1	CHEMBL1287617	A	IC50	2011	5.36	strong
+baicalein	GABA-A receptor; anion channel	CHEMBL2093872	B	Ki	2001	5.25	strong
+baicalein	Cyclin-dependent kinase 1/cyclin B1	CHEMBL1907602	B	IC50	2008	5.18	strong
+baicalein	Alpha-synuclein	CHEMBL6152	B	IC50	2019	5.09	strong
+baicalein	G protein-coupled receptor kinase 6	CHEMBL6144	B	IC50	2019	5.06	strong
+baicalein	Serine/threonine-protein kinase PLK1	CHEMBL3024	B	IC50	2022	5.05	strong
+baicalein	Cytochrome P450 3A4	CHEMBL340	A	IC50	2017	5.04	strong
+baicalein	Casein kinase 2	CHEMBL3832943	B	IC50	2019	5.0	strong
+baicalein	G-protein coupled receptor 35	CHEMBL1293267	F	EC50	2012	4.99	weak
+baicalein	Receptor-type tyrosine-protein phosphatase S	CHEMBL2396508	B	IC50	2016	4.99	weak
+baicalein	Lactoylglutathione lyase	CHEMBL2424	B	IC50	2008	4.96	weak
+baicalein	SW480	CHEMBL612544	F	IC50	2015	4.94	weak
+baicalein	Lysine-specific histone demethylase 1A	CHEMBL6136	B	IC50	2019	4.9	weak
+baicalein	A549	CHEMBL392	F	IC50	2014	4.89	weak
+baicalein	Cyclic AMP-responsive element-binding protein 1	CHEMBL5587	B	AC50	2008	4.87	weak
+baicalein	Progesterone receptor	CHEMBL208	B	IC50	2022	4.82	weak
+baicalein	KOPN-8	CHEMBL4296456	F	EC50	2018	4.8	weak
+baicalein	HT-29	CHEMBL384	F	IC50	2015	4.74	weak
+baicalein	Glucocorticoid receptor	CHEMBL2034	B	IC50	2022	4.72	weak
+baicalein	ZR-75-1	CHEMBL614393	F	EC50	2015	4.6	weak
+baicalein	HepG2	CHEMBL395	F	IC50	2015	4.55	weak
+baicalein	Fructose-1,6-bisphosphatase 1	CHEMBL3975	B	IC50	2020	4.54	weak
+baicalein	Sucrase-isomaltase, intestinal	CHEMBL2748	B	IC50	1998	4.46	weak
+baicalein	Prolyl endopeptidase	CHEMBL3202	B	IC50	2008	4.44	weak
+baicalein	Serine/threonine-protein kinase PLK3	CHEMBL4897	B	IC50	2022	4.4	weak
+baicalein	KB 3-1	CHEMBL614590	F	EC50	2004	4.39	weak
+baicalein	ATP-dependent translocase ABCB1	CHEMBL4302	F	IC50	2004	4.39	weak
+baicalein	KB	CHEMBL398	F	IC50	2004	4.21	weak
+baicalin	Lysine-specific histone demethylase 1A	CHEMBL6136	B	IC50	2021	5.52	strong
+baicalin	Serine/threonine-protein kinase PLK1	CHEMBL3024	B	IC50	2022	5.44	strong
+baicalin	MGC-803	CHEMBL3706566	F	IC50	2021	5.06	strong
+baicalin	Prolyl endopeptidase	CHEMBL3202	B	IC50	2008	4.92	weak
+baicalin	Cyclin-dependent kinase 1/cyclin B1	CHEMBL1907602	B	IC50	2008	4.84	weak
+baicalin	Cytochrome P450 1A2	CHEMBL3356	A	Ki	2017	4.59	weak
+baicalin	H9	CHEMBL614806	A	IC50	1994	4.14	weak
+baicalin	GABA-A receptor; anion channel	CHEMBL2093872	B	Ki	2001	4.11	weak
+berberine	Cytochrome P450 1B1	CHEMBL4878	B	Ki	2017	7.36	strong
+berberine	Acetylcholinesterase	CHEMBL220	B	IC50	2015	7.0	strong
+berberine	Peroxisome proliferator-activated receptor alpha	CHEMBL239	B	EC50	2021	6.24	strong
+berberine	Cholinesterase	CHEMBL1914	B	IC50	2015	5.96	strong
+berberine	LNCaP	CHEMBL612518	F	IC50	2022	5.47	strong
+berberine	Aldo-keto reductase family 1 member C3	CHEMBL4681	B	IC50	2020	5.39	strong
+berberine	Aldo-keto reductase family 1 member C2	CHEMBL5847	B	IC50	2019	5.17	strong
+berberine	Lysine-specific histone demethylase 1A	CHEMBL6136	B	IC50	2021	5.16	strong
+berberine	Quadruplex DNA	CHEMBL3832742	B	Kd	2021	5.0	strong
+berberine	LNCaP C4-2B	CHEMBL4296461	F	IC50	2022	4.95	weak
+berberine	CWR22R	CHEMBL612657	F	IC50	2022	4.9	weak
+berberine	Peroxisome proliferator-activated receptor delta	CHEMBL3979	B	EC50	2021	4.85	weak
+berberine	SW1990	CHEMBL1075592	F	IC50	2019	4.74	weak
+berberine	SMMC-7721	CHEMBL613831	F	IC50	2019	4.74	weak
+berberine	HUVEC	CHEMBL613979	A	IC50	2019	4.74	weak
+berberine	PC-3	CHEMBL390	F	IC50	2022	4.67	weak
+berberine	Telomerase reverse transcriptase	CHEMBL2916	B	IC50	2012	4.43	weak
+berberine	HeLa 229	CHEMBL4483246	F	IC50	2020	4.37	weak
+berberine	Interleukin-8	CHEMBL2157	B	IC50	2021	4.3	weak
+berberine	Voltage-gated inwardly rectifying potassium channel KCNH2	CHEMBL240	B	IC50	2011	4.18	weak
+berberine	Tyrosine-protein phosphatase non-receptor type 1	CHEMBL335	B	IC50	2017	4.17	weak
+betulinic acid	HeLa	CHEMBL399	F	IC50	2009	7.58	strong
+betulinic acid	Jurkat	CHEMBL397	F	IC50	2009	7.57	strong
+betulinic acid	HepG2	CHEMBL395	F	IC50	2009	7.44	strong
+betulinic acid	8505C	CHEMBL1075387	F	IC50	2019	6.48	strong
+betulinic acid	A549	CHEMBL392	F	IC50	2019	6.48	strong
+betulinic acid	A2780	CHEMBL614004	F	IC50	2019	6.48	strong
+betulinic acid	MCF7	CHEMBL387	F	IC50	2019	6.48	strong
+betulinic acid	518A2	CHEMBL4483222	F	IC50	2019	6.48	strong
+betulinic acid	Albumin	CHEMBL3253	A	Kd	2015	6.23	strong
+betulinic acid	G-protein coupled bile acid receptor 1	CHEMBL5409	F	EC50	2010	5.98	strong
+betulinic acid	H9	CHEMBL614806	F	EC50	1998	5.85	strong
+betulinic acid	Tyrosine-protein phosphatase non-receptor type 1	CHEMBL335	B	IC50	2021	5.82	strong
+betulinic acid	Aldo-keto reductase family 1 member B10	CHEMBL5983	B	IC50	2011	5.7	strong
+betulinic acid	HT-29	CHEMBL384	F	IC50	2018	5.46	strong
+betulinic acid	SW480	CHEMBL612544	F	IC50	2010	5.19	strong
+betulinic acid	SK-MEL-2	CHEMBL614917	F	IC50	2010	5.16	strong
+betulinic acid	5'-nucleotidase	CHEMBL5957	B	IC50	2022	5.14	strong
+betulinic acid	OVCAR-3	CHEMBL614213	F	IC50	2015	5.08	strong
+betulinic acid	HCT-15	CHEMBL612263	F	IC50	2017	5.06	strong
+betulinic acid	FaDu	CHEMBL612250	F	IC50	2010	4.99	weak
+betulinic acid	SW948	CHEMBL1075598	F	IC50	2009	4.98	weak
+betulinic acid	HCT-116	CHEMBL394	F	IC50	2010	4.97	weak
+betulinic acid	Aldo-keto reductase family 1 member B1	CHEMBL1900	B	IC50	2011	4.96	weak
+betulinic acid	Daoy	CHEMBL612519	F	IC50	2010	4.96	weak
+betulinic acid	SW-1736	CHEMBL614773	F	IC50	2010	4.94	weak
+betulinic acid	WI-38 VA13	CHEMBL612807	F	IC50	2005	4.94	weak
+betulinic acid	DLD-1	CHEMBL614285	F	IC50	2010	4.93	weak
+betulinic acid	A-375	CHEMBL613859	F	EC50	2017	4.92	weak
+betulinic acid	A-431	CHEMBL614069	F	IC50	2010	4.9	weak
+betulinic acid	HCT-8	CHEMBL613510	F	IC50	2010	4.88	weak
+betulinic acid	MDA-MB-231	CHEMBL400	F	IC50	2009	4.82	weak
+betulinic acid	T47D	CHEMBL614361	F	IC50	2015	4.81	weak
+betulinic acid	HEp-2	CHEMBL614735	F	IC50	2013	4.8	weak
+betulinic acid	HL-60	CHEMBL383	F	IC50	2013	4.77	weak
+betulinic acid	SK-OV-3	CHEMBL614925	F	IC50	2010	4.75	weak
+betulinic acid	THP-1	CHEMBL614245	F	IC50	2013	4.7	weak
+betulinic acid	PC-3	CHEMBL390	F	IC50	2010	4.67	weak
+betulinic acid	SF-295	CHEMBL614908	F	IC50	2013	4.66	weak
+betulinic acid	DU-145	CHEMBL613508	F	IC50	2013	4.66	weak
+betulinic acid	K562	CHEMBL385	F	IC50	2017	4.66	weak
+betulinic acid	MIA PaCa-2	CHEMBL614725	F	IC50	2022	4.57	weak
+betulinic acid	CCRF-CEM	CHEMBL382	F	IC50	2004	4.57	weak
+betulinic acid	KB	CHEMBL398	F	IC50	2014	4.56	weak
+betulinic acid	ECa-109 cell line	CHEMBL614668	F	IC50	2017	4.55	weak
+betulinic acid	Zinc finger protein GLI1	CHEMBL5461	B	IC50	2008	4.5	weak
+betulinic acid	MRC5	CHEMBL614181	A	IC50	2017	4.48	weak
+betulinic acid	DNA polymerase beta	CHEMBL2392	B	IC50	2008	4.47	weak
+betulinic acid	L02	CHEMBL4296457	A	IC50	2017	4.46	weak
+betulinic acid	SK-MEL	CHEMBL614914	F	IC50	1999	4.46	weak
+betulinic acid	PANC-1	CHEMBL614139	F	IC50	2008	4.36	weak
+betulinic acid	Bel-7402	CHEMBL614279	F	IC50	2007	4.36	weak
+betulinic acid	M14	CHEMBL614317	F	IC50	2011	4.3	weak
+betulinic acid	Dipeptidyl peptidase 4	CHEMBL284	B	IC50	2011	4.25	weak
+betulinic acid	SiHa	CHEMBL612542	F	IC50	2017	4.15	weak
+calycosin	N9	CHEMBL613516	F	IC50	2017	4.76	weak
+calycosin	U-937	CHEMBL612794	F	IC50	2007	4.37	weak
+chlorogenic acid	Tyrosine-protein phosphatase non-receptor type 1	CHEMBL335	B	IC50	2021	7.0	strong
+chlorogenic acid	Histone deacetylase	CHEMBL2093865	B	Ki	2009	6.87	strong
+chlorogenic acid	Aldo-keto reductase family 1 member B1	CHEMBL1900	B	IC50	2012	6.52	strong
+chlorogenic acid	Aldo-keto reductase family 1 member B10	CHEMBL5983	B	IC50	2012	5.1	strong
+chlorogenic acid	Tyrosine-protein phosphatase non-receptor type 2	CHEMBL3807	B	IC50	2018	4.11	weak
+chlorogenic acid	Amyloid-beta precursor protein	CHEMBL2487	B	IC50	2012	4.03	weak
+cinnamaldehyde	Transient receptor potential cation channel subfamily A member 1	CHEMBL6007	B	EC50	2010	5.19	strong
+cinnamaldehyde	HCT-8	CHEMBL613510	F	IC50	2018	4.81	weak
+cinnamaldehyde	Polyunsaturated fatty acid 5-lipoxygenase	CHEMBL215	B	IC50	2019	4.46	weak
+cinnamic acid	Histone deacetylase	CHEMBL2093865	B	Ki	2009	8.09	strong
+cinnamic acid	Tankyrase 1/2	CHEMBL3038515	B	IC50	2014	6.16	strong
+cinnamic acid	Hydroxycarboxylic acid receptor 2	CHEMBL3785	B	Ki	2011	5.31	strong
+cinnamic acid	A-375	CHEMBL613859	F	IC50	2012	4.19	weak
+cinnamic acid	A549	CHEMBL392	F	IC50	2012	4.06	weak
+cinnamic acid	ACHN	CHEMBL614519	F	IC50	2012	4.04	weak
+coniferyl ferulate	MCF7	CHEMBL387	F	IC50	2005	4.57	weak
+coptisine	Quadruplex DNA	CHEMBL3832742	B	EC50	2017	5.23	strong
+crocetin	Prostaglandin G/H synthase 1	CHEMBL221	B	IC50	2005	4.55	weak
+diosgenin	THP-1	CHEMBL614245	F	IC50	2010	5.16	strong
+diosgenin	HCT-116	CHEMBL394	F	IC50	2019	4.97	weak
+diosgenin	A549	CHEMBL392	F	IC50	2019	4.97	weak
+diosgenin	HBL-100	CHEMBL614811	F	IC50	2019	4.97	weak
+diosgenin	HT-29	CHEMBL384	F	IC50	2019	4.97	weak
+diosgenin	MCF7	CHEMBL387	F	IC50	2020	4.62	weak
+diosgenin	T-24	CHEMBL614774	F	IC50	2021	4.54	weak
+diosgenin	K562	CHEMBL385	F	IC50	2021	4.52	weak
+diosgenin	HepG2	CHEMBL395	F	IC50	2020	4.47	weak
+diosgenin	ASPC1	CHEMBL612588	F	IC50	2022	4.2	weak
+diosgenin	MKN-45	CHEMBL614354	F	IC50	2021	4.11	weak
+ferulic acid	MCF7	CHEMBL387	F	IC50	2021	6.44	strong
+ferulic acid	MDA-MB-231	CHEMBL400	F	IC50	2017	6.3	strong
+ferulic acid	Alpha-synuclein	CHEMBL6152	B	IC50	2019	6.12	strong
+ferulic acid	BT-549	CHEMBL614072	F	IC50	2017	5.92	strong
+ferulic acid	Carbonic anhydrase 2	CHEMBL205	B	Ki	2010	5.62	strong
+ferulic acid	Carbonic anhydrase 1	CHEMBL261	B	Ki	2010	5.54	strong
+ferulic acid	Carbonic anhydrase 5A, mitochondrial	CHEMBL4789	B	Ki	2010	5.15	strong
+ferulic acid	Carbonic anhydrase 7	CHEMBL2326	B	Ki	2010	5.13	strong
+ferulic acid	Carbonic anhydrase 6	CHEMBL3025	B	Ki	2010	5.07	strong
+ferulic acid	Carbonic anhydrase 9	CHEMBL3594	B	IC50	2020	5.03	strong
+ferulic acid	Carbonic anhydrase 14	CHEMBL3510	B	Ki	2010	5.03	strong
+ferulic acid	Carbonic anhydrase 12	CHEMBL3242	B	Ki	2015	5.01	strong
+ferulic acid	Carbonic anhydrase 5B, mitochondrial	CHEMBL3969	B	Ki	2010	4.98	weak
+ferulic acid	Carbonic anhydrase 4	CHEMBL3729	B	Ki	2010	4.97	weak
+ferulic acid	Carbonic anhydrase 3	CHEMBL2885	B	Ki	2010	4.96	weak
+ferulic acid	Pyruvate kinase PKM	CHEMBL1075189	B	IC50	2021	4.94	weak
+ferulic acid	SH-SY5Y	CHEMBL614910	F	IC50	2017	4.93	weak
+ferulic acid	LoVo	CHEMBL614721	F	IC50	2011	4.02	weak
+formononetin	Protein deacetylase HDAC6	CHEMBL1865	B	IC50	2021	6.54	strong
+formononetin	SGC-7901	CHEMBL614909	F	IC50	2012	5.66	strong
+formononetin	Cytochrome P450 1B1	CHEMBL4878	B	Ki	2017	5.43	strong
+formononetin	Interleukin-2	CHEMBL5880	B	Kd	2014	5.26	strong
+formononetin	HeLa	CHEMBL399	F	IC50	2012	5.07	strong
+formononetin	Amine oxidase [flavin-containing] B	CHEMBL2039	B	IC50	2016	4.59	weak
+formononetin	Amine oxidase [flavin-containing] A	CHEMBL1951	B	IC50	2016	4.51	weak
+formononetin	U-937	CHEMBL612794	F	IC50	2007	4.36	weak
+formononetin	PC-3	CHEMBL390	F	IC50	2017	4.24	weak
+formononetin	HepG2	CHEMBL395	F	IC50	2014	4.22	weak
+formononetin	HCT-116	CHEMBL394	F	IC50	2012	4.21	weak
+ginsenoside Rb1	AMPK alpha2/beta1/gamma1	CHEMBL3038455	B	EC50	2017	7.78	strong
+glycyrrhetinic acid	11-beta-hydroxysteroid dehydrogenase 1	CHEMBL4235	B	IC50	2020	5.66	strong
+glycyrrhetinic acid	TERT-RPE1	CHEMBL615013	F	IC50	2017	4.2	weak
+glycyrrhetinic acid	MCF7	CHEMBL387	F	IC50	2017	4.12	weak
+glycyrrhetinic acid	HCT-116	CHEMBL394	F	IC50	2017	4.12	weak
+glycyrrhetinic acid	HT-29	CHEMBL384	F	IC50	2017	4.11	weak
+glycyrrhetinic acid	HCT-8	CHEMBL613510	F	IC50	2017	4.08	weak
+glycyrrhetinic acid	MDA-MB-231	CHEMBL400	F	IC50	2017	4.07	weak
+glycyrrhetinic acid	PC-3	CHEMBL390	F	IC50	2017	4.05	weak
+glycyrrhizin	11-beta-hydroxysteroid dehydrogenase type 2	CHEMBL3746	B	IC50	2012	9.4	strong
+glycyrrhizin	11-beta-hydroxysteroid dehydrogenase 1	CHEMBL4235	B	IC50	2012	8.22	strong
+glycyrrhizin	Solute carrier organic anion transporter family member 1B3	CHEMBL1743121	F	Ki	2003	4.9	weak
+glycyrrhizin	Solute carrier organic anion transporter family member 1B1	CHEMBL1697668	F	Ki	2003	4.8	weak
+glycyrrhizin	High mobility group protein B1	CHEMBL2311236	B	Kd	2018	4.06	weak
+hesperidin	Lysine-specific histone demethylase 1A	CHEMBL6136	B	IC50	2019	4.72	weak
+hesperidin	Calmodulin-1	CHEMBL6093	B	IC50	2011	4.16	weak
+hesperidin	Glycogen synthase kinase-3 beta	CHEMBL262	B	IC50	2013	4.0	weak
+isoliquiritigenin	Matrilysin	CHEMBL4073	B	IC50	2022	8.1	strong
+isoliquiritigenin	Matrix metalloproteinase-9	CHEMBL321	B	IC50	2022	8.0	strong
+isoliquiritigenin	72 kDa type IV collagenase	CHEMBL333	B	IC50	2022	8.0	strong
+isoliquiritigenin	Collagenase 3	CHEMBL280	B	IC50	2022	7.85	strong
+isoliquiritigenin	Interstitial collagenase	CHEMBL332	B	IC50	2022	7.8	strong
+isoliquiritigenin	Stromelysin-1	CHEMBL283	B	IC50	2022	7.09	strong
+isoliquiritigenin	Estrogen receptor beta	CHEMBL242	B	IC50	2017	6.57	strong
+isoliquiritigenin	Aldo-keto reductase family 1 member B1	CHEMBL1900	B	IC50	2012	6.5	strong
+isoliquiritigenin	17-beta-hydroxysteroid dehydrogenase type 2	CHEMBL2789	B	IC50	2017	6.44	strong
+isoliquiritigenin	NACHT, LRR and PYD domains-containing protein 3	CHEMBL1741208	B	IC50	2018	5.81	strong
+isoliquiritigenin	Estrogen receptor	CHEMBL206	B	IC50	2017	5.73	strong
+isoliquiritigenin	17-beta-hydroxysteroid dehydrogenase type 1	CHEMBL3181	B	IC50	2017	5.55	strong
+isoliquiritigenin	PANC-1	CHEMBL614139	F	IC50	2017	5.48	strong
+isoliquiritigenin	Aromatase	CHEMBL1978	B	IC50	2017	5.42	strong
+isoliquiritigenin	Proteasome Macropain subunit MB1	CHEMBL4662	B	IC50	2019	5.31	strong
+isoliquiritigenin	MDA-MB-231	CHEMBL400	F	IC50	2021	4.96	weak
+isoliquiritigenin	Neuronal acetylcholine receptor subunit alpha-7	CHEMBL2492	B	EC50	2014	4.94	weak
+isoliquiritigenin	MCF7	CHEMBL387	F	IC50	2021	4.75	weak
+isoliquiritigenin	Amyloid-beta precursor protein	CHEMBL2487	B	IC50	2013	4.71	weak
+isoliquiritigenin	MCF-10A	CHEMBL614321	T	IC50	2021	4.6	weak
+isoliquiritigenin	HepG2	CHEMBL395	F	IC50	2021	4.56	weak
+isoliquiritigenin	K562	CHEMBL385	F	IC50	2015	4.53	weak
+isoliquiritigenin	Nuclear factor NF-kappa-B complex	CHEMBL2094258	B	IC50	2014	4.5	weak
+isoliquiritigenin	Beta-secretase 1	CHEMBL4822	B	IC50	2013	4.48	weak
+isoliquiritigenin	C-33-A	CHEMBL2366313	F	IC50	2019	4.48	weak
+isoliquiritigenin	Protein disulfide-isomerase	CHEMBL5422	B	Ki	2022	4.44	weak
+isoliquiritigenin	Ca-Ski	CHEMBL1075403	F	IC50	2019	4.41	weak
+isoliquiritigenin	HUVEC	CHEMBL613979	T	IC50	2015	4.38	weak
+isoliquiritigenin	PC-3	CHEMBL390	A	IC50	2006	4.33	weak
+isoliquiritigenin	A549	CHEMBL392	F	IC50	2021	4.28	weak
+isoliquiritigenin	SiHa	CHEMBL612542	F	IC50	2019	4.27	weak
+isoliquiritigenin	Tyrosyl-DNA phosphodiesterase 1	CHEMBL1075138	B	IC50	2020	4.26	weak
+isoliquiritigenin	HeLa	CHEMBL399	F	IC50	2019	4.24	weak
+isoliquiritigenin	LoVo	CHEMBL614721	F	IC50	2011	4.24	weak
+isoliquiritigenin	SK-MEL-28	CHEMBL614919	F	IC50	2011	4.12	weak
+isoliquiritigenin	HT-1080	CHEMBL614580	F	IC50	2008	4.12	weak
+ligustilide	Transient receptor potential cation channel subfamily A member 1	CHEMBL6007	B	EC50	2013	4.36	weak
+liquiritigenin	Aromatase	CHEMBL1978	B	IC50	2007	5.73	strong
+liquiritigenin	Amine oxidase [flavin-containing] B	CHEMBL2039	B	IC50	2010	5.14	strong
+loganin	Signal transducer and activator of transcription 3	CHEMBL4026	B	IC50	2017	4.85	weak
+menthol	Transient receptor potential cation channel subfamily M member 8	CHEMBL1075319	B	EC50	2013	5.52	strong
+menthol	Transient receptor potential cation channel subfamily A member 1	CHEMBL6007	B	EC50	2010	4.55	weak
+morroniside	Signal transducer and activator of transcription 3	CHEMBL4026	B	IC50	2017	5.16	strong
+nobiletin	Broad substrate specificity ATP-binding cassette transporter ABCG2	CHEMBL5393	B	IC50	2011	5.36	strong
+nobiletin	A549/TR	CHEMBL4483226	F	IC50	2022	5.05	strong
+nobiletin	A2780/Taxol	CHEMBL4483224	F	IC50	2022	5.05	strong
+nobiletin	Monocyte	CHEMBL614076	F	IC50	1999	5.0	strong
+nobiletin	ATP-dependent translocase ABCB1	CHEMBL4302	F	IC50	2001	4.94	weak
+nobiletin	HT-29	CHEMBL384	F	IC50	2009	4.62	weak
+nobiletin	LNCaP C4-2	CHEMBL4296460	F	IC50	2022	4.52	weak
+nobiletin	CWR22R	CHEMBL612657	F	IC50	2022	4.44	weak
+nobiletin	HL-60	CHEMBL383	F	IC50	2007	4.38	weak
+ononin	Interleukin-2	CHEMBL5880	B	Kd	2014	6.92	strong
+ononin	HepG2	CHEMBL395	F	IC50	2014	4.39	weak
+paeoniflorin	N9	CHEMBL613516	F	IC50	2009	4.56	weak
+poricoic acid A	HL-60	CHEMBL383	F	IC50	2009	4.42	weak
+saikosaponin a	COR-L23	CHEMBL613854	F	IC50	2009	6.22	strong
+saikosaponin a	HepG2	CHEMBL395	F	IC50	2015	5.08	strong
+saikosaponin a	Bcap37	CHEMBL613842	F	IC50	2015	4.86	weak
+saikosaponin a	A549	CHEMBL392	F	IC50	2015	4.84	weak
+saikosaponin a	Caco-2	CHEMBL614058	F	IC50	2009	4.75	weak
+saikosaponin a	MCF7	CHEMBL387	F	IC50	2015	4.72	weak
+saikosaponin a	A-375	CHEMBL613859	F	IC50	2009	4.62	weak
+saikosaponin a	C32	CHEMBL1075401	F	IC50	2009	4.36	weak
+saikosaponin d	HepG2	CHEMBL395	F	IC50	2015	5.31	strong
+saikosaponin d	MCF7	CHEMBL387	F	IC50	2015	5.12	strong
+saikosaponin d	HeLa	CHEMBL399	F	IC50	2020	5.0	strong
+saikosaponin d	Bcap37	CHEMBL613842	F	IC50	2015	4.97	weak
+saikosaponin d	A549	CHEMBL392	F	IC50	2015	4.51	weak
+tangeretin	Pyruvate kinase PKM	CHEMBL1075189	B	AC50	2021	6.02	strong
+tangeretin	Broad substrate specificity ATP-binding cassette transporter ABCG2	CHEMBL5393	B	IC50	2011	4.77	weak
+tangeretin	Monocyte	CHEMBL614076	F	IC50	1999	4.52	weak
+tangeretin	ATP-dependent translocase ABCB1	CHEMBL4302	B	IC50	2011	4.41	weak
+tangeretin	SH-SY5Y	CHEMBL614910	F	IC50	2008	4.38	weak
+tangeretin	HT-29	CHEMBL384	F	IC50	2009	4.11	weak
+wogonin	MCF7	CHEMBL387	F	IC50	2022	7.52	strong
+wogonin	CDK9/cyclin T1	CHEMBL2111389	B	IC50	2019	6.72	strong
+wogonin	Cyclin-dependent kinase 9	CHEMBL3116	B	IC50	2022	6.72	strong
+wogonin	Cyclin-dependent kinase 2	CHEMBL301	B	IC50	2019	5.84	strong
+wogonin	CDK2/Cyclin A2	CHEMBL3038469	B	IC50	2019	5.84	strong
+wogonin	Pyruvate kinase PKM	CHEMBL1075189	B	IC50	2022	5.7	strong
+wogonin	GABA-A receptor; anion channel	CHEMBL2093872	B	Ki	2001	5.69	strong
+wogonin	CDK8/Cyclin C	CHEMBL3038474	B	IC50	2022	5.23	strong
+wogonin	Lysine-specific histone demethylase 1A	CHEMBL6136	B	IC50	2019	5.05	strong
+wogonin	CDK7/Cyclin H/MNAT1	CHEMBL3038473	B	IC50	2019	4.91	weak
+wogonin	A549	CHEMBL392	F	IC50	2017	4.8	weak
+wogonin	HepG2	CHEMBL395	F	IC50	2019	4.75	weak
+wogonin	HCT-116	CHEMBL394	F	IC50	2019	4.56	weak
+wogonin	MV4-11	CHEMBL613835	F	IC50	2019	4.51	weak
+wogonin	SW480	CHEMBL612544	F	IC50	2015	4.46	weak
+wogonin	SW1353	CHEMBL614944	F	IC50	2009	4.41	weak
+wogonin	HT-29	CHEMBL384	F	IC50	2015	4.4	weak
+wogonin	Prostaglandin G/H synthase 2	CHEMBL230	B	IC50	2014	4.34	weak

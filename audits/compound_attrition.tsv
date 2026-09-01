@@ -1,0 +1,68 @@
+compound	formula_occurrences	resolved_identity	chembl_id_present	human_target_records	nonmissing_pchembl_records	document_year_lte_2022_records	eligible_measured	strong_at_5	preparation_detection	exposure	selective_intervention
+6-gingerol	5	True	True	6	6	6	True	False	not_assessed	not_assessed	not_assessed
+6-shogaol	2	True	True	14	14	14	True	True	not_assessed	not_assessed	not_assessed
+aconitine	1	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+acteoside	3	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+albiflorin	4	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+alisol A	1	True	True	2	2	2	True	False	not_assessed	not_assessed	not_assessed
+alisol B	1	True	True	1	1	1	True	True	not_assessed	not_assessed	not_assessed
+allantoin	1	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+amygdalin	1	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+astragaloside IV	1	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+atractylenolide I	6	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+atractylenolide III	6	True	True	1	1	1	True	False	not_assessed	not_assessed	not_assessed
+baicalein	2	True	True	37	37	37	True	True	not_assessed	not_assessed	not_assessed
+baicalin	2	True	True	8	8	8	True	True	not_assessed	not_assessed	not_assessed
+benzoylaconine	1	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+berberine	2	True	True	21	21	21	True	True	not_assessed	not_assessed	not_assessed
+betulinic acid	2	True	True	54	54	54	True	True	not_assessed	not_assessed	not_assessed
+calycosin	1	True	True	2	2	2	True	False	not_assessed	not_assessed	not_assessed
+catalpol	3	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+chlorogenic acid	1	True	True	6	6	6	True	True	not_assessed	not_assessed	not_assessed
+cimicifugoside	1	False	False	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+cinnamaldehyde	2	True	True	3	3	3	True	True	not_assessed	not_assessed	not_assessed
+cinnamic acid	2	True	True	6	6	6	True	True	not_assessed	not_assessed	not_assessed
+coniferyl ferulate	4	True	True	1	1	1	True	False	not_assessed	not_assessed	not_assessed
+coptisine	1	True	True	1	1	1	True	True	not_assessed	not_assessed	not_assessed
+crocetin	1	True	True	1	1	1	True	False	not_assessed	not_assessed	not_assessed
+crocin	1	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+diosgenin	1	True	True	11	11	11	True	True	not_assessed	not_assessed	not_assessed
+ephedrine	1	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+ferulic acid	7	True	True	18	18	18	True	True	not_assessed	not_assessed	not_assessed
+formononetin	12	True	True	11	11	11	True	True	not_assessed	not_assessed	not_assessed
+genipin	1	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+geniposide	1	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+geniposidic acid	1	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+ginsenoside Rb1	6	True	True	1	1	1	True	True	not_assessed	not_assessed	not_assessed
+ginsenoside Re	6	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+ginsenoside Rg1	6	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+glycyrrhetinic acid	11	True	True	8	8	8	True	True	not_assessed	not_assessed	not_assessed
+glycyrrhizin	11	True	True	5	5	5	True	True	not_assessed	not_assessed	not_assessed
+hesperidin	3	True	True	3	3	3	True	False	not_assessed	not_assessed	not_assessed
+hypaconitine	1	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+isoferulic acid	1	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+isoliquiritigenin	11	True	True	36	36	36	True	True	not_assessed	not_assessed	not_assessed
+jujuboside A	2	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+ligustilide	6	True	True	1	1	1	True	False	not_assessed	not_assessed	not_assessed
+liquiritigenin	11	True	True	2	2	2	True	True	not_assessed	not_assessed	not_assessed
+liquiritin	11	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+loganin	1	True	True	1	1	1	True	False	not_assessed	not_assessed	not_assessed
+menthol	1	True	True	2	2	2	True	True	not_assessed	not_assessed	not_assessed
+menthone	1	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+mesaconitine	1	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+morroniside	1	True	True	1	1	1	True	True	not_assessed	not_assessed	not_assessed
+nobiletin	3	True	True	9	9	9	True	True	not_assessed	not_assessed	not_assessed
+ononin	1	True	True	2	2	2	True	True	not_assessed	not_assessed	not_assessed
+pachymic acid	6	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+paeoniflorin	4	True	True	1	1	1	True	False	not_assessed	not_assessed	not_assessed
+paeonol	1	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+palmatine	1	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+phellodendrine	1	False	False	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+poricoic acid A	6	True	True	1	1	1	True	False	not_assessed	not_assessed	not_assessed
+pseudoephedrine	1	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+saikosaponin a	3	True	True	8	8	8	True	True	not_assessed	not_assessed	not_assessed
+saikosaponin d	3	True	True	5	5	5	True	True	not_assessed	not_assessed	not_assessed
+senkyunolide A	6	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed
+tangeretin	3	True	True	6	6	6	True	True	not_assessed	not_assessed	not_assessed
+wogonin	2	True	True	18	18	18	True	True	not_assessed	not_assessed	not_assessed
+zingerone	5	True	True	0	0	0	False	False	not_assessed	not_assessed	not_assessed

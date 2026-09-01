@@ -1,0 +1,4716 @@
+{
+  "protocol_id": "papera_temporal_v2",
+  "built_at": "2026-08-29",
+  "cutoff_document_year_lte": 2022,
+  "temporal_qualification": "current ChEMBL query constrained by document year; not a historical database release snapshot",
+  "filters": {
+    "target_organism": "Homo sapiens",
+    "pchembl_value_isnull": false
+  },
+  "formula_compounds": {
+    "四君子汤": {
+      "人参": [
+        "ginsenoside Rg1",
+        "ginsenoside Rb1",
+        "ginsenoside Re"
+      ],
+      "白术": [
+        "atractylenolide I",
+        "atractylenolide III"
+      ],
+      "茯苓": [
+        "pachymic acid",
+        "poricoic acid A"
+      ],
+      "甘草": [
+        "glycyrrhizin",
+        "glycyrrhetinic acid",
+        "liquiritigenin",
+        "isoliquiritigenin",
+        "liquiritin",
+        "formononetin"
+      ]
+    },
+    "六君子汤": {
+      "人参": [
+        "ginsenoside Rg1",
+        "ginsenoside Rb1",
+        "ginsenoside Re"
+      ],
+      "白术": [
+        "atractylenolide I",
+        "atractylenolide III"
+      ],
+      "茯苓": [
+        "pachymic acid",
+        "poricoic acid A"
+      ],
+      "甘草": [
+        "glycyrrhizin",
+        "glycyrrhetinic acid",
+        "liquiritigenin",
+        "isoliquiritigenin",
+        "liquiritin",
+        "formononetin"
+      ],
+      "陈皮": [
+        "hesperidin",
+        "nobiletin",
+        "tangeretin"
+      ]
+    },
+    "四物汤": {
+      "当归": [
+        "ligustilide",
+        "senkyunolide A",
+        "ferulic acid",
+        "coniferyl ferulate"
+      ],
+      "川芎": [
+        "ligustilide",
+        "ferulic acid",
+        "senkyunolide A"
+      ],
+      "白芍": [
+        "paeoniflorin",
+        "albiflorin"
+      ],
+      "熟地黄": [
+        "catalpol",
+        "acteoside"
+      ]
+    },
+    "八珍汤": {
+      "人参": [
+        "ginsenoside Rg1",
+        "ginsenoside Rb1",
+        "ginsenoside Re"
+      ],
+      "白术": [
+        "atractylenolide I",
+        "atractylenolide III"
+      ],
+      "茯苓": [
+        "pachymic acid",
+        "poricoic acid A"
+      ],
+      "甘草": [
+        "glycyrrhizin",
+        "glycyrrhetinic acid",
+        "liquiritigenin",
+        "isoliquiritigenin",
+        "liquiritin",
+        "formononetin"
+      ],
+      "当归": [
+        "ligustilide",
+        "senkyunolide A",
+        "ferulic acid",
+        "coniferyl ferulate"
+      ],
+      "川芎": [
+        "ligustilide",
+        "ferulic acid",
+        "senkyunolide A"
+      ],
+      "白芍": [
+        "paeoniflorin",
+        "albiflorin"
+      ],
+      "熟地黄": [
+        "catalpol",
+        "acteoside"
+      ]
+    },
+    "六味地黄丸": {
+      "熟地黄": [
+        "catalpol",
+        "acteoside"
+      ],
+      "山茱萸": [
+        "loganin",
+        "morroniside"
+      ],
+      "山药": [
+        "diosgenin",
+        "allantoin"
+      ],
+      "泽泻": [
+        "alisol A",
+        "alisol B"
+      ],
+      "牡丹皮": [
+        "paeonol"
+      ],
+      "茯苓": [
+        "pachymic acid",
+        "poricoic acid A"
+      ]
+    },
+    "逍遥散": {
+      "柴胡": [
+        "saikosaponin a",
+        "saikosaponin d"
+      ],
+      "当归": [
+        "ligustilide",
+        "senkyunolide A",
+        "ferulic acid",
+        "coniferyl ferulate"
+      ],
+      "白芍": [
+        "paeoniflorin",
+        "albiflorin"
+      ],
+      "白术": [
+        "atractylenolide I",
+        "atractylenolide III"
+      ],
+      "茯苓": [
+        "pachymic acid",
+        "poricoic acid A"
+      ],
+      "甘草": [
+        "glycyrrhizin",
+        "glycyrrhetinic acid",
+        "liquiritigenin",
+        "isoliquiritigenin",
+        "liquiritin",
+        "formononetin"
+      ],
+      "薄荷": [
+        "menthol",
+        "menthone"
+      ],
+      "生姜": [
+        "6-gingerol",
+        "zingerone"
+      ]
+    },
+    "补中益气汤": {
+      "黄芪": [
+        "astragaloside IV",
+        "calycosin",
+        "formononetin",
+        "ononin"
+      ],
+      "人参": [
+        "ginsenoside Rg1",
+        "ginsenoside Rb1",
+        "ginsenoside Re"
+      ],
+      "白术": [
+        "atractylenolide I",
+        "atractylenolide III"
+      ],
+      "当归": [
+        "ligustilide",
+        "senkyunolide A",
+        "ferulic acid",
+        "coniferyl ferulate"
+      ],
+      "陈皮": [
+        "hesperidin",
+        "nobiletin",
+        "tangeretin"
+      ],
+      "升麻": [
+        "cimicifugoside",
+        "isoferulic acid",
+        "ferulic acid"
+      ],
+      "柴胡": [
+        "saikosaponin a",
+        "saikosaponin d"
+      ],
+      "甘草": [
+        "glycyrrhizin",
+        "glycyrrhetinic acid",
+        "liquiritigenin",
+        "isoliquiritigenin",
+        "liquiritin",
+        "formononetin"
+      ]
+    },
+    "桂枝汤": {
+      "桂枝": [
+        "cinnamaldehyde",
+        "cinnamic acid"
+      ],
+      "白芍": [
+        "paeoniflorin",
+        "albiflorin"
+      ],
+      "甘草": [
+        "glycyrrhizin",
+        "glycyrrhetinic acid",
+        "liquiritigenin",
+        "isoliquiritigenin",
+        "liquiritin",
+        "formononetin"
+      ],
+      "生姜": [
+        "6-gingerol",
+        "zingerone"
+      ],
+      "大枣": [
+        "jujuboside A",
+        "betulinic acid"
+      ]
+    },
+    "麻黄汤": {
+      "麻黄": [
+        "ephedrine",
+        "pseudoephedrine"
+      ],
+      "桂枝": [
+        "cinnamaldehyde",
+        "cinnamic acid"
+      ],
+      "苦杏仁": [
+        "amygdalin"
+      ],
+      "甘草": [
+        "glycyrrhizin",
+        "glycyrrhetinic acid",
+        "liquiritigenin",
+        "isoliquiritigenin",
+        "liquiritin",
+        "formononetin"
+      ]
+    },
+    "小柴胡汤": {
+      "柴胡": [
+        "saikosaponin a",
+        "saikosaponin d"
+      ],
+      "黄芩": [
+        "baicalin",
+        "baicalein",
+        "wogonin"
+      ],
+      "人参": [
+        "ginsenoside Rg1",
+        "ginsenoside Rb1",
+        "ginsenoside Re"
+      ],
+      "甘草": [
+        "glycyrrhizin",
+        "glycyrrhetinic acid",
+        "liquiritigenin",
+        "isoliquiritigenin",
+        "liquiritin",
+        "formononetin"
+      ],
+      "生姜": [
+        "6-gingerol",
+        "zingerone"
+      ],
+      "大枣": [
+        "jujuboside A",
+        "betulinic acid"
+      ]
+    },
+    "理中丸": {
+      "人参": [
+        "ginsenoside Rg1",
+        "ginsenoside Rb1",
+        "ginsenoside Re"
+      ],
+      "干姜": [
+        "6-gingerol",
+        "6-shogaol",
+        "zingerone"
+      ],
+      "白术": [
+        "atractylenolide I",
+        "atractylenolide III"
+      ],
+      "甘草": [
+        "glycyrrhizin",
+        "glycyrrhetinic acid",
+        "liquiritigenin",
+        "isoliquiritigenin",
+        "liquiritin",
+        "formononetin"
+      ]
+    },
+    "四逆汤": {
+      "附子": [
+        "aconitine",
+        "hypaconitine",
+        "mesaconitine",
+        "benzoylaconine"
+      ],
+      "干姜": [
+        "6-gingerol",
+        "6-shogaol",
+        "zingerone"
+      ],
+      "甘草": [
+        "glycyrrhizin",
+        "glycyrrhetinic acid",
+        "liquiritigenin",
+        "isoliquiritigenin",
+        "liquiritin",
+        "formononetin"
+      ]
+    },
+    "二陈汤": {
+      "陈皮": [
+        "hesperidin",
+        "nobiletin",
+        "tangeretin"
+      ],
+      "茯苓": [
+        "pachymic acid",
+        "poricoic acid A"
+      ],
+      "甘草": [
+        "glycyrrhizin",
+        "glycyrrhetinic acid",
+        "liquiritigenin",
+        "isoliquiritigenin",
+        "liquiritin",
+        "formononetin"
+      ]
+    },
+    "黄连解毒汤": {
+      "黄连": [
+        "berberine",
+        "coptisine",
+        "palmatine"
+      ],
+      "黄芩": [
+        "baicalin",
+        "baicalein",
+        "wogonin"
+      ],
+      "黄柏": [
+        "berberine",
+        "phellodendrine"
+      ],
+      "栀子": [
+        "geniposide",
+        "genipin",
+        "geniposidic acid",
+        "crocin",
+        "crocetin",
+        "chlorogenic acid"
+      ]
+    }
+  },
+  "formula_resolution_warnings": {
+    "四君子汤": [],
+    "六君子汤": [
+      "药材「半夏」未收录于药材库，已跳过（未猜测化合物，请人工补充）"
+    ],
+    "四物汤": [],
+    "八珍汤": [],
+    "六味地黄丸": [],
+    "逍遥散": [],
+    "补中益气汤": [],
+    "桂枝汤": [],
+    "麻黄汤": [],
+    "小柴胡汤": [
+      "药材「半夏」未收录于药材库，已跳过（未猜测化合物，请人工补充）"
+    ],
+    "理中丸": [],
+    "四逆汤": [],
+    "二陈汤": [
+      "药材「半夏」未收录于药材库，已跳过（未猜测化合物，请人工补充）"
+    ],
+    "黄连解毒汤": []
+  },
+  "compounds": {
+    "6-gingerol": {
+      "chembl_id": "CHEMBL402978",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {},
+      "weak": {
+        "CHEMBL3622": {
+          "target_chembl_id": "CHEMBL3622",
+          "target_pref_name": "Cytochrome P450 2C19",
+          "best_pchembl": 4.96,
+          "standard_type": "IC50",
+          "standard_value": "10900.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4007467",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4010621",
+          "assay_type": "A"
+        },
+        "CHEMBL3397": {
+          "target_chembl_id": "CHEMBL3397",
+          "target_pref_name": "Cytochrome P450 2C9",
+          "best_pchembl": 4.92,
+          "standard_type": "IC50",
+          "standard_value": "12100.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4007467",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4010627",
+          "assay_type": "A"
+        },
+        "CHEMBL3356": {
+          "target_chembl_id": "CHEMBL3356",
+          "target_pref_name": "Cytochrome P450 1A2",
+          "best_pchembl": 4.72,
+          "standard_type": "IC50",
+          "standard_value": "19000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4007467",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4010617",
+          "assay_type": "A"
+        },
+        "CHEMBL340": {
+          "target_chembl_id": "CHEMBL340",
+          "target_pref_name": "Cytochrome P450 3A4",
+          "best_pchembl": 4.66,
+          "standard_type": "IC50",
+          "standard_value": "21800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4007467",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4010631",
+          "assay_type": "A"
+        },
+        "CHEMBL3721": {
+          "target_chembl_id": "CHEMBL3721",
+          "target_pref_name": "Cytochrome P450 2C8",
+          "best_pchembl": 4.66,
+          "standard_type": "IC50",
+          "standard_value": "22100.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4007467",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4010619",
+          "assay_type": "A"
+        },
+        "CHEMBL4729": {
+          "target_chembl_id": "CHEMBL4729",
+          "target_pref_name": "Cytochrome P450 2B6",
+          "best_pchembl": 4.39,
+          "standard_type": "IC50",
+          "standard_value": "40800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4007467",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4010618",
+          "assay_type": "A"
+        }
+      }
+    },
+    "6-shogaol": {
+      "chembl_id": "CHEMBL25948",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL4794": {
+          "target_chembl_id": "CHEMBL4794",
+          "target_pref_name": "Transient receptor potential cation channel subfamily V member 1",
+          "best_pchembl": 6.54,
+          "standard_type": "IC50",
+          "standard_value": "290.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1949507",
+          "document_year": 2012,
+          "assay_chembl_id": "CHEMBL1954854",
+          "assay_type": "F"
+        },
+        "CHEMBL3356": {
+          "target_chembl_id": "CHEMBL3356",
+          "target_pref_name": "Cytochrome P450 1A2",
+          "best_pchembl": 5.6,
+          "standard_type": "IC50",
+          "standard_value": "2500.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4007467",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4010617",
+          "assay_type": "A"
+        },
+        "CHEMBL3721": {
+          "target_chembl_id": "CHEMBL3721",
+          "target_pref_name": "Cytochrome P450 2C8",
+          "best_pchembl": 5.54,
+          "standard_type": "IC50",
+          "standard_value": "2900.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4007467",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4010619",
+          "assay_type": "A"
+        },
+        "CHEMBL3397": {
+          "target_chembl_id": "CHEMBL3397",
+          "target_pref_name": "Cytochrome P450 2C9",
+          "best_pchembl": 5.48,
+          "standard_type": "IC50",
+          "standard_value": "3300.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4007467",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4010620",
+          "assay_type": "A"
+        },
+        "CHEMBL340": {
+          "target_chembl_id": "CHEMBL340",
+          "target_pref_name": "Cytochrome P450 3A4",
+          "best_pchembl": 5.4,
+          "standard_type": "IC50",
+          "standard_value": "4000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4007467",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4010630",
+          "assay_type": "A"
+        },
+        "CHEMBL4729": {
+          "target_chembl_id": "CHEMBL4729",
+          "target_pref_name": "Cytochrome P450 2B6",
+          "best_pchembl": 5.24,
+          "standard_type": "IC50",
+          "standard_value": "5800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4007467",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4010618",
+          "assay_type": "A"
+        },
+        "CHEMBL215": {
+          "target_chembl_id": "CHEMBL215",
+          "target_pref_name": "Polyunsaturated fatty acid 5-lipoxygenase",
+          "best_pchembl": 5.13,
+          "standard_type": "IC50",
+          "standard_value": "7400.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1152306",
+          "document_year": 2008,
+          "assay_chembl_id": "CHEMBL940424",
+          "assay_type": "B"
+        }
+      },
+      "weak": {
+        "CHEMBL4618": {
+          "target_chembl_id": "CHEMBL4618",
+          "target_pref_name": "Leukotriene A-4 hydrolase",
+          "best_pchembl": 4.9,
+          "standard_type": "IC50",
+          "standard_value": "12540.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3875224",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL3877052",
+          "assay_type": "B"
+        },
+        "CHEMBL214": {
+          "target_chembl_id": "CHEMBL214",
+          "target_pref_name": "5-hydroxytryptamine receptor 1A",
+          "best_pchembl": 4.74,
+          "standard_type": "Ki",
+          "standard_value": "18020.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1157931",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1108193",
+          "assay_type": "B"
+        },
+        "CHEMBL3622": {
+          "target_chembl_id": "CHEMBL3622",
+          "target_pref_name": "Cytochrome P450 2C19",
+          "best_pchembl": 4.73,
+          "standard_type": "IC50",
+          "standard_value": "18800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4007467",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4010635",
+          "assay_type": "A"
+        },
+        "CHEMBL5281": {
+          "target_chembl_id": "CHEMBL5281",
+          "target_pref_name": "Cytochrome P450 2E1",
+          "best_pchembl": 4.12,
+          "standard_type": "IC50",
+          "standard_value": "76100.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4007467",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4010625",
+          "assay_type": "A"
+        },
+        "CHEMBL5282": {
+          "target_chembl_id": "CHEMBL5282",
+          "target_pref_name": "Cytochrome P450 2A6",
+          "best_pchembl": 4.08,
+          "standard_type": "IC50",
+          "standard_value": "83300.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4007467",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4010623",
+          "assay_type": "A"
+        },
+        "CHEMBL289": {
+          "target_chembl_id": "CHEMBL289",
+          "target_pref_name": "Cytochrome P450 2D6",
+          "best_pchembl": 4.06,
+          "standard_type": "IC50",
+          "standard_value": "87000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4007467",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4010624",
+          "assay_type": "A"
+        },
+        "CHEMBL395": {
+          "target_chembl_id": "CHEMBL395",
+          "target_pref_name": "HepG2",
+          "best_pchembl": 4.06,
+          "standard_type": "IC50",
+          "standard_value": "88000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4402531",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4403446",
+          "assay_type": "F"
+        }
+      }
+    },
+    "aconitine": {
+      "chembl_id": "CHEMBL5314360",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "acteoside": {
+      "chembl_id": "CHEMBL4794733",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "albiflorin": {
+      "chembl_id": "CHEMBL1939883",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "alisol A": {
+      "chembl_id": "CHEMBL467814",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {},
+      "weak": {
+        "CHEMBL2047": {
+          "target_chembl_id": "CHEMBL2047",
+          "target_pref_name": "Bile acid receptor",
+          "best_pchembl": 4.99,
+          "standard_type": "EC50",
+          "standard_value": "10160.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4406841",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4408862",
+          "assay_type": "B"
+        },
+        "CHEMBL3180": {
+          "target_chembl_id": "CHEMBL3180",
+          "target_pref_name": "Cocaine esterase",
+          "best_pchembl": 4.0,
+          "standard_type": "IC50",
+          "standard_value": "100000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3632528",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3637216",
+          "assay_type": "B"
+        }
+      }
+    },
+    "alisol B": {
+      "chembl_id": "CHEMBL2059712",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL2047": {
+          "target_chembl_id": "CHEMBL2047",
+          "target_pref_name": "Bile acid receptor",
+          "best_pchembl": 5.06,
+          "standard_type": "EC50",
+          "standard_value": "8800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4406841",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4408862",
+          "assay_type": "B"
+        }
+      },
+      "weak": {}
+    },
+    "allantoin": {
+      "chembl_id": "CHEMBL593429",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "amygdalin": {
+      "chembl_id": "CHEMBL461727",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "astragaloside IV": {
+      "chembl_id": "CHEMBL3121562",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "atractylenolide I": {
+      "chembl_id": "CHEMBL449520",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "atractylenolide III": {
+      "chembl_id": "CHEMBL486961",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {},
+      "weak": {
+        "CHEMBL2782": {
+          "target_chembl_id": "CHEMBL2782",
+          "target_pref_name": "Sterol O-acyltransferase 1",
+          "best_pchembl": 4.26,
+          "standard_type": "IC50",
+          "standard_value": "55100.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4627275",
+          "document_year": 2020,
+          "assay_chembl_id": "CHEMBL4627928",
+          "assay_type": "B"
+        }
+      }
+    },
+    "baicalein": {
+      "chembl_id": "CHEMBL8260",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL4878": {
+          "target_chembl_id": "CHEMBL4878",
+          "target_pref_name": "Cytochrome P450 1B1",
+          "best_pchembl": 6.58,
+          "standard_type": "Ki",
+          "standard_value": "260.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1777768",
+          "document_year": 2011,
+          "assay_chembl_id": "CHEMBL1780346",
+          "assay_type": "A"
+        },
+        "CHEMBL2903": {
+          "target_chembl_id": "CHEMBL2903",
+          "target_pref_name": "Polyunsaturated fatty acid lipoxygenase ALOX15",
+          "best_pchembl": 6.22,
+          "standard_type": "Ki",
+          "standard_value": "600.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1811753",
+          "document_year": 2011,
+          "assay_chembl_id": "CHEMBL1817021",
+          "assay_type": "B"
+        },
+        "CHEMBL3687": {
+          "target_chembl_id": "CHEMBL3687",
+          "target_pref_name": "Polyunsaturated fatty acid lipoxygenase ALOX12",
+          "best_pchembl": 6.07,
+          "standard_type": "IC50",
+          "standard_value": "860.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1140486",
+          "document_year": 2007,
+          "assay_chembl_id": "CHEMBL924094",
+          "assay_type": "B"
+        },
+        "CHEMBL1865": {
+          "target_chembl_id": "CHEMBL1865",
+          "target_pref_name": "Protein deacetylase HDAC6",
+          "best_pchembl": 5.92,
+          "standard_type": "IC50",
+          "standard_value": "1204.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4808148",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL4808152",
+          "assay_type": "B"
+        },
+        "CHEMBL2231": {
+          "target_chembl_id": "CHEMBL2231",
+          "target_pref_name": "Cytochrome P450 1A1",
+          "best_pchembl": 5.91,
+          "standard_type": "Ki",
+          "standard_value": "1220.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1777768",
+          "document_year": 2011,
+          "assay_chembl_id": "CHEMBL1780345",
+          "assay_type": "A"
+        },
+        "CHEMBL1929": {
+          "target_chembl_id": "CHEMBL1929",
+          "target_pref_name": "Xanthine dehydrogenase/oxidase",
+          "best_pchembl": 5.55,
+          "standard_type": "IC50",
+          "standard_value": "2790.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1158850",
+          "document_year": 1998,
+          "assay_chembl_id": "CHEMBL1023248",
+          "assay_type": "B"
+        },
+        "CHEMBL1293226": {
+          "target_chembl_id": "CHEMBL1293226",
+          "target_pref_name": "Lysine-specific demethylase 4E",
+          "best_pchembl": 5.52,
+          "standard_type": "IC50",
+          "standard_value": "3000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3390834",
+          "document_year": 2012,
+          "assay_chembl_id": "CHEMBL3390924",
+          "assay_type": "B"
+        },
+        "CHEMBL2073": {
+          "target_chembl_id": "CHEMBL2073",
+          "target_pref_name": "Tyrosine-protein kinase Yes",
+          "best_pchembl": 5.48,
+          "standard_type": "IC50",
+          "standard_value": "3300.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4609975",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4610178",
+          "assay_type": "B"
+        },
+        "CHEMBL2095204": {
+          "target_chembl_id": "CHEMBL2095204",
+          "target_pref_name": "Trypsin",
+          "best_pchembl": 5.43,
+          "standard_type": "IC50",
+          "standard_value": "3700.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1146428",
+          "document_year": 1997,
+          "assay_chembl_id": "CHEMBL1006751",
+          "assay_type": "B"
+        },
+        "CHEMBL1287617": {
+          "target_chembl_id": "CHEMBL1287617",
+          "target_pref_name": "UDP-glucuronosyltransferase 1A1",
+          "best_pchembl": 5.36,
+          "standard_type": "IC50",
+          "standard_value": "4400.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3526014",
+          "document_year": 2011,
+          "assay_chembl_id": "CHEMBL3531466",
+          "assay_type": "A"
+        },
+        "CHEMBL2093872": {
+          "target_chembl_id": "CHEMBL2093872",
+          "target_pref_name": "GABA-A receptor; anion channel",
+          "best_pchembl": 5.25,
+          "standard_type": "Ki",
+          "standard_value": "5623.41",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1134495",
+          "document_year": 2001,
+          "assay_chembl_id": "CHEMBL877825",
+          "assay_type": "B"
+        },
+        "CHEMBL1907602": {
+          "target_chembl_id": "CHEMBL1907602",
+          "target_pref_name": "Cyclin-dependent kinase 1/cyclin B1",
+          "best_pchembl": 5.18,
+          "standard_type": "IC50",
+          "standard_value": "6530.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1155902",
+          "document_year": 2008,
+          "assay_chembl_id": "CHEMBL975428",
+          "assay_type": "B"
+        },
+        "CHEMBL6152": {
+          "target_chembl_id": "CHEMBL6152",
+          "target_pref_name": "Alpha-synuclein",
+          "best_pchembl": 5.09,
+          "standard_type": "IC50",
+          "standard_value": "8200.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4699438",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4700551",
+          "assay_type": "B"
+        },
+        "CHEMBL6144": {
+          "target_chembl_id": "CHEMBL6144",
+          "target_pref_name": "G protein-coupled receptor kinase 6",
+          "best_pchembl": 5.06,
+          "standard_type": "IC50",
+          "standard_value": "8700.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5726807",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL5733399",
+          "assay_type": "B"
+        },
+        "CHEMBL3024": {
+          "target_chembl_id": "CHEMBL3024",
+          "target_pref_name": "Serine/threonine-protein kinase PLK1",
+          "best_pchembl": 5.05,
+          "standard_type": "IC50",
+          "standard_value": "9000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5126602",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5129754",
+          "assay_type": "B"
+        },
+        "CHEMBL340": {
+          "target_chembl_id": "CHEMBL340",
+          "target_pref_name": "Cytochrome P450 3A4",
+          "best_pchembl": 5.04,
+          "standard_type": "IC50",
+          "standard_value": "9200.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4038271",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4038522",
+          "assay_type": "A"
+        },
+        "CHEMBL3832943": {
+          "target_chembl_id": "CHEMBL3832943",
+          "target_pref_name": "Casein kinase 2",
+          "best_pchembl": 5.0,
+          "standard_type": "IC50",
+          "standard_value": "10000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4368927",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4370675",
+          "assay_type": "B"
+        }
+      },
+      "weak": {
+        "CHEMBL1293267": {
+          "target_chembl_id": "CHEMBL1293267",
+          "target_pref_name": "G-protein coupled receptor 35",
+          "best_pchembl": 4.99,
+          "standard_type": "EC50",
+          "standard_value": "10300.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2034837",
+          "document_year": 2012,
+          "assay_chembl_id": "CHEMBL2039370",
+          "assay_type": "F"
+        },
+        "CHEMBL2396508": {
+          "target_chembl_id": "CHEMBL2396508",
+          "target_pref_name": "Receptor-type tyrosine-protein phosphatase S",
+          "best_pchembl": 4.99,
+          "standard_type": "IC50",
+          "standard_value": "10300.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3739351",
+          "document_year": 2016,
+          "assay_chembl_id": "CHEMBL3744704",
+          "assay_type": "B"
+        },
+        "CHEMBL2424": {
+          "target_chembl_id": "CHEMBL2424",
+          "target_pref_name": "Lactoylglutathione lyase",
+          "best_pchembl": 4.96,
+          "standard_type": "IC50",
+          "standard_value": "11000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1157146",
+          "document_year": 2008,
+          "assay_chembl_id": "CHEMBL967534",
+          "assay_type": "B"
+        },
+        "CHEMBL612544": {
+          "target_chembl_id": "CHEMBL612544",
+          "target_pref_name": "SW480",
+          "best_pchembl": 4.94,
+          "standard_type": "IC50",
+          "standard_value": "11550.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3751778",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3757804",
+          "assay_type": "F"
+        },
+        "CHEMBL6136": {
+          "target_chembl_id": "CHEMBL6136",
+          "target_pref_name": "Lysine-specific histone demethylase 1A",
+          "best_pchembl": 4.9,
+          "standard_type": "IC50",
+          "standard_value": "12500.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4308904",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4311550",
+          "assay_type": "B"
+        },
+        "CHEMBL392": {
+          "target_chembl_id": "CHEMBL392",
+          "target_pref_name": "A549",
+          "best_pchembl": 4.89,
+          "standard_type": "IC50",
+          "standard_value": "13000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3120064",
+          "document_year": 2014,
+          "assay_chembl_id": "CHEMBL3122758",
+          "assay_type": "F"
+        },
+        "CHEMBL5587": {
+          "target_chembl_id": "CHEMBL5587",
+          "target_pref_name": "Cyclic AMP-responsive element-binding protein 1",
+          "best_pchembl": 4.87,
+          "standard_type": "AC50",
+          "standard_value": "13500.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1144159",
+          "document_year": 2008,
+          "assay_chembl_id": "CHEMBL988113",
+          "assay_type": "B"
+        },
+        "CHEMBL208": {
+          "target_chembl_id": "CHEMBL208",
+          "target_pref_name": "Progesterone receptor",
+          "best_pchembl": 4.82,
+          "standard_type": "IC50",
+          "standard_value": "15000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5036358",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5038160",
+          "assay_type": "B"
+        },
+        "CHEMBL4296456": {
+          "target_chembl_id": "CHEMBL4296456",
+          "target_pref_name": "KOPN-8",
+          "best_pchembl": 4.8,
+          "standard_type": "EC50",
+          "standard_value": "16000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4196009",
+          "document_year": 2018,
+          "assay_chembl_id": "CHEMBL4196480",
+          "assay_type": "F"
+        },
+        "CHEMBL384": {
+          "target_chembl_id": "CHEMBL384",
+          "target_pref_name": "HT-29",
+          "best_pchembl": 4.74,
+          "standard_type": "IC50",
+          "standard_value": "18360.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3751778",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3757806",
+          "assay_type": "F"
+        },
+        "CHEMBL2034": {
+          "target_chembl_id": "CHEMBL2034",
+          "target_pref_name": "Glucocorticoid receptor",
+          "best_pchembl": 4.72,
+          "standard_type": "IC50",
+          "standard_value": "19000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5036358",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5038161",
+          "assay_type": "B"
+        },
+        "CHEMBL614393": {
+          "target_chembl_id": "CHEMBL614393",
+          "target_pref_name": "ZR-75-1",
+          "best_pchembl": 4.6,
+          "standard_type": "EC50",
+          "standard_value": "25000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3596101",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3599016",
+          "assay_type": "F"
+        },
+        "CHEMBL395": {
+          "target_chembl_id": "CHEMBL395",
+          "target_pref_name": "HepG2",
+          "best_pchembl": 4.55,
+          "standard_type": "IC50",
+          "standard_value": "28090.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3751778",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3756638",
+          "assay_type": "F"
+        },
+        "CHEMBL3975": {
+          "target_chembl_id": "CHEMBL3975",
+          "target_pref_name": "Fructose-1,6-bisphosphatase 1",
+          "best_pchembl": 4.54,
+          "standard_type": "IC50",
+          "standard_value": "29000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4627388",
+          "document_year": 2020,
+          "assay_chembl_id": "CHEMBL4629676",
+          "assay_type": "B"
+        },
+        "CHEMBL2748": {
+          "target_chembl_id": "CHEMBL2748",
+          "target_pref_name": "Sucrase-isomaltase, intestinal",
+          "best_pchembl": 4.46,
+          "standard_type": "IC50",
+          "standard_value": "35000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1151315",
+          "document_year": 1998,
+          "assay_chembl_id": "CHEMBL997399",
+          "assay_type": "B"
+        },
+        "CHEMBL3202": {
+          "target_chembl_id": "CHEMBL3202",
+          "target_pref_name": "Prolyl endopeptidase",
+          "best_pchembl": 4.44,
+          "standard_type": "IC50",
+          "standard_value": "36000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1155939",
+          "document_year": 2008,
+          "assay_chembl_id": "CHEMBL974553",
+          "assay_type": "B"
+        },
+        "CHEMBL4897": {
+          "target_chembl_id": "CHEMBL4897",
+          "target_pref_name": "Serine/threonine-protein kinase PLK3",
+          "best_pchembl": 4.4,
+          "standard_type": "IC50",
+          "standard_value": "40000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5126602",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5129756",
+          "assay_type": "B"
+        },
+        "CHEMBL614590": {
+          "target_chembl_id": "CHEMBL614590",
+          "target_pref_name": "KB 3-1",
+          "best_pchembl": 4.39,
+          "standard_type": "EC50",
+          "standard_value": "41000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1138801",
+          "document_year": 2004,
+          "assay_chembl_id": "CHEMBL833849",
+          "assay_type": "F"
+        },
+        "CHEMBL4302": {
+          "target_chembl_id": "CHEMBL4302",
+          "target_pref_name": "ATP-dependent translocase ABCB1",
+          "best_pchembl": 4.39,
+          "standard_type": "IC50",
+          "standard_value": "41000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1138801",
+          "document_year": 2004,
+          "assay_chembl_id": "CHEMBL2075371",
+          "assay_type": "F"
+        },
+        "CHEMBL398": {
+          "target_chembl_id": "CHEMBL398",
+          "target_pref_name": "KB",
+          "best_pchembl": 4.21,
+          "standard_type": "IC50",
+          "standard_value": "62300.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1138801",
+          "document_year": 2004,
+          "assay_chembl_id": "CHEMBL833215",
+          "assay_type": "F"
+        }
+      }
+    },
+    "baicalin": {
+      "chembl_id": "CHEMBL485818",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL6136": {
+          "target_chembl_id": "CHEMBL6136",
+          "target_pref_name": "Lysine-specific histone demethylase 1A",
+          "best_pchembl": 5.52,
+          "standard_type": "IC50",
+          "standard_value": "3010.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5226296",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL5227150",
+          "assay_type": "B"
+        },
+        "CHEMBL3024": {
+          "target_chembl_id": "CHEMBL3024",
+          "target_pref_name": "Serine/threonine-protein kinase PLK1",
+          "best_pchembl": 5.44,
+          "standard_type": "IC50",
+          "standard_value": "3610.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5126602",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5129757",
+          "assay_type": "B"
+        },
+        "CHEMBL3706566": {
+          "target_chembl_id": "CHEMBL3706566",
+          "target_pref_name": "MGC-803",
+          "best_pchembl": 5.06,
+          "standard_type": "IC50",
+          "standard_value": "8780.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5226296",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL5227151",
+          "assay_type": "F"
+        }
+      },
+      "weak": {
+        "CHEMBL3202": {
+          "target_chembl_id": "CHEMBL3202",
+          "target_pref_name": "Prolyl endopeptidase",
+          "best_pchembl": 4.92,
+          "standard_type": "IC50",
+          "standard_value": "12000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1155939",
+          "document_year": 2008,
+          "assay_chembl_id": "CHEMBL974553",
+          "assay_type": "B"
+        },
+        "CHEMBL1907602": {
+          "target_chembl_id": "CHEMBL1907602",
+          "target_pref_name": "Cyclin-dependent kinase 1/cyclin B1",
+          "best_pchembl": 4.84,
+          "standard_type": "IC50",
+          "standard_value": "14360.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1155902",
+          "document_year": 2008,
+          "assay_chembl_id": "CHEMBL975428",
+          "assay_type": "B"
+        },
+        "CHEMBL3356": {
+          "target_chembl_id": "CHEMBL3356",
+          "target_pref_name": "Cytochrome P450 1A2",
+          "best_pchembl": 4.59,
+          "standard_type": "Ki",
+          "standard_value": "25400.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4038271",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4038519",
+          "assay_type": "A"
+        },
+        "CHEMBL614806": {
+          "target_chembl_id": "CHEMBL614806",
+          "target_pref_name": "H9",
+          "best_pchembl": 4.14,
+          "standard_type": "IC50",
+          "standard_value": "72000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1149027",
+          "document_year": 1994,
+          "assay_chembl_id": "CHEMBL1007796",
+          "assay_type": "A"
+        },
+        "CHEMBL2093872": {
+          "target_chembl_id": "CHEMBL2093872",
+          "target_pref_name": "GABA-A receptor; anion channel",
+          "best_pchembl": 4.11,
+          "standard_type": "Ki",
+          "standard_value": "77624.71",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1134495",
+          "document_year": 2001,
+          "assay_chembl_id": "CHEMBL877825",
+          "assay_type": "B"
+        }
+      }
+    },
+    "benzoylaconine": {
+      "chembl_id": "CHEMBL2041873",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "berberine": {
+      "chembl_id": "CHEMBL295124",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL4878": {
+          "target_chembl_id": "CHEMBL4878",
+          "target_pref_name": "Cytochrome P450 1B1",
+          "best_pchembl": 7.36,
+          "standard_type": "Ki",
+          "standard_value": "44.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4033668",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4035349",
+          "assay_type": "B"
+        },
+        "CHEMBL220": {
+          "target_chembl_id": "CHEMBL220",
+          "target_pref_name": "Acetylcholinesterase",
+          "best_pchembl": 7.0,
+          "standard_type": "IC50",
+          "standard_value": "100.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3585347",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3588424",
+          "assay_type": "B"
+        },
+        "CHEMBL239": {
+          "target_chembl_id": "CHEMBL239",
+          "target_pref_name": "Peroxisome proliferator-activated receptor alpha",
+          "best_pchembl": 6.24,
+          "standard_type": "EC50",
+          "standard_value": "580.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5241076",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL5241794",
+          "assay_type": "B"
+        },
+        "CHEMBL1914": {
+          "target_chembl_id": "CHEMBL1914",
+          "target_pref_name": "Cholinesterase",
+          "best_pchembl": 5.96,
+          "standard_type": "IC50",
+          "standard_value": "1090.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3585347",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3588426",
+          "assay_type": "B"
+        },
+        "CHEMBL612518": {
+          "target_chembl_id": "CHEMBL612518",
+          "target_pref_name": "LNCaP",
+          "best_pchembl": 5.47,
+          "standard_type": "IC50",
+          "standard_value": "3400.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5236610",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5239301",
+          "assay_type": "F"
+        },
+        "CHEMBL4681": {
+          "target_chembl_id": "CHEMBL4681",
+          "target_pref_name": "Aldo-keto reductase family 1 member C3",
+          "best_pchembl": 5.39,
+          "standard_type": "IC50",
+          "standard_value": "4080.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4665678",
+          "document_year": 2020,
+          "assay_chembl_id": "CHEMBL4668518",
+          "assay_type": "B"
+        },
+        "CHEMBL5847": {
+          "target_chembl_id": "CHEMBL5847",
+          "target_pref_name": "Aldo-keto reductase family 1 member C2",
+          "best_pchembl": 5.17,
+          "standard_type": "IC50",
+          "standard_value": "6710.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4311934",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4312129",
+          "assay_type": "B"
+        },
+        "CHEMBL6136": {
+          "target_chembl_id": "CHEMBL6136",
+          "target_pref_name": "Lysine-specific histone demethylase 1A",
+          "best_pchembl": 5.16,
+          "standard_type": "IC50",
+          "standard_value": "6970.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5096159",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL5096973",
+          "assay_type": "B"
+        },
+        "CHEMBL3832742": {
+          "target_chembl_id": "CHEMBL3832742",
+          "target_pref_name": "Quadruplex DNA",
+          "best_pchembl": 5.0,
+          "standard_type": "Kd",
+          "standard_value": "9900.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5030560",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL5032268",
+          "assay_type": "B"
+        }
+      },
+      "weak": {
+        "CHEMBL4296461": {
+          "target_chembl_id": "CHEMBL4296461",
+          "target_pref_name": "LNCaP C4-2B",
+          "best_pchembl": 4.95,
+          "standard_type": "IC50",
+          "standard_value": "11200.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5236610",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5239303",
+          "assay_type": "F"
+        },
+        "CHEMBL612657": {
+          "target_chembl_id": "CHEMBL612657",
+          "target_pref_name": "CWR22R",
+          "best_pchembl": 4.9,
+          "standard_type": "IC50",
+          "standard_value": "12700.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5236610",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5239302",
+          "assay_type": "F"
+        },
+        "CHEMBL3979": {
+          "target_chembl_id": "CHEMBL3979",
+          "target_pref_name": "Peroxisome proliferator-activated receptor delta",
+          "best_pchembl": 4.85,
+          "standard_type": "EC50",
+          "standard_value": "14000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5241076",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL5241796",
+          "assay_type": "B"
+        },
+        "CHEMBL1075592": {
+          "target_chembl_id": "CHEMBL1075592",
+          "target_pref_name": "SW1990",
+          "best_pchembl": 4.74,
+          "standard_type": "IC50",
+          "standard_value": "18340.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4613209",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4613461",
+          "assay_type": "F"
+        },
+        "CHEMBL613831": {
+          "target_chembl_id": "CHEMBL613831",
+          "target_pref_name": "SMMC-7721",
+          "best_pchembl": 4.74,
+          "standard_type": "IC50",
+          "standard_value": "18340.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4613209",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4613487",
+          "assay_type": "F"
+        },
+        "CHEMBL613979": {
+          "target_chembl_id": "CHEMBL613979",
+          "target_pref_name": "HUVEC",
+          "best_pchembl": 4.74,
+          "standard_type": "IC50",
+          "standard_value": "18340.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4613209",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4613488",
+          "assay_type": "A"
+        },
+        "CHEMBL390": {
+          "target_chembl_id": "CHEMBL390",
+          "target_pref_name": "PC-3",
+          "best_pchembl": 4.67,
+          "standard_type": "IC50",
+          "standard_value": "21500.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5236610",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5239304",
+          "assay_type": "F"
+        },
+        "CHEMBL2916": {
+          "target_chembl_id": "CHEMBL2916",
+          "target_pref_name": "Telomerase reverse transcriptase",
+          "best_pchembl": 4.43,
+          "standard_type": "IC50",
+          "standard_value": "37000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1955734",
+          "document_year": 2012,
+          "assay_chembl_id": "CHEMBL1958529",
+          "assay_type": "B"
+        },
+        "CHEMBL4483246": {
+          "target_chembl_id": "CHEMBL4483246",
+          "target_pref_name": "HeLa 229",
+          "best_pchembl": 4.37,
+          "standard_type": "IC50",
+          "standard_value": "42930.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4342440",
+          "document_year": 2020,
+          "assay_chembl_id": "CHEMBL4344019",
+          "assay_type": "F"
+        },
+        "CHEMBL2157": {
+          "target_chembl_id": "CHEMBL2157",
+          "target_pref_name": "Interleukin-8",
+          "best_pchembl": 4.3,
+          "standard_type": "IC50",
+          "standard_value": "50000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5226297",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL5227242",
+          "assay_type": "B"
+        },
+        "CHEMBL240": {
+          "target_chembl_id": "CHEMBL240",
+          "target_pref_name": "Voltage-gated inwardly rectifying potassium channel KCNH2",
+          "best_pchembl": 4.18,
+          "standard_type": "IC50",
+          "standard_value": "66069.34",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1671772",
+          "document_year": 2011,
+          "assay_chembl_id": "CHEMBL1676103",
+          "assay_type": "B"
+        },
+        "CHEMBL335": {
+          "target_chembl_id": "CHEMBL335",
+          "target_pref_name": "Tyrosine-protein phosphatase non-receptor type 1",
+          "best_pchembl": 4.17,
+          "standard_type": "IC50",
+          "standard_value": "67000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4261523",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4262634",
+          "assay_type": "B"
+        }
+      }
+    },
+    "betulinic acid": {
+      "chembl_id": "CHEMBL269277",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL399": {
+          "target_chembl_id": "CHEMBL399",
+          "target_pref_name": "HeLa",
+          "best_pchembl": 7.58,
+          "standard_type": "IC50",
+          "standard_value": "26.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1152543",
+          "document_year": 2009,
+          "assay_chembl_id": "CHEMBL1044261",
+          "assay_type": "F"
+        },
+        "CHEMBL397": {
+          "target_chembl_id": "CHEMBL397",
+          "target_pref_name": "Jurkat",
+          "best_pchembl": 7.57,
+          "standard_type": "IC50",
+          "standard_value": "26.9",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1152543",
+          "document_year": 2009,
+          "assay_chembl_id": "CHEMBL1044260",
+          "assay_type": "F"
+        },
+        "CHEMBL395": {
+          "target_chembl_id": "CHEMBL395",
+          "target_pref_name": "HepG2",
+          "best_pchembl": 7.44,
+          "standard_type": "IC50",
+          "standard_value": "36.4",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1152543",
+          "document_year": 2009,
+          "assay_chembl_id": "CHEMBL1044259",
+          "assay_type": "F"
+        },
+        "CHEMBL1075387": {
+          "target_chembl_id": "CHEMBL1075387",
+          "target_pref_name": "8505C",
+          "best_pchembl": 6.48,
+          "standard_type": "IC50",
+          "standard_value": "330.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4414578",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4415751",
+          "assay_type": "F"
+        },
+        "CHEMBL392": {
+          "target_chembl_id": "CHEMBL392",
+          "target_pref_name": "A549",
+          "best_pchembl": 6.48,
+          "standard_type": "IC50",
+          "standard_value": "330.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4414578",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4415749",
+          "assay_type": "F"
+        },
+        "CHEMBL614004": {
+          "target_chembl_id": "CHEMBL614004",
+          "target_pref_name": "A2780",
+          "best_pchembl": 6.48,
+          "standard_type": "IC50",
+          "standard_value": "330.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4414578",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4415750",
+          "assay_type": "F"
+        },
+        "CHEMBL387": {
+          "target_chembl_id": "CHEMBL387",
+          "target_pref_name": "MCF7",
+          "best_pchembl": 6.48,
+          "standard_type": "IC50",
+          "standard_value": "330.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4414578",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4415753",
+          "assay_type": "F"
+        },
+        "CHEMBL4483222": {
+          "target_chembl_id": "CHEMBL4483222",
+          "target_pref_name": "518A2",
+          "best_pchembl": 6.48,
+          "standard_type": "IC50",
+          "standard_value": "330.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4414578",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4415752",
+          "assay_type": "F"
+        },
+        "CHEMBL3253": {
+          "target_chembl_id": "CHEMBL3253",
+          "target_pref_name": "Albumin",
+          "best_pchembl": 6.23,
+          "standard_type": "Kd",
+          "standard_value": "593.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3600335",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3603346",
+          "assay_type": "A"
+        },
+        "CHEMBL5409": {
+          "target_chembl_id": "CHEMBL5409",
+          "target_pref_name": "G-protein coupled bile acid receptor 1",
+          "best_pchembl": 5.98,
+          "standard_type": "EC50",
+          "standard_value": "1040.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1156761",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1041788",
+          "assay_type": "F"
+        },
+        "CHEMBL614806": {
+          "target_chembl_id": "CHEMBL614806",
+          "target_pref_name": "H9",
+          "best_pchembl": 5.85,
+          "standard_type": "EC50",
+          "standard_value": "1400.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1131182",
+          "document_year": 1998,
+          "assay_chembl_id": "CHEMBL683469",
+          "assay_type": "F"
+        },
+        "CHEMBL335": {
+          "target_chembl_id": "CHEMBL335",
+          "target_pref_name": "Tyrosine-protein phosphatase non-receptor type 1",
+          "best_pchembl": 5.82,
+          "standard_type": "IC50",
+          "standard_value": "1500.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4811318",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL4813851",
+          "assay_type": "B"
+        },
+        "CHEMBL5983": {
+          "target_chembl_id": "CHEMBL5983",
+          "target_pref_name": "Aldo-keto reductase family 1 member B10",
+          "best_pchembl": 5.7,
+          "standard_type": "IC50",
+          "standard_value": "2000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2163317",
+          "document_year": 2011,
+          "assay_chembl_id": "CHEMBL2168780",
+          "assay_type": "B"
+        },
+        "CHEMBL384": {
+          "target_chembl_id": "CHEMBL384",
+          "target_pref_name": "HT-29",
+          "best_pchembl": 5.46,
+          "standard_type": "IC50",
+          "standard_value": "3500.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4229490",
+          "document_year": 2018,
+          "assay_chembl_id": "CHEMBL4235016",
+          "assay_type": "F"
+        },
+        "CHEMBL612544": {
+          "target_chembl_id": "CHEMBL612544",
+          "target_pref_name": "SW480",
+          "best_pchembl": 5.19,
+          "standard_type": "IC50",
+          "standard_value": "6400.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1156998",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1114329",
+          "assay_type": "F"
+        },
+        "CHEMBL614917": {
+          "target_chembl_id": "CHEMBL614917",
+          "target_pref_name": "SK-MEL-2",
+          "best_pchembl": 5.16,
+          "standard_type": "IC50",
+          "standard_value": "7000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1221374",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1225659",
+          "assay_type": "F"
+        },
+        "CHEMBL5957": {
+          "target_chembl_id": "CHEMBL5957",
+          "target_pref_name": "5'-nucleotidase",
+          "best_pchembl": 5.14,
+          "standard_type": "IC50",
+          "standard_value": "7280.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5143600",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5146032",
+          "assay_type": "B"
+        },
+        "CHEMBL614213": {
+          "target_chembl_id": "CHEMBL614213",
+          "target_pref_name": "OVCAR-3",
+          "best_pchembl": 5.08,
+          "standard_type": "IC50",
+          "standard_value": "8366.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3580571",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3582879",
+          "assay_type": "F"
+        },
+        "CHEMBL612263": {
+          "target_chembl_id": "CHEMBL612263",
+          "target_pref_name": "HCT-15",
+          "best_pchembl": 5.06,
+          "standard_type": "IC50",
+          "standard_value": "8700.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4177551",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4178607",
+          "assay_type": "F"
+        }
+      },
+      "weak": {
+        "CHEMBL612250": {
+          "target_chembl_id": "CHEMBL612250",
+          "target_pref_name": "FaDu",
+          "best_pchembl": 4.99,
+          "standard_type": "IC50",
+          "standard_value": "10190.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1155488",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1120103",
+          "assay_type": "F"
+        },
+        "CHEMBL1075598": {
+          "target_chembl_id": "CHEMBL1075598",
+          "target_pref_name": "SW948",
+          "best_pchembl": 4.98,
+          "standard_type": "IC50",
+          "standard_value": "10500.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1154235",
+          "document_year": 2009,
+          "assay_chembl_id": "CHEMBL1108450",
+          "assay_type": "F"
+        },
+        "CHEMBL394": {
+          "target_chembl_id": "CHEMBL394",
+          "target_pref_name": "HCT-116",
+          "best_pchembl": 4.97,
+          "standard_type": "IC50",
+          "standard_value": "10800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1155488",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1119729",
+          "assay_type": "F"
+        },
+        "CHEMBL1900": {
+          "target_chembl_id": "CHEMBL1900",
+          "target_pref_name": "Aldo-keto reductase family 1 member B1",
+          "best_pchembl": 4.96,
+          "standard_type": "IC50",
+          "standard_value": "11000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2163317",
+          "document_year": 2011,
+          "assay_chembl_id": "CHEMBL2168781",
+          "assay_type": "B"
+        },
+        "CHEMBL612519": {
+          "target_chembl_id": "CHEMBL612519",
+          "target_pref_name": "Daoy",
+          "best_pchembl": 4.96,
+          "standard_type": "IC50",
+          "standard_value": "11000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1221374",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1225661",
+          "assay_type": "F"
+        },
+        "CHEMBL614773": {
+          "target_chembl_id": "CHEMBL614773",
+          "target_pref_name": "SW-1736",
+          "best_pchembl": 4.94,
+          "standard_type": "IC50",
+          "standard_value": "11600.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1159047",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1064343",
+          "assay_type": "F"
+        },
+        "CHEMBL612807": {
+          "target_chembl_id": "CHEMBL612807",
+          "target_pref_name": "WI-38 VA13",
+          "best_pchembl": 4.94,
+          "standard_type": "IC50",
+          "standard_value": "11600.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1142578",
+          "document_year": 2005,
+          "assay_chembl_id": "CHEMBL980084",
+          "assay_type": "F"
+        },
+        "CHEMBL614285": {
+          "target_chembl_id": "CHEMBL614285",
+          "target_pref_name": "DLD-1",
+          "best_pchembl": 4.93,
+          "standard_type": "IC50",
+          "standard_value": "11870.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1155488",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1119727",
+          "assay_type": "F"
+        },
+        "CHEMBL613859": {
+          "target_chembl_id": "CHEMBL613859",
+          "target_pref_name": "A-375",
+          "best_pchembl": 4.92,
+          "standard_type": "EC50",
+          "standard_value": "12000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4130483",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4134961",
+          "assay_type": "F"
+        },
+        "CHEMBL614069": {
+          "target_chembl_id": "CHEMBL614069",
+          "target_pref_name": "A-431",
+          "best_pchembl": 4.9,
+          "standard_type": "IC50",
+          "standard_value": "12600.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1208671",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1211181",
+          "assay_type": "F"
+        },
+        "CHEMBL613510": {
+          "target_chembl_id": "CHEMBL613510",
+          "target_pref_name": "HCT-8",
+          "best_pchembl": 4.88,
+          "standard_type": "IC50",
+          "standard_value": "13100.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1155488",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1119728",
+          "assay_type": "F"
+        },
+        "CHEMBL400": {
+          "target_chembl_id": "CHEMBL400",
+          "target_pref_name": "MDA-MB-231",
+          "best_pchembl": 4.82,
+          "standard_type": "IC50",
+          "standard_value": "15240.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1154235",
+          "document_year": 2009,
+          "assay_chembl_id": "CHEMBL1109225",
+          "assay_type": "F"
+        },
+        "CHEMBL614361": {
+          "target_chembl_id": "CHEMBL614361",
+          "target_pref_name": "T47D",
+          "best_pchembl": 4.81,
+          "standard_type": "IC50",
+          "standard_value": "15560.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3414486",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3419638",
+          "assay_type": "F"
+        },
+        "CHEMBL614735": {
+          "target_chembl_id": "CHEMBL614735",
+          "target_pref_name": "HEp-2",
+          "best_pchembl": 4.8,
+          "standard_type": "IC50",
+          "standard_value": "16000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2380302",
+          "document_year": 2013,
+          "assay_chembl_id": "CHEMBL2383737",
+          "assay_type": "F"
+        },
+        "CHEMBL383": {
+          "target_chembl_id": "CHEMBL383",
+          "target_pref_name": "HL-60",
+          "best_pchembl": 4.77,
+          "standard_type": "IC50",
+          "standard_value": "17000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2380302",
+          "document_year": 2013,
+          "assay_chembl_id": "CHEMBL2383740",
+          "assay_type": "F"
+        },
+        "CHEMBL614925": {
+          "target_chembl_id": "CHEMBL614925",
+          "target_pref_name": "SK-OV-3",
+          "best_pchembl": 4.75,
+          "standard_type": "IC50",
+          "standard_value": "17680.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1155419",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1106910",
+          "assay_type": "F"
+        },
+        "CHEMBL614245": {
+          "target_chembl_id": "CHEMBL614245",
+          "target_pref_name": "THP-1",
+          "best_pchembl": 4.7,
+          "standard_type": "IC50",
+          "standard_value": "20000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2380302",
+          "document_year": 2013,
+          "assay_chembl_id": "CHEMBL2383741",
+          "assay_type": "F"
+        },
+        "CHEMBL390": {
+          "target_chembl_id": "CHEMBL390",
+          "target_pref_name": "PC-3",
+          "best_pchembl": 4.67,
+          "standard_type": "IC50",
+          "standard_value": "21500.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1165980",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1166361",
+          "assay_type": "F"
+        },
+        "CHEMBL614908": {
+          "target_chembl_id": "CHEMBL614908",
+          "target_pref_name": "SF-295",
+          "best_pchembl": 4.66,
+          "standard_type": "IC50",
+          "standard_value": "22000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2380302",
+          "document_year": 2013,
+          "assay_chembl_id": "CHEMBL2383735",
+          "assay_type": "F"
+        },
+        "CHEMBL613508": {
+          "target_chembl_id": "CHEMBL613508",
+          "target_pref_name": "DU-145",
+          "best_pchembl": 4.66,
+          "standard_type": "IC50",
+          "standard_value": "22000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2380302",
+          "document_year": 2013,
+          "assay_chembl_id": "CHEMBL2383739",
+          "assay_type": "F"
+        },
+        "CHEMBL385": {
+          "target_chembl_id": "CHEMBL385",
+          "target_pref_name": "K562",
+          "best_pchembl": 4.66,
+          "standard_type": "IC50",
+          "standard_value": "21960.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4011654",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4013965",
+          "assay_type": "F"
+        },
+        "CHEMBL614725": {
+          "target_chembl_id": "CHEMBL614725",
+          "target_pref_name": "MIA PaCa-2",
+          "best_pchembl": 4.57,
+          "standard_type": "IC50",
+          "standard_value": "26700.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5143600",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5146037",
+          "assay_type": "F"
+        },
+        "CHEMBL382": {
+          "target_chembl_id": "CHEMBL382",
+          "target_pref_name": "CCRF-CEM",
+          "best_pchembl": 4.57,
+          "standard_type": "IC50",
+          "standard_value": "27000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1151244",
+          "document_year": 2004,
+          "assay_chembl_id": "CHEMBL1000847",
+          "assay_type": "F"
+        },
+        "CHEMBL398": {
+          "target_chembl_id": "CHEMBL398",
+          "target_pref_name": "KB",
+          "best_pchembl": 4.56,
+          "standard_type": "IC50",
+          "standard_value": "27500.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3351916",
+          "document_year": 2014,
+          "assay_chembl_id": "CHEMBL3387076",
+          "assay_type": "F"
+        },
+        "CHEMBL614668": {
+          "target_chembl_id": "CHEMBL614668",
+          "target_pref_name": "ECa-109 cell line",
+          "best_pchembl": 4.55,
+          "standard_type": "IC50",
+          "standard_value": "28070.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4011654",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4013967",
+          "assay_type": "F"
+        },
+        "CHEMBL5461": {
+          "target_chembl_id": "CHEMBL5461",
+          "target_pref_name": "Zinc finger protein GLI1",
+          "best_pchembl": 4.5,
+          "standard_type": "IC50",
+          "standard_value": "32000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1142522",
+          "document_year": 2008,
+          "assay_chembl_id": "CHEMBL987100",
+          "assay_type": "B"
+        },
+        "CHEMBL614181": {
+          "target_chembl_id": "CHEMBL614181",
+          "target_pref_name": "MRC5",
+          "best_pchembl": 4.48,
+          "standard_type": "IC50",
+          "standard_value": "32800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4118023",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4119094",
+          "assay_type": "A"
+        },
+        "CHEMBL2392": {
+          "target_chembl_id": "CHEMBL2392",
+          "target_pref_name": "DNA polymerase beta",
+          "best_pchembl": 4.47,
+          "standard_type": "IC50",
+          "standard_value": "33700.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1144753",
+          "document_year": 2008,
+          "assay_chembl_id": "CHEMBL921744",
+          "assay_type": "B"
+        },
+        "CHEMBL4296457": {
+          "target_chembl_id": "CHEMBL4296457",
+          "target_pref_name": "L02",
+          "best_pchembl": 4.46,
+          "standard_type": "IC50",
+          "standard_value": "35070.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4011654",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4013970",
+          "assay_type": "A"
+        },
+        "CHEMBL614914": {
+          "target_chembl_id": "CHEMBL614914",
+          "target_pref_name": "SK-MEL",
+          "best_pchembl": 4.46,
+          "standard_type": "IC50",
+          "standard_value": "35000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1131779",
+          "document_year": 1999,
+          "assay_chembl_id": "CHEMBL802902",
+          "assay_type": "F"
+        },
+        "CHEMBL614139": {
+          "target_chembl_id": "CHEMBL614139",
+          "target_pref_name": "PANC-1",
+          "best_pchembl": 4.36,
+          "standard_type": "IC50",
+          "standard_value": "44000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1142522",
+          "document_year": 2008,
+          "assay_chembl_id": "CHEMBL987101",
+          "assay_type": "F"
+        },
+        "CHEMBL614279": {
+          "target_chembl_id": "CHEMBL614279",
+          "target_pref_name": "Bel-7402",
+          "best_pchembl": 4.36,
+          "standard_type": "IC50",
+          "standard_value": "43390.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1139134",
+          "document_year": 2007,
+          "assay_chembl_id": "CHEMBL903538",
+          "assay_type": "F"
+        },
+        "CHEMBL614317": {
+          "target_chembl_id": "CHEMBL614317",
+          "target_pref_name": "M14",
+          "best_pchembl": 4.3,
+          "standard_type": "IC50",
+          "standard_value": "50000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1833907",
+          "document_year": 2011,
+          "assay_chembl_id": "CHEMBL1840301",
+          "assay_type": "F"
+        },
+        "CHEMBL284": {
+          "target_chembl_id": "CHEMBL284",
+          "target_pref_name": "Dipeptidyl peptidase 4",
+          "best_pchembl": 4.25,
+          "standard_type": "IC50",
+          "standard_value": "55820.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3217554",
+          "document_year": 2011,
+          "assay_chembl_id": "CHEMBL3224678",
+          "assay_type": "B"
+        },
+        "CHEMBL612542": {
+          "target_chembl_id": "CHEMBL612542",
+          "target_pref_name": "SiHa",
+          "best_pchembl": 4.15,
+          "standard_type": "IC50",
+          "standard_value": "70100.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4130545",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4135985",
+          "assay_type": "F"
+        }
+      }
+    },
+    "calycosin": {
+      "chembl_id": "CHEMBL241608",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {},
+      "weak": {
+        "CHEMBL613516": {
+          "target_chembl_id": "CHEMBL613516",
+          "target_pref_name": "N9",
+          "best_pchembl": 4.76,
+          "standard_type": "IC50",
+          "standard_value": "17430.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4000231",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4001903",
+          "assay_type": "F"
+        },
+        "CHEMBL612794": {
+          "target_chembl_id": "CHEMBL612794",
+          "target_pref_name": "U-937",
+          "best_pchembl": 4.37,
+          "standard_type": "IC50",
+          "standard_value": "43000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1139057",
+          "document_year": 2007,
+          "assay_chembl_id": "CHEMBL885743",
+          "assay_type": "F"
+        }
+      }
+    },
+    "catalpol": {
+      "chembl_id": "CHEMBL513223",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "chlorogenic acid": {
+      "chembl_id": "CHEMBL284616",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL335": {
+          "target_chembl_id": "CHEMBL335",
+          "target_pref_name": "Tyrosine-protein phosphatase non-receptor type 1",
+          "best_pchembl": 7.0,
+          "standard_type": "IC50",
+          "standard_value": "100.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4811318",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL4813851",
+          "assay_type": "B"
+        },
+        "CHEMBL2093865": {
+          "target_chembl_id": "CHEMBL2093865",
+          "target_pref_name": "Histone deacetylase",
+          "best_pchembl": 6.87,
+          "standard_type": "Ki",
+          "standard_value": "135.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1155249",
+          "document_year": 2009,
+          "assay_chembl_id": "CHEMBL1040172",
+          "assay_type": "B"
+        },
+        "CHEMBL1900": {
+          "target_chembl_id": "CHEMBL1900",
+          "target_pref_name": "Aldo-keto reductase family 1 member B1",
+          "best_pchembl": 6.52,
+          "standard_type": "IC50",
+          "standard_value": "300.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1938354",
+          "document_year": 2012,
+          "assay_chembl_id": "CHEMBL1942330",
+          "assay_type": "B"
+        },
+        "CHEMBL5983": {
+          "target_chembl_id": "CHEMBL5983",
+          "target_pref_name": "Aldo-keto reductase family 1 member B10",
+          "best_pchembl": 5.1,
+          "standard_type": "IC50",
+          "standard_value": "7900.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1938354",
+          "document_year": 2012,
+          "assay_chembl_id": "CHEMBL1942331",
+          "assay_type": "B"
+        }
+      },
+      "weak": {
+        "CHEMBL3807": {
+          "target_chembl_id": "CHEMBL3807",
+          "target_pref_name": "Tyrosine-protein phosphatase non-receptor type 2",
+          "best_pchembl": 4.11,
+          "standard_type": "IC50",
+          "standard_value": "77900.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4184307",
+          "document_year": 2018,
+          "assay_chembl_id": "CHEMBL4189107",
+          "assay_type": "B"
+        },
+        "CHEMBL2487": {
+          "target_chembl_id": "CHEMBL2487",
+          "target_pref_name": "Amyloid-beta precursor protein",
+          "best_pchembl": 4.03,
+          "standard_type": "IC50",
+          "standard_value": "92900.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2146368",
+          "document_year": 2012,
+          "assay_chembl_id": "CHEMBL2148592",
+          "assay_type": "B"
+        }
+      }
+    },
+    "cimicifugoside": {
+      "chembl_id": null,
+      "status": "unresolved"
+    },
+    "cinnamaldehyde": {
+      "chembl_id": "CHEMBL293492",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL6007": {
+          "target_chembl_id": "CHEMBL6007",
+          "target_pref_name": "Transient receptor potential cation channel subfamily A member 1",
+          "best_pchembl": 5.19,
+          "standard_type": "EC50",
+          "standard_value": "6500.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1155439",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1118240",
+          "assay_type": "B"
+        }
+      },
+      "weak": {
+        "CHEMBL613510": {
+          "target_chembl_id": "CHEMBL613510",
+          "target_pref_name": "HCT-8",
+          "best_pchembl": 4.81,
+          "standard_type": "IC50",
+          "standard_value": "15600.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4229468",
+          "document_year": 2018,
+          "assay_chembl_id": "CHEMBL4234709",
+          "assay_type": "F"
+        },
+        "CHEMBL215": {
+          "target_chembl_id": "CHEMBL215",
+          "target_pref_name": "Polyunsaturated fatty acid 5-lipoxygenase",
+          "best_pchembl": 4.46,
+          "standard_type": "IC50",
+          "standard_value": "35000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4402516",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4402917",
+          "assay_type": "B"
+        }
+      }
+    },
+    "cinnamic acid": {
+      "chembl_id": "CHEMBL27246",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL2093865": {
+          "target_chembl_id": "CHEMBL2093865",
+          "target_pref_name": "Histone deacetylase",
+          "best_pchembl": 8.09,
+          "standard_type": "Ki",
+          "standard_value": "8.21",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1155249",
+          "document_year": 2009,
+          "assay_chembl_id": "CHEMBL1040172",
+          "assay_type": "B"
+        },
+        "CHEMBL3038515": {
+          "target_chembl_id": "CHEMBL3038515",
+          "target_pref_name": "Tankyrase 1/2",
+          "best_pchembl": 6.16,
+          "standard_type": "IC50",
+          "standard_value": "685.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3351316",
+          "document_year": 2014,
+          "assay_chembl_id": "CHEMBL3382566",
+          "assay_type": "B"
+        },
+        "CHEMBL3785": {
+          "target_chembl_id": "CHEMBL3785",
+          "target_pref_name": "Hydroxycarboxylic acid receptor 2",
+          "best_pchembl": 5.31,
+          "standard_type": "Ki",
+          "standard_value": "4900.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1770096",
+          "document_year": 2011,
+          "assay_chembl_id": "CHEMBL1772553",
+          "assay_type": "B"
+        }
+      },
+      "weak": {
+        "CHEMBL613859": {
+          "target_chembl_id": "CHEMBL613859",
+          "target_pref_name": "A-375",
+          "best_pchembl": 4.19,
+          "standard_type": "IC50",
+          "standard_value": "64000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1926683",
+          "document_year": 2012,
+          "assay_chembl_id": "CHEMBL1930596",
+          "assay_type": "F"
+        },
+        "CHEMBL392": {
+          "target_chembl_id": "CHEMBL392",
+          "target_pref_name": "A549",
+          "best_pchembl": 4.06,
+          "standard_type": "IC50",
+          "standard_value": "87000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1926683",
+          "document_year": 2012,
+          "assay_chembl_id": "CHEMBL1930595",
+          "assay_type": "F"
+        },
+        "CHEMBL614519": {
+          "target_chembl_id": "CHEMBL614519",
+          "target_pref_name": "ACHN",
+          "best_pchembl": 4.04,
+          "standard_type": "IC50",
+          "standard_value": "91000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1926683",
+          "document_year": 2012,
+          "assay_chembl_id": "CHEMBL1930599",
+          "assay_type": "F"
+        }
+      }
+    },
+    "coniferyl ferulate": {
+      "chembl_id": "CHEMBL226006",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {},
+      "weak": {
+        "CHEMBL387": {
+          "target_chembl_id": "CHEMBL387",
+          "target_pref_name": "MCF7",
+          "best_pchembl": 4.57,
+          "standard_type": "IC50",
+          "standard_value": "27000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1142568",
+          "document_year": 2005,
+          "assay_chembl_id": "CHEMBL979214",
+          "assay_type": "F"
+        }
+      }
+    },
+    "coptisine": {
+      "chembl_id": "CHEMBL362071",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL3832742": {
+          "target_chembl_id": "CHEMBL3832742",
+          "target_pref_name": "Quadruplex DNA",
+          "best_pchembl": 5.23,
+          "standard_type": "EC50",
+          "standard_value": "5930.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4138189",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4142398",
+          "assay_type": "B"
+        }
+      },
+      "weak": {}
+    },
+    "crocetin": {
+      "chembl_id": "CHEMBL464792",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {},
+      "weak": {
+        "CHEMBL221": {
+          "target_chembl_id": "CHEMBL221",
+          "target_pref_name": "Prostaglandin G/H synthase 1",
+          "best_pchembl": 4.55,
+          "standard_type": "IC50",
+          "standard_value": "28000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1151260",
+          "document_year": 2005,
+          "assay_chembl_id": "CHEMBL1008496",
+          "assay_type": "B"
+        }
+      }
+    },
+    "crocin": {
+      "chembl_id": "CHEMBL446785",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "diosgenin": {
+      "chembl_id": "CHEMBL412437",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL614245": {
+          "target_chembl_id": "CHEMBL614245",
+          "target_pref_name": "THP-1",
+          "best_pchembl": 5.16,
+          "standard_type": "IC50",
+          "standard_value": "6960.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1177832",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1174117",
+          "assay_type": "F"
+        }
+      },
+      "weak": {
+        "CHEMBL394": {
+          "target_chembl_id": "CHEMBL394",
+          "target_pref_name": "HCT-116",
+          "best_pchembl": 4.97,
+          "standard_type": "IC50",
+          "standard_value": "10800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4342418",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4343218",
+          "assay_type": "F"
+        },
+        "CHEMBL392": {
+          "target_chembl_id": "CHEMBL392",
+          "target_pref_name": "A549",
+          "best_pchembl": 4.97,
+          "standard_type": "IC50",
+          "standard_value": "10800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4342418",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4343228",
+          "assay_type": "F"
+        },
+        "CHEMBL614811": {
+          "target_chembl_id": "CHEMBL614811",
+          "target_pref_name": "HBL-100",
+          "best_pchembl": 4.97,
+          "standard_type": "IC50",
+          "standard_value": "10800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4342418",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4343325",
+          "assay_type": "F"
+        },
+        "CHEMBL384": {
+          "target_chembl_id": "CHEMBL384",
+          "target_pref_name": "HT-29",
+          "best_pchembl": 4.97,
+          "standard_type": "IC50",
+          "standard_value": "10800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4342418",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4343248",
+          "assay_type": "F"
+        },
+        "CHEMBL387": {
+          "target_chembl_id": "CHEMBL387",
+          "target_pref_name": "MCF7",
+          "best_pchembl": 4.62,
+          "standard_type": "IC50",
+          "standard_value": "23910.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4715838",
+          "document_year": 2020,
+          "assay_chembl_id": "CHEMBL4722587",
+          "assay_type": "F"
+        },
+        "CHEMBL614774": {
+          "target_chembl_id": "CHEMBL614774",
+          "target_pref_name": "T-24",
+          "best_pchembl": 4.54,
+          "standard_type": "IC50",
+          "standard_value": "28850.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4813993",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL4817057",
+          "assay_type": "F"
+        },
+        "CHEMBL385": {
+          "target_chembl_id": "CHEMBL385",
+          "target_pref_name": "K562",
+          "best_pchembl": 4.52,
+          "standard_type": "IC50",
+          "standard_value": "30040.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4813993",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL4817056",
+          "assay_type": "F"
+        },
+        "CHEMBL395": {
+          "target_chembl_id": "CHEMBL395",
+          "target_pref_name": "HepG2",
+          "best_pchembl": 4.47,
+          "standard_type": "IC50",
+          "standard_value": "33870.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4715838",
+          "document_year": 2020,
+          "assay_chembl_id": "CHEMBL4722585",
+          "assay_type": "F"
+        },
+        "CHEMBL612588": {
+          "target_chembl_id": "CHEMBL612588",
+          "target_pref_name": "ASPC1",
+          "best_pchembl": 4.2,
+          "standard_type": "IC50",
+          "standard_value": "63110.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5131520",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5135925",
+          "assay_type": "F"
+        },
+        "CHEMBL614354": {
+          "target_chembl_id": "CHEMBL614354",
+          "target_pref_name": "MKN-45",
+          "best_pchembl": 4.11,
+          "standard_type": "IC50",
+          "standard_value": "78320.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4813993",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL4817058",
+          "assay_type": "F"
+        }
+      }
+    },
+    "ephedrine": {
+      "chembl_id": "CHEMBL211456",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "ferulic acid": {
+      "chembl_id": "CHEMBL32749",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL387": {
+          "target_chembl_id": "CHEMBL387",
+          "target_pref_name": "MCF7",
+          "best_pchembl": 6.44,
+          "standard_type": "IC50",
+          "standard_value": "360.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4732084",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL4734028",
+          "assay_type": "F"
+        },
+        "CHEMBL400": {
+          "target_chembl_id": "CHEMBL400",
+          "target_pref_name": "MDA-MB-231",
+          "best_pchembl": 6.3,
+          "standard_type": "IC50",
+          "standard_value": "500.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4138184",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4142294",
+          "assay_type": "F"
+        },
+        "CHEMBL6152": {
+          "target_chembl_id": "CHEMBL6152",
+          "target_pref_name": "Alpha-synuclein",
+          "best_pchembl": 6.12,
+          "standard_type": "IC50",
+          "standard_value": "750.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4699438",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4700552",
+          "assay_type": "B"
+        },
+        "CHEMBL614072": {
+          "target_chembl_id": "CHEMBL614072",
+          "target_pref_name": "BT-549",
+          "best_pchembl": 5.92,
+          "standard_type": "IC50",
+          "standard_value": "1200.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4138184",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4142295",
+          "assay_type": "F"
+        },
+        "CHEMBL205": {
+          "target_chembl_id": "CHEMBL205",
+          "target_pref_name": "Carbonic anhydrase 2",
+          "best_pchembl": 5.62,
+          "standard_type": "Ki",
+          "standard_value": "2400.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1157641",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1074266",
+          "assay_type": "B"
+        },
+        "CHEMBL261": {
+          "target_chembl_id": "CHEMBL261",
+          "target_pref_name": "Carbonic anhydrase 1",
+          "best_pchembl": 5.54,
+          "standard_type": "Ki",
+          "standard_value": "2890.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1157641",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1074265",
+          "assay_type": "B"
+        },
+        "CHEMBL4789": {
+          "target_chembl_id": "CHEMBL4789",
+          "target_pref_name": "Carbonic anhydrase 5A, mitochondrial",
+          "best_pchembl": 5.15,
+          "standard_type": "Ki",
+          "standard_value": "7040.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1157641",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1074269",
+          "assay_type": "B"
+        },
+        "CHEMBL2326": {
+          "target_chembl_id": "CHEMBL2326",
+          "target_pref_name": "Carbonic anhydrase 7",
+          "best_pchembl": 5.13,
+          "standard_type": "Ki",
+          "standard_value": "7410.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1157641",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1074272",
+          "assay_type": "B"
+        },
+        "CHEMBL3025": {
+          "target_chembl_id": "CHEMBL3025",
+          "target_pref_name": "Carbonic anhydrase 6",
+          "best_pchembl": 5.07,
+          "standard_type": "Ki",
+          "standard_value": "8450.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1157641",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1074271",
+          "assay_type": "B"
+        },
+        "CHEMBL3594": {
+          "target_chembl_id": "CHEMBL3594",
+          "target_pref_name": "Carbonic anhydrase 9",
+          "best_pchembl": 5.03,
+          "standard_type": "IC50",
+          "standard_value": "9390.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4619721",
+          "document_year": 2020,
+          "assay_chembl_id": "CHEMBL4620215",
+          "assay_type": "B"
+        },
+        "CHEMBL3510": {
+          "target_chembl_id": "CHEMBL3510",
+          "target_pref_name": "Carbonic anhydrase 14",
+          "best_pchembl": 5.03,
+          "standard_type": "Ki",
+          "standard_value": "9430.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1157641",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1074276",
+          "assay_type": "B"
+        },
+        "CHEMBL3242": {
+          "target_chembl_id": "CHEMBL3242",
+          "target_pref_name": "Carbonic anhydrase 12",
+          "best_pchembl": 5.01,
+          "standard_type": "Ki",
+          "standard_value": "9780.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3627692",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3631206",
+          "assay_type": "B"
+        }
+      },
+      "weak": {
+        "CHEMBL3969": {
+          "target_chembl_id": "CHEMBL3969",
+          "target_pref_name": "Carbonic anhydrase 5B, mitochondrial",
+          "best_pchembl": 4.98,
+          "standard_type": "Ki",
+          "standard_value": "10500.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1157641",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1074270",
+          "assay_type": "B"
+        },
+        "CHEMBL3729": {
+          "target_chembl_id": "CHEMBL3729",
+          "target_pref_name": "Carbonic anhydrase 4",
+          "best_pchembl": 4.97,
+          "standard_type": "Ki",
+          "standard_value": "10800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1157641",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1074268",
+          "assay_type": "B"
+        },
+        "CHEMBL2885": {
+          "target_chembl_id": "CHEMBL2885",
+          "target_pref_name": "Carbonic anhydrase 3",
+          "best_pchembl": 4.96,
+          "standard_type": "Ki",
+          "standard_value": "11100.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1157641",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1074267",
+          "assay_type": "B"
+        },
+        "CHEMBL1075189": {
+          "target_chembl_id": "CHEMBL1075189",
+          "target_pref_name": "Pyruvate kinase PKM",
+          "best_pchembl": 4.94,
+          "standard_type": "IC50",
+          "standard_value": "11400.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5223062",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL5223207",
+          "assay_type": "B"
+        },
+        "CHEMBL614910": {
+          "target_chembl_id": "CHEMBL614910",
+          "target_pref_name": "SH-SY5Y",
+          "best_pchembl": 4.93,
+          "standard_type": "IC50",
+          "standard_value": "11820.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4038269",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4038441",
+          "assay_type": "F"
+        },
+        "CHEMBL614721": {
+          "target_chembl_id": "CHEMBL614721",
+          "target_pref_name": "LoVo",
+          "best_pchembl": 4.02,
+          "standard_type": "IC50",
+          "standard_value": "95000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1799918",
+          "document_year": 2011,
+          "assay_chembl_id": "CHEMBL1804866",
+          "assay_type": "F"
+        }
+      }
+    },
+    "formononetin": {
+      "chembl_id": "CHEMBL242341",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL1865": {
+          "target_chembl_id": "CHEMBL1865",
+          "target_pref_name": "Protein deacetylase HDAC6",
+          "best_pchembl": 6.54,
+          "standard_type": "IC50",
+          "standard_value": "287.9",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4808148",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL4808152",
+          "assay_type": "B"
+        },
+        "CHEMBL614909": {
+          "target_chembl_id": "CHEMBL614909",
+          "target_pref_name": "SGC-7901",
+          "best_pchembl": 5.66,
+          "standard_type": "IC50",
+          "standard_value": "2170.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2040740",
+          "document_year": 2012,
+          "assay_chembl_id": "CHEMBL2045205",
+          "assay_type": "F"
+        },
+        "CHEMBL4878": {
+          "target_chembl_id": "CHEMBL4878",
+          "target_pref_name": "Cytochrome P450 1B1",
+          "best_pchembl": 5.43,
+          "standard_type": "Ki",
+          "standard_value": "3700.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4033668",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4035336",
+          "assay_type": "B"
+        },
+        "CHEMBL5880": {
+          "target_chembl_id": "CHEMBL5880",
+          "target_pref_name": "Interleukin-2",
+          "best_pchembl": 5.26,
+          "standard_type": "Kd",
+          "standard_value": "5470.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3286146",
+          "document_year": 2014,
+          "assay_chembl_id": "CHEMBL3291700",
+          "assay_type": "B"
+        },
+        "CHEMBL399": {
+          "target_chembl_id": "CHEMBL399",
+          "target_pref_name": "HeLa",
+          "best_pchembl": 5.07,
+          "standard_type": "IC50",
+          "standard_value": "8510.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2040740",
+          "document_year": 2012,
+          "assay_chembl_id": "CHEMBL2045204",
+          "assay_type": "F"
+        }
+      },
+      "weak": {
+        "CHEMBL2039": {
+          "target_chembl_id": "CHEMBL2039",
+          "target_pref_name": "Amine oxidase [flavin-containing] B",
+          "best_pchembl": 4.59,
+          "standard_type": "IC50",
+          "standard_value": "25800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4431386",
+          "document_year": 2016,
+          "assay_chembl_id": "CHEMBL4433001",
+          "assay_type": "B"
+        },
+        "CHEMBL1951": {
+          "target_chembl_id": "CHEMBL1951",
+          "target_pref_name": "Amine oxidase [flavin-containing] A",
+          "best_pchembl": 4.51,
+          "standard_type": "IC50",
+          "standard_value": "31200.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4431386",
+          "document_year": 2016,
+          "assay_chembl_id": "CHEMBL4433000",
+          "assay_type": "B"
+        },
+        "CHEMBL612794": {
+          "target_chembl_id": "CHEMBL612794",
+          "target_pref_name": "U-937",
+          "best_pchembl": 4.36,
+          "standard_type": "IC50",
+          "standard_value": "44000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1139057",
+          "document_year": 2007,
+          "assay_chembl_id": "CHEMBL885742",
+          "assay_type": "F"
+        },
+        "CHEMBL390": {
+          "target_chembl_id": "CHEMBL390",
+          "target_pref_name": "PC-3",
+          "best_pchembl": 4.24,
+          "standard_type": "IC50",
+          "standard_value": "57010.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4004797",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4005030",
+          "assay_type": "F"
+        },
+        "CHEMBL395": {
+          "target_chembl_id": "CHEMBL395",
+          "target_pref_name": "HepG2",
+          "best_pchembl": 4.22,
+          "standard_type": "IC50",
+          "standard_value": "60500.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3286146",
+          "document_year": 2014,
+          "assay_chembl_id": "CHEMBL3291702",
+          "assay_type": "F"
+        },
+        "CHEMBL394": {
+          "target_chembl_id": "CHEMBL394",
+          "target_pref_name": "HCT-116",
+          "best_pchembl": 4.21,
+          "standard_type": "IC50",
+          "standard_value": "60970.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2040740",
+          "document_year": 2012,
+          "assay_chembl_id": "CHEMBL2045202",
+          "assay_type": "F"
+        }
+      }
+    },
+    "genipin": {
+      "chembl_id": "CHEMBL459016",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "geniposide": {
+      "chembl_id": "CHEMBL462894",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "geniposidic acid": {
+      "chembl_id": "CHEMBL460031",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "ginsenoside Rb1": {
+      "chembl_id": "CHEMBL501515",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL3038455": {
+          "target_chembl_id": "CHEMBL3038455",
+          "target_pref_name": "AMPK alpha2/beta1/gamma1",
+          "best_pchembl": 7.78,
+          "standard_type": "EC50",
+          "standard_value": "16.8",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4177549",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4178595",
+          "assay_type": "B"
+        }
+      },
+      "weak": {}
+    },
+    "ginsenoside Re": {
+      "chembl_id": "CHEMBL510095",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "ginsenoside Rg1": {
+      "chembl_id": "CHEMBL501637",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "glycyrrhetinic acid": {
+      "chembl_id": "CHEMBL454067",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL4235": {
+          "target_chembl_id": "CHEMBL4235",
+          "target_pref_name": "11-beta-hydroxysteroid dehydrogenase 1",
+          "best_pchembl": 5.66,
+          "standard_type": "IC50",
+          "standard_value": "2214.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5244232",
+          "document_year": 2020,
+          "assay_chembl_id": "CHEMBL5245451",
+          "assay_type": "B"
+        }
+      },
+      "weak": {
+        "CHEMBL615013": {
+          "target_chembl_id": "CHEMBL615013",
+          "target_pref_name": "TERT-RPE1",
+          "best_pchembl": 4.2,
+          "standard_type": "IC50",
+          "standard_value": "63410.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4270495",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4271111",
+          "assay_type": "F"
+        },
+        "CHEMBL387": {
+          "target_chembl_id": "CHEMBL387",
+          "target_pref_name": "MCF7",
+          "best_pchembl": 4.12,
+          "standard_type": "IC50",
+          "standard_value": "75660.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4270495",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4271094",
+          "assay_type": "F"
+        },
+        "CHEMBL394": {
+          "target_chembl_id": "CHEMBL394",
+          "target_pref_name": "HCT-116",
+          "best_pchembl": 4.12,
+          "standard_type": "IC50",
+          "standard_value": "75080.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4270495",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4271115",
+          "assay_type": "F"
+        },
+        "CHEMBL384": {
+          "target_chembl_id": "CHEMBL384",
+          "target_pref_name": "HT-29",
+          "best_pchembl": 4.11,
+          "standard_type": "IC50",
+          "standard_value": "77230.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4270495",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4271117",
+          "assay_type": "F"
+        },
+        "CHEMBL613510": {
+          "target_chembl_id": "CHEMBL613510",
+          "target_pref_name": "HCT-8",
+          "best_pchembl": 4.08,
+          "standard_type": "IC50",
+          "standard_value": "82220.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4270495",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4271116",
+          "assay_type": "F"
+        },
+        "CHEMBL400": {
+          "target_chembl_id": "CHEMBL400",
+          "target_pref_name": "MDA-MB-231",
+          "best_pchembl": 4.07,
+          "standard_type": "IC50",
+          "standard_value": "84700.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4270495",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4271093",
+          "assay_type": "F"
+        },
+        "CHEMBL390": {
+          "target_chembl_id": "CHEMBL390",
+          "target_pref_name": "PC-3",
+          "best_pchembl": 4.05,
+          "standard_type": "IC50",
+          "standard_value": "88040.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4270495",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4271119",
+          "assay_type": "F"
+        }
+      }
+    },
+    "glycyrrhizin": {
+      "chembl_id": "CHEMBL441687",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL3746": {
+          "target_chembl_id": "CHEMBL3746",
+          "target_pref_name": "11-beta-hydroxysteroid dehydrogenase type 2",
+          "best_pchembl": 9.4,
+          "standard_type": "IC50",
+          "standard_value": "0.4",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2034975",
+          "document_year": 2012,
+          "assay_chembl_id": "CHEMBL2038877",
+          "assay_type": "B"
+        },
+        "CHEMBL4235": {
+          "target_chembl_id": "CHEMBL4235",
+          "target_pref_name": "11-beta-hydroxysteroid dehydrogenase 1",
+          "best_pchembl": 8.22,
+          "standard_type": "IC50",
+          "standard_value": "6.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2034975",
+          "document_year": 2012,
+          "assay_chembl_id": "CHEMBL2038715",
+          "assay_type": "B"
+        }
+      },
+      "weak": {
+        "CHEMBL1743121": {
+          "target_chembl_id": "CHEMBL1743121",
+          "target_pref_name": "Solute carrier organic anion transporter family member 1B3",
+          "best_pchembl": 4.9,
+          "standard_type": "Ki",
+          "standard_value": "12500.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2074181",
+          "document_year": 2003,
+          "assay_chembl_id": "CHEMBL2076011",
+          "assay_type": "F"
+        },
+        "CHEMBL1697668": {
+          "target_chembl_id": "CHEMBL1697668",
+          "target_pref_name": "Solute carrier organic anion transporter family member 1B1",
+          "best_pchembl": 4.8,
+          "standard_type": "Ki",
+          "standard_value": "15900.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2074181",
+          "document_year": 2003,
+          "assay_chembl_id": "CHEMBL2077590",
+          "assay_type": "F"
+        },
+        "CHEMBL2311236": {
+          "target_chembl_id": "CHEMBL2311236",
+          "target_pref_name": "High mobility group protein B1",
+          "best_pchembl": 4.06,
+          "standard_type": "Kd",
+          "standard_value": "87000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4118100",
+          "document_year": 2018,
+          "assay_chembl_id": "CHEMBL4120898",
+          "assay_type": "B"
+        }
+      }
+    },
+    "hesperidin": {
+      "chembl_id": "CHEMBL449317",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {},
+      "weak": {
+        "CHEMBL6136": {
+          "target_chembl_id": "CHEMBL6136",
+          "target_pref_name": "Lysine-specific histone demethylase 1A",
+          "best_pchembl": 4.72,
+          "standard_type": "IC50",
+          "standard_value": "19160.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4308904",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4311551",
+          "assay_type": "B"
+        },
+        "CHEMBL6093": {
+          "target_chembl_id": "CHEMBL6093",
+          "target_pref_name": "Calmodulin-1",
+          "best_pchembl": 4.16,
+          "standard_type": "IC50",
+          "standard_value": "70000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1641572",
+          "document_year": 2011,
+          "assay_chembl_id": "CHEMBL1647732",
+          "assay_type": "B"
+        },
+        "CHEMBL262": {
+          "target_chembl_id": "CHEMBL262",
+          "target_pref_name": "Glycogen synthase kinase-3 beta",
+          "best_pchembl": 4.0,
+          "standard_type": "IC50",
+          "standard_value": "100000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3045386",
+          "document_year": 2013,
+          "assay_chembl_id": "CHEMBL3071785",
+          "assay_type": "B"
+        }
+      }
+    },
+    "hypaconitine": {
+      "chembl_id": "CHEMBL400315",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "isoferulic acid": {
+      "chembl_id": "CHEMBL233295",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "isoliquiritigenin": {
+      "chembl_id": "CHEMBL129795",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL4073": {
+          "target_chembl_id": "CHEMBL4073",
+          "target_pref_name": "Matrilysin",
+          "best_pchembl": 8.1,
+          "standard_type": "IC50",
+          "standard_value": "8.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5126637",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5130777",
+          "assay_type": "B"
+        },
+        "CHEMBL321": {
+          "target_chembl_id": "CHEMBL321",
+          "target_pref_name": "Matrix metalloproteinase-9",
+          "best_pchembl": 8.0,
+          "standard_type": "IC50",
+          "standard_value": "10.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5126637",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5130776",
+          "assay_type": "B"
+        },
+        "CHEMBL333": {
+          "target_chembl_id": "CHEMBL333",
+          "target_pref_name": "72 kDa type IV collagenase",
+          "best_pchembl": 8.0,
+          "standard_type": "IC50",
+          "standard_value": "10.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5126637",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5130779",
+          "assay_type": "B"
+        },
+        "CHEMBL280": {
+          "target_chembl_id": "CHEMBL280",
+          "target_pref_name": "Collagenase 3",
+          "best_pchembl": 7.85,
+          "standard_type": "IC50",
+          "standard_value": "14.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5126637",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5130775",
+          "assay_type": "B"
+        },
+        "CHEMBL332": {
+          "target_chembl_id": "CHEMBL332",
+          "target_pref_name": "Interstitial collagenase",
+          "best_pchembl": 7.8,
+          "standard_type": "IC50",
+          "standard_value": "16.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5126637",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5130780",
+          "assay_type": "B"
+        },
+        "CHEMBL283": {
+          "target_chembl_id": "CHEMBL283",
+          "target_pref_name": "Stromelysin-1",
+          "best_pchembl": 7.09,
+          "standard_type": "IC50",
+          "standard_value": "81.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5126637",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5130778",
+          "assay_type": "B"
+        },
+        "CHEMBL242": {
+          "target_chembl_id": "CHEMBL242",
+          "target_pref_name": "Estrogen receptor beta",
+          "best_pchembl": 6.57,
+          "standard_type": "IC50",
+          "standard_value": "269.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4177545",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4178560",
+          "assay_type": "B"
+        },
+        "CHEMBL1900": {
+          "target_chembl_id": "CHEMBL1900",
+          "target_pref_name": "Aldo-keto reductase family 1 member B1",
+          "best_pchembl": 6.5,
+          "standard_type": "IC50",
+          "standard_value": "320.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1938238",
+          "document_year": 2012,
+          "assay_chembl_id": "CHEMBL1942674",
+          "assay_type": "B"
+        },
+        "CHEMBL2789": {
+          "target_chembl_id": "CHEMBL2789",
+          "target_pref_name": "17-beta-hydroxysteroid dehydrogenase type 2",
+          "best_pchembl": 6.44,
+          "standard_type": "IC50",
+          "standard_value": "360.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4177545",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4178552",
+          "assay_type": "B"
+        },
+        "CHEMBL1741208": {
+          "target_chembl_id": "CHEMBL1741208",
+          "target_pref_name": "NACHT, LRR and PYD domains-containing protein 3",
+          "best_pchembl": 5.81,
+          "standard_type": "IC50",
+          "standard_value": "1540.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4219086",
+          "document_year": 2018,
+          "assay_chembl_id": "CHEMBL4221123",
+          "assay_type": "B"
+        },
+        "CHEMBL206": {
+          "target_chembl_id": "CHEMBL206",
+          "target_pref_name": "Estrogen receptor",
+          "best_pchembl": 5.73,
+          "standard_type": "IC50",
+          "standard_value": "1870.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4177545",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4178559",
+          "assay_type": "B"
+        },
+        "CHEMBL3181": {
+          "target_chembl_id": "CHEMBL3181",
+          "target_pref_name": "17-beta-hydroxysteroid dehydrogenase type 1",
+          "best_pchembl": 5.55,
+          "standard_type": "IC50",
+          "standard_value": "2830.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4177545",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4178554",
+          "assay_type": "B"
+        },
+        "CHEMBL614139": {
+          "target_chembl_id": "CHEMBL614139",
+          "target_pref_name": "PANC-1",
+          "best_pchembl": 5.48,
+          "standard_type": "IC50",
+          "standard_value": "3300.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4020764",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4022049",
+          "assay_type": "F"
+        },
+        "CHEMBL1978": {
+          "target_chembl_id": "CHEMBL1978",
+          "target_pref_name": "Aromatase",
+          "best_pchembl": 5.42,
+          "standard_type": "IC50",
+          "standard_value": "3800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4177545",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4178558",
+          "assay_type": "B"
+        },
+        "CHEMBL4662": {
+          "target_chembl_id": "CHEMBL4662",
+          "target_pref_name": "Proteasome Macropain subunit MB1",
+          "best_pchembl": 5.31,
+          "standard_type": "IC50",
+          "standard_value": "4880.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4433200",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4433385",
+          "assay_type": "B"
+        }
+      },
+      "weak": {
+        "CHEMBL400": {
+          "target_chembl_id": "CHEMBL400",
+          "target_pref_name": "MDA-MB-231",
+          "best_pchembl": 4.96,
+          "standard_type": "IC50",
+          "standard_value": "10860.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4819157",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL4823209",
+          "assay_type": "F"
+        },
+        "CHEMBL2492": {
+          "target_chembl_id": "CHEMBL2492",
+          "target_pref_name": "Neuronal acetylcholine receptor subunit alpha-7",
+          "best_pchembl": 4.94,
+          "standard_type": "EC50",
+          "standard_value": "11600.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3352579",
+          "document_year": 2014,
+          "assay_chembl_id": "CHEMBL3378918",
+          "assay_type": "B"
+        },
+        "CHEMBL387": {
+          "target_chembl_id": "CHEMBL387",
+          "target_pref_name": "MCF7",
+          "best_pchembl": 4.75,
+          "standard_type": "IC50",
+          "standard_value": "17670.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4819157",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL4823210",
+          "assay_type": "F"
+        },
+        "CHEMBL2487": {
+          "target_chembl_id": "CHEMBL2487",
+          "target_pref_name": "Amyloid-beta precursor protein",
+          "best_pchembl": 4.71,
+          "standard_type": "IC50",
+          "standard_value": "19700.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2406947",
+          "document_year": 2013,
+          "assay_chembl_id": "CHEMBL2411729",
+          "assay_type": "B"
+        },
+        "CHEMBL614321": {
+          "target_chembl_id": "CHEMBL614321",
+          "target_pref_name": "MCF-10A",
+          "best_pchembl": 4.6,
+          "standard_type": "IC50",
+          "standard_value": "25000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5241056",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL5241278",
+          "assay_type": "T"
+        },
+        "CHEMBL395": {
+          "target_chembl_id": "CHEMBL395",
+          "target_pref_name": "HepG2",
+          "best_pchembl": 4.56,
+          "standard_type": "IC50",
+          "standard_value": "27710.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4819157",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL4823212",
+          "assay_type": "F"
+        },
+        "CHEMBL385": {
+          "target_chembl_id": "CHEMBL385",
+          "target_pref_name": "K562",
+          "best_pchembl": 4.53,
+          "standard_type": "IC50",
+          "standard_value": "29270.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3407410",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3412606",
+          "assay_type": "F"
+        },
+        "CHEMBL2094258": {
+          "target_chembl_id": "CHEMBL2094258",
+          "target_pref_name": "Nuclear factor NF-kappa-B complex",
+          "best_pchembl": 4.5,
+          "standard_type": "IC50",
+          "standard_value": "32000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3259651",
+          "document_year": 2014,
+          "assay_chembl_id": "CHEMBL3269909",
+          "assay_type": "B"
+        },
+        "CHEMBL4822": {
+          "target_chembl_id": "CHEMBL4822",
+          "target_pref_name": "Beta-secretase 1",
+          "best_pchembl": 4.48,
+          "standard_type": "IC50",
+          "standard_value": "33000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3045386",
+          "document_year": 2013,
+          "assay_chembl_id": "CHEMBL3071786",
+          "assay_type": "B"
+        },
+        "CHEMBL2366313": {
+          "target_chembl_id": "CHEMBL2366313",
+          "target_pref_name": "C-33-A",
+          "best_pchembl": 4.48,
+          "standard_type": "IC50",
+          "standard_value": "32830.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4402531",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4403414",
+          "assay_type": "F"
+        },
+        "CHEMBL5422": {
+          "target_chembl_id": "CHEMBL5422",
+          "target_pref_name": "Protein disulfide-isomerase",
+          "best_pchembl": 4.44,
+          "standard_type": "Ki",
+          "standard_value": "36100.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5143678",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5147884",
+          "assay_type": "B"
+        },
+        "CHEMBL1075403": {
+          "target_chembl_id": "CHEMBL1075403",
+          "target_pref_name": "Ca-Ski",
+          "best_pchembl": 4.41,
+          "standard_type": "IC50",
+          "standard_value": "39090.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4402531",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4403411",
+          "assay_type": "F"
+        },
+        "CHEMBL613979": {
+          "target_chembl_id": "CHEMBL613979",
+          "target_pref_name": "HUVEC",
+          "best_pchembl": 4.38,
+          "standard_type": "IC50",
+          "standard_value": "41170.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3407410",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3412607",
+          "assay_type": "T"
+        },
+        "CHEMBL390": {
+          "target_chembl_id": "CHEMBL390",
+          "target_pref_name": "PC-3",
+          "best_pchembl": 4.33,
+          "standard_type": "IC50",
+          "standard_value": "46400.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1157220",
+          "document_year": 2006,
+          "assay_chembl_id": "CHEMBL969037",
+          "assay_type": "A"
+        },
+        "CHEMBL392": {
+          "target_chembl_id": "CHEMBL392",
+          "target_pref_name": "A549",
+          "best_pchembl": 4.28,
+          "standard_type": "IC50",
+          "standard_value": "52580.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4819157",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL4823211",
+          "assay_type": "F"
+        },
+        "CHEMBL612542": {
+          "target_chembl_id": "CHEMBL612542",
+          "target_pref_name": "SiHa",
+          "best_pchembl": 4.27,
+          "standard_type": "IC50",
+          "standard_value": "53800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4402531",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4403419",
+          "assay_type": "F"
+        },
+        "CHEMBL1075138": {
+          "target_chembl_id": "CHEMBL1075138",
+          "target_pref_name": "Tyrosyl-DNA phosphodiesterase 1",
+          "best_pchembl": 4.26,
+          "standard_type": "IC50",
+          "standard_value": "55000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4622855",
+          "document_year": 2020,
+          "assay_chembl_id": "CHEMBL4623531",
+          "assay_type": "B"
+        },
+        "CHEMBL399": {
+          "target_chembl_id": "CHEMBL399",
+          "target_pref_name": "HeLa",
+          "best_pchembl": 4.24,
+          "standard_type": "IC50",
+          "standard_value": "58100.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4402531",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4403420",
+          "assay_type": "F"
+        },
+        "CHEMBL614721": {
+          "target_chembl_id": "CHEMBL614721",
+          "target_pref_name": "LoVo",
+          "best_pchembl": 4.24,
+          "standard_type": "IC50",
+          "standard_value": "57000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1799918",
+          "document_year": 2011,
+          "assay_chembl_id": "CHEMBL1804866",
+          "assay_type": "F"
+        },
+        "CHEMBL614919": {
+          "target_chembl_id": "CHEMBL614919",
+          "target_pref_name": "SK-MEL-28",
+          "best_pchembl": 4.12,
+          "standard_type": "IC50",
+          "standard_value": "75000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1799918",
+          "document_year": 2011,
+          "assay_chembl_id": "CHEMBL1804865",
+          "assay_type": "F"
+        },
+        "CHEMBL614580": {
+          "target_chembl_id": "CHEMBL614580",
+          "target_pref_name": "HT-1080",
+          "best_pchembl": 4.12,
+          "standard_type": "IC50",
+          "standard_value": "76700.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1150308",
+          "document_year": 2008,
+          "assay_chembl_id": "CHEMBL995575",
+          "assay_type": "F"
+        }
+      }
+    },
+    "jujuboside A": {
+      "chembl_id": "CHEMBL3109480",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "ligustilide": {
+      "chembl_id": "CHEMBL481246",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {},
+      "weak": {
+        "CHEMBL6007": {
+          "target_chembl_id": "CHEMBL6007",
+          "target_pref_name": "Transient receptor potential cation channel subfamily A member 1",
+          "best_pchembl": 4.36,
+          "standard_type": "EC50",
+          "standard_value": "44000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2429801",
+          "document_year": 2013,
+          "assay_chembl_id": "CHEMBL2433976",
+          "assay_type": "B"
+        }
+      }
+    },
+    "liquiritigenin": {
+      "chembl_id": "CHEMBL229908",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL1978": {
+          "target_chembl_id": "CHEMBL1978",
+          "target_pref_name": "Aromatase",
+          "best_pchembl": 5.73,
+          "standard_type": "IC50",
+          "standard_value": "1860.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1143702",
+          "document_year": 2007,
+          "assay_chembl_id": "CHEMBL905158",
+          "assay_type": "B"
+        },
+        "CHEMBL2039": {
+          "target_chembl_id": "CHEMBL2039",
+          "target_pref_name": "Amine oxidase [flavin-containing] B",
+          "best_pchembl": 5.14,
+          "standard_type": "IC50",
+          "standard_value": "7180.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1159098",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1071596",
+          "assay_type": "B"
+        }
+      },
+      "weak": {}
+    },
+    "liquiritin": {
+      "chembl_id": "CHEMBL511995",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "loganin": {
+      "chembl_id": "CHEMBL1081584",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {},
+      "weak": {
+        "CHEMBL4026": {
+          "target_chembl_id": "CHEMBL4026",
+          "target_pref_name": "Signal transducer and activator of transcription 3",
+          "best_pchembl": 4.85,
+          "standard_type": "IC50",
+          "standard_value": "14000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4130553",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4136223",
+          "assay_type": "B"
+        }
+      }
+    },
+    "menthol": {
+      "chembl_id": "CHEMBL256087",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL1075319": {
+          "target_chembl_id": "CHEMBL1075319",
+          "target_pref_name": "Transient receptor potential cation channel subfamily M member 8",
+          "best_pchembl": 5.52,
+          "standard_type": "EC50",
+          "standard_value": "3000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2439990",
+          "document_year": 2013,
+          "assay_chembl_id": "CHEMBL2445667",
+          "assay_type": "B"
+        }
+      },
+      "weak": {
+        "CHEMBL6007": {
+          "target_chembl_id": "CHEMBL6007",
+          "target_pref_name": "Transient receptor potential cation channel subfamily A member 1",
+          "best_pchembl": 4.55,
+          "standard_type": "EC50",
+          "standard_value": "28400.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1155439",
+          "document_year": 2010,
+          "assay_chembl_id": "CHEMBL1118242",
+          "assay_type": "B"
+        }
+      }
+    },
+    "menthone": {
+      "chembl_id": "CHEMBL276311",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "mesaconitine": {
+      "chembl_id": "CHEMBL3400310",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "morroniside": {
+      "chembl_id": "CHEMBL1209803",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL4026": {
+          "target_chembl_id": "CHEMBL4026",
+          "target_pref_name": "Signal transducer and activator of transcription 3",
+          "best_pchembl": 5.16,
+          "standard_type": "IC50",
+          "standard_value": "6900.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4130553",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4136223",
+          "assay_type": "B"
+        }
+      },
+      "weak": {}
+    },
+    "nobiletin": {
+      "chembl_id": "CHEMBL76447",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL5393": {
+          "target_chembl_id": "CHEMBL5393",
+          "target_pref_name": "Broad substrate specificity ATP-binding cassette transporter ABCG2",
+          "best_pchembl": 5.36,
+          "standard_type": "IC50",
+          "standard_value": "4400.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1681785",
+          "document_year": 2011,
+          "assay_chembl_id": "CHEMBL1687394",
+          "assay_type": "B"
+        },
+        "CHEMBL4483226": {
+          "target_chembl_id": "CHEMBL4483226",
+          "target_pref_name": "A549/TR",
+          "best_pchembl": 5.05,
+          "standard_type": "IC50",
+          "standard_value": "9000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5346860",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5347096",
+          "assay_type": "F"
+        },
+        "CHEMBL4483224": {
+          "target_chembl_id": "CHEMBL4483224",
+          "target_pref_name": "A2780/Taxol",
+          "best_pchembl": 5.05,
+          "standard_type": "IC50",
+          "standard_value": "9000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5346860",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5347097",
+          "assay_type": "F"
+        },
+        "CHEMBL614076": {
+          "target_chembl_id": "CHEMBL614076",
+          "target_pref_name": "Monocyte",
+          "best_pchembl": 5.0,
+          "standard_type": "IC50",
+          "standard_value": "10000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1141808",
+          "document_year": 1999,
+          "assay_chembl_id": "CHEMBL980159",
+          "assay_type": "F"
+        }
+      },
+      "weak": {
+        "CHEMBL4302": {
+          "target_chembl_id": "CHEMBL4302",
+          "target_pref_name": "ATP-dependent translocase ABCB1",
+          "best_pchembl": 4.94,
+          "standard_type": "IC50",
+          "standard_value": "11500.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL2073899",
+          "document_year": 2001,
+          "assay_chembl_id": "CHEMBL2076240",
+          "assay_type": "F"
+        },
+        "CHEMBL384": {
+          "target_chembl_id": "CHEMBL384",
+          "target_pref_name": "HT-29",
+          "best_pchembl": 4.62,
+          "standard_type": "IC50",
+          "standard_value": "24000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1139322",
+          "document_year": 2009,
+          "assay_chembl_id": "CHEMBL1019005",
+          "assay_type": "F"
+        },
+        "CHEMBL4296460": {
+          "target_chembl_id": "CHEMBL4296460",
+          "target_pref_name": "LNCaP C4-2",
+          "best_pchembl": 4.52,
+          "standard_type": "IC50",
+          "standard_value": "30300.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5236610",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5239297",
+          "assay_type": "F"
+        },
+        "CHEMBL612657": {
+          "target_chembl_id": "CHEMBL612657",
+          "target_pref_name": "CWR22R",
+          "best_pchembl": 4.44,
+          "standard_type": "IC50",
+          "standard_value": "36530.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5236610",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5239296",
+          "assay_type": "F"
+        },
+        "CHEMBL383": {
+          "target_chembl_id": "CHEMBL383",
+          "target_pref_name": "HL-60",
+          "best_pchembl": 4.38,
+          "standard_type": "IC50",
+          "standard_value": "41500.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1143042",
+          "document_year": 2007,
+          "assay_chembl_id": "CHEMBL905513",
+          "assay_type": "F"
+        }
+      }
+    },
+    "ononin": {
+      "chembl_id": "CHEMBL465980",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL5880": {
+          "target_chembl_id": "CHEMBL5880",
+          "target_pref_name": "Interleukin-2",
+          "best_pchembl": 6.92,
+          "standard_type": "Kd",
+          "standard_value": "120.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3286146",
+          "document_year": 2014,
+          "assay_chembl_id": "CHEMBL3291700",
+          "assay_type": "B"
+        }
+      },
+      "weak": {
+        "CHEMBL395": {
+          "target_chembl_id": "CHEMBL395",
+          "target_pref_name": "HepG2",
+          "best_pchembl": 4.39,
+          "standard_type": "IC50",
+          "standard_value": "40800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3286146",
+          "document_year": 2014,
+          "assay_chembl_id": "CHEMBL3291703",
+          "assay_type": "F"
+        }
+      }
+    },
+    "pachymic acid": {
+      "chembl_id": "CHEMBL468034",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "paeoniflorin": {
+      "chembl_id": "CHEMBL4303209",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {},
+      "weak": {
+        "CHEMBL613516": {
+          "target_chembl_id": "CHEMBL613516",
+          "target_pref_name": "N9",
+          "best_pchembl": 4.56,
+          "standard_type": "IC50",
+          "standard_value": "27800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1154236",
+          "document_year": 2009,
+          "assay_chembl_id": "CHEMBL1103250",
+          "assay_type": "F"
+        }
+      }
+    },
+    "paeonol": {
+      "chembl_id": "CHEMBL1079227",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "palmatine": {
+      "chembl_id": "CHEMBL1270849",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "phellodendrine": {
+      "chembl_id": null,
+      "status": "unresolved"
+    },
+    "poricoic acid A": {
+      "chembl_id": "CHEMBL461483",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {},
+      "weak": {
+        "CHEMBL383": {
+          "target_chembl_id": "CHEMBL383",
+          "target_pref_name": "HL-60",
+          "best_pchembl": 4.42,
+          "standard_type": "IC50",
+          "standard_value": "38000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1154271",
+          "document_year": 2009,
+          "assay_chembl_id": "CHEMBL1112364",
+          "assay_type": "F"
+        }
+      }
+    },
+    "pseudoephedrine": {
+      "chembl_id": "CHEMBL1590",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "saikosaponin a": {
+      "chembl_id": "CHEMBL3542194",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL613854": {
+          "target_chembl_id": "CHEMBL613854",
+          "target_pref_name": "COR-L23",
+          "best_pchembl": 6.22,
+          "standard_type": "IC50",
+          "standard_value": "600.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1152950",
+          "document_year": 2009,
+          "assay_chembl_id": "CHEMBL1060501",
+          "assay_type": "F"
+        },
+        "CHEMBL395": {
+          "target_chembl_id": "CHEMBL395",
+          "target_pref_name": "HepG2",
+          "best_pchembl": 5.08,
+          "standard_type": "IC50",
+          "standard_value": "8340.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3612048",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3614525",
+          "assay_type": "F"
+        }
+      },
+      "weak": {
+        "CHEMBL613842": {
+          "target_chembl_id": "CHEMBL613842",
+          "target_pref_name": "Bcap37",
+          "best_pchembl": 4.86,
+          "standard_type": "IC50",
+          "standard_value": "13960.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3612048",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3614527",
+          "assay_type": "F"
+        },
+        "CHEMBL392": {
+          "target_chembl_id": "CHEMBL392",
+          "target_pref_name": "A549",
+          "best_pchembl": 4.84,
+          "standard_type": "IC50",
+          "standard_value": "14540.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3612048",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3614524",
+          "assay_type": "F"
+        },
+        "CHEMBL614058": {
+          "target_chembl_id": "CHEMBL614058",
+          "target_pref_name": "Caco-2",
+          "best_pchembl": 4.75,
+          "standard_type": "IC50",
+          "standard_value": "17900.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1152950",
+          "document_year": 2009,
+          "assay_chembl_id": "CHEMBL1060502",
+          "assay_type": "F"
+        },
+        "CHEMBL387": {
+          "target_chembl_id": "CHEMBL387",
+          "target_pref_name": "MCF7",
+          "best_pchembl": 4.72,
+          "standard_type": "IC50",
+          "standard_value": "18990.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3612048",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3614528",
+          "assay_type": "F"
+        },
+        "CHEMBL613859": {
+          "target_chembl_id": "CHEMBL613859",
+          "target_pref_name": "A-375",
+          "best_pchembl": 4.62,
+          "standard_type": "IC50",
+          "standard_value": "23900.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1152950",
+          "document_year": 2009,
+          "assay_chembl_id": "CHEMBL1060495",
+          "assay_type": "F"
+        },
+        "CHEMBL1075401": {
+          "target_chembl_id": "CHEMBL1075401",
+          "target_pref_name": "C32",
+          "best_pchembl": 4.36,
+          "standard_type": "IC50",
+          "standard_value": "43500.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1152950",
+          "document_year": 2009,
+          "assay_chembl_id": "CHEMBL1060496",
+          "assay_type": "F"
+        }
+      }
+    },
+    "saikosaponin d": {
+      "chembl_id": "CHEMBL3613719",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL395": {
+          "target_chembl_id": "CHEMBL395",
+          "target_pref_name": "HepG2",
+          "best_pchembl": 5.31,
+          "standard_type": "IC50",
+          "standard_value": "4880.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3612048",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3614525",
+          "assay_type": "F"
+        },
+        "CHEMBL387": {
+          "target_chembl_id": "CHEMBL387",
+          "target_pref_name": "MCF7",
+          "best_pchembl": 5.12,
+          "standard_type": "IC50",
+          "standard_value": "7680.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3612048",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3614528",
+          "assay_type": "F"
+        },
+        "CHEMBL399": {
+          "target_chembl_id": "CHEMBL399",
+          "target_pref_name": "HeLa",
+          "best_pchembl": 5.0,
+          "standard_type": "IC50",
+          "standard_value": "10000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4402560",
+          "document_year": 2020,
+          "assay_chembl_id": "CHEMBL4404265",
+          "assay_type": "F"
+        }
+      },
+      "weak": {
+        "CHEMBL613842": {
+          "target_chembl_id": "CHEMBL613842",
+          "target_pref_name": "Bcap37",
+          "best_pchembl": 4.97,
+          "standard_type": "IC50",
+          "standard_value": "10670.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3612048",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3614527",
+          "assay_type": "F"
+        },
+        "CHEMBL392": {
+          "target_chembl_id": "CHEMBL392",
+          "target_pref_name": "A549",
+          "best_pchembl": 4.51,
+          "standard_type": "IC50",
+          "standard_value": "30820.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3612048",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3614524",
+          "assay_type": "F"
+        }
+      }
+    },
+    "senkyunolide A": {
+      "chembl_id": "CHEMBL499542",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    },
+    "tangeretin": {
+      "chembl_id": "CHEMBL73930",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL1075189": {
+          "target_chembl_id": "CHEMBL1075189",
+          "target_pref_name": "Pyruvate kinase PKM",
+          "best_pchembl": 6.02,
+          "standard_type": "AC50",
+          "standard_value": "950.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5223062",
+          "document_year": 2021,
+          "assay_chembl_id": "CHEMBL5223222",
+          "assay_type": "B"
+        }
+      },
+      "weak": {
+        "CHEMBL5393": {
+          "target_chembl_id": "CHEMBL5393",
+          "target_pref_name": "Broad substrate specificity ATP-binding cassette transporter ABCG2",
+          "best_pchembl": 4.77,
+          "standard_type": "IC50",
+          "standard_value": "17000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1681785",
+          "document_year": 2011,
+          "assay_chembl_id": "CHEMBL1687394",
+          "assay_type": "B"
+        },
+        "CHEMBL614076": {
+          "target_chembl_id": "CHEMBL614076",
+          "target_pref_name": "Monocyte",
+          "best_pchembl": 4.52,
+          "standard_type": "IC50",
+          "standard_value": "30000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1141808",
+          "document_year": 1999,
+          "assay_chembl_id": "CHEMBL980159",
+          "assay_type": "F"
+        },
+        "CHEMBL4302": {
+          "target_chembl_id": "CHEMBL4302",
+          "target_pref_name": "ATP-dependent translocase ABCB1",
+          "best_pchembl": 4.41,
+          "standard_type": "IC50",
+          "standard_value": "39000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1681785",
+          "document_year": 2011,
+          "assay_chembl_id": "CHEMBL1687396",
+          "assay_type": "B"
+        },
+        "CHEMBL614910": {
+          "target_chembl_id": "CHEMBL614910",
+          "target_pref_name": "SH-SY5Y",
+          "best_pchembl": 4.38,
+          "standard_type": "IC50",
+          "standard_value": "41200.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1145546",
+          "document_year": 2008,
+          "assay_chembl_id": "CHEMBL936344",
+          "assay_type": "F"
+        },
+        "CHEMBL384": {
+          "target_chembl_id": "CHEMBL384",
+          "target_pref_name": "HT-29",
+          "best_pchembl": 4.11,
+          "standard_type": "IC50",
+          "standard_value": "77000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1139322",
+          "document_year": 2009,
+          "assay_chembl_id": "CHEMBL1019005",
+          "assay_type": "F"
+        }
+      }
+    },
+    "wogonin": {
+      "chembl_id": "CHEMBL16171",
+      "id_source": "existing_snapshot",
+      "status": "available",
+      "strong": {
+        "CHEMBL387": {
+          "target_chembl_id": "CHEMBL387",
+          "target_pref_name": "MCF7",
+          "best_pchembl": 7.52,
+          "standard_type": "IC50",
+          "standard_value": "30.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5214967",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5217357",
+          "assay_type": "F"
+        },
+        "CHEMBL2111389": {
+          "target_chembl_id": "CHEMBL2111389",
+          "target_pref_name": "CDK9/cyclin T1",
+          "best_pchembl": 6.72,
+          "standard_type": "IC50",
+          "standard_value": "190.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4368927",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4370673",
+          "assay_type": "B"
+        },
+        "CHEMBL3116": {
+          "target_chembl_id": "CHEMBL3116",
+          "target_pref_name": "Cyclin-dependent kinase 9",
+          "best_pchembl": 6.72,
+          "standard_type": "IC50",
+          "standard_value": "190.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5223102",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5224411",
+          "assay_type": "B"
+        },
+        "CHEMBL301": {
+          "target_chembl_id": "CHEMBL301",
+          "target_pref_name": "Cyclin-dependent kinase 2",
+          "best_pchembl": 5.84,
+          "standard_type": "IC50",
+          "standard_value": "1460.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4368927",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4370680",
+          "assay_type": "B"
+        },
+        "CHEMBL3038469": {
+          "target_chembl_id": "CHEMBL3038469",
+          "target_pref_name": "CDK2/Cyclin A2",
+          "best_pchembl": 5.84,
+          "standard_type": "IC50",
+          "standard_value": "1460.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4364281",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4366850",
+          "assay_type": "B"
+        },
+        "CHEMBL1075189": {
+          "target_chembl_id": "CHEMBL1075189",
+          "target_pref_name": "Pyruvate kinase PKM",
+          "best_pchembl": 5.7,
+          "standard_type": "IC50",
+          "standard_value": "2010.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5136976",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5137795",
+          "assay_type": "B"
+        },
+        "CHEMBL2093872": {
+          "target_chembl_id": "CHEMBL2093872",
+          "target_pref_name": "GABA-A receptor; anion channel",
+          "best_pchembl": 5.69,
+          "standard_type": "Ki",
+          "standard_value": "2041.74",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1134495",
+          "document_year": 2001,
+          "assay_chembl_id": "CHEMBL877825",
+          "assay_type": "B"
+        },
+        "CHEMBL3038474": {
+          "target_chembl_id": "CHEMBL3038474",
+          "target_pref_name": "CDK8/Cyclin C",
+          "best_pchembl": 5.23,
+          "standard_type": "IC50",
+          "standard_value": "5900.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL5154907",
+          "document_year": 2022,
+          "assay_chembl_id": "CHEMBL5166985",
+          "assay_type": "B"
+        },
+        "CHEMBL6136": {
+          "target_chembl_id": "CHEMBL6136",
+          "target_pref_name": "Lysine-specific histone demethylase 1A",
+          "best_pchembl": 5.05,
+          "standard_type": "IC50",
+          "standard_value": "8870.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4308904",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4311550",
+          "assay_type": "B"
+        }
+      },
+      "weak": {
+        "CHEMBL3038473": {
+          "target_chembl_id": "CHEMBL3038473",
+          "target_pref_name": "CDK7/Cyclin H/MNAT1",
+          "best_pchembl": 4.91,
+          "standard_type": "IC50",
+          "standard_value": "12300.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4368927",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4370679",
+          "assay_type": "B"
+        },
+        "CHEMBL392": {
+          "target_chembl_id": "CHEMBL392",
+          "target_pref_name": "A549",
+          "best_pchembl": 4.8,
+          "standard_type": "IC50",
+          "standard_value": "15800.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4002633",
+          "document_year": 2017,
+          "assay_chembl_id": "CHEMBL4004365",
+          "assay_type": "F"
+        },
+        "CHEMBL395": {
+          "target_chembl_id": "CHEMBL395",
+          "target_pref_name": "HepG2",
+          "best_pchembl": 4.75,
+          "standard_type": "IC50",
+          "standard_value": "17600.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4364281",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4366792",
+          "assay_type": "F"
+        },
+        "CHEMBL394": {
+          "target_chembl_id": "CHEMBL394",
+          "target_pref_name": "HCT-116",
+          "best_pchembl": 4.56,
+          "standard_type": "IC50",
+          "standard_value": "27300.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4364281",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4366794",
+          "assay_type": "F"
+        },
+        "CHEMBL613835": {
+          "target_chembl_id": "CHEMBL613835",
+          "target_pref_name": "MV4-11",
+          "best_pchembl": 4.51,
+          "standard_type": "IC50",
+          "standard_value": "30700.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL4364281",
+          "document_year": 2019,
+          "assay_chembl_id": "CHEMBL4366795",
+          "assay_type": "F"
+        },
+        "CHEMBL612544": {
+          "target_chembl_id": "CHEMBL612544",
+          "target_pref_name": "SW480",
+          "best_pchembl": 4.46,
+          "standard_type": "IC50",
+          "standard_value": "35060.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3751778",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3756635",
+          "assay_type": "F"
+        },
+        "CHEMBL614944": {
+          "target_chembl_id": "CHEMBL614944",
+          "target_pref_name": "SW1353",
+          "best_pchembl": 4.41,
+          "standard_type": "IC50",
+          "standard_value": "39000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL1152395",
+          "document_year": 2009,
+          "assay_chembl_id": "CHEMBL1057902",
+          "assay_type": "F"
+        },
+        "CHEMBL384": {
+          "target_chembl_id": "CHEMBL384",
+          "target_pref_name": "HT-29",
+          "best_pchembl": 4.4,
+          "standard_type": "IC50",
+          "standard_value": "39550.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3751778",
+          "document_year": 2015,
+          "assay_chembl_id": "CHEMBL3756636",
+          "assay_type": "F"
+        },
+        "CHEMBL230": {
+          "target_chembl_id": "CHEMBL230",
+          "target_pref_name": "Prostaglandin G/H synthase 2",
+          "best_pchembl": 4.34,
+          "standard_type": "IC50",
+          "standard_value": "46000.0",
+          "standard_units": "nM",
+          "document_chembl_id": "CHEMBL3351295",
+          "document_year": 2014,
+          "assay_chembl_id": "CHEMBL3380375",
+          "assay_type": "B"
+        }
+      }
+    },
+    "zingerone": {
+      "chembl_id": "CHEMBL25894",
+      "id_source": "existing_snapshot",
+      "status": "no_eligible_activity",
+      "strong": {},
+      "weak": {}
+    }
+  }
+}

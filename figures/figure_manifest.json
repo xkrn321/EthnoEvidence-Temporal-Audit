@@ -1,0 +1,27 @@
+{
+  "generated_from": [
+    "benchmarks/papera_temporal_v2/protocol.json",
+    "benchmarks/papera_temporal_v2/candidate_corpus.json",
+    "benchmarks/papera_temporal_v2/cutoff_chembl_2022.json",
+    "benchmarks/papera_temporal_v2/locked_rankings_and_proxy_audit.json"
+  ],
+  "files_sha256": {
+    "Figure1_framework_and_temporal_design.pdf": "4ba0b67bc2d00164e9e30bbedee8fede5658ba14ca3dd539741b7fc7f47fc47b",
+    "Figure1_framework_and_temporal_design.png": "2a5673b497364dcb84a3e283b4cdbfc156421595c02e91b77610bc2172413d66",
+    "Figure1_framework_and_temporal_design.svg": "86cd8765834057b777ef71f0ef3bf667609bc90af6832efeb486430cf1dfc33c",
+    "Figure2_corpus_and_measured_coverage.pdf": "2eed5bcde06a13184f8469763e112d934a5baea046dc6f4c5eab46ccf0c76c82",
+    "Figure2_corpus_and_measured_coverage.png": "c3d2f9deae6f033a378015a3aa8e77e5bcf4cf512c587256451e1988c3e6659d",
+    "Figure2_corpus_and_measured_coverage.svg": "69d33d232cc8a996d5fbc2e3ec577a25400dbdafe3d4a9e2fba8a5e6308c9131",
+    "Figure3_counterfactual_evidence_audit.pdf": "3301c8da337633ab13bebddda405f86f30ee005c262143406ee9fe743120fe65",
+    "Figure3_counterfactual_evidence_audit.png": "c3ec375a69d1fe3f7b297b4bf7eac74036607061b0c1e0c6f756e170738eff43",
+    "Figure3_counterfactual_evidence_audit.svg": "3cf0dc6f26e36ac583b659f1be288574ab7554c013c665c4a5036893ec23cd46",
+    "Figure4_sensitivity_and_source_ablation.pdf": "0eb2d5696bf67d47eb7b3cbf342f233bc018f8c0c060c9bb9c55264952c88cfc",
+    "Figure4_sensitivity_and_source_ablation.png": "5aed7b745180554b50e63dca6d392c3dce66950b635a7c16e5ce4cdea9960b80",
+    "Figure4_sensitivity_and_source_ablation.svg": "bbf4326b3741bf344dbe92d5191c89a87a949bbca20e2756845122f06a923415",
+    "FigureS1_screening_ledger.pdf": "db515530840f127ddb6f37fc64c4215e7bb7b989bd0fe7998de1d1d2ebdd40ea",
+    "FigureS1_screening_ledger.png": "a821cc6fd48bd1bdf459f0cf899201a71846bb50a80d0560853b9a478ffb5af5",
+    "FigureS1_screening_ledger.svg": "4a28fdcbdc81e665125d47ae96fb5469d91ba59464e07f5c1a710184bfb5505f",
+    "Graphical_Abstract_EthnoEvidence.png": "ac2d390b985e13f80491526da462f3f68d3dba314f14d321ffa16eadc6944468",
+    "figure3_counterfactual_audit.json": "daa3291fcff570371926ed8f564d93f72e97261783cabfa39f428ed163546862"
+  }
+}

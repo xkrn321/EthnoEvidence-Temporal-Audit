@@ -1,0 +1,634 @@
+{
+  "formula": "二陈汤",
+  "window": "all",
+  "query": "(\"Erchen Decoction\"[Title/Abstract] OR \"Erchen Tang\"[Title/Abstract]) AND (mechanism*[Title/Abstract] OR pathway*[Title/Abstract] OR gene*[Title/Abstract] OR protein*[Title/Abstract] OR pharmacolog*[Title/Abstract]) AND (\"1900/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication]) NOT (\"Comment\"[Publication Type] OR \"Editorial\"[Publication Type] OR \"Letter\"[Publication Type] OR \"Meta-Analysis\"[Publication Type] OR \"News\"[Publication Type] OR \"Review\"[Publication Type] OR \"Systematic Review\"[Publication Type])",
+  "retrieved_at": "2026-08-29",
+  "pmids": [
+    "40446578",
+    "39954622",
+    "40615099",
+    "40617365",
+    "41304952",
+    "35844447",
+    "40772014",
+    "37838297",
+    "40617360",
+    "37087794",
+    "37078067",
+    "26504476",
+    "41116265",
+    "37712264",
+    "38845538",
+    "38621978",
+    "39151493",
+    "32007633",
+    "37037084",
+    "37986321",
+    "37336336",
+    "33653242",
+    "37274103",
+    "38621880",
+    "35392646",
+    "40348241",
+    "36313338",
+    "34366839",
+    "28630632",
+    "32256662",
+    "34536264",
+    "31088684",
+    "32382281",
+    "30402126",
+    "35795265"
+  ],
+  "records": {
+    "40446578": {
+      "title": "Erchen Decoction ameliorates the rat model of polycystic ovary syndrome by regulating the steroid biosynthesis pathway.",
+      "abstract": "Polycystic ovary syndrome (PCOS) is a common endocrine and metabolic disorder associated with chronic inflammation and metabolic issues, including insulin resistance, weight gain, and lipid imbalance. It may cause infertility, menstrual irregularities, and increase the likelihood of developing type 2 diabetes, immune system disturbances, and cardiovascular conditions. To identify the key components, underlying mechanisms, and therapeutic targets of Erchen decoction (ECD) for treating PCOS. Abbreviations: Abi group, abiraterone group; AKR, aldo-keto reductase; AMH, anti-Müllerian hormone; BC, betweenness; BP, biological process; BSA, bovine serum albumin; CC, cellular component; CCK-8, cell counting kit-8; Con group, control group; DC, degree centrality; DDA, data-dependent acquisition; DHEA, dehydroepiandrosterone; DHEAS, DHEA sulfate; DHT, dihydrotestosterone; ECD, Erchen decoction; Ecd group, Erchen decoction group; ELISA, enzyme-linked immunosorbent assay; E2, estradiol; FSH, follicle-stimulating hormone; GO, gene ontology; HE, hematoxylin and eosin; H-Ecd group, high-dose Erchen decoction group; HFD, high-fat diet; HSD, hydroxysteroid dehydrogenases; KEGG, Kyoto encyclopedia of genes and genomes; KGN, human granulosa-like tumor cells; LAC, local average connectivity; l-Ecd group, low-dose Erchen decoction group; LH, luteinizing hormone; Met group, metformin (Glucophage) group; MF, molecular function; MIS, Müllerian inhibiting substance; MST, microscale thermophoresis; PCOS model group, PCOS group; PCA, principal component analysis; PCOS, polycystic ovary syndrome; PPI, protein-protein interaction; T, testosterone; TCM, traditional Chinese medicine; Tcm group, traditional Chinese medicine group; UHPLC, ultra-high-performance liquid chromatography Bioinformatics was used to predict the targets of ECD components for treating PCOS. Sprague-Dawley rats were assigned to control (Con) and PCOS model groups. The latter was induced via letrozole (Femara) gavage (1 mg/kg) combined with a high-fat diet. The PCOS group was then subdivided for 28 days of intervention. Body weight was recorded, ovarian morphology was assessed through hematoxylin and eosin staining, and serum hormones were quantified using enzyme-linked immunosorbent assay. Proteomic analyses were performed to examine the underlying mechanisms and potential targets, which were validated using immunofluorescence, western blotting, and RT-qPCR. The pharmacological effects of the key ECD components were confirmed in dihydrotestosterone (DHT)-treated human granulosa KGN cells. The body weight of the rats in the Con and high-dose ECD (H-Ecd) groups decreased compared with that in the PCOS group. The H-Ecd and metformin (Glucophage) groups had significantly elevated levels of testosterone (T), luteinizing hormone, anti-Müllerian hormone (AMH), and follicle-stimulating hormone (p < 0.05), whereas the low-dose Ecd (l-Ecd) group showed no significant change. Thirteen blood-entering components and 168 potential therapeutic targets for PCOS were identified. Kyoto encyclopedia of genes and genomes and gene ontology analyses indicated the involvement of the steroid biosynthesis pathway. Principal component analysis revealed notable differences among the Con, H-Ecd, and PCOS groups. Microscale thermophoresis (MST) validated the binding affinities of liquiritin, glycyrrhizic acid, esculetin, and genistein to cytochrome P450 family 17 subfamily A member 1 (CYP17A1) as 5.4, 12.55, 32.8, and 17.6 μM, respectively. Immunofluorescence, western blotting, and RT-qPCR analyses revealed significantly decreased protein expression of CYP17A1 and 11β-hydroxysteroid dehydrogenase type 1 (HSD11B1) (p < 0.01) and significantly increased the expression of aldo-keto reductase family 1 member D1 (AKR1D1) and HSD11B2 in the Con, Met, and H-Ecd groups relative to that in the PCOS group, whereas the l-Ecd group showed no significant difference. The cell counting kit-8 assay demonstrated that abiraterone (100 μM), DHT (100 nM), glycyrrhizic acid (50 μM), liquiritin (600 μM), genistein (300 μM), and esculetin (100 μM) significantly decreased T and AMH levels (p < 0.05). E2 levels recovered significantly (p < 0.05) in the Con, abiraterone (Abi), and traditional Chinese medicine (Tcm) groups compared to that in the DHT group. Western blot analysis indicated a significant reduction in CYP17A1 and HSD11B1 protein expression (p < 0.01) and a significant increase in AKR1D1 and HSD11B2 expression (p < 0.01) in the Con, Abi, and Tcm groups compared to that in the DHT group. We sought to identify the active constituents of ECD for treating PCOS and found that ECD enhances ovarian function by modulating the expression of CYP17A1, HSD11B1, AKR1D1, and HSD11B2 in the steroid hormone biosynthesis pathway resulting in improved hormone levels and follicular development. These results highlight the potential mechanism underlying ECD-mediated effects for PCOS therapy. Molecular docking validated the interaction of liquiritin, glycyrrhizic acid, esculetin, and genistein with CYP17A1, HSD11B1, AKR1D1, and HSD11B2. These interactions were further confirmed in vitro using MST and validated at the cellular level. Our results offer a scientific foundation for the therapeutic application of ECD in PCOS treatment.",
+      "year": 2025,
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "doi": "10.1016/j.phymed.2025.156852",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-05-20"
+      ],
+      "journal_issue_date": "2025-07-25",
+      "canonical_publication_date": "2025-05-20",
+      "canonical_publication_year": 2025
+    },
+    "39954622": {
+      "title": "ErTao decoction alleviates liver fibrosis by suppressing STING-mediated macrophages and NLRP3 inflammasome activation.",
+      "abstract": "Liver fibrosis (LF) is a common pathological process in the progression of multiple chronic liver diseases to cirrhosis, affecting millions of people worldwide annually. The incomplete understanding of its mechanisms has led to a lack of clinically effective therapeutic options. ErTao decoction (ETD, ), a derivative combining the components of Erchen Decoction and Taohong Siwu Decoction, is rooted in the traditional Chinese medicine theory of \"phlegm-dampness-blood stasis\". However, the precise mechanism by which ETD exerts its therapeutic effects in LF remains unclear. The purpose of study was to investigate the protective effect of ETD and elucidate its underlying molecular mechanism on LF. In this study, we employed a multifaceted approach to evaluate the effects of ETD on LF. We used H&E staining, Sirius red staining, immunofluorescence, immunohistochemical analysis, and Western blotting to assess the protective effects of ETD in a CCl4-induced fibrosis mouse model. In vitro validation was conducted using macrophages and hepatic stellate cells to further elucidate the mechanisms involved. STING-deficient mice were used to assess its regulatory effects on liver injury, inflammatory and activation through immunohistochemical staining and Western blotting. Furthermore, UHPLCHRMS detection and computer-aided drug analysis were employed to identify and validate potential effective components of ETD for responsible for its therapeutic effects in treating LF. In our in vivo and in vitro experiments, we found that ETD effectively reduced collagen fiber deposition and alleviated LF pathological changes by inhibiting macrophage inflammatory activation and suppressing NLRP3 and STING signaling. Notably, STING deficiency exhibited a protective effect against liver tissue injury and inhibited inflammatory activation of hepatic macrophages in LF model mice. Additionally, comprehensive analysis of the active ingredients in ETD strongly suggested that Naringin served as a pivotal bioactive constituent within ETD responsible for modulating STING signaling. Our study highlighted the protective effects of ETD on LF by inhibiting STING-mediated macrophage activation and NLRP3 inflammasome signaling. Notably, Naringin might serve as a promising novel STING inhibitor to effectively counteract the progression of LF. These findings represented significant advances in LF research and paved the way for the development of novel therapeutic strategies.",
+      "year": 2025,
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "doi": "10.1016/j.phymed.2025.156489",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-02-09"
+      ],
+      "journal_issue_date": "2025-04",
+      "canonical_publication_date": "2025-02-09",
+      "canonical_publication_year": 2025
+    },
+    "40615099": {
+      "title": "Unravelling the mechanisms of erchen decoction in the treatment of nonalcoholic fatty liver disease (NAFLD): an integrative study combining network pharmacology, molecular docking, molecular dynamics simulation, multi-omics analysis, and experimental validation.",
+      "abstract": "Erchen decoction (ECD) is a traditional Chinese herbal formula widely used in clinical practice for the treatment of nonalcoholic fatty liver disease (NAFLD). However, the molecular mechanisms underlying its therapeutic effects have not been fully clarified. To explore the pharmacological efficacy and potential molecular mechanisms of ECD in the treatment of NAFLD. UPLC-Q-E-Orbitrap-MS was used to identify the chemical composition of the ECD and ECD-containing serum (ECDS). Network pharmacology, molecular docking, molecular dynamics simulation, transcriptomics, and metabolomics were integrated to predict the underlying mechanisms. In vivo and in vitro models-including high-fat diet- and glucose-fructose water-fed mice, as well as oleic acid- and palmitic acid-induced HepG2 cells-were used to evaluate the therapeutic effects of ECD. An inhibition strategy was applied to investigate the functions of the validated pathways. ECD attenuated NAFLD progression both in vivo and in vitro. Thirty-eight active ingredients were identified in the ECDS. Network pharmacological analysis predicted that PPARG and BCL-2 might be central targets, whereas AMPK signalling and apoptosis are likely the main pathways mediating the anti-NAFLD effects of ECD. Molecular docking and molecular dynamics simulation suggested that multiple ECDS ingredients exhibited favourable binding affinities with AMPK and BCL-2, potentially offering therapeutic effects in NAFLD treatment. RNA sequencing analysis revealed that the differentially expressed genes were enriched primarily in the AMPK pathway. Liver metabolomics analysis revealed that the differentially expressed metabolites were associated mainly with oxidative phosphorylation and AMPK signalling. In experimental validation, ECD treatment increased phosphorylated AMPK levels, thereby promoting PPARα activation and upregulating key enzymes involved in β-oxidation (CPT1A and ACOX1) while downregulating PPARγ and its downstream genes associated with fatty acid synthesis (SREBP-1 and FASN), thus improving hepatic lipid metabolism both in vivo and in vitro. Moreover, the combination of ECD with the AMPK inhibitor compound C counteracted the lipid synthesis-reducing and lipid degradation-promoting effects of ECD both in vivo and in vitro. Additionally, ECD reduced the expression of inflammatory cytokines (TNF-α, IL-6, and IL-1β), suppressed ROS production, increased the mitochondrial membrane potential, and inhibited cell apoptosis by modulating the expression of BCL-2, Bax, cleaved PARP and cleaved caspase-3 both in vivo and in vitro. ECD attenuates NAFLD progression by targeting AMPK-mediated hepatic lipid metabolism and reducing hepatic apoptosis, providing new insights into the anti-NAFLD mechanism of ECD.",
+      "year": 2025,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2025.120216",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-07-02"
+      ],
+      "journal_issue_date": "2025-09-25",
+      "canonical_publication_date": "2025-07-02",
+      "canonical_publication_year": 2025
+    },
+    "40617365": {
+      "title": "Erchen decoction alleviates silicosis by attenuating ferroptosis and fibrosis in alveolar macrophages via modulating the P53/HMOX1 pathway.",
+      "abstract": "Erchen decoction (ECD) has traditionally been employed as an adjunct therapy for respiratory diseases such as tracheitis, bronchitis, and chronic obstructive pulmonary disease (COPD) in China. However, its therapeutic effects and underlying mechanisms in treating silicosis remain unclear. This study aims to elucidate the protective mechanism of ECD against silica-induced pulmonary fibrosis, focusing specifically on ferroptosis in alveolar macrophages (AMs). Silicosis animal and cellular models were established through silica (SiO2) exposure to evaluate the therapeutic efficacy of ECD. The effects of ECD on fibrosis, polarization, and ferroptosis in AMs were systematically evaluated using histopathology, cytokine assays, and molecular biology techniques. Animal experiments demonstrated that ECD significantly reduced silica-induced inflammatory infiltration, collagen deposition, and fibrosis markers (α-SMA and Collagen-1) expression in mouse lung tissues. Metabolomic analysis identified active components in ECD serum, including quercetagitrin and hinokiol, which exhibited strong binding affinities with key ferroptosis targets (P53 and HMOX1). Co-culture models confirmed that ECD suppressed fibroblast migration and activation via modulating AMs function, thereby reducing secretion of pro-inflammatory (IL-6) and pro-fibrotic (TGF-β) factors. Mechanistically, ECD inhibited silica-induced ferroptosis in AMs, evident by reduced intracellular Fe2+, lipid peroxidation, and malondialdehyde (MDA) levels, increased GPX4 and xCT expression, and antioxidant activity mediated through the P53/HMOX1 axis. ECD effectively ameliorates silica-induced silicosis progression by targeting ferroptosis in AMs and regulating the P53/HMOX1 signaling pathway, highlighting its potential as an adjunct therapeutic option for silicosis.",
+      "year": 2025,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2025.120227",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-07-04"
+      ],
+      "journal_issue_date": "2025-08-29",
+      "canonical_publication_date": "2025-07-04",
+      "canonical_publication_year": 2025
+    },
+    "41304952": {
+      "title": "The",
+      "abstract": "Backgrounds: Non-alcoholic fatty liver disease (NAFLD) is a multifaceted metabolic disorder that has become a prominent public health problem worldwide. As a traditional Chinese medicine formula, the ErChen decoction (ECD) possesses significant effects on metabolic syndrome. Methods: To determine whether ECD can relieve lipid accumulation and insulin resistance (IR) in liver cells, NAFLD and IR cell models were established by treating HepG2 cells with free fatty acids and an overdose of insulin, respectively. Bioinformatics and experimental evidence demonstrated that ECD could ameliorate NAFLD by modulating multiple pathways. The optimal combination of the key compounds in ECD was identified by the orthogonal experiment. Results: For lipid homeostasis, ECD suppressed de novo lipogenesis and reduced the cholesterol level by activating the AMPK signaling pathway. Concurrently, ECD enhanced hepatic β-oxidation by inducing PPARα-mediated upregulation of ACOX-1 and CPT-1α. ECD also resolved hepatic insulin resistance by activating the IRS1-Akt-FoxO1 pathway. The combined treatment with 100 μM liquiritin (LQ), 200 μM glycyrrhizic acid (GA) and 200 μM hesperidin (HEN) exhibited the best effect in reducing TG content in NAFLD model cells. Conclusions: ECD exhibited superior activities in activating the AMPK signaling pathway compared to the optimal compound combination. The comparison between the ECD and its key compounds demonstrated the superior synergistic effects of the herbs in ECD.",
+      "year": 2025,
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "doi": "10.3390/ph18111707",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-11-11"
+      ],
+      "journal_issue_date": "2025-11-11",
+      "canonical_publication_date": "2025-11-11",
+      "canonical_publication_year": 2025
+    },
+    "35844447": {
+      "title": "Erchen Decoction Ameliorates the Metabolic Abnormalities of High-Fat Diet-Fed Rats.",
+      "abstract": "Brown adipose tissue (BAT) dissipates chemical energy to protect against obesity. In the present study, we aimed to determine the effects of Erchen decoction on the lipolysis and thermogenesis function of BAT in high-fat diet-fed rats. Sprague-Dawley rats were randomly divided into four groups, which were fed a control diet (C) or a high-fat diet (HF), and the latter was administered with high and low doses of Erchen decoction by gavage once a day, for 12 weeks. Body weight, the serum lipid profile, serum glucose, and insulin levels of the rats were evaluated. In addition, the phosphorylation and protein and mRNA expression of AMP-activated protein kinase (AMPK), adipose triglyceride lipase (ATGL), peroxisome proliferator-activated receptor γ coactivator- (PGC-) 1α, and uncoupling protein 1 (UCP-1) in BAT were measured by immunoblotting and RT-PCR. Erchen decoction administration decreased body weight gain and ameliorated the abnormal lipid profile and insulin resistance index of the high-fat diet-fed rats. In addition, the expression of p-AMPK and ATGL in the BAT was significantly increased by Erchen decoction. Erchen decoction also increased the protein and mRNA expression of PGC-1α and UCP-1 in BAT. Erchen decoction ameliorates the metabolic abnormalities of high-fat diet-fed rats, at least in part via activation of lipolysis and thermogenesis in BAT.",
+      "year": 2022,
+      "journal": "Computational and mathematical methods in medicine",
+      "doi": "10.1155/2022/2183542",
+      "publication_types": [
+        "Journal Article",
+        "Retracted Publication"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-07-06"
+      ],
+      "journal_issue_date": "2022",
+      "canonical_publication_date": "2022-07-06",
+      "canonical_publication_year": 2022
+    },
+    "40772014": {
+      "title": "Erchen Decoction Offers Health Benefits in Regulating Obesity: Component Analysis, Network Pharmacology, and Experiment Verification.",
+      "abstract": "Erchen Decoction (ECT) is composed of six plants and fruits, with potential for treating metabolic diseases. However, its regulatory effects and material basis on simple obesity have not been reported. In this study, we predicted potential targets and pathways of ECT intervention on simple obesity through component analysis and network pharmacology. Subsequently, the predicted targets and regulatory pathways were validated via animal experiments. A total of 93 compounds were identified in ECT and 221 overlapping potential targets were identified between ECT and obesity. KEGG enrichment analysis revealed that the regulatory pathways of ECT may involve lipid metabolism, oxidative stress regulation, and immune modulation. Molecular docking experiments demonstrated that the main components of ECT, including Sachaliside, Naringenin, Liquiritigenin, maclurin, and Rhapontigenin, exhibited strong binding affinities with oxidative stress and immune markers. Animal experiments demonstrated that ECT has significant potential for weight loss and lipid-lowering effects, especially mitigating hepatic oxidative stress and systemic inflammation through the LPS-TLR4/MyD88/NF-κB signaling pathway. This study provides fundamental data for the further development of ECT as a potential functional food for regulating simple obesity.",
+      "year": 2025,
+      "journal": "Food science & nutrition",
+      "doi": "10.1002/fsn3.70592",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-08-05"
+      ],
+      "journal_issue_date": "2025-08",
+      "canonical_publication_date": "2025-08-05",
+      "canonical_publication_year": 2025
+    },
+    "37838297": {
+      "title": "Erchen decoction alleviates the progression of NAFLD by inhibiting lipid accumulation and iron overload through Caveolin-1 signaling.",
+      "abstract": "A combination of 6 different Chinese herbs known as Erchen decoction (ECD) has been traditionally used to treat digestive tract diseases and found to have a protective effect against nonalcoholic fatty liver disease (NAFLD). Despite its efficacy in treating NAFLD, the precise molecular mechanism by which Erchen Decoction regulated iron ion metabolism to prevent disease progression remained poorly understood. Our study attempted to confirm the specific mechanism of ECD in reducing lipid and iron in NAFLD from the perspective of regulating the expression of Caveolin-1 (Cav-1). In our study, the protective effect of ECD was investigated in Palmitic Acid + Oleic Acid-induced hepatocyte NAFLD model and high-fat diet-induced mice NAFLD model. To investigate the impact of Erchen Decoction (ECD) on lipid metabolism and iron metabolism via mediating Cav-1 in vitro, Cav-1 knockdown cell lines were established using lentivirus-mediated transfection techniques. We constructed NAFLD model by feeding with high-fat diet for 12 weeks in vivo and Palmitic Acid + Oleic Acid treatment for 24 h in vitro. The regulation of Lipid and iron metabolism results by ECD were detected by serological diagnosis, immunofluorescent and immunohistochemical staining, and western blotting. The binding ability of 6 small molecules of ECD to Cav-1 was analyzed by molecular docking. We demonstrated that ECD alleviated the progression of NAFLD by inhibiting lipid accumulation, nitrogen oxygen stress, and iron accumulation in vivo and in vitro experiments. Furthermore, ECD inhibited lipid and iron accumulation in liver by up-regulating the expression of Cav-1, which indicated that Cav-1 was an important target for ECD to exert its curative effect. In summary, our study demonstrated that ECD alleviated the accumulation of lipid and iron in NAFLD through promoting the expression of Cav-1, and ECD might serve as a novel Cav-1 agonist to treat NAFLD.",
+      "year": 2023,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2023.117320",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-10-13"
+      ],
+      "journal_issue_date": "2024-01-30",
+      "canonical_publication_date": "2023-10-13",
+      "canonical_publication_year": 2023
+    },
+    "40617360": {
+      "title": "Erchen decoction alleviates anxiety and depression-like behaviors in high-fat diet-induced obesity mice via the Adipose-Brain axis.",
+      "abstract": "Erchen decoction (ECD) is a traditional Chinese medicine composed of six herbs that are historically recognized for their therapeutic effects on obesity, lipid metabolic disorders and systemic inflammation. However, the role and underlying mechanisms of ECD in alleviating anxiety and depression-like behaviors (ADBs) associated with obesity remain unclear. This study aimed to investigate the role and mechanisms by which ECD improves ADBs in obese mice, with a focus on the adipose-brain axis. An obesity model was established by feeding a high-fat diet (HFD) and then administering ECD by gavage. ADBs were evaluated via the open-field test and elevated plus maze test. Biochemical assays, histopathological observation, real-time PCR, immunofluorescence staining, untargeted metabolomics, and network pharmacology analysis were performed to investigate the potential mechanisms underlying the effects of ECD. Furthermore, the active components of ECD were qualitatively and quantitatively identified through extensive targeted mass spectrometry. ECD treatment not only improved HFD-induced adipose deposition and liver steatosis but also reduced neuroinflammation and inguinal white adipose tissue (iWAT) inflammation. Additionally, ECD inhibited the activation of microglia in the brain (p < 0.001), enhanced astrocyte activation (p < 0.001), and upregulated brain-derived neurotrophic factor (BDNF) expression (p < 0.05, p < 0.01). Furthermore, ECD intervention significantly alleviated HFD-induced ADBs. ECD alleviated HFD-induced ADBs by ameliorating inflammation in both iWAT and the brain, indicating that ECD is a potential therapy for ADBs. In addition, this is a preclinical mouse study to temper its applicability to human populations.",
+      "year": 2025,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2025.120218",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-07-03"
+      ],
+      "journal_issue_date": "2025-08-29",
+      "canonical_publication_date": "2025-07-03",
+      "canonical_publication_year": 2025
+    },
+    "37087794": {
+      "title": "Erchen decoction to reduce oxidative stress in dyslipidemia phlegm-dampness retention syndrome mice: In vivo mechanism revealed by metabolomics (liquid chromatography-mass spectrometry).",
+      "abstract": "Erchen decoction, a traditional Chinese medicine formula, can reduce the level of oxidative stress for the treatment of dyslipidemia phlegm-dampness retention syndrome (DPDRS); however, studies have not elucidated the mechanism underlying its metabolic action. Here, liquid chromatography-mass spectrometry (LC-MS)-based metabolomic techniques were utilized to characterize the in vivo effects of Erchen decoction in achieving reduction of oxidative stress levels and understand the potential metabolic mechanisms of action. We constructed a DPDRS animal model using a multifactorial composite modeling approach, and Erchen decoction was administered by gavage. We employed LC-MS-based metabolomic techniques in combination with serum-associated factors, gene transcription, methylation detection, and hematoxylin and eosin staining. In this study, the constructed animal model of DPDRS had satisfactory quality. Erchen decoction treatment reduced the levels of low-density lipoprotein cholesterol, t total cholesterol and riglyceride; it improved the endothelial structure, increased levels of serum β-nicotinamide adenine dinucleotide phosphate and glutathione concentrations, increased aortic phosphoserine aminotransferase and phosphoserine phosphatase gene expression levels, and decreased aortic phosphoglycerate dehydrogenase methylation level. A total of 64 differential metabolites were obtained using LC-MS assay, and 34 differential metabolic pathways were obtained after enrichment. Erchen decoction treatment of DPDRS mice reversed lipid indexes, improved vascular endothelial structure, increased serum and aortic anti-oxidative stress factor concentration and expression levels, and decreased methylation levels, thereby reducing oxidative stress and protecting vascular endothelium. Tricarboxylic acid cycle and metabolic pathways of serum glutamine, serine, tryptophan, pyrimidine, and pyruvate were the most relevant metabolic pathways involved in reducing oxidative stress levels by Erchen decoction during DPDRS treatment; especially, mitochondrial redox homeostasis maintenance in endothelial cells may be crucial. In this work, the therapeutic potential of Erchen decoction for reducing the oxidative stress level in DPDRS was demonstrated; however, its in-depth mechanism is worth further exploration.",
+      "year": 2023,
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "doi": "10.1016/j.phymed.2023.154808",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-04-06"
+      ],
+      "journal_issue_date": "2023-07",
+      "canonical_publication_date": "2023-04-06",
+      "canonical_publication_year": 2023
+    },
+    "37078067": {
+      "title": "Regulation of Fatty Acid Metabolism and Inhibition of Colorectal Cancer Progression by Erchen Decoction.",
+      "abstract": "Erchen decoction (ECD) is a traditional Chinese prescription widely used in the treatment of various diseases such as obesity, fatty liver, diabetes, and hypertension. In this study, we investigated the effect of ECD on fatty acid metabolism in a colorectal cancer (CRC) mouse model fed a high-fat (HF) diet. The HF-CRC mouse model was established by azoxymethane (AOM)/dextran sulphate sodium (DSS) combined with a high-fat diet. Mice were then gavaged with ECD. Change in the body weight was recorded every two weeks for 26 weeks. Changes in blood glucose (GLU), total cholesterol (TC), total triglycerides (TG), and C-reactive protein (CRP) were measured. Colorectal tissues were collected to observe changes in colorectal length and tumorigenesis. Hematoxylin-eosin (HE) staining and immunohistochemical staining were performed to observe changes in intestinal structure and inflammatory markers. Fatty acids and the expression of related genes in colorectal tissues were also studied. ECD gavage inhibited HF-induced weight gain. CRC induction and HF diet intake resulted in increased GLU, TC, TG, and CRP, where ECD gavage reduced these elevated indicators. ECD gavage also increased colorectal length and inhibited tumorigenesis. HE staining revealed that ECD gavage suppressed inflammatory infiltration of colorectal tissues. ECD gavage suppressed the fatty acid metabolism abnormalities caused by HF-CRC in colorectal tissues. Consistently, ECD gavage lowered ACSL4, ACSL1, CPT1A, and FASN levels in colorectal tissues. Conclusions. ECD inhibited HF-CRC progression through the regulation of fatty acid metabolism.",
+      "year": 2023,
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "doi": "10.1155/2023/9557720",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-04-10"
+      ],
+      "journal_issue_date": "2023",
+      "canonical_publication_date": "2023-04-10",
+      "canonical_publication_year": 2023
+    },
+    "26504476": {
+      "title": "Erchen Decoction Prevents High-Fat Diet Induced Metabolic Disorders in C57BL/6 Mice.",
+      "abstract": "Erchen decoction (ECD) is a traditional Chinese medicine prescription, which is used in the treatment of obesity, hyperlipidemia, fatty liver, diabetes, hypertension, and other diseases caused by retention of phlegm dampness. In this study we investigated the potential mechanism of ECD, using metabolism-disabled mice induced by high-fat diet. Body weight and abdominal circumference were detected. OGTT was measured by means of collecting blood samples from the tail vein. Blood lipid levels and insulin were measured using biochemical assay kit. Real-time PCR was used to measure the CDKAL1 gene expression and western blot was used to measure the protein expression. Through the research, it was found that ECD showed markedly lower body weight and abdominal circumference than those in the HFD group. Consistently, we observed that ECD significantly improved glucose tolerance, promoted the secretion of insulin and decreased the level of TG, TC level. Meanwhile, we observed significantly increased CDKAL1 mRNA and protein level in the ECD group. Therefore, we speculate that the potential molecular mechanism of ECD is to promote the CDKAL1 expression, ameliorate islet cell function, and raise insulin levels to regulate the metabolic disorder.",
+      "year": 2015,
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "doi": "10.1155/2015/501272",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2015-10-04"
+      ],
+      "journal_issue_date": "2015",
+      "canonical_publication_date": "2015-10-04",
+      "canonical_publication_year": 2015
+    },
+    "41116265": {
+      "title": "Exploration of the Mechanism of Erchen Decoction in Ameliorating Obesity by Regulating Lipid Deposition",
+      "abstract": "<p>Introduction: Obesity, a global health crisis, necessitates innovative therapeutic strategies. Traditional Chinese Medicine (TCM), including Erchen Decoction (ECD), offers potential benefits; however, the molecular mechanisms underlying ECD's anti-obesity effects, particularly on lipid metabolism, remain unclear. This study investigates the mechanism by which ECD improves lipid metabolism through the AMPK/SIRT1/PGC-1α signaling pathway.</p><p> Methods: AML-12 hepatocytes were cultured and divided into Control, Model (palmitic acid-induced lipid deposition), and treatment groups (ECD serum: 2%, 4%, 8%; orlistat: 10 μM). Cell viability, lipid accumulation, and triglyceride (TG) content were measured. Key lipid metabolism genes (p-AMPK/AMPK, SIRT1, PPARα, PGC-1α, Nrf2, TFAM) were evaluated using RT-qPCR, Western Blot, and immunofluorescence. Network pharmacology analysis identified ECD's targets and pathways.</p> <p> Results: The Model group showed increased lipid droplets and TG content, with reduced AMPK, SIRT1, PPARα, PGC-1α, Nrf2, and TFAM expression compared to Control. ECD treatment significantly decreased lipid droplets and TG content (at all doses), with the 4% dose being the most effective. ECD up-regulated all tested genes, confirmed by immunofluorescence (p-AMPK, SIRT1, PGC-1α). Network pharmacology highlighted the overlap between ECD and obesity pathways, with a particular emphasis on lipid metabolism.</p> <p> Discussion: ECD improves lipid metabolism in AML-12 hepatocytes by activating the AMPK/ SIRT1/PGC-1α pathway, consistent with prior research. The upregulation of Nrf2 and TFAM indicates enhanced mitochondrial function and resistance to oxidative stress. Limitations include the use of in vitro models; future studies should focus on clinical translation and dosage optimization. Conclusion: ECD regulates lipid metabolism via the AMPK/SIRT1/PGC-1α pathway, providing a scientific basis for its clinical use in obesity-related diseases. This study highlights ECD as a promising therapeutic strategy for improving lipid metabolism and reducing obesity-associated risks.</p>.",
+      "year": 2025,
+      "journal": "Endocrine, metabolic & immune disorders drug targets",
+      "doi": "10.2174/0118715303373517250919055421",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-10-15"
+      ],
+      "journal_issue_date": "2025-10-15",
+      "canonical_publication_date": "2025-10-15",
+      "canonical_publication_year": 2025
+    },
+    "37712264": {
+      "title": "[",
+      "abstract": "To investigate the effect of Erchen Decoction on iron homeostasis in mice with nonalcoholic fatty liver disease (NAFLD) and its mechanism for regulating iron transport in spleen cells. Thirty male C57BL/6J mice were given a high-fat diet for 12 weeks and randomized (n=6) at the 7th week for gavage (3 times a week) of drinking water (NAFLD model group), Erchen Decoction at low, medium and high doses (7.5, 15, and 30g/kg, respectively), or polyene phosphatidyl choline (PPC; 9.12 mg/kg), with another 6 mice with low-fat and low-sugar feeding as the control group. The active components of Erchen Decoction were determined by HPLC-MS. Lipid accumulation in the liver was evaluated by HE staining and Nile red staining. Prussian blue staining was used to observe iron content in the spleen. The iron ion content in the liver tissue was detected using a detection kit. The expressions of ferroportin1 (Fpn1), transferrin receptor (TfR), Steap3, HO-1, Ter-119, CD163 and CD68 were detected using Western blotting, immunohistochemistry and immunofluorescence staining. Medium- and high-dose Erchen Decoction partially reversed the increase of lipid accumulation in the liver of NAFLD mice and showed better lipid-lowering effect than PPC. The NAFLD mice showed significantly decreased iron ion content in the spleen with increased hepatic and serum iron contents (P < 0.05), decreased TfR protein expression (P < 0.05), and increased Fpn1 and Steap3 protein expressions (P < 0.05), and these changes were significantly improved by the drug interventions. Erchen Decoction also improved the function of CD163 macrophages in the spleen of NAFLD mice by up-regulating the expression of HO-1 (P < 0.05). Erchen Decoction can alleviate high-fat diet-induced iron metabolism disorder by improving the iron ion transport ability of the spleen cells to delay the progression of NAFLD.",
+      "year": 2023,
+      "journal": "Nan fang yi ke da xue xue bao = Journal of Southern Medical University",
+      "doi": "10.12122/j.issn.1673-4254.2023.08.04",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2023-08-20",
+      "canonical_publication_date": "2023-08-20",
+      "canonical_publication_year": 2023
+    },
+    "38845538": {
+      "title": "Experimental Verification of Erchen Decoction Plus Huiyanzhuyu Decoction in the Treatment of Laryngeal Squamous Cell Carcinoma Based on Network Pharmacology.",
+      "abstract": "The prescription of Chinese herbal medicine (CHM) consists of multiple herbs that exhibit synergistic effects due to the presence of multiple components targeting various pathways. In clinical practice, the combination of Erchen decoction and Huiyanzhuyu decoction (EHD) has shown promising outcomes in treating patients with laryngeal squamous cell carcinoma (LSCC). However, the underlying mechanism by which EHD exerts its therapeutic effects in LSCC remains unknown. Online databases were utilized for the analysis and prediction of the active constituents, targets, and key pathways associated with EHD in the treatment of LSCC. The protein-protein interaction (PPI) network of common targets was constructed and visualized using Cytoscape 3.8.1 software. Gene ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) analyses were performed to investigate the functional roles of core targets within the PPI network. Protein clustering was conducted utilizing the MCODE plug-in. The obtained results highlight the principal targets and pathways involved. Subsequently, clinical samples were collected to validate alterations in the levels of these main targets through Western blotting (WB) and immunohistochemistry (IHC). Furthermore, both in vivo and in vitro experiments were conducted to investigate the therapeutic effects of EHD on healing LSCC and elucidate its underlying mechanism. Additionally, to ensure experimental reliability and reproducibility, quality control measures utilizing HPLC were implemented for EHD herbal medicine. The retrieval and analysis of databases in EHD medicine and LSCC disease yielded a total of 116 overlapping targets. The MCODE plug-in methods were utilized to acquire 8 distinct protein clusters through protein clustering. The findings indicated that both the first and second clusters exhibited a size greater than 6 scores, with key genes PI3K and ErbB occupying central positions, while the third and fourth clusters were associated with proteins in the PI3K, STAT3, and Foxo pathways. GO functional analysis reported that these targets had associations mainly with the pathway of p53 mediated DNA damage and negative regulation of cell cycle in terms of biological function; the death-induced signaling complex in terms of cell function; transcription factor binding and protein kinase activity in terms of molecular function. The KEGG enrichment analysis demonstrated that these targets were correlated with several signaling pathways, including PI3K-Akt, FoxO, and ErbB2 signaling pathway. On one hand, we observed higher levels of key genes such as P-STAT3, P-PDK1, P-Akt, PI3K, and ErbB2 in LSCC tumor tissues compared to adjacent tissues. Conversely, FOXO3a expression was lower in LSCC tumor tissues. On the other hand, the key genes mentioned above were also highly expressed in both LSCC xenograft nude mice tumors and LSCC cell lines, while FOXO3a was underexpressed. In LSCC xenograft nude mice models, EHD treatment resulted in downregulation of P-STAT3, P-PDK1, PI3K, P-AKT, and ErbB2 protein levels but upregulated FOXO3a protein level. EHD also affected the levels of P-STAT3, P-PDK1, PI3K, P-AKT, FOXO3a, and ErbB2 proteins in vitro: it inhibited P-STAT3, P-AKT, and ErbB2, while promoting FOXO3a; however, it had no effect on PDK1 protein. In addition, HPLC identified twelve compounds accounting for more than 30% within EHD. The findings from this study can serve as valuable guidance for future experimental investigations. The possible mechanism of EHD medicine action on LSCC disease is speculated to be closely associated with the ErbB2/PI3K/AKT/FOXO3a signaling pathway.",
+      "year": 2024,
+      "journal": "Integrative cancer therapies",
+      "doi": "10.1177/15347354241259182",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2024",
+      "canonical_publication_date": "2024",
+      "canonical_publication_year": 2024
+    },
+    "38621978": {
+      "title": "[Intervention effect of Erchen Decoction on methionine and choline deficient diet-induced non-alcoholic steatohepatitis in mice].",
+      "abstract": "This study investigated the effect of Erchen Decoction(ECD) on the prevention of non-alcoholic steatohepatitis(NASH) in mice and explored its possible mechanism, so as to provide scientific data for the clinical application of ECD in the prevention of NASH. C57BL/6 male mice were randomly divided into normal group(methionine and choline supplement, MCS), model group(methionine and choline deficient, MCD), low-dose ECD group(ECD＿L, 6 g·kg~(-1)), medium-dose ECD group(ECD＿M, 12 g·kg~(-1)), and high-dose ECD group(ECD＿H, 24 g·kg~(-1)), with eight mice in each group. The MCS group was fed with an MCS diet, and the other groups were fed with an MCD diet. The mice in each group were given corresponding diets, but the drug intervention group was given low-, medium-, and high-dose ECD(10 mL·kg~(-1)·d~(-1)) by intragastric administration for six weeks on the basis of MCD diet feeding, and the mice could eat and drink freely during the whole experiment. At the end of the experiment, mice were fasted overnight(12 h) and were anesthetized with 20% urethane. Thereafter, the blood and liver tissue were collected. The serum was used to detect the levels of alanine aminotransferase(ALT), aspartate aminotransaminase(AST), interleukin-1β(IL-1β), interleukin-6(IL-6), interleukin-10(IL-10), and tumor necrosis factor-α(TNF-α). Liver tissue was processed by hematoxylin-eosin(HE) staining and used for hepatic histological analysis and detection of the expression levels of genes and proteins related to nuclear factor erythroid 2-related factor 2/glutathione peroxidase 4(Nrf2/GPX4) pathway by real-time quantitative reverse transcriptase-polymerase chain reaction(RT-qPCR) and Western blot analysis, respectively. The results showed that compared with the MCS group, the MCD group showed higher serum ALT and AST levels; the HE staining exhibited fat vacuoles and obvious inflammatory cell infiltration in liver tissue; serum IL-1β, IL-6, and TNF-α levels were significantly increased, and the serum IL-10 level was significantly decreased. The mRNA expressions of fatty acid synthase(FASN), monocyte chemoattractant protein-1(MCP-1), and IL-1β in liver tissue were significantly up-regulated, while those of GPX4, Nrf2, and NAD(P)H:quinine oxidoreductase(NQO1) were significantly down-regulated. Compared with the MCD group, the serum ALT and AST levels of ECD＿M and ECD＿H groups were significantly decreased, and the AST level in the ECD＿L group was significantly decreased. The number of fat vacuoles and the degree of inflammatory cell infiltration in liver tissue were improved; serum IL-1β, IL-6, and TNF-α levels were significantly decreased, but the serum IL-10 level was significantly increased only in the ECD＿H group. The mRNA expressions of FASN, MCP-1, and IL-1β in liver tissue were significantly down-regulated, and those of GPX4 and NQO1 were significantly up-regulated. The mRNA expressions of Nrf2 in ECD＿M and ECD＿H groups were significantly up-regulated. Western blot results showed that compared with the MCD group, the protein expression levels of Nrf2 and GPX4 in each group were significantly increased after ECD administration, and the protein expression level of FASN was significantly decreased; the protein expression of NQO1 was increased in ECD＿M and ECD＿H groups. In summary, ECD can reduce hepatic lipid accumulation, oxidative stress, liver inflammation, and liver injury in NASH mice, which may be related to the activation of the Nrf2/GPX4 pathway.",
+      "year": 2024,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20231013.401",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2024-03",
+      "canonical_publication_date": "2024-03",
+      "canonical_publication_year": 2024
+    },
+    "39151493": {
+      "title": "Investigation into the potential mechanism and therapeutic targets of Cangzhu Erchen decoction for the treatment of chronic obstructive pulmonary disease based on bioinformatics and network pharmacology.",
+      "abstract": "This study aimed to elucidate the molecular mechanisms underlying the therapeutic effects of Cangzhu Erchen decoction (CZECD) in the treatment of chronic obstructive pulmonary disease (COPD) using microarray analysis, network pharmacology, and molecular docking. The active components and candidate targets of CZECD were obtained using the Traditional Chinese Medicine Systems Pharmacology Database and Analysis Platform and Swiss Target Prediction. COPD-related targets were collected from 5 databases. Access to drug-disease interface targets in the Venny platform. The Cytoscape program and the STRING database were used for protein-protein interaction analysis and subsequent core target screening. The DAVID database was used for Gene Ontology (GO) functional enrichment analysis and Kyoto Encyclopedia of Genes and Genomes enrichment pathway analysis, while AutoDockTools was used for molecular docking to confirm binding affinity between drugs and key targets. A total of 140 compounds from CZECD and 5100 COPD-related targets were identified. SRC, PIK3CA, STAT3, PIK3R1, AKT1, HSP90AA1, PIK3CB, GRB2, PIK3CD, and MAPK1 were identified as the major targets of CZECD in its anti-COPD activity. GO and Kyoto Encyclopedia of Genes and Genomes enrichment studies revealed that CZECD mainly affects biological processes such as protein phosphorylation, xenobiotic response, positive regulation of the MAPK cascade, and inflammatory responses. Cancer, PI3K/AKT, and MAPK were the key pathways mediating these effects. The positive association between the core targets and the compounds was further validated by molecular docking. CZECD exerts its therapeutic role in COPD mainly through multiple compounds, targets, and pathways.",
+      "year": 2024,
+      "journal": "Medicine",
+      "doi": "10.1097/MD.0000000000039338",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2024-08-16",
+      "canonical_publication_date": "2024-08-16",
+      "canonical_publication_year": 2024
+    },
+    "32007633": {
+      "title": "Erchen decoction plus huiyanzhuyu decoction inhibits the cell cycle, migration and invasion and induces the apoptosis of laryngeal squamous cell carcinoma cells.",
+      "abstract": "Laryngeal carcinoma (LC) is one of the most common malignant head and neck cancers with high incidence and mortality rates. Erchen decoction plus Huiyanzhuyu decoction (EHD) is commonly used for treating LC patients and produces beneficial results. However, the mechanisms underlying the effects of EHD remain unclear. The present study aimed to analyse the anticancer effects of EHD on the LC cell cycle, apoptosis, migration and invasion in vitro and to explore the underlying biological mechanisms. TU212 and Hep-2 cells were used. The antitumour effects of EHD were detected by CCK8, microscopy, flow cytometry, EdU incorporation, Hoechst 33342 staining, wound-healing, and transwell assays to assess viability, morphology, apoptosis, cell cycle, migration and invasion, respectively. Furthermore, STAT3 and related proteins were evaluated in laryngeal squamous cell carcinoma (LSCC) cells by Western blot (WB) analysis. EHD treatment significantly decreased STAT3 and p-STAT3 protein expression levels in LSCC cells. EHD blocked the cell cycle at the G0/G1 phase and induced LSCC apoptosis. Moreover, the viability, migration, and invasion of LSCC cells were markedly inhibited by EHD. In addition, the expression of the cell cycle-related proteins cyclin D1 and cyclin B1 was downregulated in LSCC cells, but P27 expression was increased after EHD treatment. Regarding apoptosis-related proteins, EHD also reduced Bcl-2 expression but upregulated Bax and caspase-3 expression in LSCC cells. In the migration- and invasion-related protein analyses, EHD downregulated MMP-9 expression and upregulated E-cadherin expression. These results suggest that EHD has an anticancer effect in LSCC. EHD treatment induces apoptosis and inhibits the cell cycle, migration and invasion of LSCC cells, but further work is warranted to address the mechanisms.",
+      "year": 2020,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2020.112638",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2020-01-31"
+      ],
+      "journal_issue_date": "2020-06-28",
+      "canonical_publication_date": "2020-01-31",
+      "canonical_publication_year": 2020
+    },
+    "37037084": {
+      "title": "Modified Erchen decoction ameliorates cognitive dysfunction in vascular dementia rats via inhibiting JAK2/STAT3 and JNK/BAX signaling pathways.",
+      "abstract": "Vascular dementia (VaD) is one of the most common clinical syndromes of progressive neurocognitive dysfunction with uncertain mechanisms. Modified Erchen decoction (MECD), developed from \"Erchen decoction (ECD)\" recorded in \"Taiping Huimin Heji Jufang\", showed a good effect in the treatment of VaD. However, its therapeutic mechanism is still unclear. This study aimed to elucidate the multi-target mechanisms of MECD against VaD in vivo and in vitro. VaD model was established by two-vessel obstruction (2-VO) in Sprague-Dawley rats. Six groups, including the control, 2-VO operation, MECD treatment (2.5, 5.0 and 10.0 g kg-1 d-1), donepezil hydrochloride (positive control, 0.45 g kg-1 d-1) were designed in the whole experiment. After oral administration for 4 weeks, the effects of MECD were verified by behavioral experiments, histological observation, and biochemical index analysis. The chemical profiling of MECD was performed by UHPLC-Orbitrap Fusion-HRMS, and a \"compound-target-pathway\" multivariate network was constructed to validate and elucidate its pharmacological mechanisms. Compared with 2-VO group, MECD treatment significantly alleviated anxiety and improved spatial memory in VaD rats according to the open field test (OFT) and Y-maze test. A significant increase in neuron number was observed from hematoxylin and eosin (H&E) stained images in cornu ammonis 1 (CA1) of the hippocampal region after MECD treatment. On the one hand, MECD reduced the plasma levels of triglyceride (TG), low-density lipoprotein (LDL), malondialdehyde (MDA), and amyloid-beta 42 (Aβ42), and inhibited mRNA expression of interleukin-1 beta (Il-1β) and Il-6 in the hippocampus. On the other hand, superoxide dismutase (SOD) and total antioxidant capacity (T-AOC) were significantly increased after treatment with MECD. Moreover, MECD reduced the mRNA expression and protein expression of janus kinase 2 (JAK2), signal transducer and activator of transcription 3 (STAT3), c-Jun N-terminal kinase (JNK), and BCL2-associated X (BAX) in the brain of 2-VO rats. Furthermore, 71 compounds were identified from the extract of MECD. Among them, liquiritin and isochlorogenic acid C gave inhibiting effects on the mRNA expression of Jnk. In addition, liquiritin and hesperetin were conformed with the inhibition of Jak2 transcription level in vitro experiments. MECD has demonstrated a significant amelioration effect on cognitive dysfunction in VaD rats via JAK2/STAT3 and JNK/BAX signaling pathways, which represents an innovative insight into the \"activate blood and eliminate phlegm\" theory.",
+      "year": 2023,
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "doi": "10.1016/j.phymed.2023.154797",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-03-30"
+      ],
+      "journal_issue_date": "2023-06",
+      "canonical_publication_date": "2023-03-30",
+      "canonical_publication_year": 2023
+    },
+    "37986321": {
+      "title": "Exploring the mechanism of Erchen decoction in the treatment of atherosclerosis based on network pharmacology and molecular docking.",
+      "abstract": "Atherosclerosis (AS) is the cause of most cardiovascular diseases and imposes a huge economic burden on society. Erchen decoction (ECD) is an effective formula for treating AS, but its therapeutic mechanism remains unclear. This study will explore the mechanism of ECD mechanism for treating AS using network pharmacology and molecular docking. We searched ECD chemical composition information and related targets via Traditional Chinese Medicine Systems Pharmacology Database and Analysis Platform and SwissTargetPrediction databases, and gene names correction was performed using the UniProt database. AS-related targets were retrieved from OMIM, GeneCards, and DrugBank databases, and Venny 2.1 were used for intersection analysis. Protein-protein interaction network was constructed by the STRING database, and an interactive network of the drug-component-target-disease was drawn using the Cytoscape 3.9.0 software. Gene ontology and Kyoto Gene and Genome Encyclopedia enrichment analysis were performed by the DAVID database, and molecular docking validation of vital active ingredients and action targets of ECD was performed using AutoDock Vina software. The 127 active components of ECD act on AS by regulating 231 targets and 151 pathways. The 6 core components are quercetin, polyporenic acid C, 18α-hydroxyglycyrrhetic acid, glyuranolide, 3beta-hydroxychloroxy-24-methylene-8-lanostene-21-oic acid, and obacunone. They may regulate AS by regulating core target genes, such as JUN, SRC, AKT1, PTGS2, ESR1, AR, MAPK1, MAPK3, and RELA, and acting on multiple vital pathways, such as AGE-RAGE signaling pathway in diabetic complications, Lipid and AS, and Fluid shear stress and AS. Molecular docking showed that the selected target protein had good binding activity to the active ingredient. ECD has the characteristics of multi-components, multi-targets and multi-pathways in the treatment of AS. The results provide a theoretical basis for the clinical application of ECD and its mechanism.",
+      "year": 2023,
+      "journal": "Medicine",
+      "doi": "10.1097/MD.0000000000035248",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2023-11-17",
+      "canonical_publication_date": "2023-11-17",
+      "canonical_publication_year": 2023
+    },
+    "37336336": {
+      "title": "Erchen Decoction alleviates obesity-related hepatic steatosis via modulating gut microbiota-drived butyric acid contents and promoting fatty acid β-oxidation.",
+      "abstract": "Erchen decoction (ECD) is a traditional Chinese medicine formula comprising six distinct herbs and has been documented to possess a protective effect against obesity. The study conducted previously demonstrated that ECD has the potential to effectively modulate the composition of gut microbiota and levels of short-chain fatty acids (SCFAs) in obese rat. However, the regulatory mechanism of ECD on gut microbiota and SCFAs and further improvement of obesity have not been thoroughly explained. The objective of this study was to examine the therapeutic effect and molecular mechanism of ECD in a rat model of high-fat diet (HFD) feeding. Rats with HFD-induced obesity were treated with ECD. Upon completion of the study, serum and liver samples were procured to conduct biochemical, pathological, and Western blotting analyses. The investigation of alterations in the gut microbiota subsequent to ECD treatment was conducted through the utilization of 16S rRNA sequencing. The metabolic alterations in the cecal contents were examined through the utilization of mass spectrometry-ultraperformance liquid chromatography. ECD treatment improved lipid metabolic disorders and reduced hepatic steatosis in HFD-induced obese rats. Obese rat treated with ECD showed a higher abundance of SCFA-producing bacteria, including Lactobacillus, Bifidobacterium, and Butyricicoccus, and lower abundance of disease-related bacteria, such as Bacteroides, Parabacteroides, and Sediminibacterium. Additionally, ECD caused an increase in total SCFAs levels; in particular, butyric acid was dramatically increased in the HFD group. Rats treated with ECD also exhibited significantly increased butyric acid concentrations in the serum and liver. The subsequent reduction in histone deacetylase 1 expression and increase in acetyl-histone 3-lysine 9 (H3K9ac) levels contributed to the promotion of fatty acid β-oxidation (FAO) in liver by ECD. This study demonstrates that ECD regulates the gut microbiota and promotes butyric acid production to ameliorate obesity-related hepatic steatosis. The mechanism might be related to the promotion of FAO via a butyric acid-mediated increase in H3K9ac levels in the liver.",
+      "year": 2023,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2023.116811",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-06-17"
+      ],
+      "journal_issue_date": "2023-12-05",
+      "canonical_publication_date": "2023-06-17",
+      "canonical_publication_year": 2023
+    },
+    "33653242": {
+      "title": "Exploring miRNA-related Molecular Targets of Erchen Decoction against Lipid Metabolism Disorder using a Network Pharmacologic Approach.",
+      "abstract": "Erchen Decoction (ECD) is a complex herbal formulation widely used for treating lipid metabolism disorder (LMD) in China. This study aims to explore the microRNA (miRNA)-related molecular targets of ECD against LMD using a network pharmacology approach (NPA) Methods: We randomly divided 20 male Sprague Dawley rats into two groups; 10 rats were normal controls, and the other 10 rats were fed a high-fat diet (HFD) for 12 weeks to establish an LMD model. Differentially expressed miRNAs (DE-miRs, HFD vs. Control) in the rats' liver tissues were identified by miRNA sequencing and validated with qRT-PCR. Finally, the miRNArelated molecular targets for ECD activity against LMD were identified using a standard NPA by finding the intersection between identified DE-miRs-related targets and ECD-related targets. We identified 8 DE-miRs and 968 targets and compared them to 262 ECD-related targets. A final list of 22 candidate targets was identified. Using a confidence score of >0.4, the network of (protein-protein interaction) PPI relationships exhibited 22 nodes and 67 edges. The GO and KEGG enrichment analyses revealed 171 molecular targets and 59 pathways, which were associated with ECD against LMD. The identified molecular targets and pathways suggest that complex mechanisms are involved in ECD's mechanism of action, and immune-inflammation-related mechanisms are closely associated with the effects of ECD. The targets obtained in this study will guide future studies on the pharmacologic effects of ECD.",
+      "year": 2022,
+      "journal": "Combinatorial chemistry & high throughput screening",
+      "doi": "10.2174/1386207324666210302093300",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2022",
+      "canonical_publication_date": "2022",
+      "canonical_publication_year": 2022
+    },
+    "37274103": {
+      "title": "Herb-symptom analysis of Erchen decoction combined with Xiebai powder formula and its mechanism in the treatment of chronic obstructive pulmonary disease.",
+      "abstract": "Background: In recent years, the incidence and mortality rates of chronic obstructive pulmonary disease (COPD) have increased significantly. Erchen Decoction combined with Xiebai Powder (ECXB) formula is mainly used to treat lung diseases in traditional Chinese medicine (TCM). However, the active ingredients of ECXB formula, COPD treatment-related molecular targets, and the mechanisms are still unclear. To reveal its underlying action of mechanism, network pharmacology, molecular docking, and molecular dynamic (MD) simulation approaches were used to predict the active ingredients and potential targets of ECXB formula in treating COPD. As a result, Herb-Symptom analysis showed that the symptoms treated by both TCM and modern medicine of ECXB formula were similar to the symptoms of COPD. Network pharmacology identified 170 active ingredients with 137 targets, and 7,002 COPD targets was obtained. 120 targets were obtained by intersection mapping, among which the core targets include MAPK8, ESR1, TP53, MAPK3, JUN, RELA, MAPK1, and AKT1. Functional enrichment analysis suggested that ECXB formula might exert its treat COPD pharmacological effects in multiple biological processes, such as cell proliferation, apoptosis, inflammatory response, and synaptic connections, and ECXB formula treated COPD of the KEGG potential pathways might be associated with the TNF signaling pathway, cAMP signaling pathway, and VEGF signaling pathway. Molecular docking showed that ECXB formula treatment COPD core active ingredients can bind well to core targets. MD simulations showed that the RELA-beta-sitosterol complex and ESR1-stigmasterol complex exhibited higher conformational stability and lower interaction energy, further confirming the role of ECXB formula in the treatment of COPD through these core components and core targets. Our study analyzed the medication rule of ECXB formula in the treatment of COPD from a new perspective and found that the symptoms treated by both TCM and modern medicine of ECXB formula were similar to the symptoms of COPD. ECXB formula could treat COPD through multi-component, multi-target, and multi-pathway synergistic effects, providing a scientific basis for further study on the mechanism of ECXB formula treatment of COPD. It also provides new ideas for drug development.",
+      "year": 2023,
+      "journal": "Frontiers in pharmacology",
+      "doi": "10.3389/fphar.2023.1117238",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-05-19"
+      ],
+      "journal_issue_date": "2023",
+      "canonical_publication_date": "2023-05-19",
+      "canonical_publication_year": 2023
+    },
+    "38621880": {
+      "title": "[Effect of Erchen Decoction on liver mitochondrial function by inhibiting mTORC1/SREBP1/CAV1 pathway in mice with high-fat diet].",
+      "abstract": "This study aims to investigate the effect of Erchen Decoction(ECD) on liver mitochondrial function in mice with a high-fat diet and its possible mechanism. A total of sixty C57BL/6J mice were randomly divided into a normal group, high-fat group, ECD group, mTORC1 activator(MHY) group, ECD+MHY group, and polyene phosphatidyl choline(PPC) group, with 10 rats in each group. The normal group was given a normal diet, and the other groups were fed a high-fat diet for 20 weeks. At the 17th week, the ECD group and ECD+MHY group were given ECD(8.7 g·kg~(-1)) daily, and the PPC group was given PPC(0.18 g·kg~(-1)) daily, while the remaining groups were given normal saline(0.01 mL·g~(-1)) daily for four weeks. In the 19th week, the MHY group and ECD+MHY group were injected intraperitoneally with MHY(5 mg·kg~(-1)) every other day for two weeks. During the experiment, the general conditions of the mice were observed. The contents of triglyceride(TG) and total cholesterol(TC) in serum were measured. Morphological changes in liver tissue were examined through HE and oil red O staining. The content of adenosine triphosphate(ATP) was determined using chemiluminescence, and mitochondrial membrane potential was assessed using a fluorescence probe(JC-1). Western blot was performed to detect the expression of rapamycin target protein complex 1(mTOR1), ribosomal protein S6 kinase B1(S6K), sterol regulatory element binding protein 1(SREBP1), and caveolin 1(CAV1). RESULTS:: revealed that compared with the normal group, the mice in the high-fat group exhibited significant increases in body weight and abdominal circumference(P&lt;0.01). Additionally, there were significant increases in TG and TC levels(P&lt;0.01). HE and oil red O staining showed that the boundaries of hepatic lobules were unclear; hepatocytes were enlarged, round, and irregularly arranged, with obvious lipid droplet deposition and inflammatory cell infiltration. The liver ATP content and mitochondrial membrane potential decreased significantly(P&lt;0.01). The expression of p-mTOR, p-S6K, and n-SREBP1 increased significantly(P&lt;0.01), while the expression of CAV1 decreased significantly(P&lt;0.01). Compared with the high-fat group, the body weight and TG content of mice in the ECD group and PPC group decreased significantly(P&lt;0.05). Improvements were observed in hepatocyte morphology, lipid deposition, and inflammatory cell infiltration. Furthermore, there were significant increases in ATP content and mitochondrial membrane potential(P&lt;0.05 or P&lt;0.01). The expression of p-mTOR, p-S6K, and n-SREBP1 decreased significantly in the ECD group(P&lt;0.01), while CAV1 expression increased significantly(P&lt;0.01). However, the indices mentioned above did not show improvement in the MHY group. When the ECD+MHY group was compared with the MHY group, there were significant reductions in body weight and TG contents(P&lt;0.05). The morphological changes of hepatocytes, lipid deposition, and inflammatory cell infiltration were recovered. Moreover, there were significant increases in liver ATP content and mitochondrial membrane potential(P&lt;0.05 or P&lt;0.05). The expression of p-mTOR, p-S6K, and n-SREBP1 decreased significantly(P&lt;0.01), while CAV1 expression increased significantly(P&lt;0.01). In conclusion, ECD can improve mitochondrial function by regulating the mTORC1/SREBP1/CAV1 pathway. This mechanism may be involved in the resolution of phlegm syndrome and the regulation of lipid metabolism.",
+      "year": 2024,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20231103.401",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2024-02",
+      "canonical_publication_date": "2024-02",
+      "canonical_publication_year": 2024
+    },
+    "35392646": {
+      "title": "Effects of Erchen Decoction on Oxidative Stress-Related Cytochrome P450 Metabolites of Arachidonic Acid in Dyslipidemic Mice with Phlegm-Dampness Retention Syndrome: A Randomized, Controlled Trial on the Correspondence between Prescription and Syndrome.",
+      "abstract": "Phlegm-dampness retention (PDR) syndrome is one of the main syndromes of dyslipidemia. This study investigated the effects of Erchen decoction (ECD) on concentrations of two oxidative stress-related cytochrome P450 (CYP450) metabolites of arachidonic acid-14,15-dihydroxyeicosatrienoic acid (14,15-DHET) and 20-hydroxyeicosatetraenoic acid (20-HETE)-in mice with dyslipidemia and phlegm-dampness retention (PDR) syndrome (n = 5 C57BL/6J mice and n = 30 apolipoprotein E knockout mice). Murine models of the disease and syndrome were established using multifactor stimulation. Then, all mice were assigned to normal, model, low- (L-), medium- (M-), or high- (H-) dose ECD groups or to a control or an unmatched prescription-syndrome (unmatched P-S) group; five mice were included in each group. Dose formulations were administered by oral gavage for 30 days to animals in the corresponding groups. We detected and analyzed hematoxylin and eosin (HE) staining characteristics of the mouse aorta and serum total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C), peroxynitrite (ONOO-), 14,15-DHET, and 20-HETE concentrations in each group. TC and LDL-C concentrations significantly decreased in the M-ECD versus control group (P < 0.05); however, the TC and LDL-C concentrations were not significantly different in the unmatched P-S versus model group (P > 0.05). After treatment in the P-S correspondence groups (L-ECD, M-ECD, and H-ECD groups), the concentration of ONOO- decreased to different degrees in each group. Among these groups, the concentration of ONOO- significantly decreased in the L-ECD, M-ECD, and H-ECD groups versus the model group (P < 0.05). However, the concentration of ONOO- was not significantly different in the unmatched P-S versus the model group (P > 0.05). From the perspective of aortic HE staining, the P-S group experienced an improved endothelium structure after treatment. 14,15-DHET concentrations significantly increased in the normal, M-ECD, and H-ECD groups versus the model group; in the H-ECD versus the L-ECD group; and in the H-ECD versus the control group (all P < 0.05) to various extents after different doses of the prescription. 20-HETE concentrations pronouncedly decreased in the M-ECD versus normal group; in the M- and H-ECD groups versus the model group; in the M-ECD versus the L-ECD group; in the M-ECD versus the control group; and in the M-ECD versus the unmatched P-S (P < 0.05). However, the concentrations of 14,15-DHET and 20-HETE in the model group were not significantly different from those of the unmatched P-S (P > 0.05). In this study, ECD reversed blood lipid indexes and ameliorated oxidative stress-related metabolites, elevating serum 14,15-DHET and lowering serum 20-HETE in mice with dyslipidemia and PDR syndrome via CYP450 pathways of arachidonic acid metabolism. The efficacy of ECD relies on correspondence between the prescription and the syndrome. These findings scientifically validate the treatment according to traditional Chinese medicine syndrome differentiation. ECD can strengthen the protective effect on the vascular endothelium by driving out pathogenic factors and strengthening healthy resistance. Its efficacy may be related to the adjustment of the polarization state of macrophages.",
+      "year": 2022,
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "doi": "10.1155/2022/1079803",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-03-29"
+      ],
+      "journal_issue_date": "2022",
+      "canonical_publication_date": "2022-03-29",
+      "canonical_publication_year": 2022
+    },
+    "40348241": {
+      "title": "Research on erchen tang in the treatment of community-acquired pneumonia based on chemical molecular mechanisms of quercetin and kaempferol: PI3K/AKT/NF-κB protein signaling.",
+      "abstract": "Streptococcus pneumoniae is the most common pathogen of community-acquired pneumonia (CAP). This study aimed to investigate into the effects of compounds in Erchen Tang (also known as Erchen Decoction, ECD) on the expression of inflammatory factors, as well as proteins associated with the key signaling pathways. The expression changes of proteins pertinent to those potential pathways were meticulously detected using Gene Cards, OMIM database, STRING database, and GO and KEGG enrichment analyses. The findings indicated that both quercetin and kaempferol are highly competitive components in ECD. Additionally, these natural compounds were found to diminish the expression levels of inflammatory factors such as tumor necrosis factor-alpha (TNF-α) and interleukin-6 (IL-6). Extensive research has demonstrated that quercetin and kaempferol play a pivotal role in the therapeutic efficacy of ECD for the treatment of CAP. They achieve this by exerting anti-inflammatory and immunomodulatory effects, primarily through the inhibition of the PI3K/AKT/NF-κB signaling pathway's activation. This groundbreaking discovery not only offers a novel molecular mechanism explanation for the application of Erchen Decoction in combating community-acquired pneumonia but also lays a solid theoretical foundation for the development of innovative anti-pneumonia medications that are centered around quercetin and kaempferol.",
+      "year": 2025,
+      "journal": "International journal of biological macromolecules",
+      "doi": "10.1016/j.ijbiomac.2025.144071",
+      "publication_types": [
+        "Journal Article",
+        "Retracted Publication"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-05-08"
+      ],
+      "journal_issue_date": "2025-06",
+      "canonical_publication_date": "2025-05-08",
+      "canonical_publication_year": 2025
+    },
+    "36313338": {
+      "title": "Investigating the effects and mechanisms of Erchen Decoction in the treatment of colorectal cancer by network pharmacology and experimental validation.",
+      "abstract": "Objective: Erchen Decoction (ECD), a well-known traditional Chinese medicine, exerts metabolism-regulatory, immunoregulation, and anti-tumor effects. However, the action and pharmacological mechanism of ECD remain largely unclear. In the present study, we explored the effects and mechanisms of ECD in the treatment of CRC using network pharmacology, molecular docking, and systematic experimental validation. Methods: The active components of ECD were obtained from the TCMSP database and the potential targets of them were annotated by the STRING database. The CRC-related targets were identified from different databases (OMIM, DisGeNet, GeneCards, and DrugBank). The interactive targets of ECD and CRC were screened and the protein-protein interaction (PPI) networks were constructed. Then, the hub interactive targets were calculated and visualized from the PPI network using the Cytoscape software. Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway enrichment analyses were performed. In addition, the molecular docking was performed. Finally, systematic in vitro, in vivo and molecular biology experiments were performed to further explore the anti-tumor effects and underlying mechanisms of ECD in CRC. Results: A total of 116 active components and 246 targets of ECD were predicted based on the component-target network analysis. 2406 CRC-related targets were obtained from different databases and 140 intersective targets were identified between ECD and CRC. 12 hub molecules (STAT3, JUN, MAPK3, TP53, MAPK1, RELA, FOS, ESR1, IL6, MAPK14, MYC, and CDKN1A) were finally screened from PPI network. GO and KEGG pathway enrichment analyses demonstrated that the biological discrepancy was mainly focused on the tumorigenesis-, immune-, and mechanism-related pathways. Based on the experimental validation, ECD could suppress the proliferation of CRC cells by inhibiting cell cycle and promoting cell apoptosis. In addition, ECD could inhibit tumor growth in mice. Finally, the results of molecular biology experiments suggested ECD could regulate the transcriptional levels of several hub molecules during the development of CRC, including MAPKs, PPARs, TP53, and STATs. Conclusion: This study revealed the potential pharmacodynamic material basis and underlying molecular mechanisms of ECD in the treatment of CRC, providing a novel insight for us to find more effective anti-CRC drugs.",
+      "year": 2022,
+      "journal": "Frontiers in pharmacology",
+      "doi": "10.3389/fphar.2022.1000639",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-10-13"
+      ],
+      "journal_issue_date": "2022",
+      "canonical_publication_date": "2022-10-13",
+      "canonical_publication_year": 2022
+    },
+    "34366839": {
+      "title": "The Effects of Erchen Decoction on Gut Microbiota and Lipid Metabolism Disorders in Zucker Diabetic Fatty Rats.",
+      "abstract": "Obesity is a chronic metabolic disease caused by genetic and environmental factors that has become a serious global health problem. There is evidence that gut microbiota is closely related to the occurrence and development of obesity. Erchen Decoction (ECD), a traditional Chinese medicine, has been widely used for clinical treatment and basic research of obesity and related metabolic diseases in recent years. It can significantly improve insulin resistance (IR) and lipid metabolism disorders. However, there is no microbiological study on its metabolic regulation. In this study, we investigated the effects of ECD on obesity, especially lipid metabolism and the composition and function of gut microbiota in Zucker diabetic fatty (ZDF) rats, and explored the correlation between the biomarkers of gut microbiota and metabolite and host phenotype. The results showed that ECD could reduce body weight, improve IR and lipid metabolism, and reduce the concentration of free fatty acids (FFA) released from white adipose tissue (WAT) due to excessive lipolysis by interfering with the insulin receptor substrate 1 (IRS1)/protein kinase B (AKT)/protein kinase A (PKA)/hormone-sensitive triglyceride lipase (HSL) signaling pathway in ZDF rats. Additionally, ECD gradually adjusted the overall structure of changed gut microbiota, reversed the relative abundance of six genera, and changed the function of gut microbiota by reducing the content of propionic acid, a metabolite of gut microbiota, in ZDF rats. A potentially close relationship between biomarkers, especially Prevotella, Blautia, and Holdemania, propionic acid and host phenotypes were demonstrated through correlation analysis. The results suggested that the beneficial effects of ECD on obesity, especially lipid metabolism disorders, are related to the regulation of gut microbiota in ZDF rats. This provides a basis for further research on the mechanism and clinical application of ECD to improve obesity via gut microbiota.",
+      "year": 2021,
+      "journal": "Frontiers in pharmacology",
+      "doi": "10.3389/fphar.2021.647529",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2021-07-22"
+      ],
+      "journal_issue_date": "2021",
+      "canonical_publication_date": "2021-07-22",
+      "canonical_publication_year": 2021
+    },
+    "28630632": {
+      "title": "Erchen Decoction and Linguizhugan Decoction Ameliorate Hepatic Insulin Resistance by Inhibiting IRS-1Ser307 Phosphorylation In Vivo and In Vitro.",
+      "abstract": "Erchen decoction (ECD) and Linguizhugan decoction (LGZGD), both are Chinese herbal formula, have been used clinically for the treatment of nonalcoholic fatty liver disease (NAFLD). However, their therapeutic mechanisms are still unclear. Because insulin resistance (IR) is a key etiological factor in the pathology of high-fat diet- (HFD-) induced NAFLD, in this study, the protective effects of ECD and LGZGD on HFD-induced insulin resistance in rats were evaluated and their mechanisms were investigated by OGTT and Western blot. The results showed that treatment with ECD and LGZGD significantly improved insulin resistance and liver damage in rats, evidenced by supported serum aminotransferase levels and the histopathological examination. ECD and LGZGD also showed significant protective effects against HFD-induced hyperlipidemia and the inhibition of the hepatocyte proliferation by palmitate. Furthermore, supplementation of ECD and LGZGD decreased TNF-α, NF-κB, and IRS-1Ser307 phosphorylation expressions in vivo and in vitro. These results indicated that ECD and LGZGD have protective effects against HFD-induced liver IR and their underlying mechanisms involve the TNF-α and insulin pathway. These findings would be beneficial for understanding of the therapeutic effects of ECD and LGZGD in treatment of NAFLD.",
+      "year": 2017,
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "doi": "10.1155/2017/1589871",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2017-05-29"
+      ],
+      "journal_issue_date": "2017",
+      "canonical_publication_date": "2017-05-29",
+      "canonical_publication_year": 2017
+    },
+    "32256662": {
+      "title": "Erchen Decoction Mitigates Lipid Metabolism Disorder by the Regulation of PPAR",
+      "abstract": "Erchen decoction (ECD) is a common treatment prescribed in traditional Chinese medicine (TCM) clinics, which has remarkable efficacy in the treatment of obesity, fatty liver, hyperlipidemia, diabetes, and other diseases caused by phlegm. In this study, we investigated the effect that ECD had on the lipid metabolism induced by high-fat diet in C57BL/6 mice. Body weight, body length, and abdominal circumference were detected. Blood lipid content was measured via biochemical assay kit. The gene and protein expression of PPARγ and LPL in visceral fat and skeletal muscle of mice was measured by real-time PCR and western blot. The research discovered that the phlegm-resolving effect that ECD had on high-fat diet mice was mainly manifested as reduced body weight, Lee's index, abdominal circumference, and level of TG and TC. Meanwhile, we observed significantly increased PPARγ mRNA and protein level in visceral fat and PPARγ and LPL protein level in skeletal muscle in the ECD group. Contrarily, a decrease in PPARγ mRNA level in skeletal muscle in the ECD group was observed. Therefore, we speculate that ECD regulates the lipid metabolic disorder by decreasing the blood lipid level. Moreover, the potential molecular mechanism of ECD is to promote the expression of PPARγ in visceral fat and skeletal muscle and the expression of LPL in skeletal muscle.",
+      "year": 2020,
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "doi": "10.1155/2020/9102475",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2020-03-10"
+      ],
+      "journal_issue_date": "2020",
+      "canonical_publication_date": "2020-03-10",
+      "canonical_publication_year": 2020
+    },
+    "34536264": {
+      "title": "Network pharmacology-based investigation to explore the effect and mechanism of Erchen decoction against the nonalcoholic fatty liver disease.",
+      "abstract": "This study aimed to uncover the potential mechanism of Erchen decoction (ECD) on the amelioration of nonalcoholic fatty liver disease (NAFLD). Network pharmacology and bioinformatics were used to determine the active components of ECD and its potential target in treating NAFLD. High fat diet (HFD)-induced NAFLD mice model was used. Liver tissues were stained with hematoxylin and eosin, and Oil Red O. Serum lipid profiles and hepatic inflammatory molecules in lipopolysaccharide (LPS)/Toll-like receptor-4 (TLR-4) pathway were confirmed by enzyme-linked immunosorbent assay. Intestinal barrier function, including intestinal epithelial tight junction (IETJ) proteins, fecal short-chain fatty acids (SCFAs) concentration and intestinal microbiota composition, was also assessed. Screening relevant databases revealed 123 active components and 158 potential target proteins in ECD, as well as 1,783 differential genes for NAFLD. Enrichment analyses predicted that the regulation of LPS, cholesterol metabolism and inflammatory pathways might be the underlying mechanisms of ECD in NAFLD treatment. ECD ameliorated the multi-profiles of NAFLD and reversed the high levels of inflammatory molecules such as, serum LPS, hepatic TLR-4, tumor necrosis factor-α, and interleukin-1β. Additionally, ECD upregulated the concentration levels of IETJ proteins and fecal SCFAs. 16s RNA sequencing indicated that ECD can improve the gut microbiota, such as Akkermansia, Clostridium XIVa, Coprococcus, and Ruminococcus. The current study demonstrated that ECD can reverse the HFD-induced intestinal barrier dysfunction, thereby reducing the LPS translocation and alleviating the hepatic inflammation, and eventually exhibiting a protective effect against NAFLD.",
+      "year": 2021,
+      "journal": "Anatomical record (Hoboken, N.J. : 2007)",
+      "doi": "10.1002/ar.24770",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2021-09-18"
+      ],
+      "journal_issue_date": "2021-11",
+      "canonical_publication_date": "2021-09-18",
+      "canonical_publication_year": 2021
+    },
+    "31088684": {
+      "title": "Lipidomic analysis reveals therapeutic effects of Yijin-Tang on high-fat/high-cholesterol diet-induced obese mice.",
+      "abstract": "In Traditional Korean and Chinese medicine, the herbal remedy Yijin (Erchen)-Tang (YJT) is widely used to treat obesity-related disorders, and its therapeutic potential has been demonstrated in numerous studies. However, the systemic effect of YJT on obesity status and change of lipid metabolism by YJT still remains unknown. This study aimed to investigate the therapeutic mechanism of the YJT on obesity by using lipidomics. To evaluate the effects of treatment with YJT on obesity, C57BL/6 J mice were fed a high-fat and high-cholesterol (HFHC, 40% fat and 1% cholesterol) diet for 8 weeks and treated them with YJT for an additional 6 weeks. We then performed untargeted lipidomic analysis using ultra-performance liquid chromatography/quadrupole-time-of-flight mass spectrometry mass spectroscopy coupled with multivariate statistical analysis. YJT ameliorated obesity induced systemic inflammation and improved insulin resistance. Additionally, YJT protected against HFHC-diet-induced hepatic inflammation. To explore specific changes in lipid metabolism associated with the therapeutic effects of YJT, we performed untargeted lipid profiling of the plasma. Partial least squares-discriminant analysis (PLS-DA) score plots showed that YJT altered the lipid metabolic pattern of HFHC mice. In particular, ceramides and triglycerides with saturated fatty acids and monounsaturated fatty acids were significantly changed by YJT, which were significantly associated with insulin resistance, the AGE-RAGE signaling pathway in diabetic complications and adipocytokine signaling pathway in pathway enrichment analysis. Thus, we analyzed the changes in adipocytes and adipokine caused by YJT, and confirmed that YJT alleviated adipocytes inflammation and macrophage infiltration, and reversed HFHC-induced alterations in leptin and adiponectin levels in adipose tissue and plasma. These data suggest that YJT ameliorates obesity-induced systemic inflammation and insulin resistance by regulating lipid metabolism, and demonstrated that lipidomic profiling is a useful method to investigate the therapeutic effects of herbal decoctions in traditional Korean and Chinese medicine.",
+      "year": 2019,
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "doi": "10.1016/j.phymed.2019.152936",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2019-04-24"
+      ],
+      "journal_issue_date": "2020-08",
+      "canonical_publication_date": "2019-04-24",
+      "canonical_publication_year": 2019
+    },
+    "32382281": {
+      "title": "Erchen Plus Huiyanzhuyu Decoction Inhibits the Growth of Laryngeal Carcinoma in a Mouse Model of Phlegm-Coagulation-Blood-Stasis Syndrome via the STAT3/Cyclin D1 Pathway.",
+      "abstract": "Erchen plus Huiyanzhuyu decoction (EHD), a Chinese herbal medicine (CHM) formula that consists of Erchen decoction and Huiyanzhuyu decoction, has achieved satisfactory results in the clinic. The main function of EHD is to remove phlegm and blood stasis, and EHD is suitable for phlegm-coagulation-blood-stasis (PCBS) syndrome in laryngeal cancer (LC). In this study, a xenograft mouse model of LC with PCBS syndrome was constructed by feeding a high-fat diet, swimming in ice water, and subcutaneously injecting epinephrine hydrochloride for 2 weeks. Based on the successful Chinese medicine syndrome model, Hep2-luciferase-GFP cells were injected subcutaneously under the armpit of the right upper limb in mice to form tumours. A mouse model of LC with PCBS syndrome was established via heterotopic transplantation. Then, the mice received intragastric administration of different concentrations of EHD daily, and cisplatin (DDP) was intraperitoneally injected every week for 21 days. Tumour fluorescence in mice was measured with a living animal imager on days 7, 14, 21, and 28 during treatment. The results of this experiment confirmed that a mouse model of Chinese medicine syndrome was successfully constructed. Moreover, EHD slowed the growth of xenograft tumours in nude mice; decreased the expression levels of STAT3, p-STAT3, and cyclin D1; and upregulated the expression level of P27. In brief, EHD inhibited laryngeal tumour growth in a xenograft mouse model of PCBS syndrome and regulated the STAT3/cyclin D1 signalling pathway. This study was the first to construct a Chinese medicine xenograft mouse model of LC with PCBS syndrome; in addition, this study clarified that EHD regulated the STAT3/cyclin D1 signalling pathway to inhibit the growth of LC and that EHD may be a promising novel therapeutic compound for the treatment of patients with LC.",
+      "year": 2020,
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "doi": "10.1155/2020/2803496",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2020-04-22"
+      ],
+      "journal_issue_date": "2020",
+      "canonical_publication_date": "2020-04-22",
+      "canonical_publication_year": 2020
+    },
+    "30402126": {
+      "title": "Erchen Decoction Ameliorates Lipid Metabolism by the Regulation of the Protein CAV-1 and the Receptors VLDLR, LDLR, ABCA1, and SRB1 in a High-Fat Diet Rat Model.",
+      "abstract": "Lipid metabolism disorder is a common metabolic disorder characterized by abnormal lipid levels in blood. Erchen decoction (ECD) is a traditional Chinese medicine prescription, which is used for the treatment of diseases caused by retention of phlegm dampness. It has been reported to ameliorate the disorder of lipid metabolism. The aim of the present study was to investigate the effects and underlying mechanisms of ECD in lipid metabolism disorder induced by a high-fat diet (HFD) in rats. ECD (4.35g/kg/d) and atorvastatin (10mg/kg/d, positive control) were orally administered to HFD-fed rats for four weeks. The parameters, food, water consumption, body weight, body length, liver, and visceral fat weight and the content of serum lipids and lipid transporters were assessed. The effects of ECD on the mRNA and protein expression levels of lipid transport factors were measured by real-time PCR and western blotting. The present study demonstrated that ECD improved the disorders of serum lipid and lipid transporters in HFD-fed rats, TG (0.70±0.08 mmol/L, p<0.01), LDL-C (1.50±0.19 mmol/L, p<0.01), LDL (1.38±0.21 mmol/L, p<0.05), and oxLDL (1.77±0.39 ng/mL, p<0.05) were downregulated, while HDL-C (0.87±0.13 mmol/L, p<0.01), FFA (0.62±0.13 mmol/L, p<0.05), HDL (38.8±4.0 mg/dL, p<0.05), and CETP (903.6±120.0 ng/mL, p<0.05) were upregulated. But ECD obviously had no effects on the indices food/water/energy intake, body/tissue (liver and fat) weight, and BMI (p>0.05). Concomitantly, ECD reversed the abnormal expressions of those lipid transport factors in the liver and visceral fat.",
+      "year": 2018,
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "doi": "10.1155/2018/5309490",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2018-10-08"
+      ],
+      "journal_issue_date": "2018",
+      "canonical_publication_date": "2018-10-08",
+      "canonical_publication_year": 2018
+    },
+    "35795265": {
+      "title": "Analysis of Medication Rule of Primary Epilepsy Based on",
+      "abstract": "To explore and analyze the medication rule of Professor Xiaocheng Yan in the treatment of primary epilepsy, hoping to provide reference for the clinical treatment of primary epilepsy. Mining and analysis of Professor Xiaocheng Yan sorted out the medical cases of primary epilepsy in Xiaocheng Yan's clinical experience collection of epilepsy, extracted the traditional Chinese medicine (TCM) prescription data in the medical cases, standardized the obtained TCM prescription data, and used the data mining function integrated by the ancient and modern medical case cloud platform V2.3.5 to carry out frequency statistics, cluster analysis, association analysis, and complex network analysis on the TCM data, and the common herbs used by Professor Xiaocheng Yan in the treatment of primary epilepsy, properties and classifications of commonly used herbs, pairs of commonly used herbs, and core prescriptions were obtained. A total of 39 cases, 228 medical records, and 230 prescriptions data of TCM were included. A total of 96 Chinese medicinal herbs were involved, and the total frequency of medication was 3,828. High-frequency herbs include Rhizoma Gastrodiae (Tianma) (222 times), Ramulus Uncariae cum Uncis (Gouteng) (220 times), Rhizoma Acori Tatarinowii (Shichangpu) (216 times), Rhizoma Pinelliae Praeparatum (Fabanxia) (207 times), Bombyx Batryticatus (Jiangcan) (206 times), and Periostracum Cicadae (Chantui) (181 times). The main properties and flavors of commonly used Chinese medicinal herbs were sweet, bitter, and pungent, which were mainly attributed to the four meridians of liver, lung, heart, and spleen. Commonly used couplet herbs were {Periostracum Cicadae (Chantui)} ≥ {Bombyx Batryticatus (Jiangcan)}, {Rhizoma Acori Tatarinowii (Shichangpu)} ≥{ Bombyx Batryticatus (Jiangcan)}, {Radix Bupleuri (Chaihu)} ≥ {Radix Scutellariae (Huangqin)}, {Rhizoma Gastrodiae (Tianma)} ≥ {Ramulus Uncariae cum Uncis (Gouteng)}, {Rhizoma Acori Tatarinowii (Shichangpu)} ≥ {Periostracum Cicadae (Chantui)}, {Ramulus Uncariae cum Uncis (Gouteng)} ≥ {Bombyx Batryticatus (Jiangcan)}, {Bombyx Batryticatus (Jiangcan)} ≥ {Rhizoma Gastrodiae (Tianma)}, {Rhizoma Acori Tatarinowii (Shichangpu)} ≥ {Ramulus Uncariae cum Uncis (Gouteng)}, etc. The core prescription composition was based on the addition and subtraction of Tianma Gouteng decoction and Erchen decoction. The main pharmacological mechanisms of core prescriptions are mainly reflected in antioxidation, enhancing GABA efficacy, and regulating NMDA channel and sodium channel, neuroprotection, and so on. Professor Xiaocheng Yan's medication for the treatment of primary epilepsy was based on the principle of relieving wind and spasm, drying dampness and resolving phlegm, giving consideration to both Qi and blood, and harmonizing liver, lung, heart, and spleen.",
+      "year": 2022,
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "doi": "10.1155/2022/9539944",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-06-25"
+      ],
+      "journal_issue_date": "2022",
+      "canonical_publication_date": "2022-06-25",
+      "canonical_publication_year": 2022
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "release_id": "papera_temporal_v2",
+  "checksum_algorithm": "sha256",
+  "files": [
+    {
+      "path": "protocol.json",
+      "sha256": "5c0accfe2dc3d750c7cfe91c48be34d3e7b77ab040c9d96d897538f615a698c8"
+    },
+    {
+      "path": "PROTOCOL.md",
+      "sha256": "ac472bbaae6114f19505ba30919383276d925ed404c9d3671036a579d0443925"
+    },
+    {
+      "path": "RANKING_SPEC.md",
+      "sha256": "f9603d42207f5fe499c2d9aad62ead45be06067d9dad8f937deb331a7884a3ca"
+    },
+    {
+      "path": "DEVIATIONS.md",
+      "sha256": "950227b7c1fc73a243e05734d2ea1d87dd8d6e7945d4ea447fe46767d073c1fa"
+    },
+    {
+      "path": "candidate_corpus.json",
+      "sha256": "b9483718637ecd5ebf53e292cebe873f17b2849bf808cdb5f8da0f66917dd96f"
+    },
+    {
+      "path": "manual_screening.tsv",
+      "sha256": "3a7be0065ed4781034e20c10f2df440c23d1ab633eb429e2081410e9ec279963"
+    },
+    {
+      "path": "cutoff_chembl_2022.json",
+      "sha256": "4c00effff55086f80ac30fa44d606e58c95d06aad96e1ef43ba6132d3ae859e3"
+    },
+    {
+      "path": "locked_rankings_and_proxy_audit.json",
+      "sha256": "1b91c947cc1386f170fe533bb5ac4cb26c7a5f3fea98aae6e5a242db05c560ea"
+    },
+    {
+      "path": "retrieval_manifest.json",
+      "sha256": "a495df9d42eb5edf2ab3c1724f377767b851f4f2c7b891dac56a67a88172544e"
+    },
+    {
+      "path": "raw_pubmed/二陈汤_all.json",
+      "sha256": "7c62ac0142244259d2f78d8611e9576ea1df8cdef458a8082553cd417cfa4be5"
+    },
+    {
+      "path": "raw_pubmed/八珍汤_all.json",
+      "sha256": "c0893689cd27248acf7c89e208506d047f9910568e7c0b4d5e21b6022c5d91e5"
+    },
+    {
+      "path": "raw_pubmed/六君子汤_all.json",
+      "sha256": "4782a989ab132a5851d199f29629bcff67d444ef2a806441c204e3932ea72193"
+    },
+    {
+      "path": "raw_pubmed/六味地黄丸_all.json",
+      "sha256": "6f48982b7dcfb5fa321197987e971ee7b600ef99bdfed1130d674d61c76140a1"
+    },
+    {
+      "path": "raw_pubmed/四君子汤_all.json",
+      "sha256": "50a6a761035319a9c7235642791b96d55ca8d3719b4f6d84d834dd95741c08e6"
+    },
+    {
+      "path": "raw_pubmed/四物汤_all.json",
+      "sha256": "549212d52416aca784b7009907907ea2312eaea65b40f461308d1b7f691f9788"
+    },
+    {
+      "path": "raw_pubmed/四逆汤_all.json",
+      "sha256": "df86621031ec44f5b83fb13f286cee898fcae2a63d05a850ce0a79a630b0fac0"
+    },
+    {
+      "path": "raw_pubmed/小柴胡汤_all.json",
+      "sha256": "e37ece411d5cc2a896f1100526fe5cc6c0126bfcd3e651fc9e8f6b5f2430669d"
+    },
+    {
+      "path": "raw_pubmed/桂枝汤_all.json",
+      "sha256": "3ed65ca80dca61c10c4c5d54ed569f540e23508b9b1701580312a911bec7f349"
+    },
+    {
+      "path": "raw_pubmed/理中丸_all.json",
+      "sha256": "fdc302f9280d340b7a9688e0c8852640820d7188c8d0b98f8636846591a3f398"
+    },
+    {
+      "path": "raw_pubmed/补中益气汤_all.json",
+      "sha256": "f322e0e0ae902f1482cff8578f9bb95fcff17ed976cd423faf55ffcaf5b3f34c"
+    },
+    {
+      "path": "raw_pubmed/逍遥散_all.json",
+      "sha256": "a98243258ddf176ab5f52d80963213493456a56f082d57b9c7ef7cf4eaeb9304"
+    },
+    {
+      "path": "raw_pubmed/麻黄汤_all.json",
+      "sha256": "a67ac04fbbb1e5dc9a345f7d99ea35b80de7420fe9e351ef64896d4b2b23b550"
+    },
+    {
+      "path": "raw_pubmed/黄连解毒汤_all.json",
+      "sha256": "5c442705bf17da859bf71f92057b17e007e7b0864fd10393dd9f92dc92d3fb5c"
+    }
+  ],
+  "file_count": 23
+}

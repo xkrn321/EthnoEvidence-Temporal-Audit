@@ -1,0 +1,332 @@
+{
+  "protocol_id": "papera_temporal_v2",
+  "definitions": {
+    "ungated_union": "existing weighted union rank without the lexical evidence-tier gate",
+    "evidence_gated": "existing deterministic rank with the evidence-tier gate",
+    "measured_only": "pre-cutoff ChEMBL measured-only rank; no literature or STP tie-break",
+    "top10_jaccard": "set intersection divided by set union for the available top-10 lists",
+    "top20_candidate_loss": "baseline top-20 targets absent from evidence-gated top-20",
+    "composition": "presence/absence of measured, STP, and pre-cutoff literature fields"
+  },
+  "per_formula": [
+    {
+      "formula": "四君子汤",
+      "label": "Sijunzi Decoction",
+      "baseline": "ungated_union",
+      "top_k": 10,
+      "top10_jaccard": 1.0,
+      "top20_candidate_loss": 1,
+      "top20_common": 19,
+      "mean_abs_rank_displacement": 1.5263157894736843
+    },
+    {
+      "formula": "四君子汤",
+      "label": "Sijunzi Decoction",
+      "baseline": "measured_only",
+      "top_k": 10,
+      "top10_jaccard": 0.6666666666666666,
+      "top20_candidate_loss": 0,
+      "top20_common": 20,
+      "mean_abs_rank_displacement": 3.0
+    },
+    {
+      "formula": "六君子汤",
+      "label": "Liujunzi Decoction",
+      "baseline": "ungated_union",
+      "top_k": 10,
+      "top10_jaccard": 0.8181818181818182,
+      "top20_candidate_loss": 2,
+      "top20_common": 18,
+      "mean_abs_rank_displacement": 3.2777777777777777
+    },
+    {
+      "formula": "六君子汤",
+      "label": "Liujunzi Decoction",
+      "baseline": "measured_only",
+      "top_k": 10,
+      "top10_jaccard": 0.42857142857142855,
+      "top20_candidate_loss": 2,
+      "top20_common": 18,
+      "mean_abs_rank_displacement": 4.777777777777778
+    },
+    {
+      "formula": "四物汤",
+      "label": "Siwu Decoction",
+      "baseline": "ungated_union",
+      "top_k": 10,
+      "top10_jaccard": 1.0,
+      "top20_candidate_loss": 0,
+      "top20_common": 20,
+      "mean_abs_rank_displacement": 0.0
+    },
+    {
+      "formula": "四物汤",
+      "label": "Siwu Decoction",
+      "baseline": "measured_only",
+      "top_k": 10,
+      "top10_jaccard": 1.0,
+      "top20_candidate_loss": 0,
+      "top20_common": 14,
+      "mean_abs_rank_displacement": 0.0
+    },
+    {
+      "formula": "八珍汤",
+      "label": "Bazhen Decoction",
+      "baseline": "ungated_union",
+      "top_k": 10,
+      "top10_jaccard": 1.0,
+      "top20_candidate_loss": 4,
+      "top20_common": 16,
+      "mean_abs_rank_displacement": 1.75
+    },
+    {
+      "formula": "八珍汤",
+      "label": "Bazhen Decoction",
+      "baseline": "measured_only",
+      "top_k": 10,
+      "top10_jaccard": 0.6666666666666666,
+      "top20_candidate_loss": 1,
+      "top20_common": 19,
+      "mean_abs_rank_displacement": 2.3684210526315788
+    },
+    {
+      "formula": "六味地黄丸",
+      "label": "Liuwei Dihuang Wan",
+      "baseline": "ungated_union",
+      "top_k": 10,
+      "top10_jaccard": 0.8181818181818182,
+      "top20_candidate_loss": 1,
+      "top20_common": 19,
+      "mean_abs_rank_displacement": 0.8947368421052632
+    },
+    {
+      "formula": "六味地黄丸",
+      "label": "Liuwei Dihuang Wan",
+      "baseline": "measured_only",
+      "top_k": 3,
+      "top10_jaccard": 1.0,
+      "top20_candidate_loss": 0,
+      "top20_common": 3,
+      "mean_abs_rank_displacement": 0.0
+    },
+    {
+      "formula": "逍遥散",
+      "label": "Xiaoyao San",
+      "baseline": "ungated_union",
+      "top_k": 10,
+      "top10_jaccard": 0.8181818181818182,
+      "top20_candidate_loss": 3,
+      "top20_common": 17,
+      "mean_abs_rank_displacement": 2.0588235294117645
+    },
+    {
+      "formula": "逍遥散",
+      "label": "Xiaoyao San",
+      "baseline": "measured_only",
+      "top_k": 10,
+      "top10_jaccard": 0.42857142857142855,
+      "top20_candidate_loss": 1,
+      "top20_common": 19,
+      "mean_abs_rank_displacement": 5.2105263157894735
+    },
+    {
+      "formula": "补中益气汤",
+      "label": "Buzhong Yiqi Decoction",
+      "baseline": "ungated_union",
+      "top_k": 10,
+      "top10_jaccard": 0.5384615384615384,
+      "top20_candidate_loss": 1,
+      "top20_common": 19,
+      "mean_abs_rank_displacement": 2.263157894736842
+    },
+    {
+      "formula": "补中益气汤",
+      "label": "Buzhong Yiqi Decoction",
+      "baseline": "measured_only",
+      "top_k": 10,
+      "top10_jaccard": 0.3333333333333333,
+      "top20_candidate_loss": 2,
+      "top20_common": 18,
+      "mean_abs_rank_displacement": 6.555555555555555
+    },
+    {
+      "formula": "桂枝汤",
+      "label": "Guizhi Decoction",
+      "baseline": "ungated_union",
+      "top_k": 10,
+      "top10_jaccard": 0.6666666666666666,
+      "top20_candidate_loss": 1,
+      "top20_common": 19,
+      "mean_abs_rank_displacement": 2.526315789473684
+    },
+    {
+      "formula": "桂枝汤",
+      "label": "Guizhi Decoction",
+      "baseline": "measured_only",
+      "top_k": 10,
+      "top10_jaccard": 0.3333333333333333,
+      "top20_candidate_loss": 2,
+      "top20_common": 18,
+      "mean_abs_rank_displacement": 5.5
+    },
+    {
+      "formula": "麻黄汤",
+      "label": "Mahuang Decoction",
+      "baseline": "ungated_union",
+      "top_k": 10,
+      "top10_jaccard": 0.8181818181818182,
+      "top20_candidate_loss": 1,
+      "top20_common": 19,
+      "mean_abs_rank_displacement": 2.789473684210526
+    },
+    {
+      "formula": "麻黄汤",
+      "label": "Mahuang Decoction",
+      "baseline": "measured_only",
+      "top_k": 10,
+      "top10_jaccard": 0.42857142857142855,
+      "top20_candidate_loss": 2,
+      "top20_common": 18,
+      "mean_abs_rank_displacement": 4.222222222222222
+    },
+    {
+      "formula": "小柴胡汤",
+      "label": "Xiaochaihu Decoction",
+      "baseline": "ungated_union",
+      "top_k": 10,
+      "top10_jaccard": 0.42857142857142855,
+      "top20_candidate_loss": 3,
+      "top20_common": 17,
+      "mean_abs_rank_displacement": 4.176470588235294
+    },
+    {
+      "formula": "小柴胡汤",
+      "label": "Xiaochaihu Decoction",
+      "baseline": "measured_only",
+      "top_k": 10,
+      "top10_jaccard": 0.25,
+      "top20_candidate_loss": 7,
+      "top20_common": 13,
+      "mean_abs_rank_displacement": 7.923076923076923
+    },
+    {
+      "formula": "理中丸",
+      "label": "Lizhong Wan",
+      "baseline": "ungated_union",
+      "top_k": 10,
+      "top10_jaccard": 0.5384615384615384,
+      "top20_candidate_loss": 1,
+      "top20_common": 19,
+      "mean_abs_rank_displacement": 4.052631578947368
+    },
+    {
+      "formula": "理中丸",
+      "label": "Lizhong Wan",
+      "baseline": "measured_only",
+      "top_k": 10,
+      "top10_jaccard": 0.25,
+      "top20_candidate_loss": 3,
+      "top20_common": 17,
+      "mean_abs_rank_displacement": 7.176470588235294
+    },
+    {
+      "formula": "四逆汤",
+      "label": "Sini Decoction",
+      "baseline": "ungated_union",
+      "top_k": 10,
+      "top10_jaccard": 0.25,
+      "top20_candidate_loss": 1,
+      "top20_common": 19,
+      "mean_abs_rank_displacement": 5.473684210526316
+    },
+    {
+      "formula": "四逆汤",
+      "label": "Sini Decoction",
+      "baseline": "measured_only",
+      "top_k": 10,
+      "top10_jaccard": 0.05263157894736842,
+      "top20_candidate_loss": 3,
+      "top20_common": 17,
+      "mean_abs_rank_displacement": 9.411764705882353
+    },
+    {
+      "formula": "二陈汤",
+      "label": "Erchen Decoction",
+      "baseline": "ungated_union",
+      "top_k": 10,
+      "top10_jaccard": 0.8181818181818182,
+      "top20_candidate_loss": 2,
+      "top20_common": 18,
+      "mean_abs_rank_displacement": 3.2777777777777777
+    },
+    {
+      "formula": "二陈汤",
+      "label": "Erchen Decoction",
+      "baseline": "measured_only",
+      "top_k": 10,
+      "top10_jaccard": 0.42857142857142855,
+      "top20_candidate_loss": 1,
+      "top20_common": 19,
+      "mean_abs_rank_displacement": 5.2105263157894735
+    },
+    {
+      "formula": "黄连解毒汤",
+      "label": "Huanglian Jiedu Decoction",
+      "baseline": "ungated_union",
+      "top_k": 10,
+      "top10_jaccard": 0.8181818181818182,
+      "top20_candidate_loss": 3,
+      "top20_common": 17,
+      "mean_abs_rank_displacement": 1.2941176470588236
+    },
+    {
+      "formula": "黄连解毒汤",
+      "label": "Huanglian Jiedu Decoction",
+      "baseline": "measured_only",
+      "top_k": 10,
+      "top10_jaccard": 0.5384615384615384,
+      "top20_candidate_loss": 0,
+      "top20_common": 20,
+      "mean_abs_rank_displacement": 4.0
+    }
+  ],
+  "summary": {
+    "ungated_union_vs_evidence_gated": {
+      "median_top10_jaccard": 0.8181818181818182,
+      "mean_top10_jaccard": 0.7379465772322915,
+      "minimum_top10_jaccard": 0.25,
+      "mean_top20_candidate_loss": 1.7142857142857142,
+      "median_top20_candidate_loss": 1.0,
+      "mean_abs_rank_displacement": 2.5258059364096517
+    },
+    "measured_only_vs_evidence_gated": {
+      "median_top10_jaccard": 0.42857142857142855,
+      "mean_top10_jaccard": 0.4860984879781873,
+      "minimum_top10_jaccard": 0.05263157894736842,
+      "mean_top20_candidate_loss": 1.7142857142857142,
+      "median_top20_candidate_loss": 1.5,
+      "mean_abs_rank_displacement": 4.668310104068618
+    },
+    "top20_slots_per_method": 280,
+    "composition_counts": {
+      "ungated_union": {
+        "mixed": 226,
+        "measured-only": 28,
+        "literature-only": 26
+      },
+      "evidence_gated": {
+        "mixed": 231,
+        "measured-only": 31,
+        "literature-only": 18
+      }
+    }
+  },
+  "compound_attrition": {
+    "marker_compounds": 67,
+    "resolved_chembl_ids": 65,
+    "temporal_measured_eligible": 37,
+    "preparation_detection": "not_assessed",
+    "exposure": "not_assessed",
+    "selective_intervention": "not_assessed"
+  }
+}

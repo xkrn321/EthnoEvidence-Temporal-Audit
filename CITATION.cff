@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this resource, please cite the associated methodology manuscript and the archived release."
+title: "EthnoEvidence Temporal Audit"
+version: "2.0.2"
+date-released: 2026-09-01
+abstract: "A frozen temporal and evidence-provenance audit for multicomponent target prioritization."
+license: MIT
+# Authors, repository URL, and archived DOI are intentionally author-controlled
+# fields and must be inserted only in the final approved archival release.

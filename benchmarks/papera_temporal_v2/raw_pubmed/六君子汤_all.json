@@ -1,0 +1,466 @@
+{
+  "formula": "六君子汤",
+  "window": "all",
+  "query": "(\"Liujunzi Decoction\"[Title/Abstract] OR \"Liujunzi Tang\"[Title/Abstract]) AND (mechanism*[Title/Abstract] OR pathway*[Title/Abstract] OR gene*[Title/Abstract] OR protein*[Title/Abstract] OR pharmacolog*[Title/Abstract]) AND (\"1900/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication]) NOT (\"Comment\"[Publication Type] OR \"Editorial\"[Publication Type] OR \"Letter\"[Publication Type] OR \"Meta-Analysis\"[Publication Type] OR \"News\"[Publication Type] OR \"Review\"[Publication Type] OR \"Systematic Review\"[Publication Type])",
+  "retrieved_at": "2026-08-29",
+  "pmids": [
+    "41344517",
+    "40466880",
+    "38882295",
+    "38403322",
+    "41069602",
+    "39701680",
+    "27660011",
+    "35294130",
+    "28920352",
+    "40342036",
+    "38415453",
+    "40258725",
+    "41508247",
+    "38096029",
+    "36701994",
+    "37308030",
+    "34800646",
+    "24761646",
+    "34630778",
+    "35963194",
+    "40461233",
+    "39534925",
+    "33645139",
+    "39002822",
+    "17650797",
+    "11783231"
+  ],
+  "records": {
+    "41344517": {
+      "title": "Xiangsha Liujunzi decoction restores mitochondrial function and ameliorates chronic ulcerative colitis by regulating the PI3K/AKT/Nrf2 and AMPK/SIRT1/PGC-1α signaling pathways.",
+      "abstract": "Xiangsha Liujunzi Decoction (XS) is a classical formula traditionally employed to invigorate the spleen and treat digestive system disorders. Although XS has a therapeutic effect on chronic ulcerative colitis (UC) in clinical practice, the mechanism remains unclear. To investigate the therapeutic effects and underlying mechanisms of XS on dextran sodium sulfate (DSS)-induced chronic UC in mice and the LPS-induced RAW264.7 cell inflammation model. The chemical components of XS were identified using UPLC-Q-Orbitrap HRMS. The chronic UC mouse model and LPS-induced RAW264.7 cell inflammation model were established and treated with XS. Body weight, disease activity index (DAI), colon length, colonic mucosal damage index (CMDI), and histopathology changes in colonic tissues were assessed. The mRNA expression of inflammatory factors (IL-6, IL-1β, and TNF-α) in mice and cells was measured by qRT-PCR, while the expression of occludin and ZO-1 proteins and mRNAs in colonic tissue was detected by Western Blot (WB) and qRT-PCR. Transmission electron microscopy was used to observe the mitochondrial ultrastructure in colonic tissue. Cell viability was determined using the CCK-8 assay. Changes in reactive oxygen species (ROS) and mitochondrial membrane potential (MMP) were measured by flow cytometry. A PI3K inhibitor (LY294002) and an AMPK inhibitor (M2238) were employed to confirm the specificity of the cellular signaling pathways. Molecular docking was performed to validate the binding ability between the active compound and the targets. We identified 50 compounds in XS, mainly flavonoids and organic acids. In the chronic UC mouse model, XS alleviated weight loss, reduced DAI scores, increased colon length, and improved colonic mucosal and pathological changes; inhibited the mRNA expression of inflammatory factors (IL-6, IL-1β, TNF-α); and significantly increased the mRNA and protein expression of tight-junction proteins occludin and ZO-1 to reduce intestinal inflammation and protect the integrity of the colonic epithelial barrier. In vitro experiments showed that XS dose-dependently reduced the inflammatory response in LPS-induced RAW264.7 cells by inhibiting the expression of IL-6, IL-1β, and TNF-α, reducing ROS levels, restoring MMP, and improving mitochondrial function. Mechanistic studies showed that XS activated PI3K and AKT phosphorylation, upregulated Nrf2 and HO-1 expression, and reduced oxidative stress damage. XS promoted AMPK phosphorylation in the mitochondrial biogenesis pathway, increased the protein expression of SIRT1 and PGC-1α, and upregulated the expression of NRF1 and TFAM. The involvement of both pathways was confirmed in vivo and in vitro experiments, with inhibitor studies further validating the results in vitro experiments. XS mitigates chronic UC by decreasing ROS levels and inhibiting the macrophage inflammatory response by regulating the PI3K/AKT/Nrf2 and AMPK/SIRT1/PGC-1α signaling pathways.",
+      "year": 2025,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2025.120997",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-12-02"
+      ],
+      "journal_issue_date": "2026-03-01",
+      "canonical_publication_date": "2025-12-02",
+      "canonical_publication_year": 2025
+    },
+    "40466880": {
+      "title": "Therapeutic mechanism of Jinshui Liujunzi Decoction in treating COPD: targeting the PI3K/Akt signaling pathway.",
+      "abstract": "Jinshui Liujunzi decoction (JZD) has been widely used in the treatment of chronic obstructive pulmonary disease (COPD), and has good antioxidant and anti-inflammatory effects, but its specific active ingredients and mechanism of action are still unclear. To elucidate the molecular mechanisms of JZD in treating COPD and experimentally validate its efficacy. Network pharmacology was used to identify the active components of JZD and molecular targets of COPD. A herb-component-target-disease network was constructed, and the binding energy between JZD's active components and targets was validated through molecular docking. A COPD animal model was established by repeated intranasal instillation of cigarette smoke extract containing lipopolysaccharide (LPS). Mice were administered low-, medium-, and high-dose JZD (4.8 g/kg, 9.6 g/kg, and 19.2 g/kg) daily by gavage. Behavioral changes, lung function, lung index, lung wet/dry weight ratio, and lung tissue pathology were observed. The total number of inflammatory cells, neutrophils, and macrophages in bronchoalveolar lavage fluid (BALF) was counted. ELISA was used to measure IL-1β, IL-4, and IL-13 levels in BALF, PCR was used to determine the relative expression of PI3K and Akt genes, and Western blot was used to measure PI3K and Akt protein expression levels. Network pharmacology analysis identified 267 active components of JZD, corresponding to 608 targets. A total of 6570 COPD-related targets were obtained from five databases (GeneCards, OMIM, PharmGKB, TTD, and DrugBank), with 476 overlapping targets. KEGG analysis revealed that JZD primarily acts on the PI3K/Akt signaling pathway in COPD treatment. Molecular docking results showed that the binding energy between JZD's key components and core targets was less than -5.0 kcal/mol, with PIK3R1 exhibiting the strongest binding affinity. In the COPD mouse model, JZD significantly improved behavioral outcomes, increased peak expiratory flow (PEF), tidal volume (TV), and body weight, and reduced lung weight, lung index, and lung wet/dry weight ratio. JZD also alleviated pathological changes in lung tissue, reduced inflammatory cell infiltration in the bronchi, and decreased the levels of inflammatory cells, neutrophils, macrophages, IL-1β, IL-4, and IL-13 in BALF. Furthermore, JZD downregulated the expression of PI3K, Akt, and their genes in lung tissue. JZD exhibits significant therapeutic effects on COPD, likely mediated through the inhibition of the PI3K/Akt signaling pathway.",
+      "year": 2025,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2025.120070",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-06-02"
+      ],
+      "journal_issue_date": "2025-07-24",
+      "canonical_publication_date": "2025-06-02",
+      "canonical_publication_year": 2025
+    },
+    "38882295": {
+      "title": "Lipidomics study of Liujunzi decoction in hyperlipidemia rats with spleen deficiency based on UPLC-Q-TOF/MS.",
+      "abstract": "Hyperlipidemia refers to the abnormal levels of triglyceride (TG), total cholesterol (TC), low-density lipoprotein (LDL-C) and high-density lipoprotein (HDL-C) in peripheral blood circulation. It is a predominant risk factor underlying cardiovascular and cerebrovascular diseases, including coronary heart disease and atherosclerosis. Furthermore, it is also one of the most prevalent chronic diseases globally. Liujunzi Decoction is the basic prescription for the treatment of spleen and stomach diseases. It can tonify the spleen and qi, remove dampness, and reduce turbidity. Moreover, it is also clinically used for the treatment of spleen deficiency hyperlipidemia. However, its metabolites and therapeutic effect on spleen deficiency hyperlipidemia have not been comprehensively determined in vitro and in vivo. This study established a rat model of spleen deficiency hyperlipidemia by inducing starvation and satiety disorders, exhaustion swimming, and intragastric administration of the fat emulsion. To identify related metabolite changes and serum lipid composition, UPLC-Q-TOF-MS, PCA, and OPLS-DA lipidological methods were performed. The results demonstrated significant changes in rat's signs during the modeling process, which were consistent with the criteria for the syndrome differentiation of spleen deficiency in traditional Chinese medicine. Furthermore, this study identified 100 potential biomarkers in rat serum, of which 52 were associated with lipid synthesis, such as LPC, PC, PI, PE, PA, Cer, SM, etc. The pathways involved were glycerol phospholipid, sphingomyelin, and glycerol ester metabolisms. After the Liujunzi decoction intervention, 56 potential biomarkers were observed in the high-dose group, alleviating the metabolic spectrum imbalance by reducing metabolite levels. In addition, metabolic pathway disturbances were markedly improved. This study provides references for future studies on Liujunzi decoction and furnishes essential data for assessing the relationships between chemical constituents and pharmacological activities of Liujunzi decoction.",
+      "year": 2024,
+      "journal": "Heliyon",
+      "doi": "10.1016/j.heliyon.2024.e31710",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2024-05-22"
+      ],
+      "journal_issue_date": "2024-06-15",
+      "canonical_publication_date": "2024-05-22",
+      "canonical_publication_year": 2024
+    },
+    "38403322": {
+      "title": "[Liujunzi Decoction treats 4NQO-induced esophageal cancer in mice: a study based on serum metabolomics].",
+      "abstract": "This study aims to explore the mechanism of Liujunzi Decoction in the treatment of 4-nitroquinoline-N-oxide(4NQO)-induced esophageal cancer in mice. One hundred mice of 35-45 days were randomized into blank, model, and low-, medium-, and high-concentration(18.2, 36.4, and 54.6 g·kg~(-1), respectively) Liujunzi Decoction groups. The mice in other groups except the blank group had free access to the water containing 100 μg·mL~(-1) 4NQO for 16 weeks for the modeling of esophageal cancer. The mice in the Liujunzi Decoction groups were fed with the diets supplemented with corresponding concentrations of Liujunzi Decoction. The body weight and organ weights were weighed for the calculation of organ indexes. The pathological changes of the esophageal tissue were observed by hematoxylin-eosin(HE) staining. Ultra performance liquid chromatography-mass spectrometry(UPLC-MS/MS) was employed to collect metabolites from mouse serum samples, screen out potential biomarkers, and predict related metabolic pathways. Compared with the blank group, the model group showed decreased spleen and stomach indexes and increased lung, esophagus, and kidney indexes. Compared with the model group, Liujunzi Decoction groups had no significant changes in the organ indexes. The HE staining results showed that Liujunzi Decoction inhibited the invasive growth and cancerization of the esophageal cancer cells. A total of 9 potential biomarkers of Liujunzi Decoction in treating esophageal cancer were screened out in this study, which were urocanic acid, 1-oleoylglycerophosphoserine, 11-deoxy prostaglandin E1, Leu-Glu-Lys-Glu,(±) 4-hydroxy-5E,7Z,10Z,13Z,16Z,19Z-docosahexaenoic acid, ureidosuccinic acid,(2R)-2,4-dihydroxy-3,3-dimethylbutanoic acid, kynurenic acid, and bicyclo prostaglandin E2, which were mainly involved in histidine, pyrimidine, alanine, aspartate, glutamate, pantothenate and tryptophan metabolism and coenzyme A biosynthesis. In summary, Liujunzi Decoction may exert the therapeutic effect on the 4NQO-induced esophageal cancer in mice by regu-lating the amino acid metabolism, inflammation, and immune function.",
+      "year": 2024,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20231013.702",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2024-01",
+      "canonical_publication_date": "2024-01",
+      "canonical_publication_year": 2024
+    },
+    "41069602": {
+      "title": "Multi-pathway mechanisms of Liujunzi decoction in promoting glioma apoptosis and reversing drug resistance: network pharmacology and experimental validation.",
+      "abstract": "Glioma is a highly aggressive brain tumor with a poor prognosis. Recent studies have demonstrated the anti-tumor potential of Liujunzi decoction (LJZD), but its specific effects and mechanisms in glioma remain unclear. This study aimed to elucidate the anti-glioma effects of LJZD and explore its underlying therapeutic mechanisms. The active ingredients of LJZD were retrieved from the TCMSP database and screened using ADME analysis. Potential targets of both the ingredients and glioma were retrieved from various databases. The overlapping targets were identified as LJZD's therapeutic targets for glioma. To elucidate the biological functions and potential association among the overlapping targets, protein-protein interaction (PPI) network analysis, Gene Ontology (GO) and Kyoto Encyclopedia of Genes and Genomes (KEGG) enrichment analyses were conducted. Molecular docking was employed to evaluate the binding affinities between core targets and LJZD's main active ingredients. The inhibitory effect of LJZD on U251 glioma cells was validated by in vitro experiments. In total, we identified 76 active ingredients and 752 potential targets of LJZD, while 1,456 glioma-related targets were collected from databases, yielding 174 overlapping targets through intersection. PPI network analysis revealed 40 hub targets, with TP53, AKT1, HIF1A, TNF and IL6 ranking as the top five core targets based on degree. GO and KEGG enrichment analyses demonstrated that LJZD's anti-glioma effects are mediated through genes related to apoptosis and key pathways including platinum drug resistance, EGFR tyrosine kinase inhibitor resistance, and PD-LI expression and PD-1 checkpoint pathway in cancer. Molecular docking confirmed good to strong binding affinities between LJZD's main active ingredients (glabridin, pinocembrin and chrysophanol) and all top 10 core targets. In vitro experiments showed that glabridin inhibited U251 cell viability and promoted apoptosis. Glabridin significantly downregulated phosphorylation levels of AKT, STAT3 and c-Jun, while reducing expression of c-Myc and HIF-1α in U251 cells. LJZD may exert anti-glioma effects by inducing tumor cell apoptosis and overcoming drug resistance, potentially serving as an adjuvant to enhance conventional therapies. Additionally, its active ingredients (e.g., glabridin, pinocembrin and chrysophanol) provide novel leads for developing small-molecule therapeutics.",
+      "year": 2025,
+      "journal": "Frontiers in pharmacology",
+      "doi": "10.3389/fphar.2025.1682550",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-09-24"
+      ],
+      "journal_issue_date": "2025",
+      "canonical_publication_date": "2025-09-24",
+      "canonical_publication_year": 2025
+    },
+    "39701680": {
+      "title": "[Molecular mechanism of Xiangsha Liujunzi Decoction in treating chronic atrophic gastritis based on transcriptome sequencing technology].",
+      "abstract": "Based on transcriptomics technology, this study investigated the molecular mechanisms of Xiangsha Liujunzi Decoction in treating chronic atrophic gastritis(CAG), which were confirmed through experimental validation. The CAG rat model was built by the MNNG composite multi-factor method, followed by a 90-day administration of Xiangsha Liujunzi Decoction. The study measured the rat body mass and 3-hour food intake in each group and observed the pathological changes in gastric tissue using HE staining. It used RNA sequencing(RNA-Seq) to determine the gene expression in the gastric tissue of rats in each group and then analyzed differential genes through KEGG enrichment analysis to validate enriched key signaling pathways. The results indicated that the body mass and 3-hour food intake in the model group were significantly lower than those in the blank group, alongside typical signs of gastric tissue atrophy. In contrast, the treatment group exhibited a significant increase in body mass and 3-hour food intake and significant improvements in the damage of gastric tissue pathology. A total of 944 genes associated with the improvement of CAG by Xiangsha Liujunzi Decoction were obtained via RNA-Seq. KEGG enrichment analysis revealed that these genes were mainly enriched in multiple signal transduction pathways involving signaling pathways such as inflammation, proliferation, apoptosis, as well as cyclic adenosine monophosphate(cAMP) and cyclic guanosine monophosphate(cGMP)/protein kinases(PKG) pathways. Compared to the blank group, the RNA-Seq results showed significant increases in adenosine A1 receptor recombina(Adora1) and BK channel subunit beta 3(Kcnmb2) mRNA expression in gastric tissue in the model group, while the expression of endothelin receptor type B gene(Ednrb), recombinant Rho associated coiled coil containing protein kinase 2(Rock2), cGMP-dependent protein kinase 2(Prkg2), and cAMP responsive element binding protein 3 like 3 gene(Creb3l3) mRNA was significantly decreased. Compared to the model group, the expression of Adora1 and Kcnmb2 mRNA in gastric tissue in the treatment group decreased significantly, while the expression of Ednrb, Rock2, Prkg2, and Creb3l3 mRNA increased significantly. Molecular biology experiments revealed significant decreases in cAMP content in gastric tissue and plasma, as well as decreased expression levels of Ras homolog gene family member A(RhoA), ROCK2, phospho-myosin phosphatase target subunit 1(p-MYPT1), and phospho-Myosin light chain(Ser20)(p-MLC20) proteins in gastric tissue in the model group, accompanied by significantly increased cGMP content in gastric tissue and plasma and significantly increased expression of PKG protein in gastric tissue. When the treatment group was compared with the model group, the results showed significant decreases in cGMP content in gastric tissue and plasma and PKG protein expression in gastric tissue, alongside increased expression le-vels of RhoA, ROCK2, p-MYPT1, and p-MLC20 in gastric tissue. At the same time, the results of RT-qPCR confirmed that the expression of key genes in the cGMP/PKG pathway was consistent with the RNA-Seq findings. In summary, Xiangsha Liujunzi Decoction demonstrates significant therapeutic efficacy in CAG rats, and the specific mechanism may be through the abnormal expression of signaling molecules that regulate the cGMP/PKG pathway and downstream processes.",
+      "year": 2024,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20240509.401",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2024-09",
+      "canonical_publication_date": "2024-09",
+      "canonical_publication_year": 2024
+    },
+    "27660011": {
+      "title": "Liujunzi Tang, a famous traditional Chinese medicine, ameliorates cigarette smoke-induced mouse model of COPD.",
+      "abstract": "Liujunzi Tang is a traditional herbal medicine widely used in East Asia and clinically applied to treat Phlegm-Heat Syndrome. The purpose of the present study was to investigate the protective effects of Liujunzi Tang on cigarette smoke-induced (CS) mouse model of chronic obstructive pulmonary disease (COPD) and explore its potential molecular mechanism. The mice received 1h of cigarette smoke for 8 weeks. The serum levels of tumor necrosis factor-α (TNF-α), interleukin (IL)-1β and IL-6 were determined by enzyme-linked immunosorbent assay (ELISA) kits. Superoxide dismutase (SOD) and malondialdehyde (MDA) were tested by biochemical methods. Histopathological alteration was observed by hematoxylin-eosin (H&E) staining. Additionally, the expressions of nuclear transcription factor-κB (NF-κBp65) and (inhibitor of NF-κB)IκB-α were determined by western blot and immunohistochemistry analysis. Liujunzi Tang enhanced the activities of antioxidant enzymes and attenuated the levels of lipid oxidative production, meanwhile significantly inhibited the generations of inflammatory cytokines by inhibiting the phosphorylation of IκB-α and NF-κB. Our findings indicated that Liujunzi Tang exhibited the protective effect on cigarette smoke-induced COPD mice by anti-inflammatory and anti-oxidative properties through the inhibition of NF-κB activation.",
+      "year": 2016,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2016.09.036",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2016-09-19"
+      ],
+      "journal_issue_date": "2016-12-04",
+      "canonical_publication_date": "2016-09-19",
+      "canonical_publication_year": 2016
+    },
+    "35294130": {
+      "title": "Mechanism underlying the effect of Liujunzi decoction on advanced-stage non-small cell lung cancer in patients after first-line chemotherapy.",
+      "abstract": "To further clarify the anticancer mechanisms of Liujunzi decoction and provide possible targets for the treatment of advanced-stage nonsmall cell lung cancer (NSCLC) by re-analyzing differential gene expression profile of peripheral blood mononuclear cells (PBMCs) from Liujunzi decoctiontreated NSCLC patients receiving first-line chemotherapy. The PBMC gene expression microarray data set GSE61926 was retrieved from a high throughput gene expression database. Differentially expressed genes (DEGs) were screened by paired sample t-test and the multiple ratio method. Gene ontology and Kyoto encyclopedia of genes and genomes (KEGG) pathway analyses were performed using the DAVID database. The protein-protein interaction (PPI) network was constructed using interaction gene library retrieval tools and Cytoscape software. A total of 162 DEGs were identified, with 67 upregulated genes and 95 downregulated genes. The functional distribution of Gene Oncology (GO) genes showed that DEGs were mostly concentrated in extracellular regions, calcium ion binding, and transcriptase activity. KEGG pathway analysis showed that cytokine-cytokine receptor interactions were significantly enriched. PPI network analysis screened out the top 10 central protein-coding genes with the highest nodal degree: IL2, PIWIL4, DICER1, PIWIL2, SAA1, XCL1, IL22RA1, ARHGAP11A, DCP1A, and GDNF. Among them, the central protein-coding gene with the highest node degree was IL2. In addition, the central protein-coding genes with high node degrees and high molecular complex detection (MCODE) scores were PIWIL4, DICER1, PIWIL2, and DCP1A, all of which are related to tumor development. One signaling pathway and 10 central protein-coding genes related to anticancer mechanisms were screened by re-analysis of GSE61926 data. IL2, PIWIL4, DICER1, PIWIL2, and DCP1A may have important roles in the mechanism of Liujunzi decoction treatment against NSCLC. Our results suggest that the anticancer mechanism of Liujunzi decoction may be related to gene silencing by RNA and the biological processes of piwi-interacting RNA and other small RNAs.",
+      "year": 2022,
+      "journal": "Journal of traditional Chinese medicine = Chung i tsa chih ying wen pan",
+      "doi": "10.19852/j.cnki.jtcm.2022.01.007",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2022-02",
+      "canonical_publication_date": "2022-02",
+      "canonical_publication_year": 2022
+    },
+    "28920352": {
+      "title": "[Effects of Xiangsha Liujunzi decoction on TLR signal pathway in gastric mucosa tissues of rats with Helicobacter pylori-induced chronic atrophic gastritis].",
+      "abstract": "To explore the effects and mechanism of Xiangsha Liujunzi decoction on TLR signal pathway in gastric mucosa tissues of rats with Helicobacter pylori-related gastritis, sixty SD rats were randomly divided into control group, model group, high concentration of Xiangsha Liujunzi decoction group, moderate concentration of Xiangsha Liujunzi decoction group, low concentrations of Xiangsha Liujunzi decoction group and SB203580-treated group, with 10 rats in each group. SD rats of Hp-associated chronic atrophic gastritis models were established by intragastric gavage of Helicobacter pylori (HP) suspension. Changes in the gastric mucosa of rats were assessed by histopathology. ELISA was applied to detect the expressions of TNF-α and IL-6 in the serum, and the activity of iNOS in gastric mucosa. The content of NO in the gastric mucosa was tested by nitrate reductive enzymatic. The expressions of TLR2, TLR4, P38MAPK, NF-κB were detected by QPCR and Western-blot. The results indicated that the clinical symptoms of rats and pathological changes of gastric mucosa were improved in Xiangsha Liujunzi decoction group. Compared with normal control group, the protein expressions of TLR2, TLR4, p-P38MAPK and NF-κB in gastric mucosa of model group rats increased (P<0.01) with the levels of TNF-α and IL-6 in the serum, and the activity of iNOS and the content of NO in gastric mucosa increased. Compared with model group, the expressions decreased in Xiangsha Liujunzi decoction group, especially in the high concentration of Xiangsha Liujunzi decoction group(P<0.01), with gradually increased rate of HP eradication and decreased pathological grades of chronic atrophic gastritis. The serum level of TNF-α and IL-6 decreased from (24.313±2.261) μg•L ⁻¹ to (15.195±1.235) μg•L-1(P<0.01) and from (77.416±8.095) μg•L ⁻¹ to (33.150±2.532) μg•L ⁻¹ (P<0.01), and the activity of iNOS and the content of NO in gastric mucosa decreased from (1.530±0.206) U•mg ⁻¹ to (0.802±0.091) U•mg ⁻¹ (P<0.01) and from (0.907±0.032) mmol•g ⁻¹ to (0.335±0.026) mmol•g ⁻¹ (P<0.01) after the treatment of high concentration of Xiangsha Liujunzi decoction. All the effects increased with the increasing dosage of Xiangsha Liujunzi decoction from 0.324 g•mg ⁻¹ to 1.296 g•mg ⁻¹. The protein expressions of NF-κB decreased in the gastric mucosa after treated with P38MAPK specific inhibitor-SB203580. In the rats model, HP infection results in chronic atrophic gastritis through the activation of TLR2, TLR4/MAPK/NF-κB/iNOS/NO signal pathway. Xiangsha Liujunzi decoction can eradicate H. pylori and alleviate chronic atrophic gastric mucosal inflammation. The treatment is effective and safe to cure HP-induced chronic atrophic gastritis.",
+      "year": 2016,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.4268/cjcmm20161623",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2016-08",
+      "canonical_publication_date": "2016-08",
+      "canonical_publication_year": 2016
+    },
+    "40342036": {
+      "title": "Liujunzi Decoction Regulated Intestinal Flora Homeostasis to Relieve Lung-Gut Axis Inflammation in Asthma Flora Disorder Mice: Possibly Related to GATA3/ILC2.",
+      "abstract": "To explore the effects and mechanism of Chinese medicine Liujunzi Decoction (LJZD) on regulating microbial flora in mice with asthma flora disorder. Thirty BALB/c female mice were divided into control, model, LJZD [3.5 g/(kg•d), by gavage], dexamethasone [DXMS, 0.7 mg/(kg•d), intraperitoneal injection], and Clostridium butyricum [CB, 230 mg/(kg•d), by gavage] groups according to a random number table, 6 mice in each group. The asthma flora disorder mice model was induced with ovalbumin (OVA). Lung and gut lesions were analyzed by hematoxylin-eosin (HE) and periodic acid-Schiff (PAS) stainings. The secretory immunoglobulin A (sIgA) protein expression in lung and gut tissues was detected by Western blot. Flow cytometry was used to detect the relative counts of GATA binding protein 3 (GATA3)/type 2 innate lymphoid cells (ILC2) in lung and gut. The levels of inflammatory factors in lung and gut tissues were detected by enzyme-linked immunosorbent assay (ELISA). Chao1 and Shannon index were used to compare microbial abundance and diversity in alveolar lavage fluid and cecal contents. The similarity or difference in the composition of mice microbial communities was analyzed through cluster analysis. The serum short-chain fatty acids (SCFAs) content was detected by ultra performance liquid chromatograph mass spectrometer (LC-MS)/MS. The asthma flora disorder model mice showed obvious asthma-related symptoms, but LJZD treatment effectively alleviated these symptoms. LJZD restored alveolar wall thickening, airway inflammatory cell infiltration, gut tissue structure destruction, and inflammatory cell infiltration in asthma flora disorder mice. LJZD downregulated the sIgA protein expression in mice (P<0.05). Moreover, LJZD decreased the activation of GATA3/ILC2s in lung and gut tissue (P<0.01), and reduced the levels of interleukin (IL)-5, IL-33, IL-25, IL-9 and IL-13 (P<0.01). LJZD treatment returned the abundance of microbial species and the microbial community structure of alveolar lavage fluid and cecal content in asthma flora disorder mice to the normal state. The SCFAs content and body metabolism were also improved. LJZD exerted anti-asthmatic effects by improving the microbial balance of lung-gut axis and affecting systemic metabolism, consequently regulating the GATA3/ILC2s axis to impact the lung inflammatory response.",
+      "year": 2025,
+      "journal": "Chinese journal of integrative medicine",
+      "doi": "10.1007/s11655-025-3929-3",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2025-05-09"
+      ],
+      "journal_issue_date": "2025-11",
+      "canonical_publication_date": "2025-05-09",
+      "canonical_publication_year": 2025
+    },
+    "38415453": {
+      "title": "The Potential Mechanism of Liujunzi Decoction in the Treatment of Breast Cancer based on Network Pharmacology and Molecular Docking Technology.",
+      "abstract": "Liujunzi Decoction (LJZD) is a potential clinical treatment for Breast Cancer (BC), but the active ingredients and mechanisms underlying its effectiveness remain unclear. The study aimed to investigate the target gene of LJZD compatibility and the possible mechanism of action in the treatment of breast cancer by using network pharmacology and molecular docking. Based on TCMSP, ETCM, and BATMAN database searching and screening to obtain the ingredients of LJZD, the related targets were obtained. Breast cancer-related targets were collected through GEO, Geencards, OMIM, and other databases, and drug-disease Venn diagrams were drawn by R. The PPI network map was constructed by using Cytoscape. The intersecting targets were imported into the STRING database, and the core targets were analyzed and screened. The intersected targets were analyzed by the DAVID database for GO and KEGG enrichment. AutoDock Vina and Gromacs were used for molecular docking and simulation of the core targets and active ingredients. 126 active ingredients of LJZD were obtained; 241 targets related to breast cancer were sought after screening, and 180 intersection targets were identified through Venn diagram analysis. The core targets were FOS and ESR1. KEGG enrichment analysis mainly involved PI3K/Akt, MAPK, and other signaling pathways. This study has explored the possible targets and signaling pathways of LJZD in treating breast cancer through network pharmacology and bioinformatics analysis. Molecular docking and simulation have further validated the potential mechanism of action of LJZD in breast cancer treatment, providing essential experimental data for future studies.",
+      "year": 2024,
+      "journal": "Current pharmaceutical design",
+      "doi": "10.2174/0113816128289900240219104854",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2024",
+      "canonical_publication_date": "2024",
+      "canonical_publication_year": 2024
+    },
+    "40258725": {
+      "title": "Exploring the mechanism of the potential effects of Liujunzi Tang combined with Suanzaoren Tang in the treatment of lung cancer with insomnia based on network pharmacology and molecular docking technology.",
+      "abstract": "This study explores the potential mechanisms of Liujunzi Tang combined with Suanzaoren Tang in treating lung cancer with insomnia through network pharmacology and molecular docking methods. In the Traditional Chinese Medicine Systems Pharmacology (TCMSP) database, each single herb in the formula of Liujunzi Tang combined with Suanzaoren Tang was used as a search term, with repeated traditional Chinese medicines (TCMs) searched only once. Oral bioavailability (OB) ≥ 30% and drug-likeness (DL) ≥ 0.18 were set as screening criteria to obtain active components and targets of TCM. Disease-related targets for lung cancer with insomnia were obtained from the Gene Cards database, OMIM database, and PharmGKB database. The disease targets and drug effective component targets were intersected, and a disease-component intersection Venn diagram was drawn. The common intersection targets were imported into the DAVID database for Kyoto Encyclopedia of Genes and Genomics (KEGG) pathway and gene ontology (GO) function enrichment analysis, and molecular docking was performed to verify the affinity of active components with key targets. A total of 185 effective active components and 241 targets were obtained for Liujunzi Tang combined with Suanzaoren Tang. A total of 4290 disease targets were obtained from 3 disease databases. After removing 138 duplicate targets, a total of 4152 disease targets were obtained. The intersection of component targets and disease targets yielded 120 common targets. KEGG pathway enrichment was found in lipid and atherosclerosis, AGE-RAGE signaling pathway in diabetes complications, Kaposi sarcoma-related herpes virus infection, and other signaling pathways. Molecular docking showed that the core components naringenin had good binding activity with AKT1, quercetin and ginsenoside Rh2 with IL1B, and other targets. Through network pharmacology and molecular docking methods, it was explored that Liujunzi Tang combined with Suanzaoren Tang may treat lung cancer with insomnia through multiple components, multiple targets, and multiple pathways, regulating cancer pathways, lipid and atherosclerosis, and other signaling pathways, providing new ideas for the treatment of lung cancer with insomnia.",
+      "year": 2025,
+      "journal": "Medicine",
+      "doi": "10.1097/MD.0000000000042205",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2025-04-18",
+      "canonical_publication_date": "2025-04-18",
+      "canonical_publication_year": 2025
+    },
+    "41508247": {
+      "title": "[Mechanism of modified Xiangsha Liujunzi Decoction in inhibiting liver inflammatory response in hyperlipidemic mice based on ApoA-I/ATF3/TLR4/NF-κB signaling axis].",
+      "abstract": "This study aims to investigate the mechanism by which modified Xiangsha Liujunzi Decoction regulates liver inflammatory responses through apolipoprotein A-I(ApoA-I)-mediated modulation of activating transcription factor 3(ATF3). After 16 ApoA-I~(-/-) mice and 24 C57BL/6J mice were adaptively fed for one week, the 16 ApoA-I~(-/-) mice were randomly divided into high-fat diet(HFD) group and modified Xiangsha Liujunzi Decoction [traditional Chinese medicine(TCM) treatment] group. The 24 C57BL/6J mice were randomized into blank control group, HFD control group, and TCM treatment control group. The blank control group was fed standard diet, while the remaining groups received high-fat diet. After eight weeks, the TCM treatment groups(both ApoA-I~(-/-) and C57BL/6J mice) were administered modified Xiangsha Liujunzi Decoction via oral gavage. The levels of total cholesterol(TC), triglycerides(TG), low-density lipoprotein cholesterol(LDL-C), high-density lipoprotein cholesterol(HDL-C), alanine aminotransferase(ALT), and aspartate aminotransferase(AST) in serum of mice were measured by using an automated biochemical analyzer. Pathomorphological changes in liver tissue were evaluated via hematoxylin-eosin(HE) and oil red O staining. The levels of interleukin(IL)-1β, IL-6, and tumor necrosis factor-α(TNF-α) in liver tissue were detected by enzyme-linked immunosorbent assay(ELISA), and the expression levels of ApoA-I, ATF3, Toll-like receptor 4(TLR4), and nuclear factor-κB(NF-κB) mRNAs and proteins were measured by reverse-transcription quantitative polymerase chain reaction(RT-qPCR) and Western blot. Compared with the blank control group, the HFD control group exhibited significantly elevated levels of TC, TG, HDL-C, LDL-C, ALT, and AST in serum of mice(P&lt;0.01), significantly increased levels and expressions of IL-1β, IL-6, and TNF-α mRNAs in serum and liver tissue(P&lt;0.01), significantly reduced expressions of ApoA-I and ATF3 mRNAs and proteins in liver tissue(P&lt;0.01), and significantly upregulated expressions of TLR4 and NF-κB mRNAs and proteins(P&lt;0.01). Compared with the HFD control group, the TCM treatment control group showed significantly reduced levels of TC, TG, HDL-C, LDL-C, ALT, and AST in the serum of mice(P&lt;0.05, P&lt;0.01), significantly decreased levels and expressions of IL-1β, IL-6, and TNF-α mRNAs in serum and liver tissue(P&lt;0.05, P&lt;0.01), upregulated expressions of ApoA-I and ATF3 mRNAs and proteins in liver tissue(P&lt;0.05, P&lt;0.01), and significantly downregulated expressions of TLR4 and NF-κB mRNAs and proteins(P&lt;0.05, P&lt;0.01). Compared with the HFD control group, the HFD group displayed significantly elevated levels of TC, TG, LDL-C, ALT, and AST in serum of mice(P&lt;0.01), significantly reduced level of HDL-C(P&lt;0.01), significantly increased levels and expressions of IL-1β, IL-6, and TNF-α mRNAs in serum and liver tissue(P&lt;0.05, P&lt;0.01), significantly reduced expressions of ATF3 mRNA and protein(P&lt;0.05, P&lt;0.01), and significantly elevated TLR4 and NF-κB mRNAs and proteins(P&lt;0.05, P&lt;0.01). Compared with the TCM treatment control group, the TCM treatment group showed significantly elevated levels of TC, TG, LDL-C, ALT, and AST in the serum of mice(P&lt;0.05, P&lt;0.01), significantly reduced levels of HDL-C(P&lt;0.01), significantly increased levels and expressions of IL-1β, IL-6, and TNF-α mRNAs in serum and liver tissue(P&lt;0.05, P&lt;0.01), significantly downregulated expression of ATF3 mRNA and protein(P&lt;0.01), and significantly upregulated expressions of TLR4 and NF-κB mRNAs and proteins(P&lt;0.05, P&lt;0.01). Modified Xiangsha Liujunzi Decoction may ameliorate dyslipidemia-induced liver inflammation by upregulating the expression of ApoA-I, activating ATF3, and subsequently inhibiting the TLR4/NF-κB signaling pathway.",
+      "year": 2025,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20250624.501",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2025-10",
+      "canonical_publication_date": "2025-10",
+      "canonical_publication_year": 2025
+    },
+    "38096029": {
+      "title": "Modified Chaishao Liujunzi Decoction inhibits bile acid-induced gastric intestinal metaplasia: from network prediction to experimental verification.",
+      "abstract": "Modified Chaishao Liujunzi Decoction (MCLD) is a traditional Chinese medicine formula that is used mainly to improve clinical symptoms, alleviate gastric mucosal inflammation, and improve gastric mucosal lesions in patients with gastric intestinal metaplasia (GIM). GIM is considered a precancerous gastric cancer (GC) lesion (PLGC) and exploring effective intervention measures for GIM is of great importance for the prevention of GC. The purpose of this study was to reveal the potential molecular mechanism of MCLD in improving GIM induced by bile acid (BA) using network pharmacology and experimental validation. Through network pharmacology, we speculated that MCLD could act on GIM by driving the epidermal growth factor receptor (EGFR)/PI3K/AKT/mammalian target of rapamycin (mTOR) pathway. After that, we used deoxycholic acid (DCA) to treat GES-1 cells to simulate BA-induced GIM and observed the effects of MCLD treatment. The results indicate that MCLD can significantly inhibit DCA-induced cell proliferation and down-regulate the expression of pro-inflammatory cytokines and intestinal-specific markers. At the same time, MCLD also negatively regulated the expression of genes and proteins of the EGFR/PI3K/AKT/mTOR pathway. Combination with EGFR agonists and inhibitors suggested that MCLD may improve GIM by inhibiting the EGFR/PI3K/AKT/mTOR pathway, which may be related to its inhibition of DCA-induced cell proliferation through this pathway. In conclusion, MCLD may improve BA-induced GIM through the EGFR/PI3K/AKT/mTOR pathway, as predicted by network pharmacology, and is a potential Chinese medicine prescription for the treatment or reversal of GIM.",
+      "year": 2023,
+      "journal": "Aging",
+      "doi": "10.18632/aging.205285",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-12-10"
+      ],
+      "journal_issue_date": "2023-12-10",
+      "canonical_publication_date": "2023-12-10",
+      "canonical_publication_year": 2023
+    },
+    "36701994": {
+      "title": "Liujunzi decoction exerts potent antitumor activity in oesophageal squamous cell carcinoma by inhibiting miR-34a/STAT3/IL-6R feedback loop, and modifies antitumor immunity.",
+      "abstract": "Liujunzi decoction (LJZD), a traditional herbal formula and one of the most commonly used adjuvant medications for the treatment of oesophageal squamous cell carcinoma (ESCC), exerts good antitumor and immunomodulatory activity. However, its specific mechanism of action remains largely unclear. In order to examine the potential primary and adjuvant antitumor mechanisms of LJZD, both in vitro and in vivo. IL-6 and miR-34a inhibitors were used to activate the miR-34a/STAT3/IL-6R feedback loop to observe the effects of LJZD. A humanised mouse model with a functional human immune system was constructed to evaluate the antitumor efficacy of LJZD in vivo on xenograft tumours, which was compared to that of the positive control drug anti-PD-1 monoclonal antibodies (mAb). Finally, a co-culture system of peripheral blood mononuclear and tumour cells in vitro was used to analyse the cytotoxic activity of LJZD on T cells. LJZD significantly interfered with IL-6-induced activation of the miR-34a/STAT3/IL-6R feedback loop in ESCC by restoring the expression of the tumour suppressor miR-34a, and inhibited the proliferation of EC109 oesophageal cancer cells in a dose-dependant manner. Furthermore, LJZD effectively suppressed oesophageal tumour growth in vivo and alleviated organ injury and visceral index. Furthermore, LJZD boosted antitumor immunity by increasing IFN-γ expression and CD8+tumour-infiltrating lymphocytes (TILs) infiltration in the peripheral blood and tumour tissues, respectively, which may be related to a decrease in PD-1, but not PD-L1 expression. Finally, we confirmed that LJZD strengthens the killing ability of T cells by suppressing PD-1 expression in a co-culture system in vitro. LJZD exerts excellent antitumor effect by interfering with the miR-34a/STAT3/IL-6R feedback loop and augmenting antitumor immune responses. Which provides new insights into mechanisms for LJZD and sheds light on the multifaceted role of phytomedicine in cancer.",
+      "year": 2023,
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "doi": "10.1016/j.phymed.2023.154672",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-01-13"
+      ],
+      "journal_issue_date": "2023-03",
+      "canonical_publication_date": "2023-01-13",
+      "canonical_publication_year": 2023
+    },
+    "37308030": {
+      "title": "Deciphering the function of Xiangsha-Liujunzi-Tang in enhancing duodenal mucosal barrier by inhibiting MC/Tryptase/PAR-2 signaling pathway in functional dyspepsia rats.",
+      "abstract": "Xiangsha-Liujunzi-Tang (XSLJZT) is a classical formula for treating the diseases of digestive system, which can effectively and significantly improve the symptoms of functional dyspepsia (FD) patients. The main function of XSLJZT is to benefit Qi and spleen, and harmonize stomach. The purpose of this study was to investigate the intervention effect of XSLJZT on duodenal mucosal injury in FD rats and the response mechanism of MC/Tryptase/PAR-2 signal pathway. Ultra-high performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS) was employed to qualitatively and quantitatively identify the chemical component of XSLJZT. A comprehensive modeling method (iodoacetamide infusion + irregular diet + swimming exhaustion) was used to construct the FD rat model. XSLJZT decoction was given to intervene FD rats for 2 weeks. The indicators of digestive function including body mass, 3-h food intake, visceral sensitivity, gastric emptying rate and intestinal propulsion rate were routinely measured for FD rats. The pathological changes of duodenum and microstructure of intestinal epithelial cells were observed by HE staining and transmission electron microscopy respectively. The inflammatory factors (VCAM-1, IL-6, TNF-α, and ICAM-1) and histamine content were evaluated by enzyme-linked immunosorbent assay (ELISA). The expression levels of Tryptase, PAR-2, ZO-1, β-catenin, p-NF-κBp65 and p-ERK1/2 in duodenal tissues were measured by Western blot (WB) and immunofluorescence colony-staining (IFC). XSLJZT administration significantly improved the survival of FD rats, increased body mass and 3-h food intake, improved visceral sensitivity, and restored gastric emptying rate and intestinal propulsion rate. HE staining showed that XSLJZT recovered the structure of duodenal mucosal and reduced inflammatory infiltration. ELISA revealed that XSLJZT reduced the content of inflammatory factors (VCAM-1, IL-6, TNF-α, and ICAM-1) and histamine. In addition, WB and IFC uncovered that the protein levels of ZO-1 and β-catenin were up-regulated and MC/Tryptase/PAR-2 signaling pathway was inhibited by XSLJZT. XSLJZT significantly improved the integrity of duodenal mucosa and decreased the inflammation in FD rats through the inhibition of MC/Tryptase/PAR-2 signaling pathway response.",
+      "year": 2023,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2023.116715",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-06-10"
+      ],
+      "journal_issue_date": "2024-01-30",
+      "canonical_publication_date": "2023-06-10",
+      "canonical_publication_year": 2023
+    },
+    "34800646": {
+      "title": "Liujunzi Decoction ameliorated cisplatin-induced anorexia by inhibiting the JAK-STAT signaling pathway and coordinating anorexigenic and orexigenic neuropeptides in rats.",
+      "abstract": "As a traditional Chinese formula, Liujunzi Decoction (LJZD) originated from the Yi Xue Zheng Zhuan, and has a promising effect in treating chemotherapy-induced anorexia (CIA). The present study aims to investigate whether LJZD acts on interleukin-6 (IL-6)/leptin mediated janus kinase (JAK)-signal transducer and activator of transcription (STAT) signaling pathway that regulates hypothalamus anorexigenic and orexigenic peptides to ameliorate CIA, and also elucidates the potential mechanism by metabolomic analysis. Network pharmacology analyses were conducted to screen out potential targets and pathways. The CIA rat model was established via an intraperitoneal injection of cisplatin. The histological changes of gastric antrum, liver and ileum were observed by HE staining. The serum levels of leptin, ghrelin, IL-6 and growth differentiation factor 15 (GDF15) were measured by ELISA. The JAK1/2 and STAT levels in gastric antrum and hypothalamus were detected by Western blot. The transcriptions of gastric antrum and hypothalamus IL-6R mRNA, and hypothalamus cocaine- and amphetamine-regulated transcript (CART), pro-opiomelanocortin (POMC), thyrotropin-releasing hormone (TRH), upregulated orexigenic peptides neuropeptide Y (NPY), and agouti-related protein (AGRP) mRNA were assessed by RT-qPCR. The blood samples of control, model and high dose LJZD groups were analyzed by metabolomic. Network pharmacology highlighted the IL-6/leptin mediated JAK-STAT signaling pathway, which regulated downstream anorexigenic and orexigenic peptides in hypothalamus. LJZD ameliorated CIA via stimulating food intake and water consumption in rats. Cisplatin-induced gastric antrum, liver, ileum injuries were ameliorated, serum leptin level reduction was elevated, and ghrelin, IL-6, GDF15 level increases were decreased after LJZD treatments. In gastric antrum and hypothalamus, LJZD inhibited cisplatin-induced activation of JAK-STAT signaling pathway, downregulated the transcriptions of downstream anorexigenic peptides CART, POMC, TRH, and upregulated orexigenic peptides NPY, AGRP in hypothalamus. Importantly, the effect of LJZD in treating CIA might partly relate to the improvements of 23 abnormal metabolites. This study implies that inhibiting JAK-STAT signaling pathway, regulating the expressions of anorexigenic and orexigenic peptides, and mediating various metabolic pathways might be potential mechanisms of LJZD's effect against CIA.",
+      "year": 2021,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2021.114840",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2021-11-17"
+      ],
+      "journal_issue_date": "2022-03-01",
+      "canonical_publication_date": "2021-11-17",
+      "canonical_publication_year": 2021
+    },
+    "24761646": {
+      "title": "[Study on efficacy of liujunzi decoction combined with zuojin pills in treating acute radioactive duodenitis and their mechanism].",
+      "abstract": "To evaluate the therapeutic effect of Liujunzi decoction combined with Zuojin pills in treating the radioactive duodenitis and their mechanism, and compare with clinical routine acid suppressants combined with mucous membrane protective preparations to study the mechanism of their efficacy. According to the study of Williams J P and characteristics of duodenitis, and by reference to the radiation enteritis modeling standard, we took the lead in establishing the mouse radioactive duodenal injury model. The model mice were randomly divided into the control group (n = 26), traditional Chinese medicine (TCM) group (n = 16) and the western medicine (oral administration with famotidine 0.5 mL + almagate suspension 0.3 mL per mouse, once a day) group (n = 16). After the standard administrating, such objective indexes as general condition, weight, changes in health score, pathology and expression of inflammatory factors were observed to evaluate the efficacy. The radioactive duodenitis model of mice was successfully established with 12 Gy. Mice in the control group suffered from weight loss, anorexia, low fluid intake, loose stools, and occasionally mucous bloody stool, poor spirit, dim fur, lack of exercise and arch back. Mice in drug intervention groups were generally better than those in the pure irradiation group. The IL-6, IL-1beta, TNF-alpha mRNA expressions in spleen and mesenteric lymph node tissues in TCM and western medicine groups showed a declining trend compared with the control group. Their concentrations in peripheral blood serum also slightly changed. The TCM group revealed notable advantage in reducing inflammatory factors. The microscopic observation showed that a better mucosa repair in intervention groups than the pure irradiation group. The improved Chiu's scoring method showed a statistical significance in the difference between TCM and western medicine groups (P < 0.05). Liujunzi decoction combined with Zuojin pills could treat acute radiation enteritis, regulate organic immunity, and inhibit acute injury, promote local tissue repair, with the potential to resist such adverse effects as radiation intestinal fibrosis. The regulation of inflammatory factor release is one of efficacy generation mechanisms.",
+      "year": 2014,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": null,
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2014-01",
+      "canonical_publication_date": "2014-01",
+      "canonical_publication_year": 2014
+    },
+    "34630778": {
+      "title": "The Therapeutic Effect of Traditional LiuJunZi Decoction on Ovalbumin-Induced Asthma in Balb/C Mice.",
+      "abstract": "To investigate the therapeutic effect of LiuJunZi decoction (LJZD) in an experimental model of asthma and uncover its potential mechanism. The ovalbumin (OVA) was applied to induce asthma in Balb/C mice, and LJZD was orally administrated to asthmatic mice. The lung function and histological lesion were evaluated by airway hyperresponsiveness assay, lung edema assay, and hematoxylin and eosin staining. The amounts of CD4+CD25+Foxp3+ TReg cells were analyzed through combining fluorescent antibody staining with flow cytometry assay. The levels of inflammatory factors and immunoglobulins were detected by enzyme-linked immuno sorbent assay (ELISA). The expression of miR-21 and miR-146a was investigated by real-time PCR. The protein expression of activating protein-1 (AP-1), nuclear factor kappa-B (NF-κB), and NF-κB inhibitor alpha (IκBα) was determined by western blotting. LJZD improves OVA-induced asthma in Balb/C mice, which is manifested by decreasing lung edema, Penh levels, lung histological lesion, and inflammatory cell infiltration. LJZD increased the number of CD4+CD25+Foxp3+ TReg cells in blood mononuclear cells from asthmatic mice. Furthermore, LJZD reduced the levels of tumor necrosis factor-α (TNF-α), interleukin- (IL-) 4, IL-6, IgG1, and IgE, but increased interferon gamma (IFN-γ) expression, in serum of asthmatic mice, and also decreased the expression of IL-17a, IL-23, IL-25, and thymic stromal lymphopoietin (Tslp) in lung tissues. In addition, miR-21 and miR-146a expression and phospho (p)-NF-κB, p-IκBα, and AP-1 protein expression were inhibited by LJZD in lung tissues from asthmatic mice. LJZD improved OVA-induced asthma in Balb/C mice by inhibiting allergic inflammation and Th2 immunoreaction, which might be associated with the inactivation of the NF-κB signaling pathway.",
+      "year": 2021,
+      "journal": "Canadian respiratory journal",
+      "doi": "10.1155/2021/6406295",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2021-09-29"
+      ],
+      "journal_issue_date": "2021",
+      "canonical_publication_date": "2021-09-29",
+      "canonical_publication_year": 2021
+    },
+    "35963194": {
+      "title": "Xiangsha Liujunzi Decoction improves gastrointestinal motility in functional dyspepsia with spleen deficiency syndrome by restoring mitochondrial quality control homeostasis.",
+      "abstract": "Xiang Sha Liu Junzi decoction (XSLJZD) is a famous traditional Chinese medicinal prescription for the treatment of functional dyspepsia (FD) in spleen deficiency. However, its therapeutic mechanism has not been fully clarified. The present study aimed to determine the role of mitochondrial quality control (MQC)-mediated gastrointestinal motility disorder in FD treated with XSLJZD by using spleen-deficient FD rats and gastrointestinal smooth muscle cells (GSMCs). In vivo, an FD with spleen deficiency syndrome model was established by gastric perfusion with iodoacetamide solution combined with the modified multiple platform method (MMPM), followed by intragastric gavage with XSLJZD for 4 weeks. Improvement of pathological symptoms was evaluated based on food intake, water intake, grip strength, gastric histopathological changes, gastric emptying rate, small intestinal propulsion rate, and average amplitude and frequency of smooth muscle strips. The mitochondrial ultrastructure was observed by transmission electron microscopy. The colocalization of LC3 and Parkin with mitochondria was detected by immunofluorescence. The expression and localization of Drp1 proteins were detected by immunohistochemistry. In vitro, GSMCs were treated with different concentrations of XSLJZD-CS for 24 h, followed by treatment with 20 μM carbon cyanide 3-chlorophenylhydrazone (CCCP) for 4 h. Cell viability, mitochondrial membrane potential (MMP), mitochondrial reactive oxygen species (mtROS), cellular ATP generation and mitochondrial Keima (mtKeima) expression were examined. Both in vivo and in vitro, gene expression was assessed by Western blotting. All experiments were performed in duplicate. Disorders of the mitochondrial quality control system existed in gastric smooth muscle in FD spleen deficiency syndrome. XSLJZD administration promoted the contraction of gastric smooth muscle and restored mitochondrial function by downregulating the colocalization of LC3 or Parkin with mitochondria, reducing the ratio of LC3II/LC3I, decreasing the expression of PINK1, Parkin and Drp1 and increasing the expression of p62 to restore mitochondrial morphology and function. In vitro studies showed that the improvement in mitochondrial function by XSLJZD was related to PINK1-parkin-mediated mitochondrial quality control. We demonstrated that XSLJZD can improve gastrointestinal motility disorder in functional dyspepsia with spleen deficiency syndrome, which was related to reconstruction of the mitochondrial quality control system by restraining PINK1/Parkin-mediated mitophagy and division. This study illustrates a novel clinical significance of herbal medicine in the treatment of FD and clarifies the important role of MQC in treating gastrointestinal motility disorder.",
+      "year": 2022,
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "doi": "10.1016/j.phymed.2022.154374",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-08-06"
+      ],
+      "journal_issue_date": "2022-10",
+      "canonical_publication_date": "2022-08-06",
+      "canonical_publication_year": 2022
+    },
+    "40461233": {
+      "title": "[Mechanism of Xiangsha Liujunzi Decoction in improving autophagy in interstitial cells of Cajal of rats with functional dyspepsia by regulation of IRE1/ASK1/JNK pathway].",
+      "abstract": "This study explored the mechanism of Xiangsha Liujunzi Decoction(XSLJZD) in the treatment of functional dyspepsia(FD) based on inositol-requiring enzyme 1(IRE1)/apoptosis signal-regulating kinase 1(ASK1)/c-Jun N-terminal kinase(JNK) pathway-mediated autophagy in interstitial cells of Cajal(ICC). Forty-eight SPF-grade male SD suckling rats were randomly divided into a blank group and a modeling group, and the integrated modeling method(iodoacetamide gavage + disturbance of hunger and satiety + swimming exhaustion) was used to replicate the FD rat model. After the model replications were successfully completed, the rats were divided into a model group, high-dose, medium-dose, and low-dose groups of XSLJZD(12, 6, and 3 g·kg~(-1)·d~(-1)), and a positive drug group(mosapride of 1.35 mg·kg~(-1)·d~(-1)), and the intervention lasted for 14 days. The gastric emptying rate and intestinal propulsion rate of rats in each group were measured. The histopathological changes in the gastric sinus tissue of rats in each group were observed by hematoxylin-eosin(HE) staining. The ultrastructure of ICC was observed by transmission electron microscopy. The immunofluorescence double staining technique was used to detect the protein expression of phospho-IRE1(p-IRE1), TNF receptor associated factors 2(TRAF2), phospho-ASK1(p-ASK1), phospho-JNK(p-JNK), p62, and Beclin1 in ICC of gastric sinus tissue of rats in each group. Western blot was used to detect the related protein expression of gastric sinus tissue of rats in each group. Compared with those in the blank group, the rats in the model group showed decreased body weight, gastric emptying rate, and intestinal propulsion rate, and transmission electron microscopy revealed damage to the endoplasmic reticulum structure and increased autophagosomes in ICC. Immunofluorescence staining revealed that the ICC of gastric sinus tissue showed a significant elevation of p-IRE1, TRAF2, p-ASK1, p-JNK, and Beclin1 proteins and a significant reduction of p62 protein. Western blot revealed that the expression levels of relevant proteins in gastric sinus tissue were consistent with those of proteins in ICC. Compared with the model group, the body weight of rats in the high-dose and medium-dose groups of XSLJZD was increased, and the gastric emptying rate and intestinal propulsion rate were increased. Transmission electron microscopy observed amelioration of structural damage to the endoplasmic reticulum of ICC and reduction of autophagosomes, and the p-IRE1, TRAF2, p-ASK1, p-JNK, and Beclin1 proteins in the ICC of gastric sinus tissue were significantly decreased. The p62 protein was significantly increased. Western blot revealed that the expression levels of relevant proteins in gastric sinus tissue were consistent with those of proteins in ICC. XSLJZD can effectively treat FD, and its specific mechanism may be related to the inhibition of the expression of molecules related to the endoplasmic reticulum stress IRE1/ASK1/JNK pathway in ICC and the improvement of autophagy to promote gastric motility in ICC.",
+      "year": 2025,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20241111.705",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2025-04",
+      "canonical_publication_date": "2025-04",
+      "canonical_publication_year": 2025
+    },
+    "39534925": {
+      "title": "Exploring the active ingredients and mechanisms of Liujunzi decoction in treating hepatitis B: a study based on network pharmacology, molecular docking, and molecular dynamics simulations.",
+      "abstract": "Liujunzi decoction (LJZD) is commonly used to treat hepatitis B virus (HBV), though its active ingredients and mechanisms are not fully known. This study identified core targets and active components of LJZD for treating hepatitis B (HB) through network pharmacology, molecular docking, and molecular dynamics simulation. Screening from databases yielded 533 active components, 2619 targets for LJZD, and 2910 for HB, with 891 intersecting targets. STRING and CytoHubba analyses identified AR and VDR as core targets, with key pathways including PI3K-Akt and MAPK. The findings clarify LJZD's multicomponent, multitarget mechanisms, supporting its clinical application for HB treatment.",
+      "year": 2024,
+      "journal": "Computer methods in biomechanics and biomedical engineering",
+      "doi": "10.1080/10255842.2024.2427117",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2024-11-13"
+      ],
+      "journal_issue_date": "2026-04",
+      "canonical_publication_date": "2024-11-13",
+      "canonical_publication_year": 2024
+    },
+    "33645139": {
+      "title": "[Treatment strategy and thought on classical herbal formulae for coronavirus disease 2019].",
+      "abstract": "Coronavirus disease 2019(COVID-19) refers to the pneumonia caused by novel coronavirus(2019-nCoV) infection in 2019. It is highly infectious, with quick spreading and a wide range of impact. It has been broken out in many countries around the world and has become a public health emergency of international concern. Chinese medicine has a long history in treating plague, and viral disease is the clinical advantage in Chinese medicine. Under the premise that there is currently no specific drug treatment, Chinese medicine has achieved certain effects in the treatment of COVID-19, which has attracted much attention and has been upgraded to a national strategy. Regarding the treatment of COVID-19 with Chinese medicine, it is believed that in terms of the name of Chinese medicine, the modern connotation of &quot;uniform of typhoid and febrile disease&quot; should be re-recognized, and it is advisable to use drugs based on specific clinical prescriptions and indications. In terms of pathogenesis, the COVID-19 has the pathogenesis rules including from the mild to severe conditions, from the surface to the inside, from the excess syndrome to the deficiency syndrome. We should pay attention to the Taiyang syndrome damaged by wet disease in initial stage, Shaoyang syndrome complicated with Yangming syndrome in the middle stage, phlegm-heat obstructing lung in critical period, lung and spleen deficiency in the recovery stage. In terms of clinical treatment strategies, Dayuan Yin is recommended to induce sweat and disperse the stasis in early stage. Xiaochaihu Decoction and Maxing Shigan Decoction is used to relieve both exterior and interior symptoms in middle stage. In critical stage, Tingli Dazao Xiefei Decoction, Weijing Decoction, Xuanbai Chengqi Decoction, Xiaoxianxiong Decoction, and Sanzi Yangqin Decoction are considered to reduce phlegm and clear heat. We should pay attention to nourishing Qi and strengthening the spleen by Zhuye Shigao Decoction, Sha-shen Maidong Decoction, and Liujunzi Decoction in the later recovery period. It shall be noted that, no matter in the initial mild stage, the middle and critical stages, or in the later recovery stage, Chinese medicine plays an important role, including preventing mild to severe disease, shortening the fever time, improving cough symptoms, increasing blood oxygen saturation and reducing mortality. Many studies have shown that the classical herbal formulae can alleviate the cytokine storm, regulate the immune imbalance, and produce the potential effect of synergistic treatment for COVID-19 through multiple components, multiple targets, and multiple pathways.",
+      "year": 2021,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20200603.501",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2021-01",
+      "canonical_publication_date": "2021-01",
+      "canonical_publication_year": 2021
+    },
+    "39002822": {
+      "title": "Integrating UHPLC-Q-TOF-MS/MS, network pharmacology, bioinformatics and experimental validation to uncover the anti-cancer mechanisms of TiaoPi AnChang decoction in colorectal cancer.",
+      "abstract": "The TiaoPi AnChang Decoction (TPACD), a Traditional Chinese Medicine (TCM) prescription based on Xiangsha Liujunzi Decoction, has demonstrated clinical efficacy as an adjuvant therapy for colorectal cancer (CRC) patients. However, its specific ingredients and potential mechanisms of action remain unclear. To identify the primary active ingredients of TPACD, their molecular targets, and potential mechanisms underlying the efficacy of TPACD in CRC treatment. This study investigated the clinically validated TCM formula TPACD. In vitro and in vivo experiments were used to demonstrate TPACD's regulatory effects on various malignant phenotypes of tumors, providing basic research support for its anti-cancer activity. To understand its pharmacodynamic basis, we utilized ultra-high performance liquid chromatography-quadrupole-time-of-flight-mass spectrometry/mass spectrometry (UHPLC-Q-TOF-MS/MS) to analyze TPACD constituents present in the bloodstream. Network pharmacology and bioinformatics analyses were used to identify potential active components and their molecular targets for TPACD's therapeutic effects in CRC. Subsequent experiments further elucidated its pharmacological mechanism. TPACD inhibits various malignant cellular processes, such as cell proliferation, apoptosis, migration, and invasion, and has shown potential anti-CRC activities both in vitro and in vivo. Following the identification of 109 constituents absorbed into the blood from TPACD, network pharmacology analysis predicted 42 potential anti-CRC targets. Clinical analyses highlighted three genes as prognostic key genes of TPACD's therapeutic action: C-X-C motif chemokine ligand 8 (CXCL8), fatty acid binding protein 4 (FABP4), and matrix metallopeptidase 3 (MMP3). Drug sensitivity analyses, molecular docking simulations and reverse transcription-quantitative polymerase chain reaction (RT-qPCR) identified MMP3 as the most promising target for TPACD's anti-CRC action. Enzyme activity assays confirmed that TPACD inhibits MMP3 enzyme activity. Surface plasmon resonance (SPR) characterized the binding affinity between MMP3 and effective active components of TPACD, including luteolin, quercetin, kaempferol, and liensinine. TPACD exhibits anti-CRC activity in vitro and in vivo, with MMP3 identified as a critical target. The active compounds, including luteolin, quercetin, kaempferol, and liensinine, absorbed into the bloodstream, contribute to TPACD's efficacy by targeting MMP3.",
+      "year": 2024,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2024.118576",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2024-07-14"
+      ],
+      "journal_issue_date": "2024-11-15",
+      "canonical_publication_date": "2024-07-14",
+      "canonical_publication_year": 2024
+    },
+    "17650797": {
+      "title": "[Effects of TCM treatment according to syndrome differentiation on expressions of nuclear factor-kappaB and gamma-glutamylcysteine synthetase in rats with chronic obstructive pulmonary disease of various syndrome types].",
+      "abstract": "To explore the mechanism of traditional Chinese medicine (TCM) treatment according to syndrome differentiation in treating chronic obstructive pulmonary disease (COPD) by observing the changes of nuclear factor-kappaB (NF-kappaB) and gamma-glutamylcysteine synthetase (gamma-GCS) expression levels in rats. COPD model was established by modified method of combining fumigation and lipopolysaccharide (LPS) intra-tracheal dripping. Model rats were treated respectively for succesive 14 days according to their syndrome, that is, Xiaoqinglong Decoction to the rats of cold-phlegm accumulation in Fei, Maxing Shigan Decoction to those of heat-phlegm accumulation in Fei, Yupingfeng Decoction to those of Fei-qi deficiency, Liujunzi Decoction to those of Pi-qi deficiency, Renshen Gejie Decoction to those of Shen qi-deficiency. Besides, model rats in the model control group received 2mL normal saline daily, and no intervention was applied in the normal control group. The expression of gamma-GCS and NF-kappaB was detected by immunochemistry before and after treatment. Compared with that in the normal rats, the expressions of gamma-GCS and NF-kappaB in bronchial and alveolar epithelium of COPD rats before treatment were significantly higher, but the positive expression rates were lowered after treatment significantly (P<0.05). TCM treatment according to syndrome differentiation could rectify imbalance of oxidation/anti-oxidation and alleviate inflammatory reaction in COPD rats, thus to treat COPD effectively.",
+      "year": 2007,
+      "journal": "Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine",
+      "doi": null,
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2007-05",
+      "canonical_publication_date": "2007-05",
+      "canonical_publication_year": 2007
+    },
+    "11783231": {
+      "title": "[Effects of kidney nourishing and spleen invigorating recipes on glucocorticoid receptors of pulmonary tissue and plasma corticosterone in asthmatic rats].",
+      "abstract": "To observe the effects of Guiqi San (GQS, a Chinese herbal preparation with effect of Kidney Nourishing and Spleen Invigorating), Bushen Dingchuan Tang (BSDCT, with effects of Kidney Nourishing) and Liujunzi Tang (LJZT, with effect of Spleen Invigorating) on glucocorticoid receptor (GCR) and plasma corticosterone (PCC) in asthmatic rats. The asthmatic model of rats made by intraperitoneal injection of ovalbumin two weeks before, and the asthma consecutively challenged daily with spray inhalation of 1% ovalbumin for 7 days. The asthmatic rat treated with above-mentioned three recipes (per os) and Beclomethasone dipropionate (BDP) were taken as treated groups and the asthmatic rat as control group. GCR density of the pulmonary tissue and PCC were determined by radioligand-binding assay and competitive protein radio-binding assay. The RT value of GCR reduced gradually and PCC lowered also after asthma being developed. On day 7th, the three recipes could markedly up-regulate the RT of GCR and PCC. There was significant difference statistically as compared the pulmonary tissue GCR density and PCC of GQS (P < 0.01, P < 0.05), BSDCT (P < 0.05, P < 0.05) and LJZT (P < 0.05, P < 0.05) groups with those of control (asthmatic group) on the 7th day. GQS, BSDCT and LJZT played an up-regulate role of GCR density and improvement of adrenocortical function in asthmatic rats in the management of asthma attacks.",
+      "year": 1999,
+      "journal": "Zhongguo Zhong xi yi jie he za zhi Zhongguo Zhongxiyi jiehe zazhi = Chinese journal of integrated traditional and Western medicine",
+      "doi": null,
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "1999-08",
+      "canonical_publication_date": "1999-08",
+      "canonical_publication_year": 1999
+    }
+  }
+}

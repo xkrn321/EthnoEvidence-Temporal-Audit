@@ -1,0 +1,16 @@
+{
+  "n_formulas": 14,
+  "development_records": 593,
+  "heldout_records": 339,
+  "temporal_rows": 932,
+  "canonical_naive_disagreements": 0,
+  "boundary_crossings": 0,
+  "unique_development_pmids": 587,
+  "unique_heldout_pmids": 338,
+  "development_cross_formula_duplicate_pmids": 7,
+  "heldout_cross_formula_duplicate_pmids": 1,
+  "compound_count": 67,
+  "eligible_measured_compounds": 37,
+  "strong_compounds": 26,
+  "assay_records": 314
+}

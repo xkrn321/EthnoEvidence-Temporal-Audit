@@ -1,0 +1,545 @@
+{
+  "formula": "麻黄汤",
+  "window": "all",
+  "query": "(\"Mahuang Decoction\"[Title/Abstract] OR \"Mahuang Tang\"[Title/Abstract]) AND (mechanism*[Title/Abstract] OR pathway*[Title/Abstract] OR gene*[Title/Abstract] OR protein*[Title/Abstract] OR pharmacolog*[Title/Abstract]) AND (\"1900/01/01\"[Date - Publication] : \"2025/12/31\"[Date - Publication]) NOT (\"Comment\"[Publication Type] OR \"Editorial\"[Publication Type] OR \"Letter\"[Publication Type] OR \"Meta-Analysis\"[Publication Type] OR \"News\"[Publication Type] OR \"Review\"[Publication Type] OR \"Systematic Review\"[Publication Type])",
+  "retrieved_at": "2026-08-29",
+  "pmids": [
+    "36309114",
+    "37282895",
+    "29906536",
+    "36051156",
+    "33859560",
+    "34017377",
+    "38135230",
+    "31606536",
+    "40725914",
+    "38211999",
+    "38950796",
+    "36414217",
+    "29600623",
+    "36578267",
+    "39575390",
+    "36045655",
+    "39805760",
+    "31900519",
+    "32035217",
+    "35337920",
+    "25660335",
+    "35178922",
+    "36278797",
+    "26593045",
+    "34257680",
+    "23754163",
+    "25011267",
+    "21246831",
+    "30151032",
+    "21144463"
+  ],
+  "records": {
+    "36309114": {
+      "title": "Effects of Houpo Mahuang Decoction on serum metabolism and TRPV1/Ca",
+      "abstract": "Houpo Mahuang Decoction (HPMHD is one of the classic traditional Chinese prescriptions that has been used in the treatment of asthma. The therapeutic effects and mechanism of HPMHD in aggravated asthma remain to be explored, especially from the perspective of metabolomics and Transient Receptor Potential Vanilloid-1 (TRPV1)/Ca2+/Tight junction (TJ) regulation. To investigate the therapeutic and metabolic regulatory effects and the underlying mechanism of HPMHD in asthmatic rats. The asthmatic rats were administered with the corresponding HPMHD (at dosages of 5.54, 11.07, 22.14 mg/kg). Then inflammatory cells in peripheral blood and bronchoalveolar lavage fluid (BALF) were counted, the levels of interleukin (IL)-4 and IL-13 in BALF were measured, and the changes in enhanced pause (Penh) and pathological damage of lung tissues were also detected to evaluate the protective effects of HPMHD. The serum metabolic profile of HPMHD in asthmatic rats was explored using Ultra-High-Performance Liquid Chromatography-mass spectrometer (UHPLC-MS), and the regulatory effects on TRPV1 and TJs of HPMHD in asthmatic rats were detected by Western blotting analysis. In vitro, 16HBE cells were stimulated with IL-4 plus SO2 derivatives and then administered HPMHD. The intracellular Ca2+ regulated by TRPV1, and the expression levels of TRPV1 and TJ proteins (TJs) were then detected by calcium imaging and Western blotting. The effects were verified by inhibition of TRPV1 and in short hairpin RNA (shRNA)-mediated TRPV1 silencing cells. HPMHD significantly attenuated the airway inflammation of asthmatic rats, and reduced the levels of inflammatory cells in peripheral blood and BALF as well as the levels of IL-4 plus IL-13 in BALF. In addition, the airway hyperresponsiveness and lung pathological damage were alleviated. Serum metabolomic analysis showed that 31 metabolites were differentially expressed among the normal saline-, model-, and HPMHD-treated rats. Pathway enrichment analysis showed that the metabolites were involved in 45 pathways, among which, TJs regulation-relevant pathway was associated with the Ca2+ concentration change mediated by the TRP Vanilloid channel. In vivo and in vitro experiments indicated that HPMHD reduced the concentration of intracellular Ca2+ via suppressing the expression and activation of TRPV1, increased the expression of ZO-1, Occludin, and Claudin-3, and protected the integrity of TJs. The current study indicates that HPMHD alleviates rat asthma and participates in the regulation of serum metabolism. The anti-asthma effects of HPMHD might be related to the protection of TJs by inhibiting the intracellular Ca2+ concentration via TRPV1.",
+      "year": 2022,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2022.115873",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-10-26"
+      ],
+      "journal_issue_date": "2023-02-10",
+      "canonical_publication_date": "2022-10-26",
+      "canonical_publication_year": 2022
+    },
+    "37282895": {
+      "title": "[Research progress of Shegan Mahuang Decoction and predictive analysis on its Q-markers].",
+      "abstract": "Shegan Mahuang Decoction has been used in clinical practice for thousands of years, and is a classical formula for treating asthma and other respiratory diseases, with the effects of ventilating lung, dispersing cold, and relieving cough and asthma. This paper summarized the history, clinical application and mechanism of Shegan Mahuang Decoction, and predicted its quality markers(Q-markers) based on the &quot;five principles&quot; of Q-markers. The results suggested that irisflorentin, tectoridin, tectorigenin, irigenin, ephedrine, pseudoephedrine, asarinin, methyleugenol, shionone, epifriedelanol, tussilagone, 6-gingerol, trigonelline, cavidine, schizandrin, and schizandrin B could be used as Q-markers of Shegan Mahuang Decoction, which provided a basis for the quality control and subsequent research and development of Shegan Mahuang Decoction.",
+      "year": 2023,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20230302.201",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2023-04",
+      "canonical_publication_date": "2023-04",
+      "canonical_publication_year": 2023
+    },
+    "29906536": {
+      "title": "Mahuang decoction mitigates airway inflammation and regulates IL-21/STAT3 signaling pathway in rat asthma model.",
+      "abstract": "Nowadays, bronchial asthma is still a severe disease threatening human health, and it is incumbent upon us to seek effective therapeutic drugs. Mahuang decoction (MHD), a classic famous Chinese prescription, has been used for thousands of years to prevent phlegm from forming, stop coughing and relieve asthma, but the relevant mechanism has not been thoroughly clarified. This study aims to investigate the anti-airway inflammation effect of MHD and the possible molecular mechanism underlying IL21/STAT3 signaling pathway, so as to provide guidance for the treatment of MHD on bronchial asthma. Specific pathogen free SD rats were randomly divided into 6 groups: normal control group, model group, positive group (Compound methoxyphenamine), MHD-treated groups at doses of 10 ml/kg, 5 ml/kg and 2.5 ml/kg, 10 rats in each group. Except for the normal control group, rats in other groups were sensitized with ovalbumin via introperitoneal injection and challenged with ovalbumin inhalation to trigger asthma model. At 24 h after the last excitation, bronchoalveolar lavage fluid (BALF) of every rat was drawn and the number of inflammatory cells was analyzed using cell counting method. ELISA method was performed to determine the concentrations of TXB2, 6-keto-PGF1α, MMP-9, TIMP-1, IL-2, IL-4, IL-5 and TNF-α in rat serum. The protein expressions of IL-21, IL-21R, STAT3 and p-STAT3 in murine pulmonary tissues were assessed with western blotting analysis. Compared with the control group, the airway wall and airway smooth muscle of murine pulmonary tissues significantly thickened and massive inflammatory cells infiltration occurred around the bronchus in the model group, and the cell counts of WBC and EOS in BALF were also apparently increased, which indicated the rat asthma model was successfully established. MHD or Compound methoxyphenamine not only alleviated the pulmonary inflammatory pathological damages, but also down- regulated the numbers of WBC and EOS in BALF. What's more, the levels of TXB2, MMP-9, TIMP-1, ILs-(2, 4, 5) and TNF-α in rat serum were lessened by the treatment of MHD. In western blotting analysis, treatment with 10 ml/kg or 5 ml/kg MHD markedly declined the increased protein expressions of IL-21, IL-21R, STAT3 and p-STAT3 in lung tissues of asthmatic rats to normal level. MHD intervention demonstrated a strong inhibitory action on the secretion of inflammatory mediators as well as the inflammatory cell infiltration in pulmonary tissues of asthmatic rats, and also depressed the protein expressions of IL-21, IL-21R, STAT3 and p-STAT3 in pulmonary tissues. MHD effectively mitigates airway inflammation and regulates the IL-21/STAT3 signaling pathway in rat asthma model.",
+      "year": 2018,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2018.06.011",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2018-06-12"
+      ],
+      "journal_issue_date": "2018-10-05",
+      "canonical_publication_date": "2018-06-12",
+      "canonical_publication_year": 2018
+    },
+    "36051156": {
+      "title": "Mahuang Decoction Attenuates Airway Inflammation and Remodeling in Asthma via Suppression of the SP1/FGFR3/PI3K/AKT Axis.",
+      "abstract": "Mahuang decoction (MHD) is a classic famous traditional Chinese medicine and has various pharmacological effects, including anti-inflammation and anti-asthma. In this study, we aimed to investigate the potential protective effect of MHD against asthma and elucidated the underlying mechanism. A mouse model of asthma was induced by ovalbumin (OVA) treatment, and then treated with MHD to evaluate its effect on the asthma. Gain- or loss-of-function approaches were performed in SP1 and FGFR3 to study their roles in asthma via measurement of airway inflammation, airway remodeling and airway smooth muscle cell (ASMC) proliferation-related factors. MHD reduced airway inflammation and remodeling. Additionally, MHD contributed to diminished expression of SP1, which was shown to repress airway inflammation and remodeling. Furthermore, SP1 bound to the FGFR3 promoter, resulting in the FGFR3 transcription promotion and ASMC proliferation. Conversely, FGFR3 knockdown abolished airway inflammation and remodeling, the mechanism of which was related to suppression of the PI3K/AKT signaling pathway. Meanwhile, MHD hindered airway inflammation and remodeling following asthma by suppressing the SP1/FGFR3/PI3K/AKT axis. Taken together, MHD may retard airway inflammation and remodeling by suppressing the SP1/FGFR3/PI3K/AKT axis, which contributes to an extensive understanding of asthma and may provide novel therapeutic options for this disease.",
+      "year": 2022,
+      "journal": "Drug design, development and therapy",
+      "doi": "10.2147/DDDT.S351264",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-08-26"
+      ],
+      "journal_issue_date": "2022",
+      "canonical_publication_date": "2022-08-26",
+      "canonical_publication_year": 2022
+    },
+    "33859560": {
+      "title": "Mahuang Decoction Antagonizes Acute Liver Failure via Modulating Tricarboxylic Acid Cycle and Amino Acids Metabolism.",
+      "abstract": "Acute liver failure (ALF) is a serious clinical disorder with high fatality rates. Mahuang decoction (MHD), a well-known traditional Chinese medicine, has multiple pharmacological effects, such as anti-inflammation, anti-allergy, anti-asthma, and anti-hyperglycemia. In this study, we investigated the protective effect of MHD against ALF. In the lipopolysaccharide and D-galactosamine (LPS/D-GalN)-induced ALF mouse model, the elevated activities of the serum alanine and aspartate transaminases as well as the liver pathological damage were markedly alleviated by MHD. Subsequently, a metabolomics study based on the ultrahigh performance liquid chromatograph coupled with Q Exactive Orbitrap mass spectrometry was carried to clarify the therapeutic mechanisms of MHD against ALF. A total of 36 metabolites contributing to LPS/D-GalN-induced ALF were identified in the serum samples, among which the abnormalities of 27 metabolites were ameliorated by MHD. The analysis of metabolic pathways revealed that the therapeutic effects of MHD are likely due to the modulation of the metabolic disorders of tricarboxylic acid (TCA) cycle, retinol metabolism, tryptophan metabolism, arginine and proline metabolism, nicotinate and nicotinamide metabolism, phenylalanine metabolism, phenylalanine, tyrosine and tryptophan synthesis, as well as cysteine and methionine metabolism. This study demonstrated for the first time that MHD exerted an obvious protective effect against ALF mainly through the regulation of TCA cycle and amino acid metabolism, highlighting the importance of metabolomics to investigate the drug-targeted metabolic pathways.",
+      "year": 2021,
+      "journal": "Frontiers in pharmacology",
+      "doi": "10.3389/fphar.2021.599180",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2021-03-29"
+      ],
+      "journal_issue_date": "2021",
+      "canonical_publication_date": "2021-03-29",
+      "canonical_publication_year": 2021
+    },
+    "34017377": {
+      "title": "Network pharmacology-guided mechanism study uncovers inhibitory effect of Mahuang Decoction on lung cancer growth by impeding Akt/ERK signaling pathways.",
+      "abstract": "Lung cancer (LC) ranks the leading cause of cancer-related death worldwide, due partially to the unsatisfactory therapeutic effect of the mainstream treatment. Alternatively, Chinese herb medicine (CHM) offers a bright perspective for treating complex diseases. Mahuang Decoction (MHD), a classic CHM formula, has been widely used in treating respiratory diseases in China for centuries, but its action mechanism has yet to be fully investigated. In this study, we first systemically explore the action mechanism of MHD by using network pharmacology and bioinformatic analysis tools, which uncovered a potential \"new use of old drug\" for MHD in cancer treatment. The therapeutic effect of MHD on LC was then validated by oral administration of MHD in the immunodeficient mice bearing xenografted LC tumors. To better understand the pharmacological activity of MHD against LC, we next constructed a drug/disease-target PPI network composed of 252 putative core therapeutic targets of MHD using Cytoscape. The subsequent enrichment analysis for these targets suggested that MHD could affect the apoptosis and cell cycle of LC cells via impeding Akt/ERK signaling pathways. Notably, these in silico analysis results were further validated by a series of cellular functional and molecular biological assays. Thus, our results show that MHD holds a great potential in LC treatment.",
+      "year": 2021,
+      "journal": "American journal of translational research",
+      "doi": null,
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2021-04-15"
+      ],
+      "journal_issue_date": "2021",
+      "canonical_publication_date": "2021-04-15",
+      "canonical_publication_year": 2021
+    },
+    "38135230": {
+      "title": "Multi-omics analysis of lung tissue metabolome and proteome reveals the therapeutic effect of Shegan Mahuang Decoction against asthma in rats.",
+      "abstract": "Shegan Mahuang Decoction (SMD) is a classic traditional Chinese medicine (TCM) formula for asthma treatment, but the anti-asthma mechanism of SMD is still not fully studied. In this study, we established an ovalbumin (OVA)-induced asthma rat model and treated it with SMD to observe its anti-asthma effect and explore the related mechanism. We evaluated the anti-inflammatory effect of SMD via testing the levels of immunoglobulin E (IgE), C-reactive protein (CRP), interleukin-4 (IL-4), interleukin-6 (IL-6) in serum and performing the hematoxylin-eosin (H&E) staining of lung tissue slices. We analyzed the variations of metabolites and proteins in the lung tissue of different groups using liquid chromatography-mass spectrometry (LC-MS)-based untargeted metabolomics and TMT-based proteomics approaches. The metabolic biomarkers and differentially expressed proteins (DEPs) were picked, and the related signal transduction pathways were also investigated. In addition, the key proteins on the signaling pathway were validated through western blotting (WB) experiment to reveal the anti-asthma mechanism of SMD. The results showed that the SMD could significantly reduce the serum levels of IgE, CRP, IL-4, and IL-6 and attenuate the OVA-induced pathological changes in lung tissue. A total of 34 metabolic biomarkers and 84 DEPs were screened from rat lung tissue, which were mainly associated with lipid metabolism, nicotinamide adenine dinucleotide phosphate (NADPH) oxidase activation, the excessive production of reactive oxygen species (ROS), and lysosome pathway. Besides, SMD could inhibit the myeloid differentiation factor 88 (MyD88)/inhibitor of kappa B kinase (IKK)/nuclear factor-kappa B (NF-κB) signaling pathway to exhibit anti-inflammatory activities. SMD exhibited a therapeutic effect on asthma, which possibly be exerted by inhibiting the MyD88/IKK/NF-κB signaling pathway.",
+      "year": 2023,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2023.117650",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2023-12-20"
+      ],
+      "journal_issue_date": "2024-03-25",
+      "canonical_publication_date": "2023-12-20",
+      "canonical_publication_year": 2023
+    },
+    "31606536": {
+      "title": "Traditional Medicine (Mahuang-Tang) Improves Ovarian Dysfunction and the Regulation of Steroidogenic Genes in Letrozole-Induced PCOS Rats.",
+      "abstract": "Mahuang-Tang (MHT) has traditionally been used in Asia to treat a variety of diseases, such as fever without sweating, joint pain, lower back pain, asthma, and gynecological conditions. Polycystic ovary syndrome (PCOS) is a kind of gynecological disease that causes amenorrhea, infertility, and menopausal and urogenital disorders that could benefit from MHT treatment. In this study, we examined the effects of MHT on ovarian hormones and steroidogenic enzymes in female PCOS rats. The PCOS rat model was induced by Letrozole, and an in vivo evaluation of whether the dietary consumption of MHT improved the PCOS-like symptoms was conducted. The luteinizing hormone (LH) level and luteinizing hormone/follicular-stimulating hormone (LH/FSH) ratio increased in PCOS rats but decreased following MHT treatment. In the PCOS rats, the reduced estrogen level was restored to that of normal controls with MHT treatment in serum. The transcription level(s) of gonadotropin receptors (Fshr and Lhr), steroid receptors (Pgr, and Esr1) and steroidogenic enzymes (Cyp19a1, Hsd3b1, Hsd17a1, and Cyp11a1) changed under the PCOS condition, and were regulated by MHT treatment in the ovaries of PCOS rats. The reproductive tissues of Letrozole-induced PCOS rats were restored into estrogenic condition from androgen environments. These results suggest that MHT ameliorates the symptoms of PCOS by improving the dysregulation of ovarian steroids and steroidogenic enzymes in PCOS rats.",
+      "year": 2019,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2019.112300",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2019-10-10"
+      ],
+      "journal_issue_date": "2020-02-10",
+      "canonical_publication_date": "2019-10-10",
+      "canonical_publication_year": 2019
+    },
+    "40725914": {
+      "title": "Exploring the molecular mechanism of Mahuang decoction against influenza: An integrated computational and experimental study.",
+      "abstract": "Mahuang Decoction (MHD) is primarily used to treat viral colds and alleviate muscle pain, with extensive clinical application. However, its therapeutic effects against influenza and its anti-inflammatory mechanisms remain unclear. Active compounds and targets were identified using the Traditional Chinese Medicine Systems Pharmacology Database platform, OMIM database, and GeneCards database. Protein-protein interaction networks and compound-target networks were constructed to screen core targets and components. Gene Ontology and Kyoto Encyclopedia of Genes and Genomes enrichment analyses were performed using the DAVID database, and the results were visualized via the Microbioinformatics platform. Molecular docking was employed to evaluate the binding affinity between potential targets and active compounds. Finally, cytopathic effect assays and reverse transcription polymerase chain reaction experiments were conducted for validation. Network pharmacology studies revealed that AKT1, EGFR, and SRC are core targets of MHD in treating influenza, with kaempferol, quercetin, and luteolin as key compounds. The mechanism of MHD is closely associated with antiviral, anti-inflammatory, and immune-regulatory effects. Cytopathic effect assays and reverse transcription polymerase chain reaction experiments confirmed the therapeutic effects of key compounds against H1N1. This study demonstrates that MHD exhibits anti-H1N1 viral activity and comprehensively elucidates its active components, potential targets, and molecular mechanisms in influenza treatment. These findings provide a theoretical foundation for further exploration of MHD's protective effects and anti-inflammatory mechanisms against influenza.",
+      "year": 2025,
+      "journal": "Medicine",
+      "doi": "10.1097/MD.0000000000043439",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2025-07-25",
+      "canonical_publication_date": "2025-07-25",
+      "canonical_publication_year": 2025
+    },
+    "38211999": {
+      "title": "[Improvement effect of Shegan Mahuang Decoction on rats with cold-induced asthma based on TRPV1/NRF-1/mtTFA pathway].",
+      "abstract": "This study investigated the therapeutic effect of Shegan Mahuang Decoction(SGMHD) on cold-induced asthma in rats and explored its underlying mechanism. Seventy-two healthy male SD rats of specific pathogen free(SPF) grade were randomly divided into a blank group, a model group, a positive control group(dexamethasone, 0.4 mg·kg~(-1)), and low-, medium-, and high-dose SGMHD groups(3.2, 6.4, and 12.8 g·kg~(-1)). The blank group received saline, while the other groups were sensitized by intraperitoneal injection of ovalbumin(OVA) solution. Subsequently, the rats were placed in a cold chamber adjustable to 0-2 ℃, and OVA solution was ultrasonically nebulized to induce cold-induced asthma in rats. After three weeks of treatment, the general behaviors of rats were observed. Hematoxylin-eosin(HE) staining was used to evaluate pathological changes in lung tissues, periodic acid-Schiff(PAS) staining assessed mucin changes, and Masson staining was performed to examine collagen deposition. Enzyme-linked immunosorbent assay(ELISA) was used to measure the levels of the inflammatory factors interleukin-4(IL-4) and vascular endothelial growth factor(VEGF) in serum and bronchoalveolar lavage fluid(BALF). Real-time quantitative polymerase chain reaction(RT-PCR) was employed to assess the mRNA expression levels of transient receptor potential vanilloid subfamily member 1(TRPV1), nuclear respiratory factor 1(NRF-1), and mitochondrial transcription factor A(mtTFA) in lung tissues. Western blot was used to measure the protein expression levels of TRPV1, NRF-1, and mtTFA in lung tissues. Compared with the blank group, the model group exhibited signs of rapid respiration, increased frequency of defecation with looser stools, and disheveled and dull fur. Pathological results showed significant infiltration of inflammatory cells in lung tissues, narrowing of bronchial lumens, increased mucin secretion, and enhanced collagen deposition in the model group. Additionally, the levels of IL-4 and VEGF in serum and BALF were significantly elevated, and the mRNA and protein expression levels of TRPV1, NRF-1, and mtTFA in lung tissues were significantly increased. Compared with the model group, SGMHD improved the behaviors of rats, alleviated pathological changes in lung tissues, mucin production, and collagen deposition, significantly decreased the levels of IL-4 and VEGF in serum and BALF, and reduced the mRNA expression levels of TRPV1, NRF-1, and mtTFA in lung tissues, with the medium-dose SGMHD group showing the most significant effect. Moreover, the protein expression levels of TRPV1, NRF-1, and mtTFA in lung tissues were also reduced, with the medium-dose SGMHD group exhibiting the most significant effect. In conclusion, this study demonstrates that SGMHD can alleviate airway inflammation and inhibit airway remodeling in cold-induced asthma rats. These effects may be associated with the modulation of the TRPV1/NRF-1/mtTFA signaling pathway.",
+      "year": 2023,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20230831.403",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2023-12",
+      "canonical_publication_date": "2023-12",
+      "canonical_publication_year": 2023
+    },
+    "38950796": {
+      "title": "Shegan-Mahuang decoction ameliorates cold-induced asthma via regulating the proliferation and apoptosis of airway smooth muscle cells through TAS2R10: An in vivo and in vitro study.",
+      "abstract": "Shegan-Mahuang Decoction (SMD) is a classical formula that has been used to effectively treat cold-induced asthma (CA) for 1800 years. Airway smooth muscle cells (ASMCs) play a crucial role in airway remodeling of CA and can be modulated through bitter taste-sensing type 2 receptors (TAS2Rs). Given that SMD contains numerous bitter herbs and TAS2R10 expression in ASMCs remains consistently high, it is pertinent to explore whether SMD regulates ASMCs via TAS2R10 to exert its CA mechanism. This study investigated the efficacy as well as the potential mechanism of SMD in CA. In this study, experiments in vivo were conducted using the CA rat model induced by ovalbumin (OVA) along with cold stimulation. The effects of SMD and TAS2R10 expression in CA rats were evaluated using the following methods: clinical symptoms, weights, pathological staining, immunofluorescence staining (IF), enzyme-linked immunosorbent assay (ELISA), real-time quantitative polymerase chain reaction (RT-qPCR) and Western blot (WB). Assays in vitro including cell counting Kit-8 (CCK-8), ELISA, flow cytometry, TUNEL staining, RT-qPCR and WB were performed to investigate potential mechanism of SMD on the proliferation and apoptosis of ASMCs through upregulation of TAS2R10. The administration of SMD resulted in a notable improvement in the symptoms, trends in weight, airway inflammation and airway remodeling observed in CA rats with upregulated TAS2R10. Mechanistically, we furtherly confirmed that SMD inhibits p70S6K/CyclinD1 pathway by upregulating TAS2R10. SMD furthermore blocked the G0/G1 phase, suppressed the proliferation and inducted apoptosis in ASMCs induced by platelet-derived growth factor-BB (PDGF-BB). Erythromycin (EM), a TAS2R10 agonist, can intensify these effects. SMD significantly ameliorates CA by upregulating TAS2R10 and inhibiting the p70S6K/CyclinD1 pathway, thereby modulating ASMCs' proliferation and apoptosis. Inspired by the Five Flavors Theory of Traditional Chinese Medicine, this study provides an updated treatment perspective for treating CA.",
+      "year": 2024,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2024.118504",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2024-06-29"
+      ],
+      "journal_issue_date": "2024-11-15",
+      "canonical_publication_date": "2024-06-29",
+      "canonical_publication_year": 2024
+    },
+    "36414217": {
+      "title": "Explore bioactive ingredients and potential mechanism of Houpo Mahuang decoction for chronic bronchitis based on UHPLC-Q exactive orbitrap HRMS, network pharmacology, and experiment verification.",
+      "abstract": "Chronic bronchitis (CB) affects a growing number of people and may be linked to lung function impairment. The traditional Chinese medicine formula Houpo Mahuang Decoction (HPMHD) has been used for clinical treatment of respiratory diseases for thousands of years. Until now, its bioactive ingredients, potential targets and molecular mechanism remain unclear. To investigate the effect of HPMHD on the treatment of CB and explore the bioactive ingredients and possible mechanisms of HPMHD against CB. UHPLC-Q Exactive Orbitrap HRMS was performed to analyze the chemical components of HPMHD. The mechanism of multiple components, targets and pathways of HPMHD in the treatment of chronic bronchitis were explored by network pharmacology. Additionally, CB mice model induced by lipopolysaccharide (LPS) and smoking was used to evaluate the anti-chronic bronchitis activity of HPMHD in vivo. Pulmonary pathology was determined by hematoxylin and eosin (H&E) measurement. The levels of TNF-α and IL-6 in lung were measured by ELISA. The immunofluorescence experiments were carried out for the expression of IL-1β, TNF-α, IL-6 and NF-κB p-P65/P65 in lung. Western blot assays were performed to quantify and visualize the protein expression of NF-κB p-P65/P65 in mice lung. Data showed that 79 compounds were identified in HPMHD. The network pharmacology results showed 53 compounds were hinted their effectivity for the treatment of chronic bronchitis with HPMHD, such as ephedrine, schisantherin A, and honokiol. The main targets were predicted as 37 genes, including TNF, TP53, IL6 and so on. HPMHD ameliorated lung damages in mice and inhibited the NF-κB signaling pathway, one of the pathways plotted by KEGG pathway enrichment analysis, by reducing IL-1β, TNF-α and IL-6 expression and significantly downregulating the NF-κB p-P65/P65. In summary, the complex chemical components of HPHMD was successfully elucidate by UHPLC-Q Exactive Orbitrap HRMS. The study based on network pharmacology and experiment verification indicated that HPMHD can decreased inflammatory response in lung to treat CB. The underlying mechanism may be related to the reduction of inflammation by down-regulated the NF-κB pathways.",
+      "year": 2022,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2022.115924",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-11-19"
+      ],
+      "journal_issue_date": "2023-03-01",
+      "canonical_publication_date": "2022-11-19",
+      "canonical_publication_year": 2022
+    },
+    "29600623": {
+      "title": "[Effect and mechanism of Mahuang Tang against influenza A/H1N1 virus",
+      "abstract": "To study the effect and underlying mechanism of Mahuang Tang against influenza A virus in vitro， the influenza virus-infected Madin-Darby canine kidney(MDCK) cells were used as the carrier in this study to detect the median tissue culture-infective dose(TCID₅₀) of influenza A virus strains(A/PR8/34) on MDCK cells with cytopathic effect(CPE) assay. Blocking influenza virus invading host cells and anti-influenza virus biosynthesis were used as two different administration methods， and then the methyl thiazolyl tetrazolium(MTT) assay was utilized to determine the antiviral effective rate(ER)， median efficacious concentration(EC₅₀) and therapeutic index(TI) of Mahuang Tang. The quantitative Real-time polymerase chain reaction(RT-PCR) was used to measure virus load and the mRNA expression levels of TLR4， TLR7， MyD88 and TRAF6 in MDCK cells at 24， 48 h after the treatment. The experiment results indicated that TCID₅₀ of A/PR8/34 for MDCK cells was 1×10-4.32/mL. The EC₅₀ values of two different treatment methods were 4.92，1.59 g·L⁻¹ respectively， the TI values were 12.53， 38.78 respectively， and when the concentration of Mahuang Tang was 5.00 g·L⁻¹， ER values were 50.21%， 98.41% respectively， showing that Mahuang Tang can block influenza virus into the host cells and significantly inhibit their biosynthesis. Meanwhile， as compared with the virus group， the virus load was significantly inhibited in Mahuang Tang groups， and Mahuang Tang high and middle doses had the significant effect on decreasing the mRNA expression of TLR4， TLR7，MyD88 and TRAF6 at 24， 48 h after the treatment. It can be demonstrated that the mechanisms of Mahuang Tang against influenza A virus are related to the inhibition of influenza virus replication and the mRNA expression of correlative genes in TLR4 and TLR7 signaling pathways.",
+      "year": 2018,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20171113.010",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2018-02",
+      "canonical_publication_date": "2018-02",
+      "canonical_publication_year": 2018
+    },
+    "36578267": {
+      "title": "Shegan Mahuang Decoction May Reduce Airway Inflammation in Neutrophilic Asthmatic Mice by Improving the Mitochondrial Function of Bronchoalveolar Lavage Fluid Exosomes.",
+      "abstract": "Asthma is a common pulmonary disease mainly caused by the infiltration of neutrophils. There is a limit to the therapeutic effects of the available asthma drugs on neutrophilic asthma. Shegan Mahuang Decoction (SMD) is one of the representative traditional Chinese medicine (TCM) prescriptions for asthma, and it can effectively relieve the clinical symptoms of patients. However, the effect of SMD on the treatment of neutrophilic asthma remains unknown. In this study, a mouse model of neutrophilic asthma induced by lipopolysaccharide (LPS)/ovalbumin (OVA) was established, and the effect of a modified SMD prescription on the model was evaluated. After treatment, SMD was demonstrated to be therapeutically effective on asthmatic mice via airway resistance detection and lung pathology and was able to affect cytokine levels in vivo. Further experiments verified that SMD regulated the expression of mitochondrial function proteins in bronchoalveolar lavage fluid (BALF) exosomes. The results demonstrate that SMD confers a therapeutic effect on a neutrophilic asthma mouse model, and it may reduce neutrophil airway inflammation by regulating myeloid-derived regulatory cell (MDRC) function and airway exosome mitochondrial function.",
+      "year": 2022,
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "doi": "10.1155/2022/2477510",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-12-19"
+      ],
+      "journal_issue_date": "2022",
+      "canonical_publication_date": "2022-12-19",
+      "canonical_publication_year": 2022
+    },
+    "39575390": {
+      "title": "Investigation of the therapeutic effects and mechanisms of Houpo Mahuang Decoction on a mouse model of chronic obstructive pulmonary disease.",
+      "abstract": "With a growing global population affected by Chronic Obstructive Pulmonary Disease (COPD), the traditional Chinese herbal formula Houpo Mahuang Decoction (HPMHD) has been used for centuries to address respiratory ailments. While studies have demonstrated the therapeutic benefits of HPMHD in COPD, the effective active ingredients, potential targets, and molecular mechanisms underlying its effectiveness remained unclear. The mechanisms of action of certain HPMHD components, targets, and pathways for the treatment of COPD were predicted using a network pharmacology method. We induced a COPD mouse model using porcine pancreatic elastase and evaluated the pathological changes and healing processes through HE and Masson staining. Immunofluorescence was used to assess the levels of IL-6 and TNF-ɑ. RNA-Seq analysis was conducted to identify differentially expressed genes (DEGs) in the lungs of normal, control, and treated mice, revealing the biological pathways enriched by HPMHD in COPD treatment. Finally, the expression of DEGs was verified using Western blotting and RT-qPCR. HPMHD effectively alleviated pathological symptoms and improved COPD in mice by modulating the IL-17 signaling pathway. Treatment with HPMHD improved lung morphology and structure, reduced inflammatory cell infiltration, and inhibited IL-6 and TNF-ɑ levels. Network pharmacology and transcriptomics further revealed the mechanism, indicating that the IL-17 signaling pathway might been instrumental in the inhibitory effect of HPMHD on mouse model of COPD. Subsequent experiments, including protein blotting and RT-qPCR analysis, confirmed the activation of the IL-17 signaling pathway by HPMHD in the COPD mouse model, further supporting the initial findings. HPMHD was shown to alleviate COPD and reduce lung inflammation in mice, potentially through the activation of the IL-17 signaling pathway. This study provides a novel direction for the development of COPD drugs.",
+      "year": 2024,
+      "journal": "Frontiers in pharmacology",
+      "doi": "10.3389/fphar.2024.1448069",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2024-11-07"
+      ],
+      "journal_issue_date": "2024",
+      "canonical_publication_date": "2024-11-07",
+      "canonical_publication_year": 2024
+    },
+    "36045655": {
+      "title": "Acrid and Bitter Chinese Herbs in Decoction Effectively Relieve Lung Inflammation and Regulation of TRPV1/TAS2R14 Channels in a Rat Asthmatic Model.",
+      "abstract": "Shegan Mahuang decoction (SGMHD) was widely used as a classic prescription of traditional Chinese medicine to treat asthma. However, there is no research on the acrid and bitter Chinese herbs in the SGMHD to treat asthma. This study aimed to investigate the effects of SGMHD and its acrid-bitter Chinese herbs composition on airway inflammation and the expression of TRPV1 and TAS2R14 genes and proteins in asthmatic rats. SD (Sprague Dawley) rats of asthma were induced by ovalbumin and aluminum hydroxide, then randomly divided into the Normal group, Model group, SGMHD group, Dexamethasone (Dex) group, Guilongkechuangning (GLKC) group, The Acrid Chinese Herbs group (ACH), and The Bitter Chinese Herbs group (BCH). The rats were given intragastric gavage after 21 days for 4 weeks. The bronchoalveolar lavage fluid (BALF) was collected, and the levels of IL-4, IL-13, nerve factors SP, CGRP, PGE2, and serum of IgE were determined by ELISA. Pathological changes in the lungs were determined by hematoxylin-eosin (HE) staining. The expression of TRPV1 and TAS2R14 in the rat lung group was detected by immunofluorescence (IF). The expression levels of TRPV1 and TAS2R14 were measured using western blotting. The mRNA levels of TRPV1 and TAS2R14 were measured using RT-qPCR. The levels of serum IgE in treated rats and the cytokines IL-4, IL-13, SP, CGRP, and PGE2 were all decreased. HE-staining showed that significantly reduced inflammatory cell infiltration in lung tissue. IF-staining showed the expression levels except those of the normal group were enhanced. Acrid Chinese herbs inhibited TRPV1, and bitter Chinese herbs activated the gene and protein expression of TAS2R in the lung. The acrid Chinese herbs regulate TRPV1, and bitter Chinese herbs regulate the gene and protein expression of TAS2R14, through nerve and immune-inflammatory factors, reduced airway inflammation, reduced airway reactivity, promoted airway remodeling, and the combination of acrid-bitter Chinese herbs can enhance the above effects. This will lay a foundation for further in vivo study of specific compounds of acrid-bitter Chinese herbs.",
+      "year": 2022,
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "doi": "10.1155/2022/8061740",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-08-22"
+      ],
+      "journal_issue_date": "2022",
+      "canonical_publication_date": "2022-08-22",
+      "canonical_publication_year": 2022
+    },
+    "39805760": {
+      "title": "[Mechanism of inflammatory microecological response to TAS2R14/SIgA/TSLP in regulating epithelial cell barrier in cold asthma rats through lung-gut axis by using Shegan Mahuang Decoction and bitter and purging Chinese herbs].",
+      "abstract": "This study aimed to investigate the mechanism by which Shegan Mahuang Decoction(SGMH) and its bitter Chinese herbs(BCHs) regulated the lung-gut axis through the bitter taste receptor 14(TAS2R14)/secretory immunoglobulin A(SIgA)/thymic stromal lymphopoietin(TSLP) to intervene in the epithelial cell barrier of cold asthma rats. Fifty SD rats were randomly divided into the following five groups: normal group, model group, dexamethasone group, SGMH group, and BCHs group. A 10% ovalbumin(OVA) solution was used to sensitize the rats via subcutaneous injection on both sides of the abdomen and groin, combined with 2% OVA atomization and cold(2-4 ℃) stimulation to induce a cold asthma model in rats. The SGMH, BCHs, and dexamethasone groups were given corresponding treatments by gavage and nebulization, while the normal and model groups received normal saline by gavage and nebulization. After the final stimulation, pathological changes in the lung and intestine tissues were observed using hematoxylin-eosin(HE) and periodic acid-Schiff(PAS) staining. Lung function was assessed by measuring the ratio of forced expiratory volume in the first second to forced vital capacity(FEV1/FVC), the ratio of the average flow rate at 25%-75% of forced vital capacity to foned vital capacity(FEV25%-75%/FVC), the peak expiratory flow(PEF), and pulmonary resistance(RL). The levels of IL-4, IL-5, IL-13, and TNF-α in serum, and sIgA in serum, intestinal, and bronchial mucosa were detected by enzyme-linked immunosorbent assay(ELISA). The expression of TAS2R14 protein in lung tissue was detected by Western blot(WB). The content of short-chain fatty acids(SCFAs) in rat feces was determined by gas chromatography-mass spectrometry(GC-MS). The effect of TAS2R14/TSLP on lipopolysaccharide(LPS)-induced inflammation in epithelial cells in the BCHs group was observed, and the expression of TAS2R14 and TSLP in cells was detected by WB. Compared with the normal group, the model group showed reduced water intake, diet, and body weight, increased infiltration of inflammatory cells in the lung and intestinal tissues, goblet cell hyperplasia, significantly decreased FEV1/FVC, FEV25%-75%/FVC, and PEF, and significantly increased RL. Moreover, serum levels of IL-4, IL-5, IL-13, and TNF-α were elevated, and sIgA levels in serum, intestine, and bronchial mucosa were significantly decreased. TAS2R14 expression in lung tissues was inhibited, and the content of acetic acid, propionic acid, and butyric acid in feces was significantly reduced. In the LPS group, TSLP expression increased, and TAS2R14 expression decreased. Compared with the model group, the general condition of rats in the SGMH and BCHs groups improved, with reduced infiltration of inflammatory cells and goblet cell hyperplasia in the lung and intestinal tissues. FEV1/FVC, FEV25%-75%/FVC, and PEF significantly increased, and RL significantly decreased. Serum levels of IL-4, IL-5, IL-13, and TNF-α decreased, while sIgA levels in serum, intestine, and bronchial mucosa significantly increased, and TAS2R14 expression was activated in lung and intestinal tissues. The content of acetic acid, propionic acid, and butyric acid in feces significantly increased. Compared with the model group, the BCHs group and the agonist group showed inhibited TSLP expression and increased TAS2R14 expression. The results showed that both SGMH and BCHs could reduce lung and intestinal inflammatory reactions, improve lung function, and regulate the content of intestinal SCFAs in asthmatic rats. There was no significant difference in TAS2R14 protein expression between the SGMH and BCHs groups, indicating that the clinical efficacy of BCHs may be related to the activation of the bitter receptor TAS2R14 and the regulation of immune inflammatory mediators in lung and intestinal epithelial cells.",
+      "year": 2024,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20240722.403",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2024-12",
+      "canonical_publication_date": "2024-12",
+      "canonical_publication_year": 2024
+    },
+    "31900519": {
+      "title": "Pharmacokinetics of seven major active components of Mahuang decoction in rat blood and brain by LC-MS/MS coupled to microdialysis sampling.",
+      "abstract": "A new highly specific high-performance liquid chromatography with tandem mass spectrometry (LC-MS/MS) method coupled to microdialysis sampling was developed and validated for simultaneous determination of L-ephedrine, D-pseudoephedrine, L-methyl-ephedrine, cinnamic acid, liquiritin, amygdalin, and glycyrrhizic acid both in rat blood and brain after oral administration of Mahuang decoction in this paper. An Agilent Zorbax SB-C18 using the 0.1% formic acid water solution and acetonitrile as mobile phase with a gradient elution was applied to the chromatographic separation. The ion transitions were quantified in positive mode for D-pseudoephedrine, L-ephedrine, L-methylephedrine, and diphenhydramine (internal standard), while negative mode for liquiritin, glycyrrhizic acid, amygdalin, cinnamic acid, and prednisolone (internal standard). Several parameters of the method including linearity, accuracy, precision, stability, and matrix effect were within acceptable ranges. The results showed the LC-MS/MS method coupled to microdialysis sampling can be utilized for the pharmacokinetic studies of these seven ingredients in vivo. According to the pharmacokinetic results, the pharmacokinetic parameters of L-ephedrine, D-pseudoephedrine, L-methylephedrine, glycyrrhizic acid, cinnamic acid, liquiritin, and amygdalin were totally different in rat blood and brain, the bioavailability of ephedrine and amygdalin in the blood and brain was higher, while the MRT of ephedrine was the shortest. In the rat brain, the elimination rate of three Ephedra alkaloids was lower than that of the remaining four components. This research offered more basic pharmacokinetic information on the safety mechanisms of Mahuang decoction.",
+      "year": 2020,
+      "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+      "doi": "10.1007/s00210-019-01786-0",
+      "publication_types": [
+        "Journal Article",
+        "Validation Study"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2020-01-03"
+      ],
+      "journal_issue_date": "2020-08",
+      "canonical_publication_date": "2020-01-03",
+      "canonical_publication_year": 2020
+    },
+    "32035217": {
+      "title": "Shegan-Mahuang Decoction ameliorates asthmatic airway hyperresponsiveness by downregulating Th2/Th17 cells but upregulating CD4+FoxP3+ Tregs.",
+      "abstract": "Shegan-Mahuang Decoction (SMD), also named Yakammaoto or Shegan-Mahuang Tang, is a classic formula of traditional Chinese medicine with nine herbs, including Asarum sieboldii Miq., Aster tataricus L.f., Ephedra sinica Stapf, Belamcanda chinensis (L.) Redouté, Pinellia ternata (Thunb.) Breit., Schisandra chinensis (Turcz.) Baill., Tussilago farfara L., Zingiber officinale Roscoe, and Ziziphus jujuba Mill. SMD was originally discovered by Zhang Zhongjing in Eastern Han dynasty. It has been widely used as traditional medicine to treat flu-like symptoms in China and Japan for around twenty centuries. It was also utilized for the treatment of the early stage of acute asthma. However, the immune mechanisms underlying its therapeutic effects remain unknown. This study was set to investigate the effects of SMD on asthmatic airway hyperresponsiveness and its impacts on adaptive immunity in a mouse model of asthma. The HPLC fingerprint profile of the water extract of SMD recorded 22 peaks, including those equivalent to guanosine, chlorogenic acid, tectoridin, 6-gingerol and wuweizisu B, as described previously (Yen et al., 2014). Airway hyperresponsiveness was assessed by measuring the airway resistance. Cellular infiltration was measured via H&E staining and immunochemistry while gene expression was analyzed using real-time RT-PCR. Treg frequency was determined through flow analysis whereas cytokine production in the supernatant was evaluated using ELISA. Finally, mTOR and NF-kB signalings were analyzed via Western blotting. We found that SMD largely corrected the imbalance of Th cell subsets in asthmatic mice with a significant inhibition of Th2 and Th17 cytokine production, thereby reducing asthmatic airway hyperresponsiveness. Moreover, lung function tests showed that SMD reduced airway hyperresponsiveness while immunohistochemical analyses demonstrated that SMD attenuated pulmonary infiltration of CD3+ and CD4+ T cells. Further, we observed a significant increase in the proportion of CD4+Foxp3+ Tregs in SMD-treated asthmatic mice. We also found that SMD downregulated gene expression of GATA3 and ROR-γt in murine lung tissue. In addition, both mTOR- and NF-kB-related protein expressions were reduced in the lung tissue of SMD-treated mice. SMD inhibited Th2/Th17 cytokine production by CD4+ T cells and also their mTOR activity in vitro. Our findings demonstrate that SMD attenuates asthmatic airway hyperresponsiveness by hindering Th2/Th17 differentiation, promoting CD4+FoxP3+ Treg generation and suppressing mTOR and NF-kB activities.",
+      "year": 2020,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2020.112656",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2020-02-06"
+      ],
+      "journal_issue_date": "2020-05-10",
+      "canonical_publication_date": "2020-02-06",
+      "canonical_publication_year": 2020
+    },
+    "35337920": {
+      "title": "Effect of Houpo-Mahuang Decoction on aggravated asthma induced by cigarette smoke and the expression of TRPA1 and tight junctions in mice.",
+      "abstract": "Cigarette smoke (CS) is a common environmental irritant and a risk factor for asthma, as it induces as well as aggravates asthmatic attacks. The injured airway epithelial tight junctions (TJs) aggravate asthma. CS can aggravate asthma by activating the transient receptor potential ankyrin A1 (TRPA1) channel and enhancing TJs destruction. Houpo Mahuang decoction (HPMHD) is a classic traditional Chinese prescription for the treatment of asthma. However, its underlying action mechanism is unclear. The present study aimed to evaluate the effect of HPMHD on the asthma phenotype and the regulation of TRPA1 and TJs in a CS-induced mouse model of aggravated asthma. Under optimized chromatographic and mass spectrometry conditions, the ultra-high performance liquid chromatography-quadrupole time-of-flight mass spectrometry (UPLC-QTOF-MS) technique was used to detect and analyze the major chemical components of HPMHD. C57BL/6 female mice were randomly divided into seven groups, viz, normal saline (NS) group, ovalbumin (OVA) + CS group, dexamethasone group, HPMHD high-dose group and low-dose groups, n-butanol extract group, and ethyl acetate extract group, with 10 mice in each group. OVA sensitization and challenge, and CS exposure were used to establish the aggravated asthma model. As the main indices to evaluate the protective effect of HPMHD, the eosinophils count in peripheral blood, percentages of inflammatory cells classified and the levels of interleukin (IL)-4, IL-5, IL-13 in the bronchoalveolar lavage fluid (BALF), airway responsiveness enhanced pause (Penh), and changes in lung histopathology were determined and compared among the groups. The mRNA and protein expression of TRPA1 and TJs in lung tissue was also examined. Using UPLC-QTOF-MS, the chemical components of HPMHD, including ephedrine, pseudoephedrine, laetrile, and amygdalin amide, were identified by 51 signal peaks. Compared with those in the NS group, the eosinophil number in the peripheral blood and the eosinophils and neutrophils percentages in BALF of the OVA + CS group were remarkably increased. Following the inhalation of 50 μl of acetylcholine chloride (ACH) at doses of 25 and 50 mg/mL, the Penh increased significantly (p < 0.01). Moreover, in the OVA + CS group, hematoxylin and eosin (H&E) staining of lung tissue showed a significant number of infiltrated inflammatory cells, increased mucus secretion in the lumen, damaged bronchial mucosa, increased thickness of tracheal wall, and increased score of lung damage (p < 0.01). The IL-4/5/13 levels were also remarkably increased (p < 0.01). The protein as well as gene expression of both ZO-1 and occludin decreased markedly in the lung tissue, while the expression of TRPA1 and claudin-2 was increased (p < 0.05, p < 0.01). Next, the OVA + CS group and the treatment groups were compared. The inflammatory cells, Penh value, and levels of IL-4/5/13 were significantly reduced, and less lung injury was observed in the treatment groups. The gene and protein levels of TRPA1 and TJs were corrected (p < 0.05, p < 0.01); the effects on the HPMHD high-dose and ethyl acetate extract groups were particularly remarkable. HPMHD reduced airway hyperresponsiveness, inflammatory cell recruitment and Th2 cytokine secretion in CS-induced aggravated asthma mice, in a manner potentially dependent on regulation of the expression of TRPA1 and TJ proteins. Both the n-butanol and ethyl acetate extracts contained the active ingredients, especially the ethyl acetate extract.",
+      "year": 2022,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2022.115217",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-03-23"
+      ],
+      "journal_issue_date": "2022-07-15",
+      "canonical_publication_date": "2022-03-23",
+      "canonical_publication_year": 2022
+    },
+    "25660335": {
+      "title": "Effects of herbal drugs in Mahuang decoction and their main components on intestinal transport characteristics of Ephedra alkaloids evaluated by a Caco-2 cell monolayer model.",
+      "abstract": "Mahuang decoction, Ephedra combined with Cassia twig, Bitter apricot kernel and Prepared licorice, has been widely used as a multi-herb prescription in traditional Chinese medicine (TCM). Many modern pharmacological studies have shown that the compatibility application of these four herbs has promising therapeutic effects on respiratory infection, acute glomerulonephritis and chronic renal failure. However, the underlying principles for governing the formulation of Mahuang decoction remain unknown. In this study, we used a Caco-2 cell monolayer model to explicate the possible compatibility mechanism of Mahuang decoction from the perspective of intestinal absorption. Firstly, the apical-to-basolateral and basolarteral-to-apical transport of the main characteristic active alkaloids in Ephedra, l-ephedrine (LEP), d-pseudoephedrine (DPEP) and l-methylephedrine (LMEP), as a single compound, was investigated. Secondly, the influence of main components in Cassia twig, Bitter apricot kernel and Prepared licorice on the transport of LEP, DPEP and LMEP was investigated. Finally, the bidirectional transport of these three alkaloids in single Ephedra extract, in Mahuang decoction and in drug pair extracts, such as Ephedra-Cassia twig, Ephedra-Bitter apricot kernel, Ephedra-Prepared licorice, was assessed. The investigated LEP, DPEP and LMEP could transport through the Caco-2 cell monolayer at a high level, with the efflux ratio (ER) of 1.41, 1.33 and 1.30, respectively, when the cells were treated with each single compound solution. In the presence of verapamil, the permeability from apical side to basolateral side (PAB) of the three alkaloids increased significantly (P<0.05), and their ERs decreased. The treatment of cells with Mahuang decoction and the drug pair extracts from Ephedra-Cassia twig, Ephedra-Bitter apricot kernel and Ephedra-Prepared licorice appreciably decreased PAB of LEP, DPEP and LMEP with increased ERs, compared to the treatment with single Ephedra extract. When concomitant administration with herbal drugs and their main ingredients (including cinnamaldehyde-cinnamyl alcohol-cinnamic acid group, volatile oil from Cassia twig, liquiritin-glycyrrhizic acid group from Prepared licorice, Cassia twig extract, Bitter apricot kernel extract and Prepared licorice extract), was adopted, PAB of LEP, DPEP and LMEP were reduced significantly and the ERs of the corresponding compounds were promoted appreciably. Only amygdalin (from Bitter apricot kernel) had little influence on the transport of Ephedra alkaloids. The findings indicate that LEP, DPEP and LMEP in Ephedra extract have similar absorption as in the pure solution of each compound. The intestinal absorption of LEP, DPEP and LMEP is through passive diffusion and these compounds may be P-gp substrates. The compatibility application of Cassia twig, Bitter apricot kernel and Prepared licorice, and their main components except amygdalin can suppress the absorption of the three main Ephedra alkaloids across the Caco-2 cell monolayer. On the basis of our results, Cassia twig, Bitter apricot kernel and Prepared licorice in Mahuang decoction decrease the absorption of Ephedra alkaloids, which may alleviate the drastic diaphoretic function and toxicity of Ephedra.",
+      "year": 2015,
+      "journal": "Journal of ethnopharmacology",
+      "doi": "10.1016/j.jep.2015.01.043",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2015-02-07"
+      ],
+      "journal_issue_date": "2015-04-22",
+      "canonical_publication_date": "2015-02-07",
+      "canonical_publication_year": 2015
+    },
+    "35178922": {
+      "title": "[Mechanism of lung and intestine combination therapy in treatment of acute lung injury by inhibiting inflammatory response based on NF-κB/NLRP3 signaling pathway and alveolar macrophage activation].",
+      "abstract": "Lung and intestine combination therapy(LICT) is effective in the treatment of acute lung injury(ALI). In this study, the combination of Mahuang Decoction and Dachengqi Decoction(hereinafter referred to as the combination), a manifestation of LICT, was employed to explore the effect of nuclear factor kappaB(NF-κB)/nucleotide binding oligomerization domain-like receptors-3(NLRP3) pathway and alveolar macrophage activation on the lung inflammation in rats with ALI, for the purpose of elucidating the mechanism of LICT in treating ALI. After the modeling of ALI with limpolysaccharide(LPS, ip), rats were respectively given(ig) the combination at 10, 7.5, and 5 g·kg~(-1)(high-dose, medium-dose, and low-dose LICT groups, separately), once every 8 h for 3 times. Haematoxylin-eosin(HE) staining was used to observe the histopathological changes of lung tissue, followed by the scoring of inflammation. Immunohistochemistry was applied to detect alveolar macrophage activation, enzyme-linked immunosorbent assay(ELISA) was applied to detect the serum content of tumor necrosis factor-α(TNF-α) and interleukin-18(IL-18), Western blot was applied to detect the protein expression of phosphorylated-nuclear factor kappaB p65(p-NF-κB p65), nuclear factor kappaB p65(NF-κB p65), phosphorylated-inhibitor kappaB alpha(p-IκBα), inhibitor kappaB alpha(IκBα), and NLRP3 in lung tissue, and quantitative reverse transcription-PCR(qRT-PCR) was applied to detect the mRNA expression of TNF-α, IL-18, NLRP3, and NF-κB p65 in lung tissue. The results showed that LICT groups demonstrated lung injury relief, decrease in inflammation score, alleviation of alveolar macrophage activation, significant decline in serum content of inflammatory factors TNF-α and IL-18, and decrease of the protein expression of p-NF-κB p65/NF-κB p65, p-IκBα/IκBα, and NLRP3, and mRNA expression of TNF-α, IL-18, NLRP3, and NF-κB p65 in lung tissue. In summary, LICT has definite therapeutic effect on ALI. The mechanism is that it inhibits alveolar macrophage activation by suppressing NF-κB/NLRP3 signaling pathway, thereby reducing the activation and release of inflammatory factors and finally inhibiting inflammation.",
+      "year": 2022,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": "10.19540/j.cnki.cjcmm.20211027.401",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2022-01",
+      "canonical_publication_date": "2022-01",
+      "canonical_publication_year": 2022
+    },
+    "36278797": {
+      "title": "LC-MS-based metabolomics reveals the",
+      "abstract": "The traditional Chinese medicine (TCM) formula Shegan Mahuang Decoction (SMD) has been used for treating asthma with significant clinical efficacy, but its mechanism of action has not been well investigated. This study aimed to investigate the anti-asthma effects of SMD on ovalbumin (OVA)-induced airway hyperresponsiveness (AHR) in rats and its potential mechanisms using liquid chromatography-mass spectrometry (LC-MS)-based metabolomics combined with Gene Expression Omnibus (GEO) data mining. The results showed that the administration of SMD significantly attenuated OVA-induced lung histopathological changes. OVA-induced elevation of the immunoglobulin (IgE) and interleukin-4 (IL-4) levels was also inhibited by SMD. A total of 28 significantly changed metabolites in plasma were selected from metabolomics analysis. After treatment with SMD, 24 of them were negatively regulated and the related metabolisms were involved in multiple metabolic pathways such as sphingolipid metabolism and arachidonic acid metabolism. The differentially expressed genes (DEGs) were obtained by GEO data mining. The integrated pathway analysis highlighted 11 signaling pathways that were associated with the anti-asthma effect of SMD. Among them, the metabolite-gene-pathway network showed that the peroxisome proliferator-activated receptors (PPAR) signaling pathway might be the most significant one. This study revealed that SMD exerted an anti-asthma effect against OVA-induced AHR via comprehensively modulating the sphingolipid metabolism, arachidonic acid metabolism, and PPAR signaling, which indicated the synergistic effect of multi-component, multi-target, and multi-pathway of TCM in the treatment of the disease. This study expands our understanding of SMD in the treatment of asthma from a metabolomics perspective.",
+      "year": 2022,
+      "journal": "Molecular omics",
+      "doi": "10.1039/d2mo00216g",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2022-12-05"
+      ],
+      "journal_issue_date": "2022-12-05",
+      "canonical_publication_date": "2022-12-05",
+      "canonical_publication_year": 2022
+    },
+    "26593045": {
+      "title": "Cold/hot pad differentiating assay of property differences of Mahuang and Maxingshigan decoctions.",
+      "abstract": "Chinese medicines with different cold/hot properties have various pharmacological actions on multiple organisms. The objective of this study was to explore the cold/hot property differences of traditional Chinese medicine formulas of Mahuang and Maxingshigan decoctions. A novel cold/hot pad differentiating assay method based on the Intelligent Animal Temperature Tropism Behavior monitoring system at 20 °C (cold pad) and 30 °C (hot pad) was introduced to investigate the variability of temperature tropism among the mice treated by 0.4 mL/20 g (drug volume/body weight) of Mahuang decoction and Maxingshigan decoction, respectively. Meanwhile, the oxygen consumption and activities of adenosine triphosphatase (ATPase) were measured to explore the energy metabolism mechanism. Results showed that the differences between cold/hot properties of Mahuang decoction and Maxingshigan decoction were significant (p < 0.05). Mahuang decoction produced significant synergic effect (a combination index of 1.60), while Maxingshigan decoction expressed significant antagonistic effect (a combination index of 0.35). The changes of energy metabolism including ATPase activity and oxygen consumption might be the possible factors to result in the differences. Those influences tended to be coherent with the definition of cold/hot properties of Chinese medicines based on traditional Chinese medicinal theory. The results indicated that the method based on cold/hot pad differentiating array could objectively and quantitatively represent the cold/hot properties of different compatibilities of traditional Chinese medicines in an ethological way according to the changes of animal's temperature tropism. These findings would provide some experimental basis and data references as well as a novel evaluation method for the study of the regularity of recipe composition.",
+      "year": 2015,
+      "journal": "Pharmaceutical biology",
+      "doi": "10.3109/13880209.2015.1057650",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2015-11-22"
+      ],
+      "journal_issue_date": "2016-07",
+      "canonical_publication_date": "2015-11-22",
+      "canonical_publication_year": 2015
+    },
+    "34257680": {
+      "title": "The Herbal Formula Granule Prescription Mahuang Decoction Ameliorated Chronic Kidney Disease Which Was Associated with Restoration of Dysbiosis of Intestinal Microbiota in Rats.",
+      "abstract": "Chronic kidney disease (CKD) has become a global health issue, and there is increasing evidence showing the beneficial roles of traditional Chinese medicine (TCM) in CKD treatment. Here, we studied the renoprotective role of Mahuang decoction, a famous TCM prescription, in a rat CKD model induced with the combination of doxorubicin and adenine. Our data showed that intragastric administration of Mahuang decoction inhibited the loss of bodyweight and attenuated proteinuria, serum creatinine, and blood urea nitrogen in CKD rats. Kidney histological analysis revealed decreased tubulointerstitial injury and fibrosis in CKD rats treated with Mahuang decoction accompanied with suppressed expression of TGF-β1 and phosphorylated NF-κB/P65 (p-P65) as indicated by immunohistochemistry. ELISA analysis demonstrated reduced serum levels of proinflammatory cytokines TNFα and IL-6. Most importantly, intestinal microbiota analysis by 16s rRNA-seq showed that Mahuang decoction restored the impaired richness and diversity of intestinal microflora and recovered the disrupted microbial community through reducing the abundance of deleterious microbes and promoting the expansion of beneficial microbes in CKD rats. Collectively, our findings demonstrated that Mahuang decoction mitigated kidney functional and structural impairment in CKD rats which were associated with the restoration of dysbiosis of intestinal microbiota, implying its potential in clinical CKD treatment.",
+      "year": 2021,
+      "journal": "Evidence-based complementary and alternative medicine : eCAM",
+      "doi": "10.1155/2021/4602612",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2021-06-23"
+      ],
+      "journal_issue_date": "2021",
+      "canonical_publication_date": "2021-06-23",
+      "canonical_publication_year": 2021
+    },
+    "23754163": {
+      "title": "Reciprocal effects of Guizhi decoction to the Guizhi decoction syndrome by toll-like receptor mRNA expression and cytokines secretion.",
+      "abstract": "To explore the pathological mechanisms of Guizhi Decoction () syndrome and the therapeutic molecular mechanisms of the Guizhi Decoction, Mahuang Decoction (), Sangju Decoction ( ) and Yinqiao Powder (), as well as the potentially biological basis that Guizhi Decoction is most effective only for the patients with Guizhi Decoction syndrome in clinical practice. We first got serum samples from the patients suffering from both upper respiratory tract infection and Guizhi Decoction syndrome identified by the doctors of Chinese medicine (CM) in the clinic. Four formulas with therapeutic actions of pungent warmth or pungent coolness for superficial syndromes were chosen and four kinds of rat serum samples each containing one of the above-mentioned herbal formulas were collected, then the effects of Guizhi Decoction syndromes' patient serum as well as the effects of sera containing the formulas after being stimulated by the patient serum samples on both the mRNA expression of certain toll-like receptor (TLR) subtypes and the release of some inflammatory cytokines in RAW264.7 cells were tested and analyzed in vitro. The expression of TLR-3, TLR-4 and TLR-9 mRNA among the 9 tested TLR subforms were up-regulated in the macrophages stimulated by the sera from untreated upper respiratory infection patients with the Guizhi Decoction syndrome (symptomcomplex). The products such as interleukin (IL)-1β, IL-6, tumor necrosis factor (TNF)-α and interferon (IFN)-β from stimulated macrophages through TLR signaling pathways were also increased correspondingly. Interestingly, the changes induced by the Guizhi Decoction syndrome patients' sera were masked significantly after the macrophages were incubated with the sera from donors treated with Guizhi Decoction. Similarly, the three other exterior-releasing formulas were all effective in reversing the up-regulated changes of certain TLR subforms to different degrees, but both the number of targeted TLRs and efficacy of them seemed to be inferior to that of Guizhi Decoction. Evidence from these experiments might contribute to the scientific explanation of both the pharmacological mechanisms of Guizhi Decoction and also the CM theory that Guizhi Decoction is specifically prescribed for the treatment of Guizhi Decoction syndrome (The gearing formula to the symptom-complex).",
+      "year": 2013,
+      "journal": "Chinese journal of integrative medicine",
+      "doi": "10.1007/s11655-013-1325-2",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2013-06-10"
+      ],
+      "journal_issue_date": "2013-11",
+      "canonical_publication_date": "2013-06-10",
+      "canonical_publication_year": 2013
+    },
+    "25011267": {
+      "title": "[Study on multi-target optimization of prescription dose of Mahuang decoction].",
+      "abstract": "To optimize the prescription dose of Mahuang decoction in a multi-target manner, in order to provide reference for the quantitative optimization of the prescription dose of the traditional Chinese medicine compound. The number of diaphoretic spots in rats, the tracheal antispasmodic rate in guinea pigs and the writhing times by acetic acid in mice were taken as the indexes for evaluating the diaphoretic, antispasmodic and analgesic effects. According to the experimental results of the 16 orthogonal combination prescriptions, a mathematical dose-effect model was built by support vector regression (SVR) and quadratic response surface regression (RSR) respectively. The multi-target optimization was achieved by elitist non-dominated sorting genetic algorithm (NSGA-II) and entropy weight TOPSIS method. The optimal dose of Mahuang decoction after being optimized by SVR modeling contained 17.71 g of Ephedrae Herba, 9.57 g of Cinnamomi Ramulus, 11.75 g of Armeniacae Semen Amarum and 4.39 g of Glycyrrhizae Radix et Rhizoma Praeparata Cum Melle. The optimized result by RSR modeling contained 13.37 g of Ephedrae Herba, 11.61 g of Cinnamomi Ramulus, 11.98 g of Armeniacae Semen Amarum and 5.67 g of Glycyrrhizae Radix et Rhizoma Praeparate Cum Melle. SVR was superior to RSR in both of the forecast capacity and optimization results. SVR-NSGA-II-TOPSIS method could be adopted for the multi-target optimization for the dose of Mahuang decoction and other traditional Chinese medicine compounds. It is proved to be the optimal prescription with the best efficacy, and could provide scientific quantitative basis for determining the dose of traditional Chinese medicine compound prescriptions and developing new traditional Chinese medicines.",
+      "year": 2014,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": null,
+      "publication_types": [
+        "Evaluation Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2014-04",
+      "canonical_publication_date": "2014-04",
+      "canonical_publication_year": 2014
+    },
+    "21246831": {
+      "title": "[Investigation of differences between cold and hot nature of Mahuang decoction and Maxing Shigan decoction based on cold/hot plate differentiating assay].",
+      "abstract": "To investigate the objectivity and authenticity of the difference of the Cold and Hot nature between Mahuang decoction and Maxingshigan decoction based on the cold/hot plate differentiating assay. The measuring time and dosage of Mahuang decoction and Maxingshigan decoction were investigated before the compliance experiment. Meanwhile, the activities of adenosine triphosphatase were detected in order to probe into the mechanism of their action. It was found that the drug dose should be 10 times amount to human dose (0.80 g x kg(-1) of Mahuang decoction and 2.26 g x kg(-1) of Maxing Shigan decoction) and the measuring time should be from 30 min to 60 min after administering. Compared with the control group, the remaining ratio of the mice treated with Mahuang decoction on the hot pad significantly decreased (P < 0.01). Compared with Mahuang decoction, the remaining ratio of the mice treated with Maxingshigan decoction on the hot pad significantly increased (P < 0.05). Compared with the control group, the Na(+) -K(+) -ATPase activity of liver tissue of the mice treated by Mahuang decoction significantly increased (P < 0.05), while the activity of Na(+) -K(+) -ATPase and Mg(2+) -Ca(2+) -ATPase of liver tissue of the mice treated by Maxingshigan decoction reduced significantly (P < 0.05). This study showed that the differences of Cold and Hot nature of Mahuang decoction and Maxingshigan decoction were objectively existent from animal ethology, which was consistent with the traditional theroy of Chinese medicine. And the changes of ATPase activity of liver tissue might be the mechanism of drug action.",
+      "year": 2010,
+      "journal": "Zhongguo Zhong yao za zhi = Zhongguo zhongyao zazhi = China journal of Chinese materia medica",
+      "doi": null,
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2010-10",
+      "canonical_publication_date": "2010-10",
+      "canonical_publication_year": 2010
+    },
+    "30151032": {
+      "title": "Effects of different principles of Traditional Chinese Medicine treatment on TLR7/NF-κB signaling pathway in influenza virus infected mice.",
+      "abstract": "Influenza virus is a single-stranded RNA virus that causes influenza in humans and animals. About 600 million people around the world suffer from influenza every year. Upon recognizing viral RNA molecules, TLR7 (Toll-like receptor) initiates corresponding immune responses. Traditional Chinese Medicines (TCMs), including Yinqiao powder, Xinjiaxiangruyin and Guizhi-and-Mahuang decoction, have been extensively applied in clinical treatment of influenza. Although the therapeutic efficacy of TCMs against influenza virus in vivo was reported previously, its underlying mechanisms are not clearly understood. This study aimed to investigate the immunological mechanisms in the treatment of influenza virus infected mice with three Chinese herbal compounds as well as the effect on TLR7/NF-κB signaling pathway during recovery. Wild type and TLR7 KO C57BL/6 mice were infected with influenza virus FM1 and then treated with three TCMs. The physical parameters of mice (body weight and lung index) and the expression levels of components in TLR7/NF-κB signaling pathway were evaluated. After viral infection, Guizhi-and-Mahuang decoction and Yinqiao powder showed better anti-viral effect under normal condition. Compared to the viral control group, expression levels of TLR7, MyD88, IRAK4 and NF-κB were significantly reduced in all treatment groups. Furthermore, the three TCM treatment groups showed poor therapeutic efficacy and no difference in viral load compared to the viral control group in TLR7 KO mice. Our study indicated that Guizhi-and-Mahuang decoction and Yinqiao powder might play a crucial role of anti-influenza virus by regulating TLR7/NF-κB signal pathway.",
+      "year": 2018,
+      "journal": "Chinese medicine",
+      "doi": "10.1186/s13020-018-0199-4",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [
+        "2018-08-20"
+      ],
+      "journal_issue_date": "2018",
+      "canonical_publication_date": "2018-08-20",
+      "canonical_publication_year": 2018
+    },
+    "21144463": {
+      "title": "[Functional targets of Chinese herbal medicine].",
+      "abstract": "In order to elucidate the mechanisms of Chinese herbal medicine, much work has been done based on chemical constituent-target in the molecular system. It cannot comply with the holistic efficacy of Chinese herbal medicine. Thus, the authors of this paper proposed to study the functional target adopted from Western medicine. The data of Chinese herbal function were collected from 2005 edition of The People's Republic of China Pharmacopoeia. A total of 135 functional targets were found, and a network about functional target and mode of action was built. The authors also explored the applications of functional target and the network combined with Sijunzi Decoction and Mahuang Decoction. The results, reflecting the feature of Chinese herbal medicine, will not only be helpful to elucidate the holistic mechanisms of Chinese herbal medicine, but also beneficial to studying the theory of Chinese formulas and developing new formulas.",
+      "year": 2010,
+      "journal": "Zhong xi yi jie he xue bao = Journal of Chinese integrative medicine",
+      "doi": "10.3736/jcim20101212",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "publication_date_policy": "first_article_date_else_journal_issue_date",
+      "article_dates": [],
+      "journal_issue_date": "2010-12",
+      "canonical_publication_date": "2010-12",
+      "canonical_publication_year": 2010
+    }
+  }
+}
