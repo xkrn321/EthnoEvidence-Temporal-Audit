@@ -25,7 +25,7 @@ exact reconstruction of all declared rankings and ablations from serialised
 feature objects.
 
 Expected output is 11 passed tests and a successful verifier report. This
-candidate intentionally retains only the tests that exercise the released
+public release intentionally retains only the tests that exercise the released
 temporal methodology; no controlled-data tests are shipped.
 
 ## Release scope
@@ -45,5 +45,5 @@ Excluded:
   material;
 - biological outcome labels and any claim of predictive performance.
 
-See [PUBLIC_RELEASE_BOUNDARY.md](PUBLIC_RELEASE_BOUNDARY.md) before making a
-public archival release.
+See [PUBLIC_RELEASE_BOUNDARY.md](PUBLIC_RELEASE_BOUNDARY.md) for the scope and
+limits of this public release.

@@ -5,5 +5,6 @@ version: "2.0.2"
 date-released: 2026-09-01
 abstract: "A frozen temporal and evidence-provenance audit for multicomponent target prioritization."
 license: MIT
-# Authors, repository URL, and archived DOI are intentionally author-controlled
-# fields and must be inserted only in the final approved archival release.
+repository-code: "https://github.com/xkrn321/EthnoEvidence-Temporal-Audit"
+# Authors and the archived DOI are intentionally author-controlled fields and
+# must be inserted only in the final approved archival release.

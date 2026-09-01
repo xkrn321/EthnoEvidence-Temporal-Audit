@@ -1,11 +1,14 @@
-# Release status: private staging only
+# Release status: public source and benchmark release; DOI pending
 
-This repository is an independently runnable, publication-only archive
-candidate. It passed the offline integrity audit and its 11 released tests on
-2026-09-01.
+This repository is the public, independently runnable, publication-only source
+and benchmark release for the accompanying methodology manuscript. It passed
+the offline integrity audit and all 11 released tests on 2026-09-01. The
+release is available at
+<https://github.com/xkrn321/EthnoEvidence-Temporal-Audit> under the MIT
+License.
 
-It is deliberately not yet a public archival release and has no DOI. Public
-release requires the accountable authors to confirm the licence, the final
-author/declaration metadata, and that no restricted or third-party material is
-included. Until then, it must remain private and must not be cited as a public
-data or software DOI.
+The repository deliberately excludes fieldwork, traditional-knowledge,
+participant, voucher, and other restricted material. A Zenodo archival DOI is
+not yet assigned: the accountable authors must still approve the final creator
+and manuscript-declaration metadata for that archival record. Cite the frozen
+GitHub release and commit until an archived DOI is published.
