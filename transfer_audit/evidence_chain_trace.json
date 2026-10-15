@@ -1,0 +1,59 @@
+{
+  "trace_type": "candidate_level_provenance_example",
+  "formula": "Huanglian Jiedu Decoction",
+  "purpose": "Illustrate how evidence objects map to a permitted computational claim without implying intact-formula mechanism.",
+  "examples": [
+    {
+      "target": "ALOX15",
+      "rank_behavior": {
+        "ungated_union_rank": 11,
+        "evidence_gated_rank": 10
+      },
+      "measured_evidence": {
+        "compound": "baicalein",
+        "best_pchembl": 6.22,
+        "temporal_status": "document_year <= 2022"
+      },
+      "literature_evidence": [],
+      "permitted_claim": "ALOX15 is an evidence-gated computational candidate supported by a retained measured compound-target record.",
+      "claim_ceiling": [
+        "does not establish that baicalein is present in the administered preparation",
+        "does not establish in-vivo exposure or target engagement",
+        "does not establish causal involvement of ALOX15"
+      ]
+    },
+    {
+      "target": "TNF",
+      "rank_behavior": {
+        "ungated_union_rank": 6,
+        "evidence_gated_rank": 44
+      },
+      "measured_evidence": {
+        "compound": null,
+        "best_pchembl": null,
+        "temporal_status": "no eligible measured record linked to a registered marker compound"
+      },
+      "literature_evidence": {
+        "pre_cutoff_formula_target_pmids": [
+          "28278436",
+          "29576800",
+          "32411291",
+          "33645072",
+          "33681222",
+          "33958856",
+          "35003291",
+          "35365737",
+          "36160407"
+        ]
+      },
+      "permitted_claim": "TNF has a literature co-mention signal but is downgraded when the measured-evidence gate is applied.",
+      "claim_ceiling": [
+        "does not establish compound-level activity",
+        "does not establish preparation presence or exposure",
+        "does not establish that TNF is irrelevant to the formula"
+      ]
+    }
+  ],
+  "status": "derived_from_locked_feature_objects",
+  "not_a_reference_standard": true
+}

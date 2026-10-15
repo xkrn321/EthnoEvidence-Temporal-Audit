@@ -43,7 +43,10 @@ An exploratory structure-matched transfer audit is also provided in
 summary tables, task-level decision audits, and source-dependence diagnostics for
 40 additional small-molecule tasks. The audit is explicitly exploratory and does
 not estimate biological accuracy or comparator superiority. Licensed DrugCentral
-raw tables and the local retrieval cache are not redistributed.
+raw tables and the local retrieval cache are not redistributed. The
+`evidence_chain_trace.json` file provides a candidate-level provenance example
+for the Huanglian Jiedu Decoction contrast and records the claim ceiling for
+each evidence chain.
 
 Excluded:
 
