@@ -38,6 +38,13 @@ Included:
 - machine-readable rules that preserve exclusions and avoid treating automated
   proxy eligibility as a human reference standard.
 
+An exploratory structure-matched transfer audit is also provided in
+[`transfer_audit/`](transfer_audit/). It contains the frozen protocol, derived
+summary tables, task-level decision audits, and source-dependence diagnostics for
+40 additional small-molecule tasks. The audit is explicitly exploratory and does
+not estimate biological accuracy or comparator superiority. Licensed DrugCentral
+raw tables and the local retrieval cache are not redistributed.
+
 Excluded:
 
 - practitioner interviews, formula variants from fieldwork, specimen/voucher

@@ -1,0 +1,220 @@
+{
+  "protocol_id": "structure_matched_transfer_exploratory_2026_10_05",
+  "n_tasks_selected": 40,
+  "n_tasks_retrieval_complete": 40,
+  "retrieval_status": "complete",
+  "n_tasks_rankable": 36,
+  "n_tasks_not_rankable": 4,
+  "stratum_counts": {
+    "J": 18,
+    "N": 22
+  },
+  "activity_observation_rows": 16168,
+  "pubmed_records_across_tasks_not_independent": 56698,
+  "median_unique_pmids_per_task": 443.5,
+  "evidence_objects": 76958,
+  "evidence_object_counts_by_layer_and_status": {
+    "literature|excluded": 28700,
+    "literature|manual_review": 31040,
+    "literature|screening_only": 1050,
+    "measured|eligible": 364,
+    "measured|excluded": 15804
+  },
+  "rankable_candidate_count_median": 7.5,
+  "rankable_candidate_count_range": [
+    1,
+    154
+  ],
+  "top10_change_vs_ungated": {
+    "tasks_compared": 36,
+    "tasks_with_any_top10_replacement": 6,
+    "percent_tasks_with_replacement": 16.7,
+    "median_top10_replacements": 0.0,
+    "range_top10_replacements": [
+      0,
+      4
+    ],
+    "median_jaccard": 1.0
+  },
+  "top10_change_vs_measured_only": {
+    "tasks_compared": 36,
+    "tasks_with_any_top10_replacement": 9,
+    "percent_tasks_with_replacement": 25.0,
+    "median_top10_replacements": 0.0,
+    "range_top10_replacements": [
+      0,
+      9
+    ],
+    "median_jaccard": 1.0
+  },
+  "top10_change_stratified_by_measured_support": {
+    "at_least_one_eligible_measured_target": {
+      "rankable_tasks": 24,
+      "top10_change_vs_ungated": {
+        "tasks_compared": 24,
+        "tasks_with_any_top10_replacement": 6,
+        "percent_tasks_with_replacement": 25.0,
+        "median_top10_replacements": 0.0,
+        "range_top10_replacements": [
+          0,
+          4
+        ],
+        "median_jaccard": 1.0
+      },
+      "top10_change_vs_measured_only": {
+        "tasks_compared": 24,
+        "tasks_with_any_top10_replacement": 7,
+        "percent_tasks_with_replacement": 29.2,
+        "median_top10_replacements": 0.0,
+        "range_top10_replacements": [
+          0,
+          5
+        ],
+        "median_jaccard": 1.0
+      }
+    },
+    "no_eligible_measured_target": {
+      "rankable_tasks": 12,
+      "top10_change_vs_ungated": {
+        "tasks_compared": 12,
+        "tasks_with_any_top10_replacement": 0,
+        "percent_tasks_with_replacement": 0.0,
+        "median_top10_replacements": 0.0,
+        "range_top10_replacements": [
+          0,
+          0
+        ],
+        "median_jaccard": 1.0
+      },
+      "top10_change_vs_measured_only": {
+        "tasks_compared": 12,
+        "tasks_with_any_top10_replacement": 2,
+        "percent_tasks_with_replacement": 16.7,
+        "median_top10_replacements": 0.0,
+        "range_top10_replacements": [
+          0,
+          9
+        ],
+        "median_jaccard": 1.0
+      },
+      "interpretation": "the measured-only comparator contains no measured score in this stratum and resolves ties alphabetically; its changes are not an informative model comparison"
+    }
+  },
+  "threshold_sensitivity": {
+    "4.5": {
+      "tasks_compared": 36,
+      "tasks_with_top10_change": 0,
+      "median_top10_jaccard_vs_5_0": 1.0
+    },
+    "5.5": {
+      "tasks_compared": 36,
+      "tasks_with_top10_change": 0,
+      "median_top10_jaccard_vs_5_0": 1.0
+    },
+    "6.0": {
+      "tasks_compared": 36,
+      "tasks_with_top10_change": 1,
+      "median_top10_jaccard_vs_5_0": 1.0
+    }
+  },
+  "historical_drugcentral_fda_label_tasks": 9,
+  "historical_drugcentral_fda_label_pairs": 21,
+  "historical_label_input_overlap_audit": {
+    "label_pairs_in_ranked_candidate_universe": 14,
+    "label_pairs_with_same_drug_gene_measured_input": 14,
+    "label_pairs_with_same_drug_gene_literature_screen_input": 0,
+    "label_pairs_overlapping_both_input_layers": 0,
+    "label_pairs_with_neither_exact_same_drug_gene_input": 7,
+    "interpretation": "exact same-task gene overlap is only a lower bound on dependence; shared upstream documents/source curation may remain"
+  },
+  "historical_label_rank_concordance_exploratory_only": {
+    "evidence_gated": {
+      "historical_label_pairs": 21,
+      "label_pairs_in_candidate_universe": 14,
+      "candidate_universe_coverage_percent": 66.7,
+      "labeled_tasks_with_any_candidate": 8,
+      "label_pairs_in_top10": 14,
+      "top10_pair_coverage_percent": 66.7,
+      "labeled_tasks_with_any_target_in_top10": 8,
+      "labeled_tasks_with_any_target_in_top10_percent": 88.9,
+      "median_rank_when_present": 2.0,
+      "targets_absent_from_candidate_universe": 7
+    },
+    "ungated_union": {
+      "historical_label_pairs": 21,
+      "label_pairs_in_candidate_universe": 14,
+      "candidate_universe_coverage_percent": 66.7,
+      "labeled_tasks_with_any_candidate": 8,
+      "label_pairs_in_top10": 14,
+      "top10_pair_coverage_percent": 66.7,
+      "labeled_tasks_with_any_target_in_top10": 8,
+      "labeled_tasks_with_any_target_in_top10_percent": 88.9,
+      "median_rank_when_present": 3.0,
+      "targets_absent_from_candidate_universe": 7
+    },
+    "measured_only": {
+      "historical_label_pairs": 21,
+      "label_pairs_in_candidate_universe": 14,
+      "candidate_universe_coverage_percent": 66.7,
+      "labeled_tasks_with_any_candidate": 8,
+      "label_pairs_in_top10": 14,
+      "top10_pair_coverage_percent": 66.7,
+      "labeled_tasks_with_any_target_in_top10": 8,
+      "labeled_tasks_with_any_target_in_top10_percent": 88.9,
+      "median_rank_when_present": 2.0,
+      "targets_absent_from_candidate_universe": 7
+    }
+  },
+  "reconstruction": {
+    "rebuilt_evidence_objects": 76958,
+    "evidence_object_count_matches": true,
+    "rankings_and_features_reconstructed_exactly": true,
+    "decision_audits_reconstructed_exactly": true,
+    "rankings_unchanged_after_removing_reference_labels": true
+  },
+  "retrieval_errors": {},
+  "caveat": "Exploratory, post hoc transfer cohort; ChEMBL/PubMed current data filtered by year; external FDA-label annotations may share upstream sources. Descriptive workflow operation and rank agreement do not establish biological accuracy or causal validity.",
+  "pooled_89_task_context_exploratory_only": {
+    "selected_tasks": 89,
+    "rankable_tasks": 77,
+    "nonrankable_tasks": 12,
+    "candidate_count_median_rankable": 6,
+    "top10_change_vs_ungated": {
+      "tasks_compared": 77,
+      "tasks_with_any_top10_replacement": 10,
+      "percent_tasks_with_replacement": 13.0,
+      "median_top10_replacements": 0,
+      "range_top10_replacements": [
+        0,
+        4
+      ],
+      "median_jaccard": 1.0
+    },
+    "top10_change_vs_measured_only": {
+      "tasks_compared": 77,
+      "tasks_with_any_top10_replacement": 18,
+      "percent_tasks_with_replacement": 23.4,
+      "median_top10_replacements": 0,
+      "range_top10_replacements": [
+        0,
+        9
+      ],
+      "median_jaccard": 1.0
+    },
+    "threshold_top10_changes_vs_5_0": {
+      "4.5": {
+        "tasks_compared": 77,
+        "tasks_with_top10_change": 0
+      },
+      "5.5": {
+        "tasks_compared": 77,
+        "tasks_with_top10_change": 0
+      },
+      "6.0": {
+        "tasks_compared": 77,
+        "tasks_with_top10_change": 1
+      }
+    },
+    "caveat": "Pooled context combines multiple post hoc cohorts and must not be described as one prospectively frozen sample or independent replications."
+  }
+}

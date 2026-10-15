@@ -1,0 +1,33 @@
+{
+  "connected_component_sizes": [
+    89
+  ],
+  "input_sha256": {
+    "/Users/apple/Documents/Codex/2026-08-27/z/outputs/CMPB_Conversion_Working/Structure_Matched_Transfer_Exploratory/runtime/evidence_objects.json": "a4fe2fb64a3551a4a1acbc5a0797935a41b9a478c79e5e3ffa54f3a09546657c",
+    "benchmarks/small_molecule_extension_2026_10_03/evidence_objects.json": "02924f0589ba509661bfe773ed64db0a4c5517ed3775bfee83fc9750be42f733",
+    "benchmarks/small_molecule_extension_2026_10_04_batch2/evidence_objects.json": "eb96884155a5e5ca78a8088b04fca958787fb9d148858cf62dd08c1532ac31dd",
+    "benchmarks/small_molecule_transfer/evidence_objects.json": "1ae58d78116af2305b8c6c9e65eef66e12fe325757dbc8a864f09c34ea58a6a4"
+  },
+  "interpretation": "Descriptive source-overlap audit only; component structure is not an effective sample-size estimate or a biological performance measure.",
+  "max_tasks_per_source_record": {
+    "assay": 54,
+    "document": 54,
+    "pmid": 11
+  },
+  "pair_count": 3916,
+  "shared_source_record_counts": {
+    "assay": 1192,
+    "document": 190,
+    "pmid": 7490
+  },
+  "task_count": 89,
+  "task_pairs_with_any_shared_source": 2436,
+  "task_pairs_with_shared_assay": 2221,
+  "task_pairs_with_shared_document": 2287,
+  "task_pairs_with_shared_pmid": 509,
+  "unique_source_counts": {
+    "assay": 14131,
+    "document": 1609,
+    "pmid": 125125
+  }
+}

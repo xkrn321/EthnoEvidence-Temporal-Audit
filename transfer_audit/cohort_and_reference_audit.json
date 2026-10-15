@@ -1,0 +1,734 @@
+{
+  "protocol_id": "structure_matched_transfer_exploratory_2026_10_05",
+  "status": "corrected_cohort_frozen_before_new_rankings_exploratory_posthoc_vs_project",
+  "selected_at_local": "2026-10-05",
+  "selection_seed": "EthnoEvidence-transfer-2026-10-01|",
+  "eligible_exact_structure_tasks_after_prior_exclusion": 40,
+  "selected_n": 40,
+  "selected_by_stratum": {
+    "C": 0,
+    "J": 18,
+    "N": 22
+  },
+  "prior_task_count_excluded": 49,
+  "unique_chEMBL_structure_keys": 368,
+  "exact_unique_structure_links": 297,
+  "source_hashes": {
+    "chembl_frozen_manifest_sha256": "233b5bb9498bca6154fdecfbf355fb0547803bbd63e31f73ed995bfb3f16c09c",
+    "drugcentral_2021_structure_file_sha256": "5b81423a2ec1e2766e9666ec4a172d5a5b47045ea2cc032d1ba06085956bc1fc",
+    "drugcentral_interactions_file_sha256": "1908684983a79a067a44da952e1f6fd26b0f34cc36560cd9be0f0843bbfee1e1",
+    "protocol_sha256": "59df6bffd77fb185ca525c5b0212474ba60a3327539b7240c30f2d9eaa3f258c"
+  },
+  "prior_cohort_files": [
+    "/Users/apple/Documents/Codex/2026-08-27/z/outputs/EthnoEvidence_temporal_audit_public_release_candidate/.worktrees/small-molecule-transfer/benchmarks/small_molecule_transfer/cohort.json",
+    "/Users/apple/Documents/Codex/2026-08-27/z/outputs/EthnoEvidence_temporal_audit_public_release_candidate/.worktrees/small-molecule-transfer/benchmarks/small_molecule_extension_2026_10_03/cohort.json",
+    "/Users/apple/Documents/Codex/2026-08-27/z/outputs/EthnoEvidence_temporal_audit_public_release_candidate/.worktrees/small-molecule-transfer/benchmarks/small_molecule_extension_2026_10_04_batch2/cohort.json"
+  ],
+  "drugcentral_eligible_label_gene_rows": 21,
+  "tasks_with_historical_fda_label_targets": 9,
+  "selection_rule": "all remaining tasks meeting the unchanged original ChEMBL criteria, exact unique InChIKey link, and prior-task exclusion; ordered C/J/N then original hash; no annotation or ranking data used",
+  "selected": [
+    {
+      "drug_id": "CHEMBL2023898",
+      "stratum": "J",
+      "parent_id": "CHEMBL2023898",
+      "preferred_name": "DACLATASVIR",
+      "standard_inchi_key": "FKRSSPOQAMALKA-CUPIEXAXSA-N",
+      "drugcentral_structure_id": "4875",
+      "canonical_smiles": "COC(=O)N[C@H](C(=O)N1CCC[C@H]1c1ncc(-c2ccc(-c3ccc(-c4cnc([C@@H]5CCCN5C(=O)[C@@H](NC(=O)OC)C(C)C)[nH]4)cc3)cc2)[nH]1)C(C)C",
+      "first_approval": 2014,
+      "atc_classifications": [
+        "J05AP07"
+      ],
+      "selection_sha256": "6fe5cb70f272539605c9b5a332c44a2b6d350caa2a86ef9531f9ff0d0d8e0987",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL3039514",
+      "stratum": "J",
+      "parent_id": "CHEMBL3039514",
+      "preferred_name": "ELBASVIR",
+      "standard_inchi_key": "BVAZQCUMNICBAQ-PZHYSIFUSA-N",
+      "drugcentral_structure_id": "5080",
+      "canonical_smiles": "COC(=O)N[C@H](C(=O)N1CCC[C@H]1c1nc(-c2ccc3c(c2)O[C@@H](c2ccccc2)n2c-3cc3cc(-c4c[nH]c([C@@H]5CCCN5C(=O)[C@@H](NC(=O)OC)C(C)C)n4)ccc32)c[nH]1)C(C)C",
+      "first_approval": 2016,
+      "atc_classifications": [
+        "J05AP10"
+      ],
+      "selection_sha256": "7a8e58e292bd0caefdd9dff93342c6ce9bf6e9ae9e9aac839f156d81c461a074",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL1241951",
+      "stratum": "J",
+      "parent_id": "CHEMBL1241951",
+      "preferred_name": "LETERMOVIR",
+      "standard_inchi_key": "FWYSMLBETOMXAG-QHCPKHFHSA-N",
+      "drugcentral_structure_id": "5262",
+      "canonical_smiles": "COc1cccc(N2CCN(C3=Nc4c(F)cccc4[C@H](CC(=O)O)N3c3cc(C(F)(F)F)ccc3OC)CC2)c1",
+      "first_approval": 2017,
+      "atc_classifications": [
+        "J05AX18"
+      ],
+      "selection_sha256": "80a29ccd9a0a7a0fb17b1ff22e82c1e09d024d1c72499cd4ea4c8d36149263c3",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL437765",
+      "stratum": "J",
+      "parent_id": "CHEMBL437765",
+      "preferred_name": "RIFAMYCIN",
+      "standard_inchi_key": "HJYYPODYNSCCOU-ODRIEIDWSA-N",
+      "drugcentral_structure_id": "4817",
+      "canonical_smiles": "CO[C@H]1/C=C/O[C@@]2(C)Oc3c(C)c(O)c4c(O)c(cc(O)c4c3C2=O)NC(=O)/C(C)=C\\C=C\\[C@H](C)[C@H](O)[C@@H](C)[C@@H](O)[C@@H](C)[C@H](OC(C)=O)[C@@H]1C",
+      "first_approval": 2018,
+      "atc_classifications": [
+        "A07AA13",
+        "D06AX15",
+        "J04AB03",
+        "S01AA16",
+        "S02AA12"
+      ],
+      "selection_sha256": "84e86b784feceddca25aa5c3f75a7d82e301c4a49a3939201686bca5b1489119",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL3301594",
+      "stratum": "J",
+      "parent_id": "CHEMBL3301594",
+      "preferred_name": "FOSTEMSAVIR",
+      "standard_inchi_key": "SWMDAPWAQQTBOG-UHFFFAOYSA-N",
+      "drugcentral_structure_id": "5401",
+      "canonical_smiles": "COc1cnc(-n2cnc(C)n2)c2c1c(C(=O)C(=O)N1CCN(C(=O)c3ccccc3)CC1)cn2COP(=O)(O)O",
+      "first_approval": 2020,
+      "atc_classifications": [
+        "J05AX29"
+      ],
+      "selection_sha256": "87cfa29e24846522e20b45126b6ef2fd558e41df7fbe426286df3b17c9915576",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL3137312",
+      "stratum": "J",
+      "parent_id": "CHEMBL3137312",
+      "preferred_name": "DASABUVIR",
+      "standard_inchi_key": "NBRBXGKOEOGLOI-UHFFFAOYSA-N",
+      "drugcentral_structure_id": "4914",
+      "canonical_smiles": "COc1c(-c2ccc3cc(NS(C)(=O)=O)ccc3c2)cc(-n2ccc(=O)[nH]c2=O)cc1C(C)(C)C",
+      "first_approval": 2014,
+      "atc_classifications": [
+        "J05AP09"
+      ],
+      "selection_sha256": "905f81335be6a702f4c81fa8533f9147bba7fc77e2af12dd0041b2fe75b65bb2",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL218394",
+      "stratum": "J",
+      "parent_id": "CHEMBL218394",
+      "preferred_name": "BOCEPREVIR",
+      "standard_inchi_key": "LHHCSNFAOIFYRV-DOVBMPENSA-N",
+      "drugcentral_structure_id": "4172",
+      "canonical_smiles": "CC(C)(C)NC(=O)N[C@H](C(=O)N1C[C@H]2[C@@H]([C@H]1C(=O)NC(CC1CCC1)C(=O)C(N)=O)C2(C)C)C(C)(C)C",
+      "first_approval": 2011,
+      "atc_classifications": [
+        "J05AP03"
+      ],
+      "selection_sha256": "9d48c57f3fd999878bee01f233fbd8a6962a1e0d115a57c7e4a8d6f8301b1ba8",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL1688530",
+      "stratum": "J",
+      "parent_id": "CHEMBL1688530",
+      "preferred_name": "ORITAVANCIN",
+      "standard_inchi_key": "VHFGEBVPHAGQPI-LXKZPTCJSA-N",
+      "drugcentral_structure_id": "4678",
+      "canonical_smiles": "CN[C@H](CC(C)C)C(=O)N[C@H]1C(=O)N[C@@H](CC(N)=O)C(=O)N[C@H]2C(=O)N[C@H]3C(=O)N[C@H](C(=O)N[C@H](C(=O)O)c4cc(O)cc(O)c4-c4cc3ccc4O)[C@H](O[C@H]3C[C@](C)(N)[C@@H](O)[C@H](C)O3)c3ccc(c(Cl)c3)Oc3cc2cc(c3O[C@@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2O[C@H]2C[C@](C)(NCc3ccc(-c4ccc(Cl)cc4)cc3)[C@@H](O)[C@H](C)O2)Oc2ccc(cc2Cl)[C@H]1O",
+      "first_approval": 2014,
+      "atc_classifications": [
+        "J01XA05"
+      ],
+      "selection_sha256": "ab6d06eb3c0346886d5301972ce41c2eb60d6e8ce27f8f6238252755036c5a25",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL1689772",
+      "stratum": "J",
+      "parent_id": "CHEMBL1689772",
+      "preferred_name": "OMADACYCLINE",
+      "standard_inchi_key": "JEECQCWWSTZDCK-IQZGDKDPSA-N",
+      "drugcentral_structure_id": "5299",
+      "canonical_smiles": "CN(C)c1cc(CNCC(C)(C)C)c(O)c2c1C[C@H]1C[C@H]3[C@H](N(C)C)C(O)=C(C(N)=O)C(=O)[C@@]3(O)C(O)=C1C2=O",
+      "first_approval": 2018,
+      "atc_classifications": [
+        "J01AA15"
+      ],
+      "selection_sha256": "af4feb903235f4876e81a5af5813b3bb29eb94f672bc92ec7c3dd886ee2f8786",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL4297592",
+      "stratum": "J",
+      "parent_id": "CHEMBL4297592",
+      "preferred_name": "AMENAMEVIR",
+      "standard_inchi_key": "MNHNIVNAFBSLLX-UHFFFAOYSA-N",
+      "drugcentral_structure_id": "5266",
+      "canonical_smiles": "Cc1cccc(C)c1N(CC(=O)Nc1ccc(-c2ncon2)cc1)C(=O)C1CCS(=O)(=O)CC1",
+      "first_approval": 2017,
+      "atc_classifications": [
+        "J05AX26"
+      ],
+      "selection_sha256": "b0499341cf8e0c2f55be19ddea73a4eec6dd90a014cf16cf79690ff583e0403c",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL2364632",
+      "stratum": "J",
+      "parent_id": "CHEMBL2364632",
+      "preferred_name": "SARECYCLINE",
+      "standard_inchi_key": "PQJQFLNBMSCUSH-SBAJWEJLSA-N",
+      "drugcentral_structure_id": "5298",
+      "canonical_smiles": "CON(C)Cc1ccc(O)c2c1C[C@H]1C[C@H]3[C@H](N(C)C)C(O)=C(C(N)=O)C(=O)[C@@]3(O)C(O)=C1C2=O",
+      "first_approval": 2018,
+      "atc_classifications": [
+        "J01AA14"
+      ],
+      "selection_sha256": "b18af65e201048b9249e27eb5e0168a4634e826fe0e914d4250983bc13faf85e",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL2364608",
+      "stratum": "J",
+      "parent_id": "CHEMBL2364608",
+      "preferred_name": "DORAVIRINE",
+      "standard_inchi_key": "ZIAOVIPSKUPPQW-UHFFFAOYSA-N",
+      "drugcentral_structure_id": "5295",
+      "canonical_smiles": "Cn1c(Cn2ccc(C(F)(F)F)c(Oc3cc(Cl)cc(C#N)c3)c2=O)n[nH]c1=O",
+      "first_approval": 2018,
+      "atc_classifications": [
+        "J05AG06"
+      ],
+      "selection_sha256": "b8f265bf5af9384451c0c9c482ac0704bfe848477826c082c2d6f0d3eec728e7",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL501122",
+      "stratum": "J",
+      "parent_id": "CHEMBL501122",
+      "preferred_name": "CEFTAROLINE FOSAMIL",
+      "standard_inchi_key": "ZCCUWMICIWSJIX-NQJJCJBVSA-N",
+      "drugcentral_structure_id": "4169",
+      "canonical_smiles": "CCO/N=C(\\C(=O)N[C@@H]1C(=O)N2C(C(=O)[O-])=C(Sc3nc(-c4cc[n+](C)cc4)cs3)CS[C@H]12)c1nsc(NP(=O)(O)O)n1",
+      "first_approval": 2010,
+      "atc_classifications": [
+        "J01DI02"
+      ],
+      "selection_sha256": "bfd787e797ea7cdcae09ab26f4321bf430178fc79ba0ba36ca96c6d5a330651f",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL231813",
+      "stratum": "J",
+      "parent_id": "CHEMBL231813",
+      "preferred_name": "TELAPREVIR",
+      "standard_inchi_key": "BBAWEDCPNXPBQM-GDEBMMAJSA-N",
+      "drugcentral_structure_id": "4173",
+      "canonical_smiles": "CCC[C@H](NC(=O)[C@@H]1[C@H]2CCC[C@H]2CN1C(=O)[C@@H](NC(=O)[C@@H](NC(=O)c1cnccn1)C1CCCCC1)C(C)(C)C)C(=O)C(=O)NC1CC1",
+      "first_approval": 2011,
+      "atc_classifications": [
+        "J05AP02"
+      ],
+      "selection_sha256": "cbe13fb544343778c1581af540290ba4952d30a8f2c9e381f1646a73472d48be",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL4065616",
+      "stratum": "J",
+      "parent_id": "CHEMBL4065616",
+      "preferred_name": "REMDESIVIR",
+      "standard_inchi_key": "RWWYLEGWBNMMLJ-YSOARWBDSA-N",
+      "drugcentral_structure_id": "5376",
+      "canonical_smiles": "CCC(CC)COC(=O)[C@H](C)N[P@](=O)(OC[C@H]1O[C@@](C#N)(c2ccc3c(N)ncnn23)[C@H](O)[C@@H]1O)Oc1ccccc1",
+      "first_approval": 2020,
+      "atc_classifications": [
+        "J05AB16"
+      ],
+      "selection_sha256": "cda25be11e2d827475dcd6f58a8ce72645d812a44730ea912a8ade3d3eae48d9",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL3291398",
+      "stratum": "J",
+      "parent_id": "CHEMBL3291398",
+      "preferred_name": "LEFAMULIN",
+      "standard_inchi_key": "KPVIXBKIJXZQJX-FCEONZPQSA-N",
+      "drugcentral_structure_id": "5348",
+      "canonical_smiles": "C=C[C@]1(C)C[C@@H](OC(=O)CS[C@@H]2CC[C@@H](N)C[C@H]2O)[C@]2(C)[C@H](C)CC[C@]3(CCC(=O)[C@H]32)[C@@H](C)[C@@H]1O",
+      "first_approval": 2019,
+      "atc_classifications": [
+        "J01XX12"
+      ],
+      "selection_sha256": "e89bafa88706a674e51e43a5fd5527042a5ca30bfb7c23ba7641ac7246ed83a0",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL227875",
+      "stratum": "J",
+      "parent_id": "CHEMBL227875",
+      "preferred_name": "PRETOMANID",
+      "standard_inchi_key": "ZLHZLMOSPGACSZ-NSHDSACASA-N",
+      "drugcentral_structure_id": "5344",
+      "canonical_smiles": "O=[N+]([O-])c1cn2c(n1)OC[C@@H](OCc1ccc(OC(F)(F)F)cc1)C2",
+      "first_approval": 2019,
+      "atc_classifications": [
+        "J04AK08"
+      ],
+      "selection_sha256": "ed6ea3177fb4657d79db7c854061c4f3c97df71a89c76c409256972ef47a7cb0",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL204656",
+      "stratum": "J",
+      "parent_id": "CHEMBL204656",
+      "preferred_name": "ELVITEGRAVIR",
+      "standard_inchi_key": "JUZYLCPPVHEVSV-LJQANCHMSA-N",
+      "drugcentral_structure_id": "4300",
+      "canonical_smiles": "COc1cc2c(cc1Cc1cccc(Cl)c1F)c(=O)c(C(=O)O)cn2[C@H](CO)C(C)C",
+      "first_approval": 2012,
+      "atc_classifications": [
+        "J05AJ02"
+      ],
+      "selection_sha256": "eef7938e444c5c3cf47f9d55beddd9d447051fe61e51cf12c6db0b5f2835d961",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL395091",
+      "stratum": "N",
+      "parent_id": "CHEMBL395091",
+      "preferred_name": "ESKETAMINE",
+      "standard_inchi_key": "YQEZLKZALYSWHR-ZDUSSCGKSA-N",
+      "drugcentral_structure_id": "4468",
+      "canonical_smiles": "CN[C@]1(c2ccccc2Cl)CCCCC1=O",
+      "first_approval": 2019,
+      "atc_classifications": [
+        "N01AX14",
+        "N06AX27"
+      ],
+      "selection_sha256": "62e883e7b1fc4dd203884c1bfb078fa3e44ddf722cb469cd024b4d7566acebbb",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL439849",
+      "stratum": "N",
+      "parent_id": "CHEMBL439849",
+      "preferred_name": "VILAZODONE",
+      "standard_inchi_key": "SGEGOXDYSFKCPT-UHFFFAOYSA-N",
+      "drugcentral_structure_id": "4223",
+      "canonical_smiles": "N#Cc1ccc2[nH]cc(CCCCN3CCN(c4ccc5oc(C(N)=O)cc5c4)CC3)c2c1",
+      "first_approval": 2011,
+      "atc_classifications": [
+        "N06AX24"
+      ],
+      "selection_sha256": "632fa313d24625e2343e7fc83890e32ef032448e1569dc6f726d55c47a697345",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL3545367",
+      "stratum": "N",
+      "parent_id": "CHEMBL3545367",
+      "preferred_name": "LEMBOREXANT",
+      "standard_inchi_key": "MUGXRYIUWFITCP-PGRDOPGGSA-N",
+      "drugcentral_structure_id": "5360",
+      "canonical_smiles": "Cc1ncc(OC[C@@]2(c3cccc(F)c3)C[C@H]2C(=O)Nc2ccc(F)cn2)c(C)n1",
+      "first_approval": 2020,
+      "atc_classifications": [
+        "N05CJ02"
+      ],
+      "selection_sha256": "72abca1b7a4e765c55922ccb5026ebed72295aecd629d3723c249c0d78007353",
+      "historical_fda_label_targets": [
+        "HCRTR1",
+        "HCRTR2"
+      ]
+    },
+    {
+      "drug_id": "CHEMBL2364638",
+      "stratum": "N",
+      "parent_id": "CHEMBL2364638",
+      "preferred_name": "UBROGEPANT",
+      "standard_inchi_key": "DDOOFTLHJSMHLN-ZQHRPCGSSA-N",
+      "drugcentral_structure_id": "5361",
+      "canonical_smiles": "C[C@@H]1[C@H](c2ccccc2)C[C@H](NC(=O)c2cnc3c(c2)C[C@@]2(C3)C(=O)Nc3ncccc32)C(=O)N1CC(F)(F)F",
+      "first_approval": 2019,
+      "atc_classifications": [
+        "N02CD04"
+      ],
+      "selection_sha256": "767f204b4901a2522631e70d106555fcb09a00d16db55f55bcd1bb29c637b3ec",
+      "historical_fda_label_targets": [
+        "CALCRL"
+      ]
+    },
+    {
+      "drug_id": "CHEMBL99946",
+      "stratum": "N",
+      "parent_id": "CHEMBL99946",
+      "preferred_name": "LEVOMILNACIPRAN",
+      "standard_inchi_key": "GJJFMKBJSRMPLA-DZGCQCFKSA-N",
+      "drugcentral_structure_id": "4864",
+      "canonical_smiles": "CCN(CC)C(=O)[C@@]1(c2ccccc2)C[C@H]1CN",
+      "first_approval": 2013,
+      "atc_classifications": [
+        "N06AX28"
+      ],
+      "selection_sha256": "8300d0fd029d5d5fc3acc5494b561fefa815ef0facbfb5cf4a4284de60cff34a",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL278020",
+      "stratum": "N",
+      "parent_id": "CHEMBL278020",
+      "preferred_name": "NEOSTIGMINE",
+      "standard_inchi_key": "ALWKGYPQUAPLQC-UHFFFAOYSA-N",
+      "drugcentral_structure_id": "1897",
+      "canonical_smiles": "CN(C)C(=O)Oc1cccc([N+](C)(C)C)c1",
+      "first_approval": 2013,
+      "atc_classifications": [
+        "N07AA01",
+        "N07AA51",
+        "S01EB06"
+      ],
+      "selection_sha256": "8ea260fcde4a35cf66215a8ddce78f42036c1255b2461e9c9af83b879dec2ada",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL462605",
+      "stratum": "N",
+      "parent_id": "CHEMBL462605",
+      "preferred_name": "PITOLISANT",
+      "standard_inchi_key": "NNACHAUCXXVJSP-UHFFFAOYSA-N",
+      "drugcentral_structure_id": "5048",
+      "canonical_smiles": "Clc1ccc(CCCOCCCN2CCCCC2)cc1",
+      "first_approval": 2016,
+      "atc_classifications": [
+        "N07XX11"
+      ],
+      "selection_sha256": "91c2ad3d13dcf5154a255bad5f98e5b807d416eda63c249eca598f419b18e2bc",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL2105760",
+      "stratum": "N",
+      "parent_id": "CHEMBL2105760",
+      "preferred_name": "BREXPIPRAZOLE",
+      "standard_inchi_key": "ZKIAIYBUSXZPLP-UHFFFAOYSA-N",
+      "drugcentral_structure_id": "5014",
+      "canonical_smiles": "O=c1ccc2ccc(OCCCCN3CCN(c4cccc5sccc45)CC3)cc2[nH]1",
+      "first_approval": 2015,
+      "atc_classifications": [
+        "N05AX16"
+      ],
+      "selection_sha256": "956f6c583e314dfaad9ec5f680269cc3cdf9c9545b71a88d5ef677fe478a766b",
+      "historical_fda_label_targets": [
+        "DRD2",
+        "HTR1A",
+        "HTR2A"
+      ]
+    },
+    {
+      "drug_id": "CHEMBL2443262",
+      "stratum": "N",
+      "parent_id": "CHEMBL2443262",
+      "preferred_name": "OLICERIDINE",
+      "standard_inchi_key": "DMNOVGJWPASQDL-OAQYLSRUSA-N",
+      "drugcentral_structure_id": "5406",
+      "canonical_smiles": "COc1ccsc1CNCC[C@@]1(c2ccccn2)CCOC2(CCCC2)C1",
+      "first_approval": 2020,
+      "atc_classifications": [
+        "N02AX07"
+      ],
+      "selection_sha256": "98c556d6d05e2bb8db7f63e940b5f5154ac866247e4775cbb0290e6a03e1ce53",
+      "historical_fda_label_targets": [
+        "OPRM1"
+      ]
+    },
+    {
+      "drug_id": "CHEMBL17860",
+      "stratum": "N",
+      "parent_id": "CHEMBL17860",
+      "preferred_name": "LOFEXIDINE",
+      "standard_inchi_key": "KSMAGQUYOIHWFS-UHFFFAOYSA-N",
+      "drugcentral_structure_id": "1593",
+      "canonical_smiles": "CC(Oc1c(Cl)cccc1Cl)C1=NCCN1",
+      "first_approval": 2018,
+      "atc_classifications": [
+        "N07BC04"
+      ],
+      "selection_sha256": "abbd824e9b1b21561586d32452b05a0da8afe68af1ebe816052afb5389d4be32",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL4297526",
+      "stratum": "N",
+      "parent_id": "CHEMBL4297526",
+      "preferred_name": "REMIMAZOLAM",
+      "standard_inchi_key": "CYHWMBVXXDIZNZ-KRWDZBQOSA-N",
+      "drugcentral_structure_id": "5400",
+      "canonical_smiles": "COC(=O)CC[C@@H]1N=C(c2ccccn2)c2cc(Br)ccc2-n2c(C)cnc21",
+      "first_approval": 2020,
+      "atc_classifications": [
+        "N05CD14"
+      ],
+      "selection_sha256": "b7ee9fd51b7e0cd30fc96ae4c1126a3bb775acc21967ee6a6bc87897c2e2a6a2",
+      "historical_fda_label_targets": [
+        "GABRA1",
+        "GABRA2",
+        "GABRA3",
+        "GABRA5",
+        "GABRG1",
+        "GABRG2",
+        "GABRG3"
+      ]
+    },
+    {
+      "drug_id": "CHEMBL1089318",
+      "stratum": "N",
+      "parent_id": "CHEMBL1089318",
+      "preferred_name": "OPICAPONE",
+      "standard_inchi_key": "ASOADIZOVZTJSR-UHFFFAOYSA-N",
+      "drugcentral_structure_id": "5143",
+      "canonical_smiles": "Cc1c(Cl)c(C)[n+]([O-])c(Cl)c1-c1noc(-c2cc(O)c(O)c([N+](=O)[O-])c2)n1",
+      "first_approval": 2016,
+      "atc_classifications": [
+        "N04BX04"
+      ],
+      "selection_sha256": "c0250560dca001f52d923a9d7ce4ca719e10a91ec2d1f63882b96808f7cffc04",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL290916",
+      "stratum": "N",
+      "parent_id": "CHEMBL290916",
+      "preferred_name": "EDARAVONE",
+      "standard_inchi_key": "QELUYTUMUWHWMC-UHFFFAOYSA-N",
+      "drugcentral_structure_id": "4156",
+      "canonical_smiles": "CC1=NN(c2ccccc2)C(=O)C1",
+      "first_approval": 2017,
+      "atc_classifications": [
+        "N07XX14"
+      ],
+      "selection_sha256": "c5a548161a72b0d45fad76264931b24ab77c7bde6dd73f606809ac247d5869d1",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL396778",
+      "stratum": "N",
+      "parent_id": "CHEMBL396778",
+      "preferred_name": "SAFINAMIDE",
+      "standard_inchi_key": "NEMGRZFTLSKBAP-LBPRGKRZSA-N",
+      "drugcentral_structure_id": "4921",
+      "canonical_smiles": "C[C@H](NCc1ccc(OCc2cccc(F)c2)cc1)C(N)=O",
+      "first_approval": 2015,
+      "atc_classifications": [
+        "N04BD03"
+      ],
+      "selection_sha256": "c5b9e644ca3e5921f51555a8d737f167791a1fd3539401ee7347f592b4ccfb06",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL40",
+      "stratum": "N",
+      "parent_id": "CHEMBL40",
+      "preferred_name": "PHENOBARBITAL",
+      "standard_inchi_key": "DDBREPKUVSBGFI-UHFFFAOYSA-N",
+      "drugcentral_structure_id": "2134",
+      "canonical_smiles": "CCC1(c2ccccc2)C(=O)NC(=O)NC1=O",
+      "first_approval": 2022,
+      "atc_classifications": [
+        "N03AA02"
+      ],
+      "selection_sha256": "e62f0e41b0caa5cad451f1f070dc45aa32fd06a76d842725d64b532c20577675",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL607400",
+      "stratum": "N",
+      "parent_id": "CHEMBL607400",
+      "preferred_name": "BRIVARACETAM",
+      "standard_inchi_key": "MSYKRHVOOPPJKU-BDAKNGLRSA-N",
+      "drugcentral_structure_id": "5068",
+      "canonical_smiles": "CCC[C@@H]1CC(=O)N([C@@H](CC)C(N)=O)C1",
+      "first_approval": 2016,
+      "atc_classifications": [
+        "N03AX23"
+      ],
+      "selection_sha256": "e940d5ae5a4b0c9bdb25e51edc54b48b8f497a0ada951019789bedeae66da270",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL2111101",
+      "stratum": "N",
+      "parent_id": "CHEMBL2111101",
+      "preferred_name": "PIMAVANSERIN",
+      "standard_inchi_key": "RKEWSXXUOLRFBX-UHFFFAOYSA-N",
+      "drugcentral_structure_id": "5142",
+      "canonical_smiles": "CC(C)COc1ccc(CNC(=O)N(Cc2ccc(F)cc2)C2CCN(C)CC2)cc1",
+      "first_approval": 2016,
+      "atc_classifications": [
+        "N05AX17"
+      ],
+      "selection_sha256": "ef0c66f4469ff434a566044bc92c2dc61b08ecb1244b6fd74129f8936d9be0bf",
+      "historical_fda_label_targets": [
+        "HTR2A"
+      ]
+    },
+    {
+      "drug_id": "CHEMBL306700",
+      "stratum": "N",
+      "parent_id": "CHEMBL306700",
+      "preferred_name": "VILOXAZINE",
+      "standard_inchi_key": "YWPHCCPCQOJSGZ-UHFFFAOYSA-N",
+      "drugcentral_structure_id": "2820",
+      "canonical_smiles": "CCOc1ccccc1OCC1CNCCO1",
+      "first_approval": 2021,
+      "atc_classifications": [
+        "N06AX09"
+      ],
+      "selection_sha256": "ef608459701bbd994fc5455b57b31ca237b9253f578c4f742ca396be192dfbed",
+      "historical_fda_label_targets": [
+        "SLC6A2"
+      ]
+    },
+    {
+      "drug_id": "CHEMBL2028019",
+      "stratum": "N",
+      "parent_id": "CHEMBL2028019",
+      "preferred_name": "CARIPRAZINE",
+      "standard_inchi_key": "KPWSJANDNDDRMB-QAQDUYKDSA-N",
+      "drugcentral_structure_id": "5037",
+      "canonical_smiles": "CN(C)C(=O)N[C@H]1CC[C@H](CCN2CCN(c3cccc(Cl)c3Cl)CC2)CC1",
+      "first_approval": 2015,
+      "atc_classifications": [
+        "N05AX15"
+      ],
+      "selection_sha256": "f24ce939e5718676982fb6e91e8c7aa6ccee04ec9bbab98aadec295b6e41ef76",
+      "historical_fda_label_targets": [
+        "DRD2",
+        "HTR1A",
+        "HTR2A"
+      ]
+    },
+    {
+      "drug_id": "CHEMBL190461",
+      "stratum": "N",
+      "parent_id": "CHEMBL190461",
+      "preferred_name": "CANNABIDIOL",
+      "standard_inchi_key": "QHMBSVQNZZTUGM-ZWKOTPCHSA-N",
+      "drugcentral_structure_id": "5288",
+      "canonical_smiles": "C=C(C)[C@@H]1CCC(C)=C[C@H]1c1c(O)cc(CCCCC)cc1O",
+      "first_approval": 2018,
+      "atc_classifications": [
+        "N03AX24"
+      ],
+      "selection_sha256": "f653ad7505d8685e6e6283d1025ef34c92466aea8b27e6031a2742517e9ea75d",
+      "historical_fda_label_targets": []
+    },
+    {
+      "drug_id": "CHEMBL1237021",
+      "stratum": "N",
+      "parent_id": "CHEMBL1237021",
+      "preferred_name": "LURASIDONE",
+      "standard_inchi_key": "PQXKDMSYBGKCJA-CVTJIBDQSA-N",
+      "drugcentral_structure_id": "4168",
+      "canonical_smiles": "O=C1[C@@H]2[C@H]3CC[C@H](C3)[C@@H]2C(=O)N1C[C@@H]1CCCC[C@H]1CN1CCN(c2nsc3ccccc23)CC1",
+      "first_approval": 2010,
+      "atc_classifications": [
+        "N05AE05"
+      ],
+      "selection_sha256": "fab6ffddbcefe4d5b28414c6f8a2389b263b489aedcbb81d1181b0228342a849",
+      "historical_fda_label_targets": [
+        "DRD2",
+        "HTR2A"
+      ]
+    },
+    {
+      "drug_id": "CHEMBL1214124",
+      "stratum": "N",
+      "parent_id": "CHEMBL1214124",
+      "preferred_name": "PERAMPANEL",
+      "standard_inchi_key": "PRMWGUBFXWROHD-UHFFFAOYSA-N",
+      "drugcentral_structure_id": "4684",
+      "canonical_smiles": "N#Cc1ccccc1-c1cc(-c2ccccn2)cn(-c2ccccc2)c1=O",
+      "first_approval": 2012,
+      "atc_classifications": [
+        "N03AX22"
+      ],
+      "selection_sha256": "fd46634a9e14ea3b0a409f35f9ca6bc41c2d83435c681d28f477a50b32049bbe",
+      "historical_fda_label_targets": []
+    }
+  ],
+  "label_source_urls_by_task_gene": {
+    "CHEMBL1237021|DRD2": [
+      "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/200603s015lbl.pdf"
+    ],
+    "CHEMBL1237021|HTR2A": [
+      "http://www.accessdata.fda.gov/drugsatfda_docs/label/2013/200603s015lbl.pdf"
+    ],
+    "CHEMBL2028019|DRD2": [
+      "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/204370lbl.pdf"
+    ],
+    "CHEMBL2028019|HTR1A": [
+      "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/204370lbl.pdf"
+    ],
+    "CHEMBL2028019|HTR2A": [
+      "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/204370lbl.pdf"
+    ],
+    "CHEMBL2105760|DRD2": [
+      "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/205422s000lbl.pdf"
+    ],
+    "CHEMBL2105760|HTR1A": [
+      "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/205422s000lbl.pdf"
+    ],
+    "CHEMBL2105760|HTR2A": [
+      "http://www.accessdata.fda.gov/drugsatfda_docs/label/2015/205422s000lbl.pdf"
+    ],
+    "CHEMBL2111101|HTR2A": [
+      "http://www.accessdata.fda.gov/drugsatfda_docs/label/2016/207318lbl.pdf"
+    ],
+    "CHEMBL2364638|CALCRL": [
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/211765s000lbl.pdf"
+    ],
+    "CHEMBL2443262|OPRM1": [
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/210730s000lbl.pdf"
+    ],
+    "CHEMBL306700|SLC6A2": [
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2021/211964s000lbl.pdf"
+    ],
+    "CHEMBL3545367|HCRTR1": [
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212028s000lbl.pdf"
+    ],
+    "CHEMBL3545367|HCRTR2": [
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212028s000lbl.pdf"
+    ],
+    "CHEMBL4297526|GABRA1": [
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/212295s000lbl.pdf"
+    ],
+    "CHEMBL4297526|GABRA2": [
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/212295s000lbl.pdf"
+    ],
+    "CHEMBL4297526|GABRA3": [
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/212295s000lbl.pdf"
+    ],
+    "CHEMBL4297526|GABRA5": [
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/212295s000lbl.pdf"
+    ],
+    "CHEMBL4297526|GABRG1": [
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/212295s000lbl.pdf"
+    ],
+    "CHEMBL4297526|GABRG2": [
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/212295s000lbl.pdf"
+    ],
+    "CHEMBL4297526|GABRG3": [
+      "https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/212295s000lbl.pdf"
+    ]
+  }
+}
