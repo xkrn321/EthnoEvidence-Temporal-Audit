@@ -95,7 +95,7 @@ def figure1_framework():
 
     box(0.03, 0.58, 0.18, 0.27, "Study input",
         ["Multicomponent formula", "Marker compounds", "Source provenance"], ORANGE)
-    box(0.27, 0.58, 0.20, 0.27, "Calibration\nevidence",
+    box(0.27, 0.58, 0.20, 0.27, "Pre-cutoff\nevidence",
         ["14-formula cohort", "PubMed / ChEMBL <= 2022", "STP comparator"], BLUE)
     box(0.53, 0.58, 0.18, 0.27, "Candidate\nrecord",
         ["Provenance", "Assay / potency", "Missing-data flags"], TEAL)
@@ -116,13 +116,14 @@ def figure1_framework():
                             ha="center", va="center", color=RED,
                             fontsize=7.4, fontweight="bold", clip_on=True)
     boundary_text.set_clip_path(boundary_patch)
-    box(0.03, 0.22, 0.40, 0.22, "Development / calibration",
+    box(0.03, 0.22, 0.40, 0.22, "Development corpus",
         ["No post-cutoff labels used", "Locked cohort + baselines",
          "n = 593 formula-article records"],
         BLUE)
     box(0.57, 0.22, 0.40, 0.22, "Held-out literature audit",
-        ["PubMed 2023-2025", "Blinded review + adjudication",
-         "n = 339; future evidence"], TEAL, dashed=True)
+        ["PubMed 2023-2025", "Automated proxy triage",
+         "No human-adjudicated labels", "n = 339; future evidence"],
+        TEAL, dashed=True)
     arrow((0.43, 0.33), (0.57, 0.33), color=RED, dashed=True)
     arrow((0.87, 0.58), (0.80, 0.45), color=GREY)
     # Keep the interpretation rule inside a dedicated footer container rather
