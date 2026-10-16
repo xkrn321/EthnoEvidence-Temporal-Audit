@@ -4,21 +4,25 @@ Protocol: `structure_matched_transfer_exploratory_2026_10_05`
 Source: `task_level_audit.tsv` and `runtime/rankings.json`  
 Status: post hoc exploratory description; not an accuracy evaluation.
 
-## Top-10 changes under unchanged ranking rules
+## Top-k changes under unchanged ranking rules
 
-| Contrast | Rankable tasks with ≥1 replacement | Replacement range among changed tasks | Most changed task |
-|---|---:|---:|---|
-| Evidence-gated vs ungated union | 6/36 (16.7%) | 1–4 | CHEMBL231813: 4/10 replaced; Jaccard 0.429 |
-| Evidence-gated vs measured-only | 9/36 (25.0%) | 1–9 | CHEMBL40: 9/10 replaced; Jaccard 0.053 |
+For each task, the compared list is the first min(10, N) candidates, where N is that task's candidate-universe size. Pooled proportions below are therefore top-k changes, not full Top-10 turnover rates.
 
-The median replacement count across all 36 tasks was zero for both contrasts. This is a heterogeneous response: generally stable Top-10 membership, with larger changes in a small number of tasks. Do not describe it as a general or frequent ranking improvement.
+| Contrast | Rankable tasks with ≥1 top-k replacement | Replacement range among changed tasks | Full Top-10 changes among tasks with N ≥ 10 | Most changed task |
+|---|---:|---:|---:|---|
+| Evidence-gated vs ungated union | 6/36 (16.7%) | 1–4 | 6/14 (42.9%) | CHEMBL231813: 4/10 replaced; Jaccard 0.429 |
+| Evidence-gated vs measured-priority | 9/36 (25.0%) | 1–9 | 9/14 (64.3%) | CHEMBL40: 9/10 replaced; Jaccard 0.053 |
+
+Twenty-two of the 36 rankable tasks had fewer than 10 candidates; all observed changes occurred among the 14 full-size candidate sets. Of the nine full-Top-10 changes versus measured-priority, seven occurred in the 10 full-size tasks with measured support. The other two occurred among the four full-size tasks without measured support, where the comparator reduces to alphabetical tie-breaking and is not informative.
+
+The median replacement count across all 36 tasks was zero for both contrasts. This is a heterogeneous response: mostly unchanged top-k membership, with larger changes in a small number of full-size task lists. Do not describe it as a general or frequent ranking improvement.
 
 ## Stratification by measured-data availability
 
-| Rankable task stratum | n | Gated vs ungated: tasks changed | Gated vs measured-only: tasks changed | Interpretation |
+| Rankable task stratum | n | Gated vs ungated: tasks changed | Gated vs measured-priority: tasks changed | Interpretation |
 |---|---:|---:|---:|---|
-| At least one eligible measured-supported target | 24 | 6/24 (25.0%) | 7/24 (29.2%) | Both fixed-universe contrasts are calculable; median replacements remain zero. |
-| No eligible measured-supported target | 12 | 0/12 | 2/12 (16.7%) | Measured-only contains no measured scores and falls back to alphabetical ordering; treat its changes as a tie-break artifact, not an informative comparator result. |
+| At least one eligible measured-supported target | 24 | 6/24 (25.0%) top-k; 6/10 full Top-10 | 7/24 (29.2%) top-k; 7/10 full Top-10 | Fourteen sets had <10 candidates; all observed changes were among the 10 full-size sets. |
+| No eligible measured-supported target | 12 | 0/12 top-k | 2/12 (16.7%) top-k; 2/4 full Top-10 | Eight sets had <10 candidates. Measured-priority contains no measured scores and falls back to alphabetical ordering; treat its changes as a tie-break artifact, not an informative comparator result. |
 
 These are descriptive post hoc strata, not confirmatory subgroups. The more interpretable decision-impact result is the gated-versus-ungated change among tasks that do have measured support; it still says only that the rule changes a minority of lists, not that it improves correctness.
 
