@@ -1,8 +1,8 @@
 # EthnoEvidence Temporal Audit v2.0.2
 
 This is the frozen, publication-focused release accompanying the methodology
-manuscript *Evidence-Gated Target Prioritization for Multicomponent
-Pharmacology: A Temporally Audited Cheminformatics Workflow*.
+manuscript *EthnoEvidence: an auditable evidence-gating workflow for target
+prioritization in multicomponent pharmacology*.
 
 It makes one bounded claim: evidence provenance, time eligibility, explicit
 missingness, and declared claim ceilings can be represented as auditable inputs
