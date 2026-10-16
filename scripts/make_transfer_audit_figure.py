@@ -70,7 +70,7 @@ def build_figure(data: dict):
               transform=ax_b.transAxes, ha="center", fontsize=6.4, color="#52606d",
               wrap=True)
 
-    ax_c.text(0.0, 1.03, "C  Evidence-object counts", transform=ax_c.transAxes,
+    ax_c.text(0.0, 1.03, "C  Source records and literature triage objects", transform=ax_c.transAxes,
               fontsize=8.5, fontweight="bold", color="#243447")
     measured = data["evidence_object_counts_by_layer_and_status"]
     layers = [
@@ -97,8 +97,8 @@ def build_figure(data: dict):
     for spine in ax_c.spines.values():
         spine.set_visible(False)
     ax_c.text(0.0, -0.17,
-              "Counts are nested evidence objects; PubMed records can recur across tasks and are not independent.",
-              transform=ax_c.transAxes, ha="left", fontsize=6.4, color="#52606d")
+              "56,698 task–article records yielded 60,790 triage objects, including screening, manual-review and excluded records; one record can map to multiple target-linked objects. PMIDs may recur across tasks.",
+              transform=ax_c.transAxes, ha="left", fontsize=6.4, color="#52606d", wrap=True)
 
     fig.suptitle("Exploratory structure-matched transfer audit", fontsize=10,
                  fontweight="bold", color="#243447", y=0.995)

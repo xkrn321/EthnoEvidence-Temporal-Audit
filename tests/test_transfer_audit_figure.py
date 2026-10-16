@@ -29,3 +29,19 @@ def test_transfer_figure_labels_rankable_task_topk_and_shared_measured_ordering(
         assert bar_labels == ["6/36 (16.7%)", "9/36 (25.0%)"]
     finally:
         plt.close(fig)
+
+
+def test_transfer_figure_distinguishes_retrieved_records_from_expanded_literature_objects():
+    summary = json.loads(MODULE.SUMMARY.read_text(encoding="utf-8"))
+    fig = MODULE.build_figure(summary)
+    try:
+        panel_c = fig.axes[2]
+        visible_text = [text.get_text() for text in panel_c.texts]
+
+        assert "C  Source records and literature triage objects" in visible_text
+        assert any("56,698 task–article records" in item for item in visible_text)
+        assert any("60,790 triage objects" in item for item in visible_text)
+        assert any("manual-review and excluded records" in item for item in visible_text)
+        assert any("multiple target-linked objects" in item for item in visible_text)
+    finally:
+        plt.close(fig)
