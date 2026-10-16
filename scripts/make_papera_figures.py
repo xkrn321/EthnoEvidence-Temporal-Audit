@@ -244,7 +244,7 @@ def figure_s1_screening_ledger():
     for s in ("top", "right", "left"):
         ax.spines[s].set_visible(False)
     fig.text(0.01, 0.01,
-             "Eligibility is a screening rule, not a reference standard; all final inclusion requires blinded full-text review.",
+             "Eligibility is a screening rule, not a reference standard; human full-text adjudication was not performed.",
              fontsize=6.8, color=RED, fontweight="bold")
     fig.tight_layout(rect=(0, 0.06, 1, 1))
     _save(fig, "FigureS1_screening_ledger")
