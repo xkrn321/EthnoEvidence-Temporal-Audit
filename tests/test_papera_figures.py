@@ -61,6 +61,29 @@ def test_figure_generator_labels_no_human_adjudication_as_completed():
     assert "human full-text adjudication was not performed" in source
 
 
+def test_post_cutoff_screening_is_not_called_held_out_in_figure_labels(
+    tmp_path, monkeypatch
+):
+    source = SCRIPT.read_text(encoding="utf-8")
+    assert "Post-cutoff screening audit" in source
+    assert "Held-out literature audit" not in source
+    assert "Held-out screening ledger" not in source
+
+    monkeypatch.setattr(FIGURES, "OUT", tmp_path)
+    FIGURES.figure1_framework()
+    FIGURES.figure2_coverage()
+    FIGURES.figure_s1_screening_ledger()
+
+    for filename in (
+        "Figure1_framework_and_temporal_design.svg",
+        "Figure2_corpus_and_measured_coverage.svg",
+        "FigureS1_screening_ledger.svg",
+    ):
+        svg = (tmp_path / filename).read_text(encoding="utf-8")
+        assert "Post-cutoff" in svg
+        assert "Held-out" not in svg
+
+
 def test_generated_svg_has_no_trailing_whitespace():
     FIGURES.figure3_counterfactual_audit()
 

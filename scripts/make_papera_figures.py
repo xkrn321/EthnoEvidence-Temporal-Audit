@@ -126,7 +126,7 @@ def figure1_framework():
         ["No post-cutoff labels used", "Locked cohort + baselines",
          "n = 593 formula-article records"],
         BLUE)
-    box(0.57, 0.22, 0.40, 0.22, "Held-out literature audit",
+    box(0.57, 0.22, 0.40, 0.22, "Post-cutoff screening audit",
         ["PubMed 2023-2025", "Automated proxy triage",
          "No human-adjudicated labels", "n = 339; future evidence"],
         TEAL, dashed=True)
@@ -168,7 +168,7 @@ def figure2_coverage():
     test_o = np.array(test)[order]
     ax1.barh(y, train_o, color=BLUE, label="Pre-cutoff (<=2022)")
     ax1.barh(y, test_o, left=train_o, color=ORANGE,
-             label="Held-out screening ledger (2023-2025)")
+             label="Post-cutoff screening audit (2023-2025)")
     ax1.set_yticks(y, names)
     ax1.set_xlabel("Retrieved PubMed articles, n")
     ax1.set_title("A  Temporal corpus (n = 932 records)", pad=8)
@@ -239,7 +239,7 @@ def figure_s1_screening_ledger():
         left += series
     ax.set_yticks(y, np.array(labels)[order])
     ax.set_xlabel("Machine-retrieved 2023-2025 records, n")
-    ax.set_title("Held-out screening ledger (n = 339)", pad=8)
+    ax.set_title("Post-cutoff screening audit (n = 339)", pad=8)
     ax.legend(frameon=False, fontsize=7, ncol=2, loc="lower right")
     ax.grid(axis="x", color=LIGHT, linewidth=0.7)
     ax.set_axisbelow(True)
