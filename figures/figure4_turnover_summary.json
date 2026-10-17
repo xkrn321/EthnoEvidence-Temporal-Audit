@@ -1,0 +1,10 @@
+{
+  "evidence_gated_vs_ungated_union": {
+    "n": 14,
+    "median_replacements": 1.0
+  },
+  "evidence_gated_vs_cutoff_chembl_measured_only": {
+    "n": 13,
+    "median_replacements": 4.0
+  }
+}

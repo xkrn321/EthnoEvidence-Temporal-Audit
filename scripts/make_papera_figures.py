@@ -48,7 +48,13 @@ plt.rcParams.update({
 
 def _save(fig, stem: str):
     fig.savefig(OUT / f"{stem}.pdf", bbox_inches="tight")
-    fig.savefig(OUT / f"{stem}.svg", bbox_inches="tight")
+    svg_path = OUT / f"{stem}.svg"
+    fig.savefig(svg_path, bbox_inches="tight")
+    svg_text = svg_path.read_text(encoding="utf-8")
+    svg_path.write_text(
+        "\n".join(line.rstrip() for line in svg_text.splitlines()) + "\n",
+        encoding="utf-8",
+    )
     fig.savefig(OUT / f"{stem}.png", dpi=600, bbox_inches="tight")
     plt.close(fig)
 
@@ -294,8 +300,8 @@ def figure3_counterfactual_audit():
                 "label": corpus["formulas"][formula]["aliases"][0],
                 "baseline": label,
                 "top_k": k10,
-                "top10_jaccard": (len(gated10 & base10) / len(gated10 | base10)
-                                   if gated10 | base10 else 1.0),
+        "available_k_jaccard": (len(gated10 & base10) / len(gated10 | base10)
+                                         if gated10 | base10 else 1.0),
                 "top20_candidate_loss": len(base20 - gated20),
                 "top20_common": len(common),
                 "mean_abs_rank_displacement": (sum(displacement) / len(displacement)
@@ -307,13 +313,13 @@ def figure3_counterfactual_audit():
 
     def summarize(label):
         values = [r for r in rows if r["baseline"] == label]
-        j = [r["top10_jaccard"] for r in values]
+        j = [r["available_k_jaccard"] for r in values]
         loss = [r["top20_candidate_loss"] for r in values]
         disp = [r["mean_abs_rank_displacement"] for r in values]
         return {
-            "median_top10_jaccard": float(np.median(j)),
-            "mean_top10_jaccard": float(np.mean(j)),
-            "minimum_top10_jaccard": float(np.min(j)),
+            "median_jaccard_at_available_k": float(np.median(j)),
+            "mean_jaccard_at_available_k": float(np.mean(j)),
+            "minimum_jaccard_at_available_k": float(np.min(j)),
             "mean_top20_candidate_loss": float(np.mean(loss)),
             "median_top20_candidate_loss": float(np.median(loss)),
             "mean_abs_rank_displacement": float(np.mean(disp)),
@@ -326,25 +332,37 @@ def figure3_counterfactual_audit():
         "composition_counts": {k: dict(v) for k, v in composition.items()},
     }
 
+    turnover_rows = available_k_turnover_rows(rankings["formulas"], protocol["formulas"])
+    turnover_fields = [
+        "formula", "comparison", "available_k", "intersection_at_k",
+        "replacements_at_k", "jaccard_at_k", "gated_only_at_k", "baseline_only_at_k",
+    ]
+    with (AUDITS / "top10_turnover.tsv").open("w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(
+            f, fieldnames=turnover_fields, delimiter="\t", lineterminator="\n"
+        )
+        writer.writeheader()
+        writer.writerows(turnover_rows)
+
     # Panel A: paired overlap across the 14 formulas.
     u_rows = [r for r in rows if r["baseline"] == "ungated_union"]
     m_rows = [r for r in rows if r["baseline"] == "measured_only"]
-    order = np.argsort([r["top10_jaccard"] for r in u_rows])
+    order = np.argsort([r["available_k_jaccard"] for r in u_rows])
     names = [u_rows[i]["label"] for i in order]
     y = np.arange(len(names))
     fig, (ax1, ax2, ax3) = plt.subplots(
         1, 3, figsize=(7.1, 4.35),
         gridspec_kw={"width_ratios": [1.35, 1.0, 1.15]},
     )
-    u_j = np.array([u_rows[i]["top10_jaccard"] for i in order])
+    u_j = np.array([u_rows[i]["available_k_jaccard"] for i in order])
     m_by_formula = {r["formula"]: r for r in m_rows}
-    m_j = np.array([m_by_formula[u_rows[i]["formula"]]["top10_jaccard"] for i in order])
+    m_j = np.array([m_by_formula[u_rows[i]["formula"]]["available_k_jaccard"] for i in order])
     ax1.plot(u_j, y, "o", color=BLUE, markersize=4, label="Ungated union")
     ax1.plot(m_j, y, "D", color=ORANGE, markersize=3.5, label="Measured-only")
     ax1.set_yticks(y, names)
     ax1.tick_params(axis="y", labelsize=5.9)
     ax1.set_xlim(0, 1.05)
-    ax1.set_xlabel("Top-10 Jaccard with gated rank")
+    ax1.set_xlabel("Jaccard overlap at available k (≤10)")
     ax1.set_title("A  Ranking overlap", pad=8)
     ax1.grid(axis="x", color=LIGHT, linewidth=0.7)
     ax1.set_axisbelow(True)
@@ -355,13 +373,13 @@ def figure3_counterfactual_audit():
 
     categories = ["measured-only", "mixed", "literature-only"]
     colors = [BLUE, TEAL, ORANGE]
-    methods = [("ungated_union", "Ungated union"), ("evidence_gated", "Evidence-gated")]
+    methods = [("ungated_union", "Ungated"), ("evidence_gated", "Gated")]
     left = np.zeros(2)
     for category, color in zip(categories, colors):
         vals = np.array([composition[m].get(category, 0) for m, _ in methods])
         ax2.barh(np.arange(2), vals, left=left, color=color, label=category)
         for i, (start, value) in enumerate(zip(left, vals)):
-            if value >= 12:
+            if value >= 40:
                 ax2.text(start + value / 2, i, f"{int(value)}", ha="center",
                          va="center", fontsize=6.3, color="white", fontweight="bold")
         left += vals
@@ -417,7 +435,7 @@ def figure3_counterfactual_audit():
             "ungated_union": "existing weighted union rank without the lexical evidence-tier gate",
             "evidence_gated": "existing deterministic rank with the evidence-tier gate",
             "measured_only": "pre-cutoff ChEMBL measured-only rank; no literature or STP tie-break",
-            "top10_jaccard": "set intersection divided by set union for the available top-10 lists",
+            "available_k_jaccard": "set intersection divided by set union for k=min(10, N_gated, N_baseline); shorter comparisons are explicitly identified by top_k",
             "top20_candidate_loss": "baseline top-20 targets absent from evidence-gated top-20",
             "composition": "presence/absence of measured, STP, and pre-cutoff literature fields",
         },
@@ -442,13 +460,21 @@ def figure4_sensitivity():
         with (AUDITS / name).open(encoding="utf-8") as f:
             return list(csv.DictReader(f, delimiter="\t"))
     threshold = read_tsv("threshold_sensitivity.tsv")
-    turnover = read_tsv("top10_turnover.tsv")
     ablation = read_tsv("source_ablation.tsv")
     levels = sorted({float(r["pchembl_threshold"]) for r in threshold})
     med_j = [float(np.median([float(r["top10_jaccard_vs_primary"]) for r in threshold if float(r["pchembl_threshold"]) == x])) for x in levels]
-    methods = ["evidence_gated_vs_ungated_union", "evidence_gated_vs_cutoff_chembl_measured_only"]
-    labels = ["Ungated union", "Measured-only"]
-    med_repl = [float(np.median([int(r["top10_replacements"]) for r in turnover if r["comparison"] == x])) for x in methods]
+    ranking_data = json.loads(
+        (BENCH / "locked_rankings_and_proxy_audit.json").read_text(encoding="utf-8")
+    )
+    turnover_summary = top10_replacement_summary(
+        ranking_data["formulas"], list(ranking_data["formulas"])
+    )
+    methods = [
+        "evidence_gated_vs_ungated_union",
+        "evidence_gated_vs_cutoff_chembl_measured_only",
+    ]
+    labels = ["Ungated union\n(n=14)", "Measured-only\n(n=13)"]
+    med_repl = [turnover_summary[method]["median_replacements"] for method in methods]
     ab_names = ["primary", "without_literature", "without_measured", "without_measured_and_literature", "literature_only", "measured_only"]
     ab_labels = ["Primary", "− literature", "− measured", "− both", "Literature only", "Measured only"]
     ab_j = [float(np.median([float(r["top10_jaccard_vs_primary"]) for r in ablation if r["ablation"] == x])) for x in ab_names]
@@ -462,7 +488,7 @@ def figure4_sensitivity():
     for s in ("top", "right"): ax1.spines[s].set_visible(False)
     ax2.bar(np.arange(2), med_repl, color=[TEAL, ORANGE], width=0.55)
     ax2.set_xticks(np.arange(2), labels, rotation=25, ha="right", fontsize=6.2)
-    ax2.set_ylabel("Median Top-10 replacements")
+    ax2.set_ylabel("Median replacements in full Top-10 lists")
     ax2.set_title("B  Decision turnover", pad=8)
     ax2.set_ylim(0, max(med_repl + [1]) + 1); ax2.grid(axis="y", color=LIGHT, linewidth=0.7); ax2.set_axisbelow(True)
     for x, v in enumerate(med_repl): ax2.text(x, v + 0.12, f"{v:.1f}", ha="center", fontsize=7)
@@ -474,9 +500,64 @@ def figure4_sensitivity():
     ax3.set_title("C  Source ablation", pad=8)
     ax3.grid(axis="x", color=LIGHT, linewidth=0.7); ax3.set_axisbelow(True)
     for s in ("top", "right"): ax3.spines[s].set_visible(False)
+    (OUT / "figure4_turnover_summary.json").write_text(
+        json.dumps(turnover_summary, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
     fig.text(0.01, 0.01, "Sensitivity and ablation quantify ranking dependence; they do not estimate predictive performance.", fontsize=6.2, color=GREY)
     fig.tight_layout(rect=(0, 0.07, 1, 1))
     _save(fig, "Figure4_sensitivity_and_source_ablation")
+
+
+def top10_replacement_summary(formula_rankings, formula_names):
+    """Summarize full Top-10 replacement counts, excluding shorter lists."""
+    comparisons = {
+        "evidence_gated_vs_ungated_union": "ungated_union",
+        "evidence_gated_vs_cutoff_chembl_measured_only": "cutoff_chembl_measured_only",
+    }
+    result = {}
+    for comparison, baseline_name in comparisons.items():
+        replacements = []
+        for formula in formula_names:
+            rankings = formula_rankings[formula]["rankings"]
+            gated = rankings["evidence_gated"]
+            baseline = rankings[baseline_name]
+            if len(gated) < 10 or len(baseline) < 10:
+                continue
+            replacements.append(10 - len(set(gated[:10]) & set(baseline[:10])))
+        result[comparison] = {
+            "n": len(replacements),
+            "median_replacements": float(np.median(replacements)) if replacements else None,
+        }
+    return result
+
+
+def available_k_turnover_rows(formula_rankings, formula_names):
+    """Return auditable overlap/turnover records at k=min(10, list sizes)."""
+    rows = []
+    baselines = {
+        "ungated_union": "evidence_gated_vs_ungated_union",
+        "cutoff_chembl_measured_only": "evidence_gated_vs_cutoff_chembl_measured_only",
+    }
+    for formula in formula_names:
+        formula_ranks = formula_rankings[formula]["rankings"]
+        gated = formula_ranks["evidence_gated"]
+        for baseline_name, comparison in baselines.items():
+            baseline = formula_ranks[baseline_name]
+            k = min(10, len(gated), len(baseline))
+            gated_k, baseline_k = set(gated[:k]), set(baseline[:k])
+            intersection = len(gated_k & baseline_k)
+            union = len(gated_k | baseline_k)
+            rows.append({
+                "formula": formula,
+                "comparison": comparison,
+                "available_k": k,
+                "intersection_at_k": intersection,
+                "replacements_at_k": k - intersection,
+                "jaccard_at_k": intersection / union if union else 1.0,
+                "gated_only_at_k": len(gated_k - baseline_k),
+                "baseline_only_at_k": len(baseline_k - gated_k),
+            })
+    return rows
 
 
 def main():
