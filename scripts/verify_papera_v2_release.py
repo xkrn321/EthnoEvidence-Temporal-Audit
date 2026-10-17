@@ -153,13 +153,13 @@ def _verify_temporal_split() -> tuple[int, int, int]:
                      f"post-cutoff PMID in train split: {formula}/{pmid}")
         test_rows = {(formula, pmid) for pmid in test}
         _require(test_rows <= set(row_index),
-                 f"screening ledger lacks a held-out PMID for {formula}")
+                 f"screening ledger lacks a post-cutoff PMID for {formula}")
         for pmid in test:
             record = records[pmid]
             row = row_index[(formula, pmid)]
             year = int(record["canonical_publication_year"])
             _require(2023 <= year <= 2025,
-                     f"held-out PMID outside complete primary window: {formula}/{pmid}")
+                     f"post-cutoff PMID outside complete primary window: {formula}/{pmid}")
             _require(row["canonical_publication_date"] ==
                      record["canonical_publication_date"],
                      f"canonical date differs between raw and screen: {formula}/{pmid}")
@@ -197,7 +197,7 @@ def _verify_temporal_split() -> tuple[int, int, int]:
         (formula, pmid)
         for formula, entry in corpus["formulas"].items()
         for pmid in entry["test"]["pmids"]
-    }, "screening ledger has rows outside the held-out corpus")
+    }, "screening ledger has rows outside the post-cutoff corpus")
     _require(train_total == manifest["train_article_count"],
              "train article count disagrees with manifest")
     _require(test_total == manifest["test_article_count"] == len(rows),
@@ -301,7 +301,8 @@ def main() -> int:
     print("[OK] temporal resource v2 release audit")
     print(f"  checksums: {checksum_count} files")
     print(f"  temporal corpus: {formula_count} formulas; {train_total} pre-cutoff, "
-          f"{test_total} held-out (2023-2025), {proxy_total} proxy-eligible")
+          f"{test_total} post-cutoff screening (2023-2025), "
+          f"{proxy_total} proxy-eligible")
     print("  rankings: all declared baselines and ablations reproduce exactly")
     return 0
 
